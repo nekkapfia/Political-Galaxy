@@ -9,7 +9,9 @@ This guideline measures the observable degree to which the system interferes wit
 
 It tracks **only** the level of systemic invasiveness: the degree, scope, and breadth of restrictions the system enacts and enforces. It does **not** measure the individual's actual experienced autonomy in daily life, nor does it evaluate natural or personal choices that may reduce autonomy (such as having children, marriage, or employment decisions). 
 
-All laws and enforced restrictions are treated as negative factors that increase systemic invasiveness, although not all carry equal weight. Scoring is based exclusively on empirical reality (observable enforcement in law, education curricula, employment practices, family policy, media narratives, institutional governance, public rituals, and daily cultural reflexes) — never on claims, justifications, official rhetoric, or moral framing.
+All laws and enforced restrictions are treated as negative factors that increase systemic invasiveness, although not all carry equal weight. 
+
+Scoring is based exclusively on empirical reality (observable enforcement in law, education curricula, employment practices, family policy, media narratives, institutional governance, public rituals, and daily cultural reflexes) — never on claims, justifications, official rhetoric, or moral framing.
 
 ## Endos/Xenos (Optional Split)
 
