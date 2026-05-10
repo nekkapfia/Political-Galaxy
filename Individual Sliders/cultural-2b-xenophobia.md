@@ -1,4 +1,4 @@
-# Cultural 2B: Xenophobia
+# Cultural 2B: Xenophobia vs Xenophilia
 
 **Source Document**  
 **Date:** April 16, 2026
