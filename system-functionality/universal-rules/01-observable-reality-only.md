@@ -4,7 +4,7 @@
 
 All scoring and analysis must be grounded exclusively in observable, measurable, and verifiable phenomena. Subjective interpretations, normative claims, moral judgments, or untestable assertions are excluded. Every axis position must be supported by empirical patterns in behavior, policy, outcomes, institutions, or historical records.
 
-**Full Text from Source Documents (Core 1A & Cultural 5A):**
+**Full Text:**
 
 Scoring is based exclusively on empirical reality (observable enforcement in law, education curricula, employment practices, family policy, media narratives, institutional governance, public rituals, and daily cultural reflexes) — never on claims, justifications, official rhetoric, or moral framing.
 
