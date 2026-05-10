@@ -1,18 +1,14 @@
-# Political Slider System
+# Political Galaxy Slider System
 
-Version: 4.2
-Date: April 14, 2026
+## Universal Rules and Guidelines
 
-## 14-Axis Framework
+[To be filled with universal rules]
 
-This repository contains the complete official definitions for the 14-Axis Political Slider System.
+## The 14 Sliders
 
-## Core Axes
-- [Core 1A: Personal Autonomy](core-1a-personal-autonomy.md)
-- [Core 1B: Economic Autonomy](core-1b-economic-autonomy.md)
-- [Core 2A: National Sovereignty](core-2a-national-sovereignty.md)
-- [Core 2B: International Sovereignty](core-2b-international-sovereignty.md)
+### Core Axes
 
-## Cultural Axes
-- [Cultural 1A: Foundation](cultural-1a-foundation.md)
-... (more links)
+1. **Core 1A: Personal Autonomy**
+   - Measures: ...
+
+... (full list)
