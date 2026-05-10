@@ -24,28 +24,4 @@ Absolute or near-absolute economic autonomy across all domains, with zero tolera
 - No price/wage controls, licensing barriers, or nationalisation.
 - Market outcomes determine resource allocation with minimal state distortion.
 
-### 70–79 (Mid-High – Light regulatory framework)
-- Moderate regulation exists but is predictable and limited.
-- Taxation remains reasonable; some targeted incentives or subsidies may exist but do not dominate.
-- Private enterprise is the primary driver of economic activity.
-
-### 51–69 (Mid-Range – Mixed economy with significant state involvement)
-- Notable state intervention through regulation, taxation, and redistribution.
-- Mix of private and public control in key sectors.
-- Observable tension between market mechanisms and state direction.
-
-### 31–50 (Mid-Low – Heavy state direction)
-- Extensive regulation, licensing, and taxation significantly constrain voluntary economic action.
-- State plays a major role in resource allocation, ownership, or price setting.
-- Private enterprise operates under heavy constraints.
-
-### 11–30 (Low – Dominant state control)
-- Most major economic decisions are made or heavily directed by the state.
-- Widespread nationalisation, price controls, or central planning elements.
-- Private property and contracts exist but are heavily subordinated.
-
-### 0–10 (Floor – Near-total state economic control)
-- **6–10** = Extreme state dominance: private economic activity is marginal and heavily controlled.
-- **0–5** = Near-absolute state control: the state owns or directs the vast majority of resources, production, and economic outcomes with minimal room for voluntary exchange.
-
 **End of Core 1B: Economic Autonomy**
