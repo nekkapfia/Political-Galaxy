@@ -11,50 +11,25 @@
 - Many axes have non-linear scaling.
 - Axes are independent unless evidence shows otherwise.
 
-## The 14 Sliders
+### Full Universal Rules
 
-### Core Sliders
+**1. Observable Reality Only**
+All assessments and scorings must be grounded exclusively in observable, verifiable reality. Stated intentions, ideological labels, self-descriptions, or theoretical ideals are given minimal weight unless they are consistently reflected in actual policies, actions, and outcomes.
 
-**1A. Personal Autonomy**
-Measures the observable degree to which the system interferes with or imposes restrictions on the individual's personal autonomy.
+**2. Distinct Phenomena**
+Each of the 14 axes measures a genuinely distinct observable phenomenon. Overlap between axes should be minimized. Where natural correlations exist, they are noted but do not collapse the axes.
 
-**1B. Economic Autonomy**
-Measures the observable degree to which individuals and private entities can freely engage in economic activity versus state control.
+**3. No Fixed Moral Center**
+The midpoint (50) on any axis does not represent a neutral, moderate, or morally preferred position. It simply represents the center of the measurable spectrum for that particular phenomenon.
 
-**2A. National Sovereignty**
-Measures the observable degree to which a nation maintains control over its own territory, borders, laws, and decision-making.
+**4. Non-Linear Scaling**
+Many axes exhibit non-linear behavior. Extreme positions (0–20 or 80–100) often carry disproportionately higher real-world consequences than moderate movements. Permitted contraction and expansion patterns must be respected when scoring.
 
-**2B. International Sovereignty**
-Measures the observable degree to which a nation interferes in the internal affairs of other nations.
+**5. Independence of Axes**
+Unless strong empirical evidence demonstrates otherwise, each axis is treated as independent. A high score on one axis does not automatically dictate scores on others.
 
-### Cultural Sliders
+**6. Application Rules**
+When applying these sliders to real-world systems, prioritize measurable outcomes, policies, and institutional behavior over rhetoric. Historical trends, legal frameworks, enforcement patterns, and statistical outcomes are given high evidentiary weight.
 
-**1A. Foundation**
-Measures the observable origin of a culture’s moral grammar (transcendent/religious vs secular/immanent sources).
-
-**1B. Dogmatism**
-Measures the observable intensity with which the system enforces its moral/ideological foundation against dissent.
-
-**2A. Individuality**
-Measures whether outcomes are primarily determined by individual actions, merit and agency versus group membership.
-
-**2B. Xenophobia / Boundary Permeability**
-Measures the observable permeability of the boundary between “us” and “not us”.
-
-**3A. Ethnicity / In-Group**
-Measures the observable basis on which a culture defines its core in-group (ideas and citizenship vs ethnicity and descent).
-
-**3B. National Pride**
-Measures the observable emotional stance toward the nation’s history, symbols, and identity (pride vs active shame).
-
-**4A. Hierarchy**
-Measures the observable stance toward social and power hierarchies (enforced egalitarianism vs acceptance of natural or justified hierarchies).
-
-**4B. Equity Lens**
-Measures the primary framework used to explain and address differential group outcomes (equality of opportunity vs equity of outcomes).
-
-**5A. Tradition vs Progress**
-Measures the degree to which the system reveres and preserves traditions versus actively modernising or replacing them.
-
-**5B. Gradualism vs Radicalism**
-Measures the observable pace and intensity of cultural, institutional, and social change (gradual/evolutionary vs radical/accelerated change).
+**7. Version Control & Clarity**
+This system is living. All changes to definitions, rules, or scaling must be clearly documented and versioned.
