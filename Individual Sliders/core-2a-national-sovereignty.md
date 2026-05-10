@@ -3,14 +3,6 @@
 **Source Document**  
 **Date:** April 16, 2026
 
-## Note on Axis Extremes
-
-The ends of each axis represent theoretical extremes. In practice, real-world systems rarely reach the absolute 0 or 100 points. These extremes are included by design: they create clear reference points at both ends of the scale, enabling more accurate relativism and removing any ambiguity about where the measurement begins.
-
-## Note on Slider Scaling
-
-The scale on each slider is non-linear and fully asymmetric. Contraction/expansion is permitted on one side only, on both sides, or on neither side, depending on the actual distribution of real-world ideologies on that axis. The exact location, width, and degree of any contraction or expansion is fluid from slider to slider and is calibrated solely to capture the empirical density of ideological variation on that specific core. The only mandatory principle is that the meaningful range—where actual ideological differentiation occurs—is expanded to occupy the majority of the visible scale, while any theoretically sparse or empty zones (whether at the extremes or in the middle) may be contracted as required.
-
 ## Core 2A Definition
 
 This guideline measures the observable degree to which a nation maintains or surrenders control over its own territory, borders, laws, institutions, currency, military, and decision-making authority versus ceding that control to external entities, supranational organisations, or international agreements. It tracks the boundary between national self-determination and external governance. Scoring is based exclusively on empirical reality (observable enforcement in border policy, immigration law, treaty obligations, supranational legal supremacy, monetary policy, military command structures, and daily institutional practice) — never on claims, justifications, official rhetoric, or moral framing.
@@ -87,10 +79,5 @@ Complete surrender of national sovereignty with zero effective independent contr
 - **1–5** = Near-absolute surrender: virtually all sovereign functions have been transferred to supranational or foreign entities.
 - **0** = Absolute surrender: the nation ceases to function as a sovereign entity; every core function is fully controlled externally.
 
-## Guidelines
-
-All bands are flexible guidelines rather than strict brackets. This allows nuanced judgment when sovereignty intensity varies across issues or domains, with primacy (predominant observable pattern, cumulative impact, breadth, and consistency) being the decisive factor.
-
-The framework functions as a flexible guideline system, not a rigid formula.
 
 **End of SOURCE – Core 2A: National Sovereignty**
