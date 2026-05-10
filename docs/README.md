@@ -1,9 +1,5 @@
-# Political Galaxy - Documentation
+## Political Galaxy - Documentation
 
-This folder contains the official definitions for all 14 axes of the Political Slider System.
+This folder contains the official definitions and rules for the 14-Axis Political Slider System.
 
-## Structure
-- Core axes
-- Cultural axes
-
-All files are written in Markdown for easy editing and viewing on GitHub.
+All files here are the single source of truth for the sliders.
