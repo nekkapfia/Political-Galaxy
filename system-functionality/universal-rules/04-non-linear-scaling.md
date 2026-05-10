@@ -1,10 +1,3 @@
 # 04 - Non-Linear Scaling
 
-**Full Universal Rule:**
-
-Slider positions do not scale linearly. Movement from 40→60 may represent a much larger real-world difference than 0→20 or 80→100. Permitted contraction/expansion patterns and absence of fixed center points are observed.
-
-**Key Application Guidelines:**
-
-- Use the specific scaling notes for each axis.
-- Consider real-world impact when interpreting scores.
+The scale on each slider is non-linear and fully asymmetric. Contraction/expansion is permitted on one side only, on both sides, or on neither side, depending on the actual distribution of real-world ideologies on that axis. The exact location, width, and degree of any contraction or expansion is fluid from slider to slider and is calibrated solely to capture the empirical density of ideological variation on that specific core. The only mandatory principle is that the meaningful range—where actual ideological differentiation occurs—is expanded to occupy the majority of the visible scale, while any theoretically sparse or empty zones (whether at the extremes or in the middle) may be contracted as required.
