@@ -1,4 +1,4 @@
-# Cultural 3B: Pride (National Identity)
+# Cultural 3B: National Pride
 
 **Source Document**  
 **Date:** April 16, 2026
