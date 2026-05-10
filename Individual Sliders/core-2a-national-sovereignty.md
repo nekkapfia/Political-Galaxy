@@ -7,15 +7,6 @@
 
 This guideline measures the observable degree to which a nation maintains or surrenders control over its own territory, borders, laws, institutions, currency, military, and decision-making authority versus ceding that control to external entities, supranational organisations, or international agreements. It tracks the boundary between national self-determination and external governance. Scoring is based exclusively on empirical reality (observable enforcement in border policy, immigration law, treaty obligations, supranational legal supremacy, monetary policy, military command structures, and daily institutional practice) — never on claims, justifications, official rhetoric, or moral framing.
 
-## Application Rules
-
-- All societies are assessed holistically across all major domains (law and criminal justice, education curricula and admissions, employment and promotion practices, family and inheritance policy, media narratives and public discourse, institutional governance, public rituals/symbols of status, and daily cultural reflexes).
-- Hierarchical weighting applies: core domains such as border control, constitutional law, monetary policy, military command, and institutional governance carry primary weight; secondary domains (media narratives, public rituals, education content, daily norms) provide supporting evidence.
-- When a system contains mixed or anomalous elements (e.g., selective ceding of control in some areas only), evaluate the score in its totality. Anomalous elements are weighed according to their actual observable scope, consistency, and effect; they neither dominate nor are ignored.
-- Observable empirical reality (actual policies, enforcement patterns, statistical outcomes of border flows, legal supremacy cases, and daily observable treatment of national vs external authority) always takes precedence over official rhetoric, self-labeling, or constitutional claims.
-- Blurred or borderline systems are placed in natural overlap zones.
-- This slider functions as a flexible guideline framework, not a rigid formula.
-
 ## Scoring Bands
 
 ### High-End Guideline (90–100) — Compressed zone
