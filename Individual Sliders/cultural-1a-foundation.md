@@ -19,23 +19,44 @@ All major moral forms originate exclusively from transcendent/religious sources.
 - **90–94** = Strong transcendent foundation: core moral grammar remains clearly religious in origin and form, even if some peripheral norms receive secular justification while retaining original content and boundaries.
 
 ### 80–89 (High – Strong transcendent foundation with limited secular filtering)
-- Moral forms remain predominantly derived from transcendent sources.
-- The majority of moral forms originate from transcendent sources and retain their original content and authority.
+Moral forms remain predominantly derived from transcendent sources.
 
-### 70–79 (Mid-High – Predominantly transcendent with moderate secular influence)
-- Core moral norms are still mostly religious in origin, but secular reasoning is used more frequently for justification or application.
+- The majority of moral forms originate from transcendent sources and retain their original inherited forms when justified through secular reasoning.
+- The religious moral framework remains the dominant influence even when secular reasoning is used for justification in law, education, or media.
 
-### 51–69 (Mid-Range – Balanced or contested foundation)
-- Mixed observable patterns: both transcendent and secular sources visibly influence moral norms across domains.
+### 70–79 (Mid–High – Predominantly transcendent with noticeable secular re-working)
+Moral forms are still mostly derived from transcendent sources but show observable secular re-framing or re-working in multiple domains.
 
-### 31–50 (Mid-Low – Predominantly secular with some religious remnants)
-- Secular/immanent sources dominate moral grammar, with religious elements increasingly marginalized or reinterpreted.
+- Core ethical norms retain clear transcendent inheritance, but secondary norms or justifications increasingly incorporate secular logic, utility, or evidence.
+- Religious moral grammar remains primary in criminal law, family policy, and education, but secular filtering becomes noticeable in policy language and institutional practice.
 
-### 11–30 (Low – Strong secular foundation)
-- Moral norms are overwhelmingly derived from secular, rational, or materialist sources.
-- Religious justifications are largely excluded from law, education, and public institutions.
+### 51–69 (Mid-Range – Balanced or mixed foundation)
+The moral grammar shows roughly equal observable influence from transcendent and secular/immanent sources, or a hybrid form where neither clearly dominates.
 
-### 0–10 (Floor – Pure secular/immanent foundation)
-- All moral grammar is derived exclusively from secular/immanent sources with zero observable transcendent influence.
+- Some core norms (e.g., criminal justice or family law) retain strong transcendent origins while others (e.g., economic regulation or public health policy) are constructed purely through secular reason or social contract.
+- Cultural reflexes and institutional outputs display a clear mixture of both sources without a predominant pattern across domains.
+
+### 41–50 (Low-Mid – Predominantly secular with residual transcendent elements)
+Moral forms are predominantly derived from secular/immanent sources, but retain noticeable traces or rhetorical inheritance from transcendent origins.
+
+- Secular reasoning, utility, evidence, and social contract form the primary basis in law, education, and media.
+- Transcendent elements appear mainly as historical residue, selective cultural references, or ceremonial language rather than binding moral authority.
+
+### 31–40 (Low – Strong secular foundation with minimal transcendent influence)
+Moral forms derive overwhelmingly from secular/immanent sources.
+
+- Core ethical norms are constructed and justified entirely within human reason, empirical utility, or social contract in all major domains.
+- Any transcendent references are marginal, symbolic, or actively decoupled from moral authority in law, policy, and education.
+
+### 11–30 (Very Low – Near-total secular/immanent foundation)
+Transcendent sources have negligible observable influence on moral grammar.
+
+- All major moral forms are revisable, evidence-based, and grounded in immanent human-centered logic.
+- Any remaining transcendent language is treated as cultural heritage without binding force and is actively minimised in curricula, policy, and public narratives.
+
+### 0–10 (Floor – Pure immanent foundation)
+- **6–10** = Strong secular foundation: transcendent elements are absent or explicitly rejected in all observable moral grammar across law, education, media, and daily norms.
+- **1–5** = Near-absolute secular: moral forms show complete dominance of secular logic; any religious language is treated as historical artifact with zero binding force or influence on outcomes.
+- **0** = Pure immanent foundation: every core moral norm is constructed solely through human reason, empirical utility, evidence, or social contract with no sacred, religious, or transcendent references whatsoever in any observable domain.
 
 **End of Cultural 1A: Foundation**
