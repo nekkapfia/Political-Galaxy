@@ -21,22 +21,54 @@ Absolute or near-absolute treatment of individuals as sovereign agents with zero
 - **90–94** = Extreme individualism legitimation: individual agency dominates law, education, employment, and institutions with maximum enforcement and cultural reinforcement.
 
 ### 80–89 (High – Strict individual treatment with minimal group exceptions)
-- Law and institutions recognise only individual rights and responsibilities; group quotas, affirmative action, or collective guilt are absent or extremely limited.
-- Outcomes in education, employment, and justice are determined by individual merit and behaviour.
+- Law and institutions recognise only individual rights and responsibilities; group quotas, preferences, or collective guilt are prohibited.
+- Education and employment decisions are based exclusively on individual merit, effort, and competence.
+- Family and inheritance policy treats persons as autonomous agents rather than group representatives.
+- Media and public rituals celebrate individual achievement and personal responsibility.
 
-### 70–79 (Mid-High – Predominantly individualist)
-- Individual treatment is the norm, with only narrow, targeted exceptions for group considerations.
+### 70–79 (Mid–High – Predominantly individual with limited group considerations)
+- Core domains maintain individual treatment as primary but allow narrow, revocable group-based policies in secondary areas.
+- Group identity is acknowledged culturally but does not override individual merit in law or institutions.
+- Statistical outcomes show strong correlation between personal actions and life outcomes.
+- Public discourse treats group-based claims as secondary to individual agency.
 
-### 51–69 (Mid-Range – Mixed individual vs group treatment)
-- Observable balance or tension between individual merit and group-based policies.
+### 60–69 (Mid – Moderate individual treatment with noticeable group exceptions)
+- Individual merit remains the default in most domains, yet group-based policies (e.g., targeted affirmative action or diversity targets) appear in education and public employment.
+- Law recognises individual rights but permits limited group accommodations in specific contexts.
+- Media narratives balance celebration of individual success with recognition of group disadvantage.
+- Enforcement patterns show visible tension between individual and group principles.
 
-### 31–50 (Mid-Low – Noticeable group-based allocation)
-- Group identity significantly influences outcomes in multiple domains (education, employment, law, etc.).
+### 51–59 (Mid–Lower – Noticeable increase in group-based treatment)
+- Group identity begins to influence outcomes in multiple core domains (e.g., admissions, hiring, or legal considerations).
+- Individual merit is still recognised but increasingly balanced against collective equity goals.
+- Education curricula and institutional policies introduce group-based framing of rights and responsibilities.
 
-### 11–30 (Low – Strong group primacy)
-- Group membership is a primary determinant of rights, status, and outcomes across most domains.
+### 41–50 (Low–Mid – Multiple significant group-based mechanisms)
+- Group membership frequently determines access to resources, status, or legal protections.
+- Law and institutions apply differential treatment based on ascribed categories in several domains.
+- Media and education actively promote group consciousness over individual agency.
+- Individual responsibility is subordinated to collective group outcomes in observable practice.
 
-### 0–10 (Floor – Pure group/collectivist allocation)
-- Almost all outcomes, rights, and status are determined by group identity with minimal or no regard for individual merit.
+### 31–40 (Low – Strong enforcement of group primacy)
+- Group-based allocation dominates multiple core domains (quotas, collective rights, identity-based redistribution).
+- Individual merit or behaviour is secondary to group identity in law, education, and employment.
+- Cultural reflexes treat persons primarily as representatives of their group rather than sovereign agents.
+
+### 21–30 (Very Low – Near-total group subordination)
+- The individual is largely subsumed under group identity in law, policy, and daily practice.
+- Rights and responsibilities are assigned collectively; personal agency has minimal observable impact.
+- Institutions enforce group loyalty and collective outcomes as the primary moral framework.
+
+### 11–20 (Extreme Low – Severe group collectivism)
+- Individuality is actively suppressed in favour of group solidarity and collective will.
+- Dissent from group norms or pursuit of personal distinction carries heavy social and institutional costs.
+- Law and culture treat the group as the fundamental moral and legal unit.
+
+### 0–10 (Floor – Absolute group collectivism) — Compressed zone
+Total subordination of the individual to group identity with zero recognition of personal sovereignty. This allows observable variation within different collectivist systems (different mechanisms of group primacy while retaining total rejection of individualism).
+
+- **6–10** = Extreme collectivism: individual agency is pathologised; all outcomes are framed and enforced through group membership.
+- **1–5** = Near-absolute collectivism: the individual exists only as a representative of the group with almost no independent moral or legal status.
+- **0** = Absolute collectivism: zero sphere of individuality remains; every person is defined, valued, and treated solely by group identity with total enforcement.
 
 **End of Cultural 2A: Individuality**
