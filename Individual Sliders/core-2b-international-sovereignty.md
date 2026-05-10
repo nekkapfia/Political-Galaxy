@@ -7,6 +7,8 @@
 
 This guideline measures the observable degree to which a nation asserts or refrains from interference in the internal affairs of other nations — the range of diplomatic, economic, military, or cultural actions used to influence, pressure, or control foreign governments, societies, or policies versus strict non-intervention and respect for other nations’ sovereignty. 
 
+Scoring is based exclusively on empirical reality (observable enforcement in foreign policy, military interventions, sanctions regimes, aid conditions, regime-change efforts, cultural export programs, and international legal actions) — never on claims, justifications, official rhetoric, or moral framing.
+
 ## Scoring Bands
 
 ### High-End Guideline (90–100) — Compressed zone
