@@ -1,9 +1,9 @@
-# Cultural 3B: National Pride
+# Cultural 2B: National (Pride vs Shame)
 
 **Source Document**  
 **Date:** April 16, 2026
 
-## Cultural 3B Definition
+## Cultural 2B Definition
 
 This guideline measures the observable emotional and cultural stance a system takes toward the nation itself — its history, symbols, founding myths, people, continuity, and collective identity. This includes active national/ideological pride, the absence of pride (“not having pride”), guilt for specific actions, and active shame (inherent rejection of national identity). 
 
