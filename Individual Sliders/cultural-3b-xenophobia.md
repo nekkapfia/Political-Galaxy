@@ -1,9 +1,9 @@
-# Cultural 2B: Xenophobia vs Xenophilia
+# Cultural 3B: Xenophobia vs Xenophilia
 
 **Source Document**  
 **Date:** April 16, 2026
 
-## Cultural 2B Definition
+## Cultural 3B Definition
 
 This guideline measures the observable permeability of the boundary between “us” and “not us” — the degree of difficulty, cost, cultural resistance, and institutional friction involved in crossing into the in-group (through immigration, naturalisation, assimilation, intermarriage, or cultural adoption) versus the ease and openness of boundary dissolution. 
 
