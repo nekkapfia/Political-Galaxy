@@ -58,4 +58,4 @@ The nation's entire history, symbols, and identity are treated as fundamentally 
 - **1–5** = Near-absolute shame: any positive national sentiment is actively suppressed; the system's policy and narrative orientation is one of collective guilt, apology, and suppression of national identity expressions.
 - **0** = Absolute national shame: the nation and all its symbols are treated as inherently evil or irredeemable; any expression of national pride is pathologized as dangerous and systematically eradicated from all public, educational, and cultural domains.
 
-**End of Cultural 3B: Pride (National Identity)**
+**End of Cultural 2B: Pride (National Identity)**
