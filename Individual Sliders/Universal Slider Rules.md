@@ -15,7 +15,7 @@ The scale on each slider is non-linear and fully asymmetric. Contraction/expansi
 - Hierarchical weighting applies: core domains such as law, education curricula, and institutional governance carry primary weight; secondary domains provide supporting evidence.
 - When a system contains mixed or anomalous elements, evaluate the score in its totality. Anomalous elements are weighed according to their actual observable scope, consistency, and effect; they neither dominate nor are ignored.
 - Blurred or borderline systems are placed in natural overlap zones.
- Where a system/ideology is limited due to confliciting external pressure it should be judged based on what it does in areas it does have primacy.
+- Where a system/ideology is limited due to confliciting external pressure it should be judged based on what it does in areas it does have primacy.
 
 ### Methodological Principles
 - Scoring is based **exclusively on empirical reality** — never on claims, justifications, official rhetoric, or moral framing.
