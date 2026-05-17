@@ -1,7 +1,7 @@
 # Core 1A: Personal Autonomy
 
 **Source Document**  
-**Date:** 10/5/26
+**Date:** 17/05/26
 
 ## Core 1A Definition
 
