@@ -5,11 +5,9 @@
 
 ## Core 1A Definition
 
-This guideline measures the observable degree to which the system interferes with or imposes restrictions on the individual's personal autonomy — the range of voluntary actions, speech, choices, thoughts, beliefs, and physiological processes which the individual is permitted to control without systemic prevention or interference. 
+This guideline measures the observable degree to which the system interferes with or imposes restrictions on the individual's personal autonomy — the range of voluntary actions, speech, choices, thoughts, beliefs, and physiological processes which the individual is permitted to control without systemic prevention or interference. It tracks **only** the level of systemic invasiveness: the degree, scope, and breadth of restrictions the system enacts and enforces. It does **not** measure the individual's actual experienced autonomy in daily life, nor does it evaluate natural or personal choices that may reduce autonomy (such as having children, marriage, or employment decisions). 
 
-It tracks **only** the level of systemic invasiveness: the degree, scope, and breadth of restrictions the system enacts and enforces. It does **not** measure the individual's actual experienced autonomy in daily life, nor does it evaluate natural or personal choices that may reduce autonomy (such as having children, marriage, or employment decisions). 
-
-All laws and enforced restrictions are treated as negative factors that increase systemic invasiveness, although not all carry equal weight. 
+All laws and enforced restrictions are treated as negative factors that increase systemic invasiveness, although not all carry equal weight. The slider does not care for the moral implications for the law/restriction only it's existance.
 
 Scoring is based exclusively on empirical reality (observable enforcement in law, education curricula, employment practices, family policy, media narratives, institutional governance, public rituals, and daily cultural reflexes) — never on claims, justifications, official rhetoric, or moral framing.
 
@@ -25,8 +23,9 @@ Both Endos and Xenos use the exact same 0–100 scale, measurement criteria, ban
 ## Scoring Bands
 
 ### High-End Guideline (90–100) — Compressed zone
-Absolute or near-absolute protection of personal autonomy from systemic control across all domains.
+Absolute or near-absolute protection of personal autonomy from **systemic** control across all domains.
 
+- **100** = The system has no laws and imposses no restrictions of any kind. Individuals are free from system interference preventing them from taking any action they want.
 - **99** = The only laws that exist are those designed to protect the individual from the system itself.
 - **97–98** = The only laws that exist are those that protect the individual from the system and those that allow the system to protect itself from destruction.
 - **95–96** = Near-total personal autonomy, with the only restrictions being those that prevent the infliction of severe, lifelong harm on others (e.g., murder).
