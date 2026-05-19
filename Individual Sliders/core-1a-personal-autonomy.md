@@ -88,7 +88,12 @@ The system targets any deviation from it's acceptable world view and introduces 
 - Speaking out or saying the wrong thing results in system-enforced persecution.
 - Education and media are run to indoctrinate the population.
 
-### 10–18 — Extreme physical restrictions on voluntary actions and movement
+### 10–18 — Extreme restrictions on voluntary actions, movement and association
+The system imposes severe, systematic physical restrictions on the voluntary movement, residence, and daily activities of members of the general public.
+ - Forced unpaid labour.
+ - Detention or confinement of individuals.
+ - Curfews, movement bans, or strict travel restrictions.
+ - Physical barriers, checkpoints, or enforced segregation.
 
 ### 0–9 (Floor – total dominion)
 The system interferes with all aspects of a persons lives. 
