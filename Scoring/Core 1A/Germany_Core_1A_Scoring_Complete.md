@@ -153,7 +153,6 @@ Classified as domestic law exercising national control (not Core 2A surrender of
 
 ## 5. Notes on Integration & Cross-References
 
-- **UK COVID Score:** Adjusted to **19** (10–18 band) per authoritative user statement. This brings the UK COVID score into close alignment with Germany’s 18 and better reflects the lived experience of heavy, prolonged restrictions in both countries.
 - **No Endos/Xenos Split Triggered:** The additional Xenos-specific immigration rules (38–64) are not heavy enough to produce a markedly different holistic score from the general population. Both groups receive the same era holistic scores listed in Section 2.
 - **Firearms & Immigration 2005 Dissections:** These are the only two policies that received full component-level dissection and individual scoring. All other policies were scored at the policy level.
 - **Next Steps for Main Project Documents:** This file is designed to be merged into the master Scored Policies Only.md (v2.2+). The era holistic scores and rule changes should also be reflected in the main 14-Axis Framework documentation and any Germany-specific case study sections.
