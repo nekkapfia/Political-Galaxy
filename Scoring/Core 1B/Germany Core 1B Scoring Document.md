@@ -1,19 +1,8 @@
 
-**Germany Core 1B Scoring Document — Fully Audited & Expanded Version**
+**Germany Core 1B Scoring Document**
 
-**Version:** 11 June 2026 — Strict Mechanical Standard (Matching Britain Document Depth)  
-**Status:** Locked. All scores stable after full audit and expansion.
 
-**Rules Applied (Final Standard)**
-- 100 = true baseline (pure voluntary economic action, zero coercion).
-- Only downward drags exist. No positive scoring for liberalising measures.
-- Each era scored as a **complete system** (all carried-forward policies + new/changed policies evaluated together).
-- Strict mechanical scoring only (Observable Reality Only, Negative-Only Weighting, Scope Purity).
-- No reputational or label-based weighting.
-
-**No Endos/Xenos split** applies in Core 1B.
-
-### 1. Era Summary (Fully Audited)
+### 1. Era Summary 
 
 | Era Name                        | Dates                  | Holistic Core 1B Score | Key Characteristic |
 |---------------------------------|------------------------|------------------------|--------------------|
@@ -210,32 +199,211 @@ Firms are beginning to see effects from expanded state spending capacity in infr
 - IP / Patent Protection: **75**
 - Public Procurement: **66**
 
-### 4. Party Positions (Audited – Strict Negative-Only Weighting)
+**4. Party Positions (2025 Manifestos) — Fully Expanded**
 
-| Party          | Core 1B Score | Assessment Summary |
-|----------------|---------------|--------------------|
-| **AfD**        | **55**        | Strongest proposals for reducing additional coercion through deregulation and rejection of climate mandates. Still operates within a directed system. |
-| **CDU/CSU**    | **48**        | Corporate tax relief and some energy cost measures, tempered by retained bureaucratic structures and targeted industrial support. |
-| **SPD**        | **42**        | Mix of corporate tax relief and fiscal loosening with ongoing social and industrial policy commitments. |
-| **Grüne**      | **35**        | Investment premium offset by higher taxation on capital/high earners and strong regulatory steering toward climate goals. |
-| **Die Linke**  | **30**        | Proposals for abolition of debt brake constraints, large-scale state investment programmes, higher wealth taxes, and national rent controls create the highest level of additional coercion. |
+### AfD (Alternative for Germany)
 
-### 5. Routing & Exclusion Summary
+**Holistic Core 1B Score: 55**
 
-- Personal/individual impacts → Core 1A where dominant (e.g. certain employment protection elements).
-- External authority/border issues → Core 2A where dominant.
-- All other elements remain in Core 1B based on dominant effect on voluntary economic action.
+**Key Policy Areas & Scoring**
 
-### 6. Notes on Integration & Cross-References
+**Tax & Fiscal Policy**  
+- Significant reductions in income tax, corporation tax, and social security contributions: **72–74**  
+- Rejection of broad climate-related taxes and levies: **73**
 
-**Document Status**  
-This version brings the Germany Core 1B document up to the same depth and transparency as the Britain document, while maintaining the strict “complete system” scoring philosophy.
+**Regulation & Deregulation**  
+- Broad deregulation, including abolition of EU supply chain due diligence rules: **71–73**  
+- Reduction in state subsidies and intervention across sectors: **70–72**
 
-**Cross-References**  
-- Britain Core 1B Scoring Document (for comparison of methodology and depth)
-- Future updates as Era 5 develops
+**Energy & Climate Policy**  
+- Rejection of net zero mandates and one-sided preference for electromobility: **74**  
+- Support for maintaining coal and opening to new nuclear: **72**
+
+**Justification**  
+The AfD package proposes the most extensive reduction in additional coercion through large-scale tax cuts, broad deregulation, and removal of climate-related regulatory steering. It produces the highest score among the major German parties.
+
+**Lived-Experience Alignment**  
+Businesses would face substantially lower tax and compliance burdens and greater flexibility in energy choices. The overall environment would be significantly less constrained by state direction and regulatory mandates compared with other packages.
+
+---
+
+### CDU/CSU
+
+**Holistic Core 1B Score: 48**
+
+**Key Policy Areas & Scoring**
+
+**Tax Policy**  
+- Corporate tax reduction toward 10% + improved depreciation and loss offsetting: **70–72**  
+- Reduction of electricity tax to EU minimum and grid fee subsidies: **68–70**
+
+**Regulation & Planning**  
+- Efforts to reduce bureaucracy and ease regulatory burdens: **67–69**
+
+**Industrial & Economic Policy**  
+- Targeted support for strategic sectors (e.g. semiconductors) alongside efforts to limit broader state direction: **66–68**
+
+**Fiscal Stance**  
+- Support for the implemented debt brake reform while maintaining focus on fiscal credibility: **67**
+
+**Justification**  
+The CDU/CSU package offers meaningful reductions in fiscal extraction and regulatory burden, particularly through corporate tax relief and energy cost measures. It is tempered by retained bureaucratic structures and targeted industrial support.
+
+**Lived-Experience Alignment**  
+Firms would benefit from lower corporate tax burdens and reduced energy costs. The environment would be more pro-investment than more interventionist packages, while still retaining some state coordination in strategic areas.
+
+---
+
+### SPD (Social Democrats)
+
+**Holistic Core 1B Score: 42**
+
+**Key Policy Areas & Scoring**
+
+**Tax & Fiscal Policy**  
+- Corporate tax relief through declining balance depreciation and gradual rate reduction: **68–70**  
+- Support for debt brake reform to enable increased public investment: **65–67**
+
+**Labour Market & Social Policy**  
+- Reform of *Bürgergeld* with stronger activation measures: **64–66**  
+- Continued commitment to industrial policy and green transition funding: **62–64**
+
+**Justification**  
+The SPD package combines some corporate tax relief and fiscal loosening with ongoing commitments to social spending, labour market activation, and state-supported industrial transformation. The net effect is a moderate increase in state direction compared with more liberalising packages.
+
+**Lived-Experience Alignment**  
+Businesses would see some tax relief and improved investment conditions in certain areas, but would also face continued regulatory and fiscal pressure linked to social and green policy goals.
+
+---
+
+### Bündnis 90/Die Grünen (The Greens)
+
+**Holistic Core 1B Score: 35**
+
+**Key Policy Areas & Scoring**
+
+**Green Industrial & Climate Policy**  
+- Strong commitment to climate targets and regulatory steering (“Instrumentenmix”): **58–60**  
+- *Investitionsprämie* (investment premium) offset by broader regulatory direction: **60–62**
+
+**Tax & Redistribution Policy**  
+- Measures to close tax loopholes for high earners and reduce the gap between labour and capital taxation: **58–60**
+
+**Planning & Housing**  
+- Sharpening of the *Mietpreisbremse* (rent brake): **60–62**
+
+**Justification**  
+The Green package combines an investment premium with significant regulatory steering toward climate goals and measures that increase taxation pressure on capital and high earners. The overall balance produces one of the higher levels of additional coercion.
+
+**Lived-Experience Alignment**  
+Businesses, particularly in energy-intensive sectors, would face strong regulatory pressure and investment steering toward decarbonisation. Property owners and developers would encounter tighter rent controls.
+
+---
+
+### Die Linke
+
+**Holistic Core 1B Score: 30**
+
+**Key Policy Areas & Scoring**
+
+**Fiscal & Debt Brake Policy**  
+- Complete abolition of the *Schuldenbremse* (debt brake): **55–57**  
+- €200 billion *Investitionsprogramm* for socio-ecological transformation: **56–58**
+
+**Taxation & Redistribution**  
+- Significant increase in taxation of the rich (top inheritance tax rate to 60% for large estates): **52–54**
+
+**Labour Market & Housing**  
+- Higher minimum wage and conversion of mini-jobs into regular employment: **58–60**  
+- Nationwide *Mietendeckel* (rent cap) for 6 years: **55–57**
+
+**Justification**  
+The Linke package proposes the most extensive expansion of state direction and fiscal extraction through abolition of the debt brake, large-scale state investment programmes, higher wealth taxation, and national rent controls. It produces the highest level of additional coercion.
+
+**Lived-Experience Alignment**  
+Businesses would face significantly higher tax burdens on wealth and profits, stronger labour market regulation, and national rent controls. The overall environment would involve the greatest level of state coordination and redistribution among the major parties.
+
+---
+
+### Summary Table — German Parties (Standalone Policy Packages)
+
+| Party          | Holistic Core 1B Score | Overall Character |
+|----------------|------------------------|-------------------|
+| **AfD**        | **55**                 | Lowest additional coercion — major tax cuts + deregulation + rejection of climate mandates |
+| **CDU/CSU**    | **48**                 | Clear reduction in coercion through corporate tax relief and lighter regulation |
+| **SPD**        | **42**                 | Moderate state direction with social and industrial policy commitments |
+| **Grüne**      | **35**                 | Significant regulatory steering and taxation pressure tied to climate goals |
+| **Die Linke**  | **30**                 | Highest additional coercion — abolition of debt brake + large state programmes + higher wealth taxation |
+
+---
+
+**5. Routing & Exclusion Summary — Germany Core 1B**
+
+**Version:** 11 June 2026
+
+### Routing Principles
+
+All policies and individual elements in this document have been assessed according to the principle of **Scope Purity** and **dominant mechanical effect**.
+
+- **Core 1B (Voluntary Economic Action)**: Elements whose primary mechanical effect concerns contracts, property rights, production decisions, trade, investment, pricing, labour allocation, or business formation.
+- **Core 1A (Personal Autonomy)**: Elements whose dominant mechanical effect is on individual personal security, bodily autonomy, or daily personal decision-making, rather than on broader economic allocation or voluntary exchange.
+- **Core 2A (National Sovereignty)**: Elements whose dominant concern is national authority over borders, protection from external economic coercion, or control over foreign influence in the domestic economy.
+
+Routing is determined solely by the **dominant** mechanical effect. Secondary or incidental effects do not override the primary classification.
+
+### Routing Decisions
+
+#### Elements Routed to Core 1A (Personal Autonomy)
+- Certain individual-level remedies and protections within employment law (e.g. personal claims for unfair dismissal).
+- Aspects of workplace rules that primarily affect individual daily movement and personal decision-making (e.g. mandatory work-from-home orders during the COVID period).
+- Individual behavioural conditionality in welfare or furlough-style schemes where the main observable impact is on personal conduct rather than aggregate economic allocation.
+
+These were routed to Core 1A only when the dominant mechanical impact was clearly on the individual rather than on voluntary economic relationships or production decisions.
+
+#### Elements Routed to Core 2A (National Sovereignty)
+- Certain aspects of capital controls and foreign investment screening (where the primary concern is national authority over external economic influence).
+- Selected elements of trade and customs policy with a clear external sovereignty dimension.
+
+In most cases, even these elements were retained in Core 1B when the dominant observable effect on German firms and individuals was economic (e.g. compliance costs, investment planning, or supply chain decisions).
+
+#### Elements Retained in Core 1B (Voluntary Economic Action)
+The large majority of policies across all eras remain in Core 1B. This includes:
+
+- Nationalised industries and sectoral steering
+- Co-determination and dismissal protection
+- Agricultural policy and CAP implementation
+- General taxation structure and corporate tax policy
+- Banking & financial regulation
+- Competition policy
+- Planning and compulsory acquisition
+- Energiewende and active industrial policy
+- Zeitenwende defence spending and procurement
+- Debt Brake rules (in all their forms)
+- Most labour market regulation (when the primary effect is on workforce flexibility and allocation)
+
+These policies were retained in Core 1B because their dominant mechanical effect is on voluntary economic decisions, investment, production, or resource allocation.
+
+### Exclusion from Core 1B Scoring
+
+The following types of content were not scored in Core 1B:
+
+- Purely symbolic, rhetorical, or aspirational statements with no observable mechanical effect on economic behaviour.
+- Purely administrative or procedural changes whose impact on voluntary economic decisions was negligible.
+- Temporary crisis measures (e.g. short-term Kurzarbeit expansions or energy price caps) — these were given reduced weighting due to their time-limited nature rather than being fully excluded.
+
+No elements were arbitrarily excluded. All exclusions followed clear mechanical criteria.
+
+### Summary Table of Routing Approach
+
+| Routing Destination | Criteria | Examples from Germany Document |
+|---------------------|----------|--------------------------------|
+| **Core 1B**         | Dominant effect on voluntary economic action, contracts, investment, production, or allocation | Most policies across all eras (taxation, regulation, industrial policy, labour market rules, etc.) |
+| **Core 1A**         | Dominant effect on individual personal autonomy or daily personal decision-making | Selected personal remedies in employment law and certain COVID-era workplace restrictions |
+| **Core 2A**         | Dominant concern is national sovereignty or external economic authority | Certain aspects of capital controls and trade/customs policy (often retained in 1B due to dominant economic effect) |
+
+All routing decisions were made transparently and consistently according to observable mechanical effect.
+
 
 ---
 
 **End of Document**  
-This is the complete, audited, and expanded Germany Core 1B Scoring Document at the required standard.
