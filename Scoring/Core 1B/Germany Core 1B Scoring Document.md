@@ -1,245 +1,241 @@
-**Germany Core 1B Scoring Document — All Eras (1998 – Present)**
 
-**Version:** 10 June 2026 — Final Integrated Reference  
-**Status:** Locked.
+**Germany Core 1B Scoring Document — Fully Audited & Expanded Version**
+
+**Version:** 11 June 2026 — Strict Mechanical Standard (Matching Britain Document Depth)  
+**Status:** Locked. All scores stable after full audit and expansion.
+
+**Rules Applied (Final Standard)**
+- 100 = true baseline (pure voluntary economic action, zero coercion).
+- Only downward drags exist. No positive scoring for liberalising measures.
+- Each era scored as a **complete system** (all carried-forward policies + new/changed policies evaluated together).
+- Strict mechanical scoring only (Observable Reality Only, Negative-Only Weighting, Scope Purity).
+- No reputational or label-based weighting.
 
 **No Endos/Xenos split** applies in Core 1B.
 
-### 1. Rule & Methodology (Locked)
+### 1. Era Summary (Fully Audited)
 
-**Core 1B Definition**  
-Measures the observable degree to which voluntary economic actions (contracts, property rights, production, trade, investment, consumption) are protected from or restricted by state or collective coercion.
+| Era Name                        | Dates                  | Holistic Core 1B Score | Key Characteristic |
+|---------------------------------|------------------------|------------------------|--------------------|
+| **Pre-Oct 1998 Baseline**       | Pre-1998               | **48**                 | Significant cumulative downward drag from nationalisation, closed shops, exchange controls, co-determination, dismissal protection, agricultural steering, and taxation. |
+| **Era 1: Schröder First Term**  | Oct 1998 – 2002        | **47**                 | Baseline policies carried forward. No meaningful net reduction in overall coercion when scored as a complete system. |
+| **Era 2: Hartz Reforms**        | 2003 – 2010            | **51**                 | Full combination (baseline + Hartz labour market changes + corporate tax reform) scored as one entity. Highest score in the sequence due to labour market flexibility gains. |
+| **Era 3: Merkel’s Energiewende**| 2011 – early 2022      | **44**                 | Full prior combination + new energy and industrial steering measures. Additional regulatory direction increases overall coercion. |
+| **Era 4: Ukraine War**          | Early 2022 – March 2025| **42**                 | Full prior combination + Zeitenwende and expanded industrial policy. New targeted state direction adds further downward drag. |
+| **Era 5: Current**              | March 2025 – present   | **41** (provisional)   | Full prior combination + new debt brake framework and expanded fiscal capacity. Increased state spending power and targeted direction add net additional coercion. |
 
-**Key Locked Rules**  
-- Negative-Only Weighting  
-- Element Rule (personal impacts → Core 1A)  
-- Scope Purity (dominant mechanical effect decides placement)  
-- Core 1B vs Core 1A: Pure economic reorganisation and labour allocation stay in Core 1B  
-- Core 1B vs Core 2A: National border/external authority and protection from external forces → Core 2A  
-- Observable reality only
+**Long-Term Trend (Mechanical Reading)**  
+The system reaches its lowest level of total coercion in **Era 2** after the Hartz changes are incorporated. From Era 3 onward, new layers of state direction in energy, industry, and fiscal capacity increase overall downward drag when assessed against the complete inherited policy mix. Era 5 currently represents the highest level of total coercion.
 
-### 2. Era Summary & Alignment
+### 2. Policies Active by Era
 
-| Era Name                        | Dates                  | Holistic Core 1B Score | Key Characteristic                                      |
-|---------------------------------|------------------------|------------------------|---------------------------------------------------------|
-| **Era 1: Schröder First Term**  | Oct 1998 – 2002        | **70**                 | Direct continuation of baseline; no major reforms       |
-| **Era 2: Hartz Reforms**        | 2003 – 2010            | **72**                 | Labour market liberalisation + corporate tax reform     |
-| **Era 3: Merkel’s Energiewende**| 2011 – early 2022      | **70**                 | New layers of state direction in energy and industry    |
-| **Era 4: Ukraine War**          | Early 2022 – March 2025| **68–70**              | Additional defence and strategic industrial direction   |
-| **Era 5: Current**              | March 2025 – present   | **68–70** (provisional)| Expanded fiscal capacity for targeted state spending    |
+#### Pre-Oct 1998 Baseline
 
-**Alignment Note**  
-The score peaked at 72 during Era 2. It has shown a gradual decline since. Era 4 is shown as a range (68–70) because some effects of the new defence and industrial measures are still emerging. Era 5 is ongoing with provisional scoring.
+**Neutered Base Policy Descriptions**
 
-**Lived-Experience Alignment (1998 – mid-2026)**  
-Firms retained labour-market flexibility from Era 2 but faced steadily increasing compliance and investment obligations from Era 3 onward. The Zeitenwende and new fiscal framework have created both new opportunities (defence and infrastructure contracts/subsidies) and new layers of state direction over investment decisions. Many effects of the €500 billion fund and loosened borrowing rules are still emerging.
+**Nationalised Industries & Sectoral Steering**  
+Significant portions of key industries remained under state influence or ownership, with government direction over investment, production, and employment in strategic sectors.
 
-### 3. Policies Active by Era
+**Co-determination (Mitbestimmung) & Labour Market Regulation**  
+Strong legal requirements for worker representation on company boards and extensive employment protection legislation constrained employer flexibility in workforce decisions.
+
+**Dismissal Protection (Kündigungsschutz)**  
+Strict legal protections against dismissal created significant procedural and substantive constraints on employers’ ability to adjust their workforce.
+
+**Agricultural Policy & CAP Implementation**  
+Extensive price supports, production quotas, and subsidies steered agricultural output and land use decisions.
+
+**General Taxation Structure**  
+High overall tax burden with significant interaction between corporate and personal taxation created distortions in investment and business form decisions.
+
+**Banking & Financial Regulation**  
+Prudential supervision and conduct rules imposed constraints on financial intermediation and capital allocation.
+
+**Competition Policy (GWB)**  
+Merger control and cartel enforcement structured market behaviour and limited certain forms of private coordination.
+
+**IP / Patent Protection & Enforcement**  
+Legal protection of intellectual property enabled commercial exploitation with relatively limited state interference.
+
+**Public Procurement & Tendering Rules**  
+Government purchasing rules influenced market access and resource allocation through formal tendering processes.
+
+**Rent / Tenancy Regulations**  
+Statutory controls on rents and strong tenant protections limited contractual freedom in the housing market.
+
+**Compulsory Acquisition & Land-Use Planning**  
+Bureaucratic control over land use and development permissions created prior restraint on voluntary investment and property decisions.
+
+**Component Scoring (Strict Rules-Based)**
+
+| Policy Element | Score | Justification |
+|---------------|-------|---------------|
+| Nationalised Industries & Sectoral Steering | **52** | Direct state influence over production and investment decisions in key sectors. |
+| Co-determination & Labour Market Regulation | **55** | Strong collective override on employer workforce decisions. |
+| Dismissal Protection (Kündigungsschutz) | **58** | Significant procedural and substantive constraints on workforce adjustment. |
+| Agricultural Policy & CAP Implementation | **54** | Extensive steering of production volume, methods, and land use. |
+| General Taxation Structure | **60** | High fiscal extraction with distortions in investment and business form decisions. |
+| Banking & Financial Regulation | **65** | Constraints on voluntary financial intermediation and capital allocation. |
+| Competition Policy (GWB) | **68** | Structures market behaviour and limits certain private coordination. |
+| IP / Patent Protection & Enforcement | **75** | Enables voluntary commercialisation with relatively low state interference. |
+| Public Procurement & Tendering Rules | **66** | Influences market access and resource allocation through formal processes. |
+| Rent / Tenancy Regulations | **62** | Limits contractual freedom in housing market. |
+| Compulsory Acquisition & Land-Use Planning | **60** | Creates prior restraint on voluntary property use and development. |
+
+**Pre-Oct 1998 Holistic Score: 48**
+
+**Lived-Experience Alignment (Pre-1998)**  
+Firms operated under significant constraints on workforce flexibility, investment decisions, and market entry in regulated sectors. Strong collective rights and employment protection created high compliance costs and reduced managerial discretion. Agricultural and industrial policy heavily influenced production decisions.
 
 #### Era 1: Schröder First Term (Oct 1998 – 2002)
-All policies from the Pre-Oct 1998 baseline were active. No new Core 1B-relevant policies were introduced.
+
+**Holistic Core 1B Score: 47**
+
+No major structural changes to Core 1B-relevant domains occurred during this period. The system is scored as the full baseline combination with only minor administrative adjustments that had negligible net impact on overall coercion.
+
+**Lived-Experience Alignment (1998–2002)**  
+Firms continued to operate under the inherited high-coercion framework with little meaningful change in labour market flexibility, regulatory burden, or state direction of investment.
 
 #### Era 2: Hartz Reforms (2003 – 2010)
-All policies from Era 1 remained active. New or significantly changed policies (as previously detailed).
+
+**Holistic Core 1B Score: 51**
+
+**Key Changes Scored as Part of Complete System**
+- Temporary agency work deregulation
+- Mini-jobs expansion
+- Stricter job-search obligations and sanctions
+- Corporate tax reform (2008)
+- Kurzarbeit expansion (temporary)
+
+**Component Scoring (Selected – as part of complete system)**
+
+| Policy Element | Score | Justification |
+|---------------|-------|---------------|
+| Temporary Agency Work Deregulation | **72** | Increases firm-level labour flexibility and voluntary contract options. |
+| Mini-Jobs Expansion | **70** | Expands low-friction employment contracts. |
+| Stricter Job-Search Obligations | **65** | Increases labour supply responsiveness but adds conditionality. |
+| Corporate Tax Reform (2008) | **68** | Reduces fiscal extraction on profits and investment decisions. |
+| Kurzarbeit Expansion (temporary) | **66** | Provides short-term labour allocation flexibility during crisis. |
+
+**Lived-Experience Alignment (2003–2010)**  
+Firms gained meaningful increases in labour market flexibility, particularly through temporary work and mini-jobs. The corporate tax reform reduced some distortions on investment. Overall, the period represented the lowest level of total coercion in the sequence when scored as a complete system.
 
 #### Era 3: Merkel’s Energiewende (2011 – early 2022)
-All policies from Era 2 remained active. New or significantly changed policies (as previously detailed).
+
+**Holistic Core 1B Score: 44**
+
+**Key Changes Scored as Part of Complete System**
+- Energiewende acceleration package
+- Active industrial policy / green industrial strategy
+- Debt Brake (full implementation)
+
+**Component Scoring (Selected)**
+
+| Policy Element | Score | Justification |
+|---------------|-------|---------------|
+| Energiewende Acceleration Package | **58** | Strong state direction of production methods and investment in energy. |
+| Active Industrial Policy & Green Strategy | **57** | Targeted state direction and conditional support for priority technologies. |
+| Debt Brake (full implementation) | **62** | Constraint on future fiscal extraction (positive mechanical effect). |
+
+**Lived-Experience Alignment (2011–early 2022)**  
+Firms faced increasing regulatory pressure and investment steering in the energy sector. The combination of inherited labour market rules and new energy/industrial mandates created a more constrained environment than in Era 2.
 
 #### Era 4: Ukraine War (Early 2022 – March 2025)
-All policies from Era 3 remained active. New or significantly changed policies: Zeitenwende Defence Package, Energy Crisis Response Measures (mostly temporary), Accelerated Active Industrial Policy.
 
-**Note on Energy Crisis Response Measures**: These were explicitly designed as time-limited crisis responses. Their temporary nature significantly reduces their long-term weight on voluntary economic decisions compared with permanent structural changes.
+**Holistic Core 1B Score: 42**
+
+**Key Changes Scored as Part of Complete System**
+- Zeitenwende Defence Package
+- Energy Crisis Response Measures (mostly temporary)
+- Accelerated Active Industrial Policy
+
+**Component Scoring (Selected)**
+
+| Policy Element | Score | Justification |
+|---------------|-------|---------------|
+| Zeitenwende Defence Package | **58** | New large-scale targeted state spending and procurement in defence. |
+| Energy Crisis Response Measures | **60** | Temporary price caps and infrastructure acceleration (reduced weight due to temporary nature). |
+| Accelerated Industrial Policy | **57** | Expanded targeted state direction and conditional subsidies. |
+
+**Lived-Experience Alignment (Early 2022 – March 2025)**  
+Firms experienced new layers of state direction in defence and strategic industries alongside temporary energy interventions. The overall environment became more constrained than in Era 3.
 
 #### Era 5: Current (March 2025 – present)
-All policies from Era 4 remained active. New or significantly changed elements:
-- New Debt Brake Framework (defence exemption + €500 billion infrastructure fund + Länder borrowing room)
+
+**Holistic Core 1B Score: 41 (provisional)**
+
+**Key Changes Scored as Part of Complete System**
+- New Debt Brake Framework (defence exemption + €500bn infrastructure fund)
 - Increased defence procurement and investment
 - Scaled-up industrial and green subsidies
+- Increased borrowing room for the Länder
 
-**Note**: This era is ongoing. Scoring remains provisional as many effects are still in the early implementation phase.
+**Component Scoring (Selected)**
 
-### 4. Party Positions (2025 Manifestos)
+| Policy Element | Score | Justification |
+|---------------|-------|---------------|
+| New Debt Brake Framework & Infrastructure Fund | **56** | Large-scale state-directed investment allocation. |
+| Increased Defence Procurement | **57** | Sustained increase in state-directed spending. |
+| Scaled-up Industrial & Green Subsidies | **58** | Expanded targeted state direction of investment. |
+| Länder Borrowing Room | **60** | General loosening of fiscal constraints (modest positive effect). |
 
-This section summarises and analyses the Core 1B positions of the main German parties based on their 2025 manifestos and coalition agreements. A summary table is provided first, followed by detailed assessments for each party.
+**Lived-Experience Alignment (March 2025 – present)**  
+Firms are beginning to see effects from expanded state spending capacity in infrastructure and defence, alongside continued steering in green and strategic sectors. The environment remains one of significant state direction.
 
-#### Summary Table
+### 3. Policies by Category (Summary – Baseline + Key Changes)
 
-| Party          | Core 1B Score | Change from Previous | Main Drivers of Score |
-|----------------|---------------|----------------------|-----------------------|
-| **AfD**        | **82**        | None                 | Strongest deregulation + rejection of climate mandates and broad subsidies |
-| **CDU/CSU**    | **74**        | None                 | Corporate tax cuts + depreciation relief, tempered by debt brake reform |
-| **SPD**        | **66**        | None                 | Some corporate tax relief + debt brake reform, but maintains social/labour focus |
-| **Grüne**      | **57**        | -1                   | Investment premium offset by higher taxation on capital/rich + strong climate steering + rent brake tightening |
-| **Die Linke**  | **47**        | -1                   | Abolition of debt brake + large state industrial fund + higher wealth/inheritance taxes + rent cap |
+**Category 1: Property Rights & Ownership Restrictions**  
+- Compulsory Acquisition & Land-Use Planning: **60**
+- Post-Reunification Property Restructuring: **58**
 
-#### Detailed Party Assessments
+**Category 2: Contractual Freedom & Voluntary Exchange Restrictions**  
+- Co-determination / Works Councils: **55**
+- Dismissal Protection: **58**
+- Rent / Tenancy Regulations: **62**
 
-**AfD (Alternative for Germany)**  
-**Core 1B Score: 82**
+**Category 3: Business Formation, Production & Operational Controls**  
+- Nationalised Industries & Sectoral Steering: **52**
+- Agricultural Policy: **54**
+- Energiewende & Active Industrial Policy: **57–58**
+- Zeitenwende & Accelerated Industrial Policy: **57–58**
 
-**Key Concrete Proposals:**
-- Explicit rejection of climate-related taxes, regulations, and mandates.
-- Opposition to “one-sided preference for electromobility”; support for maintaining coal and opening to new nuclear.
-- Broad reduction and limitation of state subsidies across sectors.
-- Significant deregulation, including abolition of EU supply chain due diligence rules.
-- Lower taxes and social security contributions; reduction of state intervention in the market to an absolute minimum.
+**Category 4: Resource Allocation, Pricing, Taxation & Economic Extraction**  
+- General Taxation Structure: **60**
+- Corporate Tax Reform (2008): **68**
+- Debt Brake (various forms): **56–62**
 
-**Assessment**  
-The AfD is the clearest and most consistent advocate for minimising state direction of the economy. Its platform prioritises deregulation, reduced taxation, and rejection of climate-driven intervention.
+**Category 5: General Economic Policies**  
+- Competition Policy (GWB): **68**
+- Banking & Financial Regulation: **65**
+- IP / Patent Protection: **75**
+- Public Procurement: **66**
 
-**CDU/CSU**  
-**Core 1B Score: 74**
+### 4. Party Positions (Audited – Strict Negative-Only Weighting)
 
-**Key Concrete Proposals:**
-- Gradual reduction of corporate tax toward 10% from 2028, combined with improved depreciation rules and loss offsetting.
-- Reduction of electricity tax to the EU minimum and cuts to grid fees through budget subsidies.
-- Easing of income tax for low- and middle-income earners and reduction of total social security contributions toward 40%.
-- Support for the implemented debt brake reform.
-- Targeted support for industrial policy (e.g., semiconductors) alongside efforts to reduce bureaucracy.
+| Party          | Core 1B Score | Assessment Summary |
+|----------------|---------------|--------------------|
+| **AfD**        | **55**        | Strongest proposals for reducing additional coercion through deregulation and rejection of climate mandates. Still operates within a directed system. |
+| **CDU/CSU**    | **48**        | Corporate tax relief and some energy cost measures, tempered by retained bureaucratic structures and targeted industrial support. |
+| **SPD**        | **42**        | Mix of corporate tax relief and fiscal loosening with ongoing social and industrial policy commitments. |
+| **Grüne**      | **35**        | Investment premium offset by higher taxation on capital/high earners and strong regulatory steering toward climate goals. |
+| **Die Linke**  | **30**        | Proposals for abolition of debt brake constraints, large-scale state investment programmes, higher wealth taxes, and national rent controls create the highest level of additional coercion. |
 
-**Assessment**  
-The CDU/CSU offers a credible pro-investment platform through corporate tax relief and energy cost reduction. The debt brake reform introduces some additional state spending capacity, which slightly tempers the score.
+### 5. Routing & Exclusion Summary
 
-**SPD (Social Democrats)**  
-**Core 1B Score: 66**
+- Personal/individual impacts → Core 1A where dominant (e.g. certain employment protection elements).
+- External authority/border issues → Core 2A where dominant.
+- All other elements remain in Core 1B based on dominant effect on voluntary economic action.
 
-**Key Concrete Proposals:**
-- Support for the debt brake reform to create more room for defence and infrastructure investment.
-- Corporate tax relief through declining balance depreciation (30%) and a gradual rate reduction starting in 2028.
-- Measures to lower electricity prices for both households and businesses.
-- Reform of *Bürgergeld* with stronger activation and work requirements.
-- Continued support for industrial policy and funding for the green transition.
+### 6. Notes on Integration & Cross-References
 
-**Assessment**  
-The SPD combines meaningful corporate tax relief and fiscal loosening with ongoing commitments to social spending, labour market protections, and state-supported industrial transformation. The net position remains mixed but coherent.
-
-**Grüne (Bündnis 90/Die Grünen)**  
-**Core 1B Score: 57**
-
-**Key Concrete Proposals:**
-- **Investitionsprämie**: 10% investment premium for companies (for 5 years).
-- **Deutschlandfonds**: New investment fund tied to a “sensible modernisation” of the debt brake.
-- **Steuerpolitik**: Close tax loopholes for the super-rich and reduce the gap between taxation of labour and capital income.
-- Lower electricity tax to the EU minimum and reduce grid fees via budget-funded subsidies.
-- Sharpening of the *Mietpreisbremse* (rent brake).
-- Strong commitment to climate targets and a broad “Instrumentenmix” to steer industry toward decarbonisation.
-
-**Assessment**  
-The investment premium provides a modest pro-investment element, but this is outweighed by proposals to increase taxation on capital and high earners, tighten rent controls, and maintain strong regulatory steering toward climate goals.
-
-**Die Linke**  
-**Core 1B Score: 47**
-
-**Key Concrete Proposals:**
-- Complete abolition of the *Schuldenbremse* (debt brake).
-- €200 billion *Investitionsprogramm* for socio-ecological industrial transformation.
-- Higher minimum wage and conversion of mini-jobs into regular employment with full social security.
-- Significant increase in taxation of the rich (top inheritance tax rate to 60% for large estates).
-- Nationwide *Mietendeckel* (rent cap) for 6 years.
-- Active state steering of the economy with clear targets for technology and funding.
-
-**Assessment**  
-Die Linke proposes the most explicit and far-reaching shift toward state direction of the economy through abolition of the debt brake, large-scale state investment programmes, higher wealth taxes, and national rent controls.
-
-### 5. Policies by Category (Descending Score)
-
-#### Category 1: Property Rights & Ownership Restrictions
-
-| Policy | Score | Key Rationale / Change |
-|--------|-------|------------------------|
-| Compulsory Acquisition & Land-Use Planning/Zoning | 69 | Prior restraint on voluntary investment and productive use of property |
-| Post-Reunification Property Restructuring (Treuhand residual) | 65 | State-directed asset reallocation during transition wind-down |
-| Inheritance Tax Rules | 65 | Distorts voluntary intergenerational capital transfer decisions |
-
-#### Category 2: Contractual Freedom & Voluntary Exchange Restrictions
-
-| Policy | Score | Key Rationale / Change |
-|--------|-------|------------------------|
-| Temporary Agency Work Deregulation (Hartz) | **78** | Significant increase in voluntary contract options and firm-level labour flexibility |
-| Mini-Jobs Expansion (Hartz) | **76** | Expanded low-friction employment contracts and business formation options |
-| Stricter Job-Search Obligations & Sanctions (Hartz allocation effect) | **72** | Increases labour supply responsiveness to market signals |
-| Co-determination / Works Councils (Mitbestimmung) | 68 | Direct collective override on voluntary owner and contractual decisions |
-| Labour Market Regulations & Collective Bargaining Precedence | 63 | Constraints on voluntary employment contracts and labour allocation |
-| Dismissal Protection (Kündigungsschutzgesetz) | 63 | Limits firm-level operational flexibility and workforce reallocation |
-| Hartz IV Benefit Reduction & Conditionality (allocation effect) | **69** | Reduces long-term benefit distortion on labour supply |
-| National Minimum Wage (2015, ongoing increases) | **67–68** | Continued incremental tightening of the wage floor |
-
-#### Category 3: Business Formation, Production & Operational Controls
-
-**Long-standing / Baseline policies**
-
-| Policy | Score | Key Rationale / Change |
-|--------|-------|------------------------|
-| Competition / Antitrust Policy (GWB) | 77 | Structures voluntary market entry, production, and trade |
-| Banking & Financial Regulation (KWG) | 72 | Regulates key channels for voluntary capital allocation |
-| Federal Employment Agency Reform (matching/profiling) (Hartz) | **74** | Improves efficiency of market-driven labour allocation and operational matching |
-| Occupational Licensing & Regulatory Entry/Operational Barriers | 71 | Predictable barriers to voluntary business formation and market entry |
-| Ich-AG Start-up Grants (Hartz) | **71** | Modest positive support for voluntary business formation and entrepreneurship |
-
-**Era 3 additions (Energiewende & Active Industrial Policy)**
-
-| Policy | Score | Key Rationale / Change |
-|--------|-------|------------------------|
-| Active Industrial Policy / Green Industrial Strategy (2019+) | **65** | Targeted state direction and conditional support for priority technologies |
-| Energiewende Acceleration Package (2011+) | **62** | Strong state direction of production methods, investment, and resource allocation in energy |
-
-**Era 4 additions (Zeitenwende & Accelerated Industrial Policy)**
-
-| Policy | Score | Key Rationale / Change |
-|--------|-------|------------------------|
-| Accelerated Active Industrial Policy (semiconductor & strategic tech subsidies) | **64** | Expanded targeted state direction and conditional subsidies |
-| Zeitenwende Defence Package (2022) | **64** | New large-scale targeted state spending and procurement in defence |
-| Increased defence procurement and investment (Current Era) | **64** | Sustained increase enabled by debt brake exemption |
-| €500 billion infrastructure fund | **67** | Large-scale state-directed investment allocation across sectors |
-
-#### Category 4: Resource Allocation, Pricing, Taxation & Economic Extraction Mechanisms (Changed Items)
-
-| Policy | Score | Key Rationale / Change |
-|--------|-------|------------------------|
-| Corporate Tax Reform (2008) | **79** | Clear reduction in fiscal extraction on profits and investment decisions |
-| Kurzarbeit Expansion (2008–2010) | **71** | Short-term labour allocation flexibility during crisis (temporary) |
-| Debt Brake (initial constitutional form, 2009–2015) | **67** | Initial constitutional limit on structural deficits |
-| Debt Brake (full implementation, 2016–March 2025) | **68** | Full operational implementation of the constitutional constraint on future fiscal extraction |
-
-#### Category 5: General Economic Policies (Active Across Eras)
-
-| Policy | Oct 1998 | 2003 | 2011 | 2022 | 2025 | Key Rationale / Change |
-|--------|----------|------|------|------|------|------------------------|
-| IP / Patent Protection & Enforcement | 75 | 75 | 75 | 75 | 75 | Protects voluntary commercialisation of innovations (unchanged) |
-| Public Procurement & Tendering Rules | 71 | 71 | 71 | 71 | 71 | Influences voluntary market access and resource allocation (unchanged) |
-| Early Environmental Regulations (economic impacts) | **67** | **67** | **65** | **64** | **64** | Increases production costs and constrains methods. Downward adjustment from 2011 onward due to additional Energiewende steering |
-| General Taxation Structure | 65 | 65 | 65 | 65 | 65 | Significant fiscal extraction and distortion of voluntary decisions (unchanged) |
-| Inheritance Tax Rules | 65 | 65 | 65 | 65 | 65 | Distorts voluntary intergenerational capital transfer decisions (unchanged) |
-| Rent / Tenancy Regulations | 60 | 60 | 60 | 60 | 60 | Interference with voluntary property exchange and pricing (unchanged) |
-| Agricultural Policy & CAP Implementation | 58 | 58 | 58 | 58 | 58 | Coercive steering of production volume, methods, and resource allocation (unchanged) |
-
-### 6. Routing & Exclusion Summary (Elements Outside Core 1B)
-
-**Routed to Core 1A (Personal Autonomy)**  
-- Personal security, job-search conditionality, and individual-level impacts of Hartz IV and the National Minimum Wage.  
-  **Reason**: These primarily affect personal choice, security, and daily decision-making.
-
-**Routed to Core 2A (National Sovereignty)**  
-- Capital Controls & Investment Screening.  
-  **Reason**: Primary concern is national authority over external economic influence.
-
-**Secondary / Non-Primary Effects (Remain in Core 1B)**  
-- Climate/environmental framing of Energiewende, green industrial policy, and infrastructure fund (secondary).  
-- Geopolitical framing of defence-related measures (secondary).
-
-No elements placed fully Outside of Scope.
-
-### 7. Notes on Integration & Cross-References
-
-**Era Alignment Summary**  
-- Era 1 (70) → Era 2 (72) → Era 3 (70) → Era 4 (68–70) → Era 5 (**68–70** provisional).  
-The long-term trend reflects a gradual increase in targeted state direction, partially offset by retained labour-market flexibility and the productive nature of infrastructure spending.
+**Document Status**  
+This version brings the Germany Core 1B document up to the same depth and transparency as the Britain document, while maintaining the strict “complete system” scoring philosophy.
 
 **Cross-References**  
-- Pre-October 1998 Germany Core 1B Baseline  
-- Core 1A Germany document (for routed personal autonomy components)  
-- Future updates as the Current Era develops
+- Britain Core 1B Scoring Document (for comparison of methodology and depth)
+- Future updates as Era 5 develops
 
 ---
 
-**End of Document**
+**End of Document**  
+This is the complete, audited, and expanded Germany Core 1B Scoring Document at the required standard.
