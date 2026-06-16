@@ -1,95 +1,141 @@
 # Core 1B: Economic Autonomy
 
-**Source Document**  
-**Date:** April 16, 2026
+## Definition
+This guideline measures the observable degree to which a system protects or restricts individuals' and private entities' economic autonomy — the range of voluntary economic actions, contracts, property rights, production, trade, investment, and consumption decisions that remain free from state or collective coercion.
 
-## Note on Axis Extremes
+## Components
 
-The ends of each axis represent theoretical extremes. In practice, real-world systems rarely reach the absolute 0 or 100 points. These extremes are included by design: they create clear reference points at both ends of the scale, enabling more accurate relativism and removing any ambiguity about where the measurement begins.
+This framework consists of three distinct but related parts:
 
-## Note on Slider Scaling
+1. **Taxation Rule** (Separate)
+2. **Government Spending Slider** (Separate document)
+3. **Regulation Slider** (Separate document)
 
-The scale on each slider is non-linear and fully asymmetric. Contraction/expansion is permitted on one side only, on both sides, or on neither side, depending on the actual distribution of real-world ideologies on that axis. The exact location, width, and degree of any contraction or expansion is fluid from slider to slider and is calibrated solely to capture the empirical density of ideological variation on that specific core. The only mandatory principle is that the meaningful range—where actual ideological differentiation occurs—is expanded to occupy the majority of the visible scale, while any theoretically sparse or empty zones (whether at the extremes or in the middle) may be contracted as required.
+### 1. Taxation Rule
+Taxation is treated as a separate rule rather than a slider.
 
-## Core 1B Definition
+**Primary Formula:**
+\[
+\text{Taxation Score} = \left(1 - \frac{\text{Government Tax Income}}{\text{GDP}}\right) \times 100
+\]
 
-This guideline measures the observable degree to which a system protects or restricts individuals' and private entities' economic autonomy — the range of voluntary economic actions, contracts, property rights, production, trade, investment, and consumption decisions that remain free from state or collective coercion. 
+A simplified alternative is the tithe rate required by the government.
 
-It tracks the boundary between voluntary market mechanisms versus coercive state control over resources, labour, capital, and economic outcomes. Scoring is based exclusively on empirical reality (observable enforcement in law, taxation, regulation, licensing, nationalisation patterns, price/wage controls, inheritance rules, employment practices, and statistical outcomes of resource allocation) — never on claims, justifications, official rhetoric, or moral framing.
+### 2. Government Spending Slider
+See separate document: `Government_Spending_Slider.md`
+
+### 3. Regulation Slider
+See separate document: `Regulation_Slider.md`
+
+## Final Scoring
+
+The final Core 1B score is calculated by combining the **Regulation Score** and the **Taxation Score** using the following method:
+
+Start with the arithmetic mean:
+\[
+A = \frac{\text{Regulation Score} + \text{Taxation Score}}{2}
+\]
+
+Let \( L = \min(\text{Regulation Score}, \text{Taxation Score}) \)
+
+Let \( d = \frac{|\text{Regulation Score} - \text{Taxation Score}|}{100} \)
+
+Then apply:
+\[
+F = (1 - d) \cdot A + d \cdot L
+\]
+
+The final score \( F \) is rounded up to the nearest whole number.
 
 ## Application Rules
+- All societies are assessed holistically.
+- Observable empirical reality takes precedence over official rhetoric.
+- This framework functions as a flexible guideline system, not a rigid formula.
 
-- All societies are assessed holistically across all major domains (law and criminal justice, education curricula and admissions, employment and promotion practices, family and inheritance policy, media narratives and public discourse, institutional governance, public rituals/symbols of status, and daily cultural reflexes).
+# Government Spending Slider – Core 1B: Economic Autonomy
 
-- Hierarchical weighting applies: core domains such as law, taxation policy, employment regulation, and institutional governance carry primary weight; secondary domains (media narratives, public rituals, family inheritance rules, daily economic norms) provide supporting evidence.
+## 90–95 (High)
+Government spending is extremely limited. The state’s role is restricted almost entirely to essential functions and basic administration.
 
-- When a system contains mixed or anomalous elements (e.g., selective controls in some sectors only), evaluate the score in its totality. Anomalous elements are weighed according to their actual observable scope, consistency, and effect; they neither dominate nor are ignored.
+## 82–89 (High)
+Government spending remains low. The state focuses primarily on essential functions and basic public goods.
 
-- Observable empirical reality (actual policies, enforcement patterns, statistical outcomes of resource allocation, compliance burdens, and daily observable economic treatment) always takes precedence over official rhetoric, self-labeling, or constitutional claims.
+## 76–81 (High)
+Government spending is relatively low by contemporary standards.
 
-- Blurred or borderline systems are placed in natural overlap zones.
+## 70–75 (Mid)
+Government spending is moderate.
 
-- This slider functions as a flexible guideline framework, not a rigid formula.
+## 60–69 (Mid)
+Government spending is moderately high.
 
-## Scoring Bands
+## 51–59 (Mid)
+Government spending is high.
 
-### High-End Guideline (90–100) — Compressed zone
-Absolute or near-absolute economic autonomy across all domains, with zero tolerance for coercive state intervention in voluntary economic activity. This allows observable variation within different high-autonomy systems (different legal mechanisms of property and contract protection while retaining total rejection of state economic dominion).
+## 44–50 (Low Mid)
+Government spending is very high.
 
-- **100** = Total, explicit, and universal protection of economic autonomy in every domain with no coercive state controls or rhetoric permitted.
-- **95–99** = Near-total economic autonomy; only the most marginal, temporary, and narrowly defined state interventions permitted.
-- **90–94** = Extreme economic autonomy legitimation: voluntary market mechanisms dominate law, employment, investment, and resource allocation with maximum enforcement and cultural reinforcement.
+## 37–43 (Low Mid)
+Government spending is extremely high.
 
-### 80–89 (High – Minimal coercive controls with dominant voluntary mechanisms)
-- Taxation is low, simple, and non-distortionary (e.g., flat or low progressive rates with minimal compliance burden).
-- Licensing and regulation are minimal; most occupations and businesses operate freely without state permission.
-- Capital movement, trade, and private contracts face no significant barriers or pre-approvals.
-- No nationalisation, price controls, or forced redistribution; inheritance and property rights are strongly protected.
+## 28–36 (Low)
+Government spending is high and plays a major role in shaping economic outcomes across large parts of the economy.
 
-### 70–79 (Mid–High – Low but noticeable state involvement)
-- Moderate taxation with some complexity but limited compliance costs.
-- Licensing required only in high-risk sectors; most economic activity remains voluntary.
-- Light regulation on contracts and capital flows with minimal interference.
-- Occasional targeted subsidies or incentives exist but do not dominate market outcomes.
+## 19–27 (Low)
+Government spending is near-total in its dominance.
 
-### 60–69 (Mid – Moderate number and accessibility of state controls)
-- Taxation becomes noticeably more complex and progressive with increased filing and audit requirements.
-- Licensing and permitting expand to broader sectors with observable approval delays.
-- Capital controls or reporting requirements appear in medium-to-large transactions.
-- Selective price or wage interventions occur in key markets without full central planning.
+## 11–18 (Low)
+Government spending is effectively total.
 
-### 51–59 (Mid–Lower – Noticeable increase in state controls)
-- Taxation grows significantly more complex with multi-tier systems and higher compliance burdens.
-- Licensing/permitting becomes widespread across many sectors with frequent inspections.
-- Capital movement faces additional reporting or pre-approval in numerous cases.
-- Isolated nationalisations or forced asset transfers occur alongside emerging distortions.
+## 6–10 (Ultra Low)
+Government spending is total and indistinguishable from the economy itself.
 
-### 41–50 (Low–Mid – Multiple significant state controls)
-- Multiple major sectors operate under heavy state direction (e.g., extensive licensing, price/wage controls, mandatory redistribution mechanisms).
-- Inheritance and property rights are significantly weakened through taxation or regulation.
-- Private contracts require frequent state oversight or approval.
+## 0–5 (Ultra Low) (Locked)
+Government spending is total. The distinction between state and economy has collapsed.
 
-### 31–40 (Low – High number and accessibility of state controls)
-- State controls dominate most economic domains through pervasive regulation, licensing, and taxation.
-- Voluntary market mechanisms are heavily constrained or overridden in daily practice.
-- Large-scale redistribution and central direction of resources become the norm.
+# Regulatory Slider – Core 1B: Economic Autonomy
 
-### 11–30 (Very Low – Near-total state control)
-- The vast majority of economic activity is directed or heavily constrained by the state.
-- Private property, contracts, and voluntary exchange survive only in narrow, heavily regulated pockets.
-- Nationalisation and central planning mechanisms cover most production and distribution.
+## High-End Guideline (90–95)
+Compressed zone. Absolute or near-absolute economic autonomy across all domains, with zero tolerance for coercive state intervention in voluntary economic activity.
 
-### 0–10 (Absolute statism – Total economic dominion) — Compressed zone
-Total state or collective control over all economic activity with zero tolerance for voluntary market mechanisms. This allows observable variation within different statist systems (different mechanisms of central control while retaining total rejection of private economic autonomy).
+## 93–95 (High)
+• Regulation is extremely minimal. The state’s involvement is limited to basic protections that enable fair, voluntary trade between equal parties (e.g. rules against fraud and basic enforcement of contracts and property rights). The government largely does not care what people produce, how they produce it, or what methods they use.
 
-- **6–10** = Extreme statism: near-total state direction of production, labour, capital, and consumption with only marginal private exceptions.
-- **1–5** = Near-absolute statism: comprehensive central planning and coercion across nearly all economic domains with minimal residual private activity.
-- **0** = Absolute statism: zero sphere of economic autonomy remains; every resource, transaction, and economic decision is fully controlled by the collective or state.
+## 90–92 (High)
+• Regulation is very light. Rules focus narrowly on enabling voluntary exchange with strong protections for property rights and contracts. There is minimal licensing and almost no method or input prescription.
 
-## Guidelines
+## 82–89 (High)
+• Regulation remains light. Basic rules exist to support honest voluntary trade. Licensing is limited to genuinely high-risk activities. The government does not prescribe how businesses operate in most sectors.
 
-All bands are flexible guidelines rather than strict brackets. This allows nuanced judgment when autonomy intensity varies across issues or domains, with primacy (predominant observable pattern, cumulative impact, breadth, and consistency) being the decisive factor.
+## 76–81 (High)
+• Regulation is still relatively light and focused on enabling voluntary economic activity. Basic health and safety standards exist only for clearly high-risk activities. There is little to no ideological direction in economic rules.
 
-The framework functions as a flexible guideline system, not a rigid formula.
+## 70–75 (Mid)
+• Regulation begins to expand into health, safety, and basic workers’ rights protections. Rules start addressing clear exploitation in employment relationships. The focus remains protective rather than directive.
 
-**End of Core 1B: Economic Autonomy**
+## 60–69 (Mid)
+• Regulation becomes more detailed in health, safety, and workers’ rights. Early ideological or policy-driven requirements begin to appear in some sectors, but the core remains protective of participants in economic activity.
+
+## 51–59 (Mid)
+• Regulation is noticeably heavier. Health, safety, and workers’ rights rules are extensive. A growing number of rules are driven by broader policy and ideological objectives alongside protective goals.
+
+## 44–50 (Low Mid)
+• Regulation is very heavy and increasingly driven by ideological goals. Significant portions of regulation are rooted in political priorities (e.g. green transition, equity targets). The system actively uses rules to reshape industries and behaviour.
+
+## 37–43 (Low Mid)
+• Regulation is extremely prescriptive. Ideological and policy-driven requirements are deeply embedded across many sectors. Private initiative exists but must constantly navigate extensive state-defined criteria and approvals.
+
+## 28–36 (Low – Heavy state direction with preserved private enterprise)
+• Regulation involves active, detailed meddling and oversight across large parts of the economy. The state routinely intervenes in production methods, investment, hiring, and business models to achieve political and ideological objectives. Private activity continues but is heavily shaped by ongoing state direction.
+
+## 19–27 (Low – Broad prescriptive interference and heavy constraints)
+• Regulation is very broad and highly prescriptive. The state imposes detailed rules on how businesses can operate across most of the economy. Independent economic decision-making is significantly constrained by the breadth and detail of state requirements.
+
+## 11–18 (Low)
+• Regulation is near-total. Almost all meaningful private economic activity requires explicit or implicit state approval and must conform to detailed state requirements. Genuine independent decision-making has been heavily reduced.
+
+## 6–10 (Ultra Low)
+• Regulation is absolute. There is no meaningful sphere of private economic action. Virtually all production, distribution, investment, and exchange is directly controlled or requires explicit, detailed state permission and direction.
+
+## 0–5 (Ultra Low) (Locked)
+• There is no private economic action of any meaningful kind. All economic activity is directed by the state. The distinction between the state and the economy has collapsed.
