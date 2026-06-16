@@ -1,56 +1,44 @@
 # Core 1B: Economic Autonomy
 
 ## Definition
+
 This guideline measures the observable degree to which a system protects or restricts individuals' and private entities' economic autonomy — the range of voluntary economic actions, contracts, property rights, production, trade, investment, and consumption decisions that remain free from state or collective coercion. It tracks the boundary between voluntary market mechanisms versus coercive state control over resources, labour, capital, and economic outcomes. Scoring is based exclusively on empirical reality (observable enforcement in law, taxation, regulation, licensing, nationalisation patterns, price/wage controls, inheritance rules, employment practices, and statistical outcomes of resource allocation) — never on claims, justifications, official rhetoric, or moral framing.
 
-## Components
-
-This framework consists of three distinct but related parts:
-
-1. **Taxation Rule** (Separate)
-2. **Government Spending Slider** (Separate document)
-3. **Regulation Slider** (Separate document)
-
 ### 1. Taxation Rule
+
 Taxation is treated as a separate rule rather than a slider.
 
 **Primary Formula:**
-\[
+
+$$
 \text{Taxation Score} = \left(1 - \frac{\text{Government Tax Income}}{\text{GDP}}\right) \times 100
-\]
+$$
 
 A simplified alternative is the tithe rate required by the government.
 
 ## Final Scoring
 
-The final Core 1B score is calculated by combining the **Regulation Score** and the **Taxation Score** using the following method:
+The final Core 1B score is calculated by combining the **Regulation Score** (from the merged slider) and the **Taxation Score** using the following method:
 
 Start with the arithmetic mean:
-\[
+
+$$
 A = \frac{\text{Regulation Score} + \text{Taxation Score}}{2}
-\]
+$$
 
 Let \( L = \min(\text{Regulation Score}, \text{Taxation Score}) \)
 
 Let \( d = \frac{|\text{Regulation Score} - \text{Taxation Score}|}{100} \)
 
 Then apply:
-\[
+
+$$
 F = (1 - d) \cdot A + d \cdot L
-\]
+$$
 
 The final score \( F \) is rounded up to the nearest whole number.
 
-# Core 1B: Economic Autonomy Slider (Merged)
-
-This slider measures the observable degree to which a system protects or restricts individuals’ and private entities’ economic autonomy — the range of voluntary economic actions, contracts, property rights, production, trade, investment, and consumption decisions that remain free from state or collective coercion.
-
-It integrates three dimensions:
-- Regulation of private economic activity
-- Government Spending and its dominance over the economy
-- Direct State Economic Control (ownership, direction of resources and capital)
-
-**Note on Scale:** The practical scoring range is **5–95**. The 0 and 100 points are theoretical absolutes.
+---
 
 ## High End – Sub-Bands
 
