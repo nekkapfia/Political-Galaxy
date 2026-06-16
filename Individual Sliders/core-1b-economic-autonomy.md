@@ -44,8 +44,6 @@ The final score \( F \) is rounded up to the nearest whole number.
 
 This slider measures the observable degree to which a system protects or restricts individuals’ and private entities’ economic autonomy — the range of voluntary economic actions, contracts, property rights, production, trade, investment, and consumption decisions that remain free from state or collective coercion.
 
-**Note on Scale:** The practical scoring range is **5–95**. The 0 and 100 points are theoretical absolutes.
-
 ## High End – Sub-Bands
 
 **100**  
