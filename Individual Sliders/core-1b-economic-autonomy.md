@@ -28,11 +28,11 @@ Start with the arithmetic mean:
 $$
 A = \frac{\text{Regulation Score} + \text{Taxation Score}}{2}
 $$
-
+$$
 Let \( L = \min(\text{Regulation Score}, \text{Taxation Score}) \)
-
+$$
 Let \( d = \frac{|\text{Regulation Score} - \text{Taxation Score}|}{100} \)
-
+$$
 Then apply:
 
 $$
