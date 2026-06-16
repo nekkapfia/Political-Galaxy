@@ -4,7 +4,7 @@
 
 This guideline measures the observable degree to which a system protects or restricts individuals' and private entities' economic autonomy — the range of voluntary economic actions, contracts, property rights, production, trade, investment, and consumption decisions that remain free from state or collective coercion. It tracks the boundary between voluntary market mechanisms versus coercive state control over resources, labour, capital, and economic outcomes. Scoring is based exclusively on empirical reality (observable enforcement in law, taxation, regulation, licensing, nationalisation patterns, price/wage controls, inheritance rules, employment practices, and statistical outcomes of resource allocation) — never on claims, justifications, official rhetoric, or moral framing.
 
-### 1. Taxation Rule
+## Taxation Rule
 
 Taxation is treated as a separate rule rather than a slider.
 
@@ -39,6 +39,12 @@ $$
 The final score \( F \) is rounded up to the nearest whole number.
 
 ---
+
+# Core 1B: Economic Autonomy Slider
+
+This slider measures the observable degree to which a system protects or restricts individuals’ and private entities’ economic autonomy — the range of voluntary economic actions, contracts, property rights, production, trade, investment, and consumption decisions that remain free from state or collective coercion.
+
+**Note on Scale:** The practical scoring range is **5–95**. The 0 and 100 points are theoretical absolutes.
 
 ## High End – Sub-Bands
 
