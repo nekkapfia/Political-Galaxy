@@ -46,8 +46,8 @@ Measures the observable permeability of the boundary between “us” and “not
 
 ## Cultural 4 – Structure
 
-**4A – Hierarchy**  
-Measures the observable stance a system takes toward social and power hierarchies — the degree to which it enforces, legitimizes, or promotes ranked structures versus actively dismantling them in favor of enforced egalitarianism.
+**4A – Social Determinism**  
+Measures the degree to which circumstances of birth (such as race, class, social status) limit, restrict or guide a persons life and the degree to which people are able to improve their status and/or the status of their descendents through their actions.
 
 **4B – Equity Lens**  
 Measures the observable framework a system uses to explain differential group outcomes — the degree to which it attributes disparities to systemic oppression (requiring equity interventions) versus individual actions, merit, and personal responsibility.
