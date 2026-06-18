@@ -19,8 +19,6 @@ $$
 
 **Alternative Method for Simplistic Economies**
 
-In addition to the standard method of calculating the Taxation Score, an alternative method is available.
-
 When the standard method (using tax revenue as a percentage of GDP) is inappropriate, impractical, or impossible to apply in a meaningful way — such as in pre-modern, pre-monetary, tribal, feudal, or extreme command economies — the scorer may instead use the following alternative:
 
 **Alternative Method**  
