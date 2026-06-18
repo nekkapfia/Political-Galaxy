@@ -9,7 +9,7 @@ This guideline measures the observable degree to which a system protects or rest
 
 ## Taxation Rule
 
-Taxation is treated as a separate rule rather than a slider.
+Taxation is treated as a separate rule rather than a slider. There are two potential scoring methods, the primary forumla is the standard method while the alternative method exists when either the data which exists is not sufficient or when the formula would produce a nonsensical score.
 
 **Primary Formula:**
 
@@ -17,7 +17,28 @@ $$
 \text{Taxation Score} = \left(1 - \frac{\text{Government Tax Income}}{\text{GDP}}\right) \times 100
 $$
 
-A simplified alternative is the tithe rate required by the government.
+**Alternative Method for Simplistic Economies**
+
+In addition to the standard method of calculating the Taxation Score, an alternative method is available.
+
+When the standard method (using tax revenue as a percentage of GDP) is inappropriate, impractical, or impossible to apply in a meaningful way — such as in pre-modern, pre-monetary, tribal, feudal, or extreme command economies — the scorer may instead use the following alternative:
+
+**Alternative Method**  
+The Taxation Score is determined as the **inverse of the effective tithe rate**:
+
+**Taxation Score = 100 − Effective Tithe Rate**
+
+The *effective tithe rate* represents the scorer’s estimate of the proportion of output, labour, or resources that was compulsorily extracted by the governing authority.
+
+**Requirements When Using This Method**  
+When the scorer chooses to use this alternative method, they must:
+
+1. Briefly explain **why** the standard tax-to-GDP method was considered inappropriate or unworkable for the society or period in question.
+2. Explain, at a reasonable level of detail, **how** they estimated the effective tithe rate.
+
+There is no fixed formula for determining the effective tithe rate. The scorer is expected to use their judgment based on available historical evidence.
+
+This alternative method exists to allow sensible scoring in cases where modern economic concepts and data are either unavailable or would produce misleading results.
 
 ## Final Scoring
 
