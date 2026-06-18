@@ -1,28 +1,61 @@
 **Britain Core 1B Scoring Document**
 
-
 ### 1. Rule & Methodology (Locked)
 
 **Core 1B Definition**  
 Measures the observable degree to which voluntary economic actions (contracts, property rights, production, trade, investment, consumption) are protected from or restricted by state or collective coercion.
 
-### 2. Era Summary (Updated)
+**Taxation Treatment**  
+Taxation is scored separately using the standard method:
 
-| Era Name                              | Dates                  | Holistic Core 1B Score | Key Characteristic |
-|---------------------------------------|------------------------|------------------------|--------------------|
-| **Day Zero: Post-War Consensus**      | Pre-1979               | **46**                 | High state ownership, strong unions, exchange controls, high taxes, rent controls, incomes policies. Significant cumulative downward drag. |
-| **Era 1: Thatcher Liberalisation**    | 1979–1990              | **51**                 | Major reduction in drag from privatisation, union reform, tax cuts, and abolition of exchange controls when scored as a complete system with carried-forward baseline. Highest score in the sequence. |
-| **Era 2: Market Consolidation**       | 1991–2007              | **49**                 | Full prior combination + National Minimum Wage and modest employment rights expansion. Slight increase in overall drag. |
-| **Era 3: Financial Crisis & Austerity**| 2008–2016             | **45**                 | Full prior combination + financial re-regulation and austerity. Net increase in coercion. |
-| **Era 4: Brexit Uncertainty**         | 2017–early 2020        | **44**                 | Full prior combination + Brexit-related regulatory and trade uncertainty + continued net zero policy. |
-| **Era 5: COVID Restrictions**         | 2020–early 2022        | **33**                 | Full prior combination + extreme temporary restrictions via lockdowns, business closures, and workplace enforcement. Sharpest drop due to unprecedented coercion. |
-| **Era 6: Post-COVID & Energy**        | 2022–2024              | **47**                 | Full prior combination + wind-down of COVID measures + energy interventions and continued net zero policy. Partial recovery from Era 5. |
-| **Era 7: Current Government Reforms** | 2024/2025 – present    | **46**                 | Full prior combination + workers’ rights reforms, planning changes, green industrial strategy, and fiscal shifts. Slight additional drag. |
+**Taxation Score = (1 − Government Tax Income / GDP) × 100**
+
+**Final Scoring Formula**  
+\[
+A = \frac{\text{Regulation Score} + \text{Taxation Score}}{2}
+\]
+\[
+L = \min(\text{Regulation Score}, \text{Taxation Score})
+\]
+\[
+d = \frac{|\text{Regulation Score} - \text{Taxation Score}|}{100}
+\]
+\[
+F = (1 - d) \cdot A + d \cdot L
+\]
+
+Final score \( F \) is rounded up to the nearest whole number.
+
+### 2. Era Summary with Final Scores
+
+| Era Name                              | Dates                  | Regulation Score | Taxation Score | **Final Score** |
+|---------------------------------------|------------------------|------------------|----------------|-----------------|
+| **Day Zero: Post-War Consensus**      | Pre-1979               | 45               | 66             | **54**          |
+| **Era 1: Thatcher Liberalisation**    | 1979–1990              | 50               | 68             | **57**          |
+| **Era 2: Market Consolidation**       | 1991–2007              | 48               | 65             | **55**          |
+| **Era 3: Financial Crisis & Austerity**| 2008–2016             | 45               | 65             | **52**          |
+| **Era 4: Brexit Uncertainty**         | 2017–early 2020        | 44               | 64             | **51**          |
+| **Era 5: COVID Restrictions**         | 2020–early 2022        | 38               | 62             | **44**          |
+| **Era 6: Post-COVID & Energy**        | 2022–2024              | 47               | 63             | **53**          |
+| **Era 7: Current Government Reforms** | 2024/2025 – present    | 46               | 62             | **52**          |
 
 **Long-Term Trend (Mechanical Reading)**  
 The system reaches its highest level of economic autonomy in **Era 1** after the major liberalising measures of the Thatcher period are incorporated into the full policy mix. Era 5 represents the lowest level of economic autonomy due to the extreme temporary restrictions. The current era (Era 7) sits near the lower end of the post-Era 1 range.
 
-### 3. Policies Active by Era
+### 3. Taxation Scores by Era
+
+| Era | Dates | Tax-to-GDP (approx.) | **Taxation Score** |
+|-----|-------|----------------------|--------------------|
+| Day Zero | Pre-1979 | 34.5% | **66** |
+| Era 1 | 1979–1990 | 32% | **68** |
+| Era 2 | 1991–2007 | 35% | **65** |
+| Era 3 | 2008–2016 | 35.5% | **65** |
+| Era 4 | 2017–early 2020 | 36% | **64** |
+| Era 5 | 2020–early 2022 | 38% | **62** |
+| Era 6 | 2022–2024 | 37% | **63** |
+| Era 7 | 2024/2025–present | 38.5% | **62** |
+
+### 4. Policies Active by Era
 
 #### Day Zero: Post-War Consensus (Pre-1979)
 
@@ -96,21 +129,23 @@ Companies were subject to corporation tax with various allowances, reliefs, and 
 | IP / Patent & Copyright Protection | **75** | Enables voluntary commercialisation with relatively low state interference. |
 | Corporation Tax & Business Taxation | **58** | Creates distortion in investment and business form decisions. |
 
-**Day Zero Holistic Score: 46**
+**Day Zero Regulation Score: 45**  
+**Day Zero Final Score: 54**
 
 **Lived-Experience Alignment (Late 1970s)**  
 Firms operated under significant constraints on pricing, investment, labour utilisation, and international capital movements. Nationalised industries dominated key sectors, often with chronic under-investment and political interference in commercial decisions. Private employers faced powerful unions with closed shops and the ability to take secondary action, limiting flexibility in hiring, firing, and workplace organisation. Strict exchange controls restricted international expansion and capital raising. High marginal tax rates and incomes policies distorted incentives for work, profit retention, and investment. Rent controls and planning restrictions limited property market dynamism. While some protections (such as unfair dismissal rules and health and safety duties) provided stability, the overall environment was one of constrained managerial discretion and high compliance costs.
 
 #### Era 1: Thatcher Liberalisation (1979–1990)
 
-**Holistic Core 1B Score: 51**
+**Holistic Core 1B Score (Regulation): 50**  
+**Taxation Score: 68**  
+**Final Score: 57**
 
 All Day Zero policies carried forward + privatisation programme, trade union reforms, major tax cuts, abolition of exchange controls, Right to Buy, and deregulation measures scored as one complete system.
 
 **Key Component Scores (Selected)**  
-- Privatisation – Asset transfer: **68**  
-- Privatisation – Removal of state control: **70**  
-- Trade Union Reform – Closed shops restrictions: **65**  
+- Privatisation – Asset transfer & removal of state control: **69–70**  
+- Trade Union Reform – Closed shops: **65**  
 - Trade Union Reform – Secondary action limits: **66**  
 - Abolition of Exchange Controls: **75**  
 - Income Tax Reductions: **69**  
@@ -121,7 +156,9 @@ Firms experienced a progressive increase in managerial discretion over pricing, 
 
 #### Era 2: Market Consolidation (1991–2007)
 
-**Holistic Core 1B Score: 49**
+**Holistic Core 1B Score (Regulation): 48**  
+**Taxation Score: 65**  
+**Final Score: 55**
 
 All prior policies + National Minimum Wage (1999) and modest expansion of employment rights scored as one entity.
 
@@ -136,7 +173,9 @@ Firms operated in a broadly market-oriented environment with continued manageria
 
 #### Era 3: Financial Crisis & Austerity (2008–2016)
 
-**Holistic Core 1B Score: 45**
+**Holistic Core 1B Score (Regulation): 45**  
+**Taxation Score: 65**  
+**Final Score: 52**
 
 All prior policies + financial re-regulation, austerity, and welfare reform scored together.
 
@@ -153,7 +192,9 @@ Firms faced a more constrained financial environment due to higher capital requi
 
 #### Era 4: Brexit Uncertainty (2017–early 2020)
 
-**Holistic Core 1B Score: 44**
+**Holistic Core 1B Score (Regulation): 44**  
+**Taxation Score: 64**  
+**Final Score: 51**
 
 All prior policies + Brexit-related regulatory/trade uncertainty and continued net zero policy scored as one system.
 
@@ -168,7 +209,9 @@ Businesses faced prolonged uncertainty over future trading arrangements, regulat
 
 #### Era 5: COVID Restrictions (2020–early 2022)
 
-**Holistic Core 1B Score: 33**
+**Holistic Core 1B Score (Regulation): 38**  
+**Taxation Score: 62**  
+**Final Score: 44**
 
 All prior policies + extreme temporary restrictions (business closures, lockdowns, workplace enforcement, furlough with prohibition on working) scored together.
 
@@ -185,7 +228,9 @@ Businesses faced direct legal prohibition on trading and customer-facing activit
 
 #### Era 6: Post-COVID & Energy (2022–2024)
 
-**Holistic Core 1B Score: 47**
+**Holistic Core 1B Score (Regulation): 47**  
+**Taxation Score: 63**  
+**Final Score: 53**
 
 All prior policies + wind-down of COVID measures + energy interventions and continued net zero policy scored as one entity.
 
@@ -200,7 +245,9 @@ Firms experienced the gradual wind-down of COVID support schemes alongside new g
 
 #### Era 7: Current Government Reforms (2024/2025 – present)
 
-**Holistic Core 1B Score: 46**
+**Holistic Core 1B Score (Regulation): 46**  
+**Taxation Score: 62**  
+**Final Score: 52**
 
 All prior policies + workers’ rights reforms, planning overhaul, green industrial strategy, and fiscal shifts scored together.
 
