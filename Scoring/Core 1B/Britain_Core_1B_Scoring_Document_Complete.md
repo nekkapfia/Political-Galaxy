@@ -290,7 +290,7 @@ Notable adjustments:
 ### Detailed Party Assessments
 
 #### Reform UK
-**Holistic Core 1B Score: 55**
+**Holistic Core 1B Score: 66**
 
 ### Policy Score Comparison Table
 
@@ -312,8 +312,8 @@ These proposals are scored via the separate **Taxation Score** method (not inclu
 - Abolition of business rates for many high-street SMEs: **£5 – 10+ billion cost**
 - Other tax cuts (Stamp Duty, Inheritance Tax thresholds, Entrepreneurs’ relief): **£2 – 5 billion cost**
 
-**Overall estimated net cost of tax package**: **£85 – 120 billion** per year  
-**Average net cost used**: **£102.5 billion**  
+**Overall estimated net cost of tax package**: **£102.5 billion** per year  
+**Current GDP**: **£2.9 trillion**  
 **New Taxation Score**: **72** (rounded towards current score)
 
 ### Policies Which Currently Exist (Unchanged)
@@ -338,110 +338,210 @@ These policies remain at their current coercion levels:
 - Broad scrapping of retained EU-derived regulations and red tape **63**
 - Planning simplification (“loose fit” for large developments, fast-track brownfield) **62**
 
-### Overall Regulation Score Calculation
+### Holistic Regulation Score & Justification
 
-- Average of unchanged policies: **62.5**
-- Average of changed policies: **62.5**
-- **Overall Regulation Score**: **62–63**
+**Holistic Regulation Score: 61**
+
+**Justification:**
+
+Reform UK proposes meaningful reductions in coercion across several important and high-impact areas, particularly the removal of net zero targets, subsidies and levies, broad scrapping of retained EU-derived regulations, and planning simplification. These changes are substantial enough to deliver a clear overall improvement in the regulatory environment for businesses and investors.
+
+Although many other areas of regulation remain unchanged, the scale of the reforms in energy, general red tape, and planning is significant. On balance, these changes are sufficient to shift the overall level of state coercion downward compared to the current baseline.
+
+Reform UK would therefore create a **noticeably improved** regulatory environment, even while substantial coercion remains in several other areas of the economy.
 
 ### Final Score
 
-- **Regulation Score**: **62–63**
+- **Regulation Score (Holistic)**: **61**
 - **Taxation Score**: **72**
-- **Final Score**: **66–67**
-
+- **Final Score**: **66**
 ---
-
 #### Conservative Party
-**Holistic Core 1B Score: 52**
+**Final Core 1B Score: 65**
 
-**Key Policy Elements & Individual Scores**
+### Policy Score Comparison Table
 
-**Tax Policy**
-- Various personal and business tax cuts and reliefs: **68–70**
-- Welfare reform to encourage work: **65**
+| Policy Area | Current Score | New Score | Score Difference | Notes |
+|-------------|---------------|-----------|------------------|-------|
+| **Taxation Policy Changes** | 69 | **70** | **+1** | Moderate tax cuts and reliefs |
+| **Planning & Regulation** | 59 | **64** | **+5** | Planning simplification + lighter regulatory approach |
+| **Industrial & Economic Approach** | 60 | **63** | **+3** | Sectoral support with lighter state direction |
+| **Welfare Reform (to encourage work)** | 60 | **62** | **+2** | Moderate improvement in labour market flexibility |
 
-**Planning & Regulation**
-- Planning system simplification and reduction of red tape: **67–69**
-- Lighter overall regulatory approach: **66**
+### Tax Policy (Fiscal Impact)
 
-**Industrial & Economic Approach**
-- Sectoral support (particularly tech/AI) with lighter state direction: **65–67**
+These proposals are scored via the separate **Taxation Score** method (not included in the Regulation Score above).
 
-**Justification**  
-Strong reduction in coercion through tax cuts and regulatory simplification, tempered by retained structures and targeted support.
+- Various personal and business tax cuts and reliefs: **Moderate cost** (estimated £15–30 billion range)
+- Welfare reform to encourage work: **Low to neutral cost**
 
----
+**New Taxation Score**: **70** (rounded towards current score)
 
-#### Liberal Democrats
-**Holistic Core 1B Score: 47**
+### Policies Which Currently Exist (Unchanged)
 
-**Key Policy Elements & Individual Scores**
+These policies remain at their current coercion levels:
 
-**Economic & Fiscal**
-- Responsible public finances and stability focus: **64–66**
-- Efforts to improve trading relationship with Europe: **62–64**
+- Trade Union Power & Closed Shops **58**
+- Unfair Dismissal & Employment Protection **58**
+- Health and Safety at Work Act **60**
+- Competition Policy **66**
+- Banking & Financial Regulation **63**
+- Public Procurement & National Preference **62**
+- IP / Patent & Copyright Protection **75**
+- Agricultural Support & Production Steering **55**
+- Rent Controls & Security of Tenure **53**
+- Exchange Controls (already abolished) **75**
+- Net Zero / Energy Regulation (no major reversal proposed) **60**
 
-**Industrial Strategy & Skills**
-- Industrial strategy focused on skills for renewables, digital, and bioscience: **61–63**
+### Policies Which Will Be Introduced / Changed
 
-**Green & Planning**
-- Support for green growth and moderate planning/environmental measures: **62–64**
+- Planning system simplification and reduction of red tape **64**
+- Lighter overall regulatory approach **63**
+- Sectoral support (particularly tech/AI) with lighter state direction **63**
+- Welfare reform to encourage work **62**
 
-**Justification**  
-A relatively balanced, centrist package. Some elements increase state coordination (skills strategy, European alignment), while others support stability and moderate pro-business conditions.
+### Holistic Regulation Score & Justification
 
+**Holistic Regulation Score: 60**
+
+**Justification:**
+
+The Conservative Party proposes moderate reductions in coercion, mainly through planning simplification, a somewhat lighter regulatory approach, and limited sectoral support with reduced state direction. These changes would deliver a noticeable but relatively contained improvement in the business environment.
+
+However, the party does not propose significant reforms across most other areas of regulation. Substantial coercion remains in labour market rules, financial regulation, competition policy, and wider compliance requirements. Overall, the Conservative package represents a cautious and incremental set of changes rather than a broad shift toward lower state involvement in the economy.
+
+On balance, the Conservative proposals would result in a modestly improved regulatory environment compared to the current baseline, but one that continues to feature significant ongoing state oversight and restrictions in many areas.
+
+### Final Score
+
+- **Regulation Score (Holistic)**: **60**
+- **Taxation Score**: **70**
+- **Final Score**: **65**
 ---
 
 #### Labour Party
-**Holistic Core 1B Score: 43**
+**Final Core 1B Score: 62**
 
-**Key Policy Elements & Individual Scores**
+### Policy Score Comparison Table
 
-**Workers’ Rights & Employment**
-- Day-one unfair dismissal rights and restrictions on zero-hours/fire-and-rehire: **57**
-- Strengthened collective bargaining: **56**
-- Expanded flexible working and parental leave entitlements: **59**
+| Policy Area | Current Score | New Score | Score Difference | Notes |
+|-------------|---------------|-----------|------------------|-------|
+| **Taxation Policy Changes** | 69 | **69** | **0** | Roughly neutral fiscal impact |
+| **Workers’ Rights & Employment** | 58 | **55** | **-3** | Expansion of rights and collective bargaining |
+| **Green Industrial Strategy** | 60 | **54** | **-6** | Public ownership, borrowing for green investment, and state direction |
+| **Planning** | 59 | **61** | **+2** | Modest acceleration with retained oversight |
 
-**Green Industrial Strategy**
-- Great British Energy (publicly owned) and National Wealth Fund: **56–58**
-- Windfall tax extension/increase + accelerated clean power targets: **57–59**
+### Tax Policy (Fiscal Impact)
 
-**Planning**
-- Planning reform to accelerate housebuilding (with retained oversight): **62–64**
+These proposals are scored via the separate **Taxation Score** method (not included in the Regulation Score above).
 
-**Tax & Fiscal**
-- No rises in Income Tax/NI/VAT for working people + targeted crackdowns: **61–63**
-- Borrowing for green investment within fiscal rules: **60**
+- Targeted crackdowns on tax avoidance/evasion: **£3 – 6 billion gain**
+- Windfall tax extension/increase: **£2 – 4 billion gain**
 
-**Justification**  
-New procedural constraints in labour markets and state-directed green investment create measurable additional coercion. Planning acceleration provides partial offset.
+**New Taxation Score**: **69** (rounded towards current score)
+
+### Policies Which Currently Exist (Unchanged)
+
+These policies remain at their current coercion levels:
+
+- Trade Union Power & Closed Shops **58**
+- Health and Safety at Work Act **60**
+- Competition Policy **66**
+- Banking & Financial Regulation **63**
+- Public Procurement & National Preference **62**
+- IP / Patent & Copyright Protection **75**
+- Agricultural Support & Production Steering **55**
+- Rent Controls & Security of Tenure **53**
+- Exchange Controls (already abolished) **75**
+
+### Policies Which Will Be Introduced / Changed
+
+- Day-one unfair dismissal rights and restrictions on zero-hours/fire-and-rehire **55**
+- Strengthened collective bargaining **54**
+- Expanded flexible working and parental leave entitlements **56**
+- Great British Energy (public ownership) and National Wealth Fund **55**
+- Borrowing for green investment **54**
+- Planning reform to accelerate housebuilding (with retained oversight) **61**
+
+### Holistic Regulation Score & Justification
+
+**Holistic Regulation Score: 55**
+
+**Justification:**
+
+The Labour Party proposes a clear expansion of state involvement across several areas. The introduction of day-one unfair dismissal rights, strengthened collective bargaining, and expanded worker protections would increase labour market rigidity. The creation of Great British Energy, the National Wealth Fund, and borrowing for green investment represents a significant increase in public ownership and state-directed investment. While planning reform offers some modest liberalisation, the overall package tilts toward greater state direction.
+
+On balance, Labour’s proposals would result in a moderately more regulated economic environment than the current baseline, with higher levels of state involvement in labour markets and industrial strategy.
+
+### Final Score
+
+- **Regulation Score (Holistic)**: **55**
+- **Taxation Score**: **69**
+- **Final Score**: **62**
 
 ---
 
 #### Green Party
-**Holistic Core 1B Score: 35**
+**Final Core 1B Score: 60**
 
-**Key Policy Elements & Individual Scores**
+### Policy Score Comparison Table
 
-**Public Ownership & State Direction**
-- Bringing privatised utilities into public hands: **43–46**
-- Expanded public coordination and investment vehicles: **45–48**
+| Policy Area | Current Score | New Score | Score Difference | Notes |
+|-------------|---------------|-----------|------------------|-------|
+| **Taxation & Redistribution** | 69 | **68** | **-1** | Higher taxes on wealth/high earners + carbon tax |
+| **Public Ownership & State Direction** | 60 | **46** | **-14** | Major renationalisation and expanded public investment |
+| **Environmental Regulation & Net Zero** | 60 | **48** | **-12** | Strong environmental mandates and net zero targets |
+| **Worker Protections** | 58 | **53** | **-5** | Expanded worker protections |
 
-**Environmental Regulation**
-- Carbon tax and expanded environmental mandates: **47–50**
-- Strong net zero targets and related requirements: **46–49**
+### Tax Policy (Fiscal Impact)
 
-**Taxation & Redistribution**
-- Higher taxes on high earners, wealth, and multi-millionaires: **48–51**
-- Large public investment programmes: **47–50**
+These proposals are scored via the separate **Taxation Score** method (not included in the Regulation Score above).
 
-**Employment & Broader Regulation**
-- Expanded worker protections and equality measures: **52–54**
+- Higher taxes on high earners, wealth, and multi-millionaires: **£20 – 40 billion gain** per year
+- Carbon tax: **£8 – 15 billion gain** per year (estimated)
 
-**Justification**  
-The combination of major public ownership, strong regulatory mandates, and higher wealth taxation produces the highest level of additional coercion.
+**New Taxation Score**: **68** (strict formula + rounding towards current score)
 
+### Policies Which Currently Exist (Unchanged)
+
+These policies remain at their current coercion levels:
+
+- Competition Policy **66**
+- Banking & Financial Regulation **63**
+- Public Procurement & National Preference **62**
+- IP / Patent & Copyright Protection **75**
+- Agricultural Support & Production Steering **55**
+- Rent Controls & Security of Tenure **53**
+- Exchange Controls (already abolished) **75**
+
+### Policies Which Will Be Introduced / Changed
+
+- Bringing privatised utilities into public hands **46**
+- Expanded public coordination and investment vehicles **47**
+- Expanded environmental mandates and strong net zero targets **48**
+- Higher taxes on high earners, wealth, and multi-millionaires **52**
+- Large public investment programmes **50**
+- Expanded worker protections and equality measures **53**
+
+### Holistic Regulation Score & Justification
+
+**Holistic Regulation Score: 46**
+
+**Justification:**
+
+The Green Party proposes a very substantial increase in state ownership, direction, and regulatory control across the economy. Large-scale renationalisation of utilities, expanded public investment vehicles, strong environmental mandates, and aggressive net zero targets would significantly increase state control over investment, production, and resource allocation.
+
+These changes are combined with significantly higher taxation on wealth and high earners, plus expanded worker protections. The overall package represents one of the largest shifts toward greater state involvement among the major parties.
+
+While some areas (such as competition policy, IP protection, and agricultural support) would remain relatively unchanged, the scale of the new public ownership, regulatory mandates, and fiscal extraction is significant enough to materially increase the overall level of coercion in the economy.
+
+On balance, a Green Party government would result in a substantially more regulated and state-directed economy than the current baseline.
+
+### Final Score
+
+- **Regulation Score (Holistic)**: **53**
+- **Taxation Score**: **68**
+- **Final Score**: **60**
 ---
 
 **Routing & Exclusion Summary — Britain Core 1B**
