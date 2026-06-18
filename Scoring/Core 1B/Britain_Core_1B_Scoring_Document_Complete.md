@@ -292,25 +292,63 @@ Notable adjustments:
 #### Reform UK
 **Holistic Core 1B Score: 55**
 
-**Key Policy Elements & Individual Scores**
+### Policy Score Comparison Table
 
-**Tax Policy**
-- Raising income tax starting threshold to £20,000: **72**
-- Corporation tax reduction (to 20%, then 15%): **71**
-- Raising VAT registration threshold significantly: **69**
-- Abolition of business rates for many high-street SMEs: **68**
-- Other tax cuts (Stamp Duty, Inheritance Tax thresholds, Entrepreneurs’ relief): **67–70**
+| Policy Area | Current Score | New Score | Score Difference | Notes |
+|-------------|---------------|-----------|------------------|-------|
+| **Taxation Policy Changes** | 69 | **72** | **+3** | Rounded towards current score |
+| **Complete removal of net zero targets, subsidies, and levies** | 57 | **63** | **+6** | Based on remaining regulatory elements |
+| **Fast-tracking of North Sea, shale, and domestic energy sources** | 58 | **62** | **+4** | Based on remaining regulatory elements |
+| **Broad scrapping of retained EU-derived regulations and red tape** | 59 | **63** | **+4** | Based on remaining regulatory elements |
+| **Planning simplification (“loose fit” for large developments, fast-track brownfield)** | 57 | **62** | **+5** | Based on remaining regulatory elements |
 
-**Net Zero / Energy Regulation**
-- Complete removal of net zero targets, subsidies, and levies: **72**
-- Fast-tracking of North Sea, shale, and domestic energy sources: **70**
+### Tax Policy (Fiscal Impact)
 
-**Regulation & Planning**
-- Broad scrapping of retained EU-derived regulations and red tape: **71**
-- Planning simplification (“loose fit” for large developments, fast-track brownfield): **69**
+These proposals are scored via the separate **Taxation Score** method (not included in the Regulation Score above).
 
-**Justification**  
-This package produces the lowest overall downward drag. It proposes the most extensive removal of existing and proposed coercion across taxation, energy regulation, and general regulation.
+- Raising income tax starting threshold to £20,000: **£50 – 65 billion cost**
+- Corporation tax reduction (to 20%, then 15%): **£25 – 40 billion cost**
+- Raising VAT registration threshold significantly: **£0.5 – 1.5 billion cost**
+- Abolition of business rates for many high-street SMEs: **£5 – 10+ billion cost**
+- Other tax cuts (Stamp Duty, Inheritance Tax thresholds, Entrepreneurs’ relief): **£2 – 5 billion cost**
+
+**Overall estimated net cost of tax package**: **£85 – 120 billion** per year  
+**Average net cost used**: **£102.5 billion**  
+**New Taxation Score**: **72** (rounded towards current score)
+
+### Policies Which Currently Exist (Unchanged)
+
+These policies remain at their current coercion levels:
+
+- Trade Union Power & Closed Shops **58**
+- Unfair Dismissal & Employment Protection **58**
+- Health and Safety at Work Act **60**
+- Competition Policy **66**
+- Banking & Financial Regulation **63**
+- Public Procurement & National Preference **62**
+- IP / Patent & Copyright Protection **75**
+- Agricultural Support & Production Steering **55**
+- Rent Controls & Security of Tenure **53**
+- Exchange Controls (already abolished) **75**
+
+### Policies Which Will Be Introduced / Changed
+
+- Complete removal of net zero targets, subsidies, and levies **63**
+- Fast-tracking of North Sea, shale, and domestic energy sources **62**
+- Broad scrapping of retained EU-derived regulations and red tape **63**
+- Planning simplification (“loose fit” for large developments, fast-track brownfield) **62**
+
+### Overall Regulation Score Calculation
+
+- Average of unchanged policies: **62.5**
+- Average of changed policies: **62.5**
+- **Overall Regulation Score**: **62–63**
+
+### Final Score
+
+- **Regulation Score**: **62–63**
+- **Taxation Score**: **72**
+- **Final Score**: **66–67**
 
 ---
 
