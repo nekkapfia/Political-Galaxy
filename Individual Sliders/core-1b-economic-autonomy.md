@@ -9,34 +9,36 @@ This guideline measures the observable degree to which a system protects or rest
 
 ## Taxation Rule
 
-Taxation is treated as a separate rule rather than a slider. There are two potential scoring methods, the primary forumla is the standard method while the alternative method exists when either the data which exists is not sufficient or when the formula would produce a nonsensical score.
+Taxation is treated as a separate component rather than part of the main Regulation slider. Two methods exist for calculating the Taxation Score.
 
-**Primary Formula:**
+**Primary Method (Standard Formula)**
 
 $$
 \text{Taxation Score} = \left(1 - \frac{\text{Government Tax Income}}{\text{GDP}}\right) \times 100
 $$
 
+This is the default method and should be used whenever reliable data on tax revenue and GDP is available.
+
 **Alternative Method for Simplistic Economies**
 
-When the standard method (using tax revenue as a percentage of GDP) is inappropriate, impractical, or impossible to apply in a meaningful way — such as in pre-modern, pre-monetary, tribal, feudal, or extreme command economies — the scorer may instead use the following alternative:
+When the standard method is inappropriate, impractical, or impossible to apply in a meaningful way — such as in pre-modern, pre-monetary, tribal, feudal, or extreme command economies — the scorer may instead use the following alternative:
 
 **Alternative Method**  
-The Taxation Score is determined as the **inverse of the effective tithe rate**:
+The Taxation Score is calculated as the **inverse of the effective tithe rate**:
 
 **Taxation Score = 100 − Effective Tithe Rate**
 
-The *effective tithe rate* represents the scorer’s estimate of the proportion of output, labour, or resources that was compulsorily extracted by the governing authority.
+The *effective tithe rate* represents the scorer’s best estimate of the proportion of output, labour, or resources that was compulsorily extracted by the governing authority.
 
-**Requirements When Using This Method**  
-When the scorer chooses to use this alternative method, they must:
+**Requirements When Using the Alternative Method**  
+If the scorer chooses to use this alternative method, they must:
 
 1. Briefly explain **why** the standard tax-to-GDP method was considered inappropriate or unworkable for the society or period in question.
 2. Explain, at a reasonable level of detail, **how** they estimated the effective tithe rate.
 
-There is no fixed formula for determining the effective tithe rate. The scorer is expected to use their judgment based on available historical evidence.
+There is no fixed formula for calculating the effective tithe rate. The scorer is expected to use their judgment based on available historical evidence.
 
-This alternative method exists to allow sensible scoring in cases where modern economic concepts and data are either unavailable or would produce misleading results.
+This alternative method exists specifically to allow sensible scoring in cases where modern economic statistics and concepts are either unavailable or would produce misleading results. Use of this method is at the scorer’s discretion.
 
 ## Final Scoring
 
