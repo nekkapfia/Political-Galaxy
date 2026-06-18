@@ -19,7 +19,7 @@ $$
 
 This is the default method and should be used whenever reliable data on tax revenue and GDP is available.
 
-**Alternative Method for Simplistic Economies**
+## Alternative Method for Simplistic Economies
 
 When the standard method is inappropriate, impractical, or impossible to apply in a meaningful way — such as in pre-modern, pre-monetary, tribal, feudal, or extreme command economies — the scorer may instead use the following alternative:
 
