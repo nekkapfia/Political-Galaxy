@@ -120,13 +120,13 @@ Absolute or near-absolute economic autonomy across all domains, with zero tolera
 ### 37–43 (Low Mid – High number and accessibility of state controls)
 
 - Regulation is extremely prescriptive. Ideological and policy-driven requirements are deeply embedded.
-- Spending increasingly funds vanity projects and programmes designed to appeal to specific political or demographic groups. The reason is political reward and signalling.
+- Spending increasingly funds vanity projects and programmes designed to appeal to specific political or demographic groups.
 - Government spending is extremely high. Private initiative exists but must constantly navigate extensive state-defined criteria, approvals, and ownership structures.
 
 ### 28–36 (Low – High number and accessibility of state controls)
 
 - Regulation involves active, detailed meddling and oversight across large parts of the economy.
-- Spending is directed toward enforcing ideological outcomes, such as the green agenda. The reasons are for ideological purposes not economic or social benefit.
+- Spending is directed toward enforcing ideological outcomes, rather than economic ones.
 - Government spending plays a major role in shaping economic outcomes. The state routinely intervenes in production methods, investment, hiring, and business models.
 
 ### 19–27 (Low – Broad prescriptive interference and heavy constraints)
