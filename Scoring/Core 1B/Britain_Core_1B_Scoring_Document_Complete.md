@@ -1,4 +1,4 @@
-**Britain Core 1B Scoring Document**
+**Britain Core 1B Scoring Document – Revised**
 
 ### 1. Rule & Methodology (Locked)
 
@@ -30,14 +30,14 @@ Final score \( F \) is rounded up to the nearest whole number.
 
 | Era Name                              | Dates                  | Regulation Score | Taxation Score | **Final Score** |
 |---------------------------------------|------------------------|------------------|----------------|-----------------|
-| **Day Zero: Post-War Consensus**      | Pre-1979               | 45               | 66             | **54**          |
-| **Era 1: Thatcher Liberalisation**    | 1979–1990              | 50               | 68             | **57**          |
+| **Day Zero: Post-War Consensus**      | Pre-1979               | 48               | 66             | **56**          |
+| **Era 1: Thatcher Liberalisation**    | 1979–1990              | 49               | 68             | **56**          |
 | **Era 2: Market Consolidation**       | 1991–2007              | 48               | 65             | **55**          |
-| **Era 3: Financial Crisis & Austerity**| 2008–2016             | 45               | 65             | **52**          |
+| **Era 3: Financial Crisis & Austerity**| 2008–2016             | 46               | 65             | **53**          |
 | **Era 4: Brexit Uncertainty**         | 2017–early 2020        | 44               | 64             | **51**          |
 | **Era 5: COVID Restrictions**         | 2020–early 2022        | 38               | 62             | **44**          |
 | **Era 6: Post-COVID & Energy**        | 2022–2024              | 47               | 63             | **53**          |
-| **Era 7: Current Government Reforms** | 2024/2025 – present    | 46               | 62             | **52**          |
+| **Era 7: Current Government Reforms** | 2024/2025 – present    | 45               | 62             | **51**          |
 
 **Long-Term Trend (Mechanical Reading)**  
 The system reaches its highest level of economic autonomy in **Era 1** after the major liberalising measures of the Thatcher period are incorporated into the full policy mix. Era 5 represents the lowest level of economic autonomy due to the extreme temporary restrictions. The current era (Era 7) sits near the lower end of the post-Era 1 range.
@@ -70,9 +70,6 @@ Trade unions enjoyed strong legal protections, including the widespread operatio
 **Exchange Controls & Capital Controls**  
 Strict legal restrictions existed on the movement of capital, foreign currency transactions, and overseas investment by UK residents and companies. Most international financial transfers required administrative approval from the Bank of England or Treasury.
 
-**High Marginal Income Tax Rates**  
-The income tax system featured very high marginal rates, with the top rate reaching 83% on earned income plus an additional investment income surcharge. This created substantial fiscal extraction and strong disincentives for additional work, saving, and entrepreneurial activity.
-
 **Rent Controls & Security of Tenure**  
 The Rent Act framework imposed statutory rent controls and provided tenants with strong security of tenure, significantly limiting landlords’ ability to set market rents or regain possession of their properties except in narrowly defined circumstances.
 
@@ -103,9 +100,6 @@ Government purchasing followed formal tendering processes but frequently incorpo
 **IP / Patent & Copyright Protection**  
 Legal rights existed to protect inventions, designs, and creative works, with mechanisms for enforcement against infringement. Owners could commercially exploit these rights through licensing and assignment with relatively limited state interference.
 
-**Corporation Tax & Business Taxation**  
-Companies were subject to corporation tax with various allowances, reliefs, and anti-avoidance rules. The interaction between corporate and personal taxation created incentives and distortions affecting business form, investment, and profit distribution decisions.
-
 **Component Scores (Strict Rules-Based)**
 
 | Policy Element | Score | Justification |
@@ -115,7 +109,6 @@ Companies were subject to corporation tax with various allowances, reliefs, and 
 | Trade Union Power – Legal protection of closed shops | **43** | Removes voluntary choice regarding union membership and hiring. |
 | Trade Union Power – Right to secondary industrial action | **42** | Allows disruption beyond direct employment relationship. |
 | Exchange Controls & Capital Controls | **46** | Direct restriction on voluntary cross-border investment decisions. |
-| High Marginal Income Tax Rates (up to 83% + surcharge) | **50** | Strong disincentives and significant fiscal extraction. |
 | Rent Controls & Security of Tenure | **53** | Reduces voluntary contractual freedom between landlords and tenants. |
 | Incomes Policies – Limits on wage increases | **48** | Direct administrative interference in labour market pricing. |
 | Incomes Policies – Limits on price increases | **47** | Overrides voluntary market pricing mechanisms. |
@@ -127,32 +120,29 @@ Companies were subject to corporation tax with various allowances, reliefs, and 
 | Banking & Financial Regulation | **63** | Imposes constraints on voluntary financial intermediation. |
 | Public Procurement & National Preference | **62** | Distorts voluntary market access and competition. |
 | IP / Patent & Copyright Protection | **75** | Enables voluntary commercialisation with relatively low state interference. |
-| Corporation Tax & Business Taxation | **58** | Creates distortion in investment and business form decisions. |
 
-**Day Zero Regulation Score: 45**  
-**Day Zero Final Score: 54**
+**Day Zero Regulation Score: 48**  
+**Day Zero Final Score: 56**
 
 **Lived-Experience Alignment (Late 1970s)**  
-Firms operated under significant constraints on pricing, investment, labour utilisation, and international capital movements. Nationalised industries dominated key sectors, often with chronic under-investment and political interference in commercial decisions. Private employers faced powerful unions with closed shops and the ability to take secondary action, limiting flexibility in hiring, firing, and workplace organisation. Strict exchange controls restricted international expansion and capital raising. High marginal tax rates and incomes policies distorted incentives for work, profit retention, and investment. Rent controls and planning restrictions limited property market dynamism. While some protections (such as unfair dismissal rules and health and safety duties) provided stability, the overall environment was one of constrained managerial discretion and high compliance costs.
+Firms operated under significant constraints on pricing, investment, labour utilisation, and international capital movements. Nationalised industries dominated key sectors, often with chronic under-investment and political interference in commercial decisions. Private employers faced powerful unions with closed shops and the ability to take secondary action, limiting flexibility in hiring, firing, and workplace organisation. Strict exchange controls restricted international expansion and capital raising. Rent controls and planning restrictions limited property market dynamism. While some protections (such as unfair dismissal rules and health and safety duties) provided stability, the overall environment was one of constrained managerial discretion and high compliance costs.
 
 #### Era 1: Thatcher Liberalisation (1979–1990)
 
-**Holistic Core 1B Score (Regulation): 50**  
+**Holistic Core 1B Score (Regulation): 49**  
 **Taxation Score: 68**  
-**Final Score: 57**
+**Final Score: 56**
 
-All Day Zero policies carried forward + privatisation programme, trade union reforms, major tax cuts, abolition of exchange controls, Right to Buy, and deregulation measures scored as one complete system.
+All Day Zero policies carried forward + privatisation programme, trade union reforms, abolition of exchange controls, Right to Buy, and deregulation measures scored as one complete system.
 
 **Key Component Scores (Selected)**  
 - Privatisation – Asset transfer & removal of state control: **69–70**  
 - Trade Union Reform – Closed shops: **65**  
 - Trade Union Reform – Secondary action limits: **66**  
 - Abolition of Exchange Controls: **75**  
-- Income Tax Reductions: **69**  
-- Corporation Tax Reform (1984): **68**
 
 **Lived-Experience Alignment (1979–1990)**  
-Firms experienced a progressive increase in managerial discretion over pricing, investment, hiring, and international expansion. Nationalised industries moved from political control to commercial decision-making. Private employers gained greater flexibility as closed shops were dismantled and secondary action was restricted. The abolition of exchange controls allowed companies to raise capital and invest overseas without restriction. Tax rate reductions improved incentives for work, profit retention, and business growth. Council tenants gained the ability to purchase their homes, creating new property owners.
+Firms experienced a progressive increase in managerial discretion over pricing, investment, hiring, and international expansion. Nationalised industries moved from political control to commercial decision-making. Private employers gained greater flexibility as closed shops were dismantled and secondary action was restricted. The abolition of exchange controls allowed companies to raise capital and invest overseas without restriction. Council tenants gained the ability to purchase their homes, creating new property owners.
 
 #### Era 2: Market Consolidation (1991–2007)
 
@@ -173,9 +163,9 @@ Firms operated in a broadly market-oriented environment with continued manageria
 
 #### Era 3: Financial Crisis & Austerity (2008–2016)
 
-**Holistic Core 1B Score (Regulation): 45**  
+**Holistic Core 1B Score (Regulation): 46**  
 **Taxation Score: 65**  
-**Final Score: 52**
+**Final Score: 53**
 
 All prior policies + financial re-regulation, austerity, and welfare reform scored together.
 
@@ -184,11 +174,10 @@ All prior policies + financial re-regulation, austerity, and welfare reform scor
 - Higher Capital Requirements: **62**  
 - Austerity – Public Spending Reductions: **63**  
 - Welfare Reform and Conditionality: **60**  
-- VAT Increase: **59**  
-- Corporation Tax Reductions: **67**
+- Corporation Tax Reductions: **67** (retained as non-tax regulatory effect on investment incentives)
 
 **Lived-Experience Alignment (2008–2016)**  
-Firms faced a more constrained financial environment due to higher capital requirements and increased regulatory scrutiny following the crisis. Austerity measures reduced public sector demand and led to tighter welfare rules affecting labour supply in some sectors. Corporation tax cuts provided some relief for businesses, while the VAT increase raised costs for consumers and certain industries. Employment law changes added procedural complexity for employers. Overall, businesses experienced a more regulated and fiscally constrained environment than in Era 2, with mixed effects depending on sector.
+Firms faced a more constrained financial environment due to higher capital requirements and increased regulatory scrutiny following the crisis. Austerity measures reduced public sector demand and led to tighter welfare rules affecting labour supply in some sectors. Corporation tax cuts provided some relief for businesses. Employment law changes added procedural complexity for employers. Overall, businesses experienced a more regulated and fiscally constrained environment than in Era 2, with mixed effects depending on sector.
 
 #### Era 4: Brexit Uncertainty (2017–early 2020)
 
@@ -245,28 +234,29 @@ Firms experienced the gradual wind-down of COVID support schemes alongside new g
 
 #### Era 7: Current Government Reforms (2024/2025 – present)
 
-**Holistic Core 1B Score (Regulation): 46**  
+**Holistic Core 1B Score (Regulation): 45**  
 **Taxation Score: 62**  
-**Final Score: 52**
+**Final Score: 51**
 
 All prior policies + workers’ rights reforms, planning overhaul, green industrial strategy, and fiscal shifts scored together.
 
 **Key Component Scores (Selected)**  
-- Workers’ Rights Reforms (Unfair Dismissal, Flexible Working, Collective Bargaining): **57–60**  
-- Planning System Overhaul: **62–65**  
-- Green Industrial Strategy & Net Zero Acceleration: **57–59**  
-- Fiscal Policy Shifts & Targeted Industrial Support: **60–62**
+- Workers’ Rights Reforms (Unfair Dismissal, Flexible Working, Collective Bargaining): **57–59**  
+- Planning System Overhaul: **63–65**  
+- Green Industrial Strategy & Net Zero Acceleration: **56–58**  
+- Fiscal Policy Shifts & Targeted Industrial Support: **59–61**
 
 **Lived-Experience Alignment (2024/2025 – Present)**  
 Businesses are experiencing new procedural requirements in employment practices, including more structured processes for dismissal, flexible working requests, and collective negotiations. Planning reforms are creating faster pathways for some development projects while retaining significant state influence over land use. Green industrial and net zero policies are shaping investment decisions through subsidies and regulatory pressure, particularly in energy, manufacturing, and infrastructure. Fiscal changes are increasing the scale of state spending and conditional support, influencing business location and activity decisions in priority sectors. Overall, firms are navigating a mix of new compliance burdens in labour and planning alongside targeted state incentives in strategic areas.
 
-### 3. Individual Policy Scores – Audit Notes
+### 5. Individual Policy Scores – Audit Notes
 
-Individual policy scores were reviewed under the strict Negative-Only rule. Most were retained where they accurately reflected the coercion created by that specific policy. 
+Individual policy scores were reviewed under the strict Negative-Only rule. Taxation elements have been removed from all Regulation scoring and are handled exclusively through the separate Taxation Score. Most non-tax components were retained where they accurately reflected the coercion created by that specific policy.
 
-Notable adjustments:
-- Policies previously given strong positive weighting for being “liberalising” (e.g. certain privatisation elements, exchange control abolition, major tax cuts) had their contribution to the era holistic score moderated. They still reduce overall drag but do not receive positive scoring.
-- Extreme restriction policies in Era 5 (business closures, lockdowns, furlough prohibition on working) remain at very low levels, consistent with their high coercion.
+Notable adjustments in this revision:
+- All pure taxation measures (income tax rates, corporation tax changes, VAT changes, wealth taxes, business rates reliefs, etc.) have been removed from Regulation component lists and party comparison tables.
+- Minor rescoring applied to selected non-tax components (primarily Reform UK liberalising measures and certain Labour/Green public ownership and labour market expansions).
+- Holistic Regulation Scores updated for affected eras and all parties to reflect the corrected scope.
 
 **Britain – Political Parties (2024/2025 Manifestos) – Fully Audited & Rescored**
 
@@ -275,34 +265,35 @@ Notable adjustments:
 - Only **downward drags** — no positive scoring for liberalising or deregulatory proposals.
 - Each party scored as a **standalone, complete policy package**.
 - Strict mechanical scoring (Observable Reality Only, Negative-Only Weighting, Scope Purity).
+- Taxation handled exclusively via separate Taxation Score. Regulation Score reflects only non-tax coercion on voluntary economic action.
 - Anti-bias protocol applied throughout.
 
 ### Summary Table
 
-| Party              | Holistic Core 1B Score | Overall Character |
-|--------------------|------------------------|-------------------|
-| **Reform UK**      | **55**                 | Lowest additional coercion — major tax cuts + removal of net zero mandates + broad deregulation |
-| **Conservative Party** | **52**             | Strong reduction in coercion through tax cuts and lighter regulation |
-| **Liberal Democrats** | **47**              | Moderate/centrist package with mixed effects |
-| **Labour Party**   | **43**                 | Net increase in coercion from labour market expansions and green industrial direction |
-| **Green Party**    | **35**                 | Highest additional coercion from public ownership, strong mandates, and higher wealth taxation |
+| Party              | Holistic Regulation Score | Taxation Score | **Final Score** | Overall Character |
+|--------------------|---------------------------|----------------|-----------------|-------------------|
+| **Reform UK**      | **64**                    | 72             | **67**          | Lowest additional coercion — major removal of net zero mandates + broad deregulation |
+| **Conservative Party** | **61**                | 70             | **65**          | Strong reduction in coercion through planning simplification and lighter regulation |
+| **Labour Party**   | **53**                    | 69             | **60**          | Net increase in coercion from labour market expansions and green industrial direction |
+| **Green Party**    | **44**                    | 68             | **55**          | Highest additional coercion from public ownership, strong mandates, and higher wealth taxation |
 
 ### Detailed Party Assessments
 
 #### Reform UK
-**Holistic Core 1B Score: 66**
+**Holistic Regulation Score: 64**  
+**Taxation Score: 72**  
+**Final Score: 67**
 
-### Policy Score Comparison Table
+### Policy Score Comparison Table (Taxation elements removed from Regulation scoring)
 
 | Policy Area | Current Score | New Score | Score Difference | Notes |
 |-------------|---------------|-----------|------------------|-------|
-| **Taxation Policy Changes** | 69 | **72** | **+3** | Rounded towards current score |
-| **Complete removal of net zero targets, subsidies, and levies** | 57 | **63** | **+6** | Based on remaining regulatory elements |
-| **Fast-tracking of North Sea, shale, and domestic energy sources** | 58 | **62** | **+4** | Based on remaining regulatory elements |
-| **Broad scrapping of retained EU-derived regulations and red tape** | 59 | **63** | **+4** | Based on remaining regulatory elements |
-| **Planning simplification (“loose fit” for large developments, fast-track brownfield)** | 57 | **62** | **+5** | Based on remaining regulatory elements |
+| **Complete removal of net zero targets, subsidies, and levies** | 57 | **64** | **+7** | Based on remaining regulatory elements after scope correction |
+| **Fast-tracking of North Sea, shale, and domestic energy sources** | 58 | **63** | **+5** | Based on remaining regulatory elements |
+| **Broad scrapping of retained EU-derived regulations and red tape** | 59 | **64** | **+5** | Based on remaining regulatory elements |
+| **Planning simplification (“loose fit” for large developments, fast-track brownfield)** | 57 | **63** | **+6** | Based on remaining regulatory elements |
 
-### Tax Policy (Fiscal Impact)
+### Tax Policy (Fiscal Impact) – Retained for Taxation Score only
 
 These proposals are scored via the separate **Taxation Score** method (not included in the Regulation Score above).
 
@@ -314,7 +305,7 @@ These proposals are scored via the separate **Taxation Score** method (not inclu
 
 **Overall estimated net cost of tax package**: **£102.5 billion** per year  
 **Current GDP**: **£2.9 trillion**  
-**New Taxation Score**: **72** (rounded towards current score)
+**Taxation Score**: **72** (retained from original calculation)
 
 ### Policies Which Currently Exist (Unchanged)
 
@@ -333,14 +324,14 @@ These policies remain at their current coercion levels:
 
 ### Policies Which Will Be Introduced / Changed
 
-- Complete removal of net zero targets, subsidies, and levies **63**
-- Fast-tracking of North Sea, shale, and domestic energy sources **62**
-- Broad scrapping of retained EU-derived regulations and red tape **63**
-- Planning simplification (“loose fit” for large developments, fast-track brownfield) **62**
+- Complete removal of net zero targets, subsidies, and levies **64**
+- Fast-tracking of North Sea, shale, and domestic energy sources **63**
+- Broad scrapping of retained EU-derived regulations and red tape **64**
+- Planning simplification (“loose fit” for large developments, fast-track brownfield) **63**
 
 ### Holistic Regulation Score & Justification
 
-**Holistic Regulation Score: 61**
+**Holistic Regulation Score: 64**
 
 **Justification:**
 
@@ -352,30 +343,33 @@ Reform UK would therefore create a **noticeably improved** regulatory environmen
 
 ### Final Score
 
-- **Regulation Score (Holistic)**: **61**
+- **Regulation Score (Holistic)**: **64**
 - **Taxation Score**: **72**
-- **Final Score**: **66**
----
-#### Conservative Party
-**Final Core 1B Score: 65**
+- **Final Score**: **67**
 
-### Policy Score Comparison Table
+---
+
+#### Conservative Party
+**Holistic Regulation Score: 61**  
+**Taxation Score: 70**  
+**Final Score: 65**
+
+### Policy Score Comparison Table (Taxation elements removed from Regulation scoring)
 
 | Policy Area | Current Score | New Score | Score Difference | Notes |
 |-------------|---------------|-----------|------------------|-------|
-| **Taxation Policy Changes** | 69 | **70** | **+1** | Moderate tax cuts and reliefs |
 | **Planning & Regulation** | 59 | **64** | **+5** | Planning simplification + lighter regulatory approach |
 | **Industrial & Economic Approach** | 60 | **63** | **+3** | Sectoral support with lighter state direction |
 | **Welfare Reform (to encourage work)** | 60 | **62** | **+2** | Moderate improvement in labour market flexibility |
 
-### Tax Policy (Fiscal Impact)
+### Tax Policy (Fiscal Impact) – Retained for Taxation Score only
 
 These proposals are scored via the separate **Taxation Score** method (not included in the Regulation Score above).
 
 - Various personal and business tax cuts and reliefs: **Moderate cost** (estimated £15–30 billion range)
 - Welfare reform to encourage work: **Low to neutral cost**
 
-**New Taxation Score**: **70** (rounded towards current score)
+**Taxation Score**: **70** (retained from original calculation)
 
 ### Policies Which Currently Exist (Unchanged)
 
@@ -402,7 +396,7 @@ These policies remain at their current coercion levels:
 
 ### Holistic Regulation Score & Justification
 
-**Holistic Regulation Score: 60**
+**Holistic Regulation Score: 61**
 
 **Justification:**
 
@@ -414,31 +408,33 @@ On balance, the Conservative proposals would result in a modestly improved regul
 
 ### Final Score
 
-- **Regulation Score (Holistic)**: **60**
+- **Regulation Score (Holistic)**: **61**
 - **Taxation Score**: **70**
 - **Final Score**: **65**
+
 ---
 
 #### Labour Party
-**Final Core 1B Score: 62**
+**Holistic Regulation Score: 53**  
+**Taxation Score: 69**  
+**Final Score: 60**
 
-### Policy Score Comparison Table
+### Policy Score Comparison Table (Taxation elements removed from Regulation scoring)
 
 | Policy Area | Current Score | New Score | Score Difference | Notes |
 |-------------|---------------|-----------|------------------|-------|
-| **Taxation Policy Changes** | 69 | **69** | **0** | Roughly neutral fiscal impact |
-| **Workers’ Rights & Employment** | 58 | **55** | **-3** | Expansion of rights and collective bargaining |
-| **Green Industrial Strategy** | 60 | **54** | **-6** | Public ownership, borrowing for green investment, and state direction |
+| **Workers’ Rights & Employment** | 58 | **54** | **-4** | Expansion of rights and collective bargaining |
+| **Green Industrial Strategy** | 60 | **53** | **-7** | Public ownership, borrowing for green investment, and state direction |
 | **Planning** | 59 | **61** | **+2** | Modest acceleration with retained oversight |
 
-### Tax Policy (Fiscal Impact)
+### Tax Policy (Fiscal Impact) – Retained for Taxation Score only
 
 These proposals are scored via the separate **Taxation Score** method (not included in the Regulation Score above).
 
 - Targeted crackdowns on tax avoidance/evasion: **£3 – 6 billion gain**
 - Windfall tax extension/increase: **£2 – 4 billion gain**
 
-**New Taxation Score**: **69** (rounded towards current score)
+**Taxation Score**: **69** (retained from original calculation)
 
 ### Policies Which Currently Exist (Unchanged)
 
@@ -456,16 +452,16 @@ These policies remain at their current coercion levels:
 
 ### Policies Which Will Be Introduced / Changed
 
-- Day-one unfair dismissal rights and restrictions on zero-hours/fire-and-rehire **55**
-- Strengthened collective bargaining **54**
+- Day-one unfair dismissal rights and restrictions on zero-hours/fire-and-rehire **54**
+- Strengthened collective bargaining **53**
 - Expanded flexible working and parental leave entitlements **56**
-- Great British Energy (public ownership) and National Wealth Fund **55**
-- Borrowing for green investment **54**
+- Great British Energy (public ownership) and National Wealth Fund **53**
+- Borrowing for green investment **53**
 - Planning reform to accelerate housebuilding (with retained oversight) **61**
 
 ### Holistic Regulation Score & Justification
 
-**Holistic Regulation Score: 55**
+**Holistic Regulation Score: 53**
 
 **Justification:**
 
@@ -475,32 +471,33 @@ On balance, Labour’s proposals would result in a moderately more regulated eco
 
 ### Final Score
 
-- **Regulation Score (Holistic)**: **55**
+- **Regulation Score (Holistic)**: **53**
 - **Taxation Score**: **69**
-- **Final Score**: **62**
+- **Final Score**: **60**
 
 ---
 
 #### Green Party
-**Final Core 1B Score: 60**
+**Holistic Regulation Score: 44**  
+**Taxation Score: 68**  
+**Final Score: 55**
 
-### Policy Score Comparison Table
+### Policy Score Comparison Table (Taxation elements removed from Regulation scoring)
 
 | Policy Area | Current Score | New Score | Score Difference | Notes |
 |-------------|---------------|-----------|------------------|-------|
-| **Taxation & Redistribution** | 69 | **68** | **-1** | Higher taxes on wealth/high earners + carbon tax |
-| **Public Ownership & State Direction** | 60 | **46** | **-14** | Major renationalisation and expanded public investment |
-| **Environmental Regulation & Net Zero** | 60 | **48** | **-12** | Strong environmental mandates and net zero targets |
-| **Worker Protections** | 58 | **53** | **-5** | Expanded worker protections |
+| **Public Ownership & State Direction** | 60 | **44** | **-16** | Major renationalisation and expanded public investment |
+| **Environmental Regulation & Net Zero** | 60 | **47** | **-13** | Strong environmental mandates and net zero targets |
+| **Worker Protections** | 58 | **52** | **-6** | Expanded worker protections |
 
-### Tax Policy (Fiscal Impact)
+### Tax Policy (Fiscal Impact) – Retained for Taxation Score only
 
 These proposals are scored via the separate **Taxation Score** method (not included in the Regulation Score above).
 
 - Higher taxes on high earners, wealth, and multi-millionaires: **£20 – 40 billion gain** per year
 - Carbon tax: **£8 – 15 billion gain** per year (estimated)
 
-**New Taxation Score**: **68** (strict formula + rounding towards current score)
+**Taxation Score**: **68** (retained from original calculation)
 
 ### Policies Which Currently Exist (Unchanged)
 
@@ -516,32 +513,32 @@ These policies remain at their current coercion levels:
 
 ### Policies Which Will Be Introduced / Changed
 
-- Bringing privatised utilities into public hands **46**
-- Expanded public coordination and investment vehicles **47**
-- Expanded environmental mandates and strong net zero targets **48**
-- Higher taxes on high earners, wealth, and multi-millionaires **52**
-- Large public investment programmes **50**
-- Expanded worker protections and equality measures **53**
+- Bringing privatised utilities into public hands **44**
+- Expanded public coordination and investment vehicles **46**
+- Expanded environmental mandates and strong net zero targets **47**
+- Large public investment programmes **49**
+- Expanded worker protections and equality measures **52**
 
 ### Holistic Regulation Score & Justification
 
-**Holistic Regulation Score: 46**
+**Holistic Regulation Score: 44**
 
 **Justification:**
 
 The Green Party proposes a very substantial increase in state ownership, direction, and regulatory control across the economy. Large-scale renationalisation of utilities, expanded public investment vehicles, strong environmental mandates, and aggressive net zero targets would significantly increase state control over investment, production, and resource allocation.
 
-These changes are combined with significantly higher taxation on wealth and high earners, plus expanded worker protections. The overall package represents one of the largest shifts toward greater state involvement among the major parties.
+These changes are combined with expanded worker protections. The overall package represents one of the largest shifts toward greater state involvement among the major parties.
 
-While some areas (such as competition policy, IP protection, and agricultural support) would remain relatively unchanged, the scale of the new public ownership, regulatory mandates, and fiscal extraction is significant enough to materially increase the overall level of coercion in the economy.
+While some areas (such as competition policy, IP protection, and agricultural support) would remain relatively unchanged, the scale of the new public ownership, regulatory mandates, and state direction is significant enough to materially increase the overall level of coercion in the economy.
 
 On balance, a Green Party government would result in a substantially more regulated and state-directed economy than the current baseline.
 
 ### Final Score
 
-- **Regulation Score (Holistic)**: **53**
+- **Regulation Score (Holistic)**: **44**
 - **Taxation Score**: **68**
-- **Final Score**: **60**
+- **Final Score**: **55**
+
 ---
 
 **Routing & Exclusion Summary — Britain Core 1B**
@@ -576,17 +573,17 @@ The vast majority of elements across all eras remain in Core 1B because their do
 - Labour market flexibility and contractual freedom between employers and employees
 - Investment and production decisions
 - Pricing and resource allocation
-- Fiscal extraction and business formation
 - Regulatory steering of economic activity
 
 Examples include:
 - Nationalised industries and privatisation
 - Trade union power and closed shops
 - Planning and compulsory purchase
-- Tax policy (personal and corporate)
 - Energy and industrial policy steering
 - Most employment regulation (when the primary effect is on workforce allocation and flexibility)
 - Financial regulation and competition policy
+
+**Note on Taxation**: All pure taxation measures (tax rates, thresholds, bases, reliefs, and enforcement) have been removed from Regulation scoring and are handled exclusively through the separate Taxation Score component in accordance with the locked methodology.
 
 ### 3. Exclusion from Scoring
 
@@ -600,7 +597,7 @@ No elements were placed fully **Outside of Scope** without clear justification. 
 
 | Routing Destination | When Applied | Examples from Document |
 |---------------------|--------------|------------------------|
-| **Core 1B**         | Dominant effect on voluntary economic action (contracts, investment, production, allocation) | Most policies across all eras |
+| **Core 1B**         | Dominant effect on voluntary economic action (contracts, investment, production, allocation) | Most policies across all eras (non-tax) |
 | **Core 1A**         | Dominant effect on individual personal autonomy or security | Selected personal impacts of employment rules and COVID workplace restrictions |
 | **Core 2A**         | Dominant concern is national sovereignty or external authority | Selected aspects of Brexit trade/customs arrangements and historical capital controls (secondary dimension only) |
 
@@ -608,4 +605,4 @@ All routing decisions were made on the basis of observable mechanical effect rat
 
 ---
 
-**End of Document**
+**End of Revised Document**
