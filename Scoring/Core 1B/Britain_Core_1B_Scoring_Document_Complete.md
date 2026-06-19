@@ -285,7 +285,7 @@ Notable adjustments in this revision:
 #### Reform UK
 **Holistic Regulation Score: 64**  
 **Taxation Score: 72**  
-**Final Score: 67**
+**Final Score: 68**
 
 ### Policy Score Comparison Table (Taxation elements removed from Regulation scoring)
 
@@ -308,7 +308,7 @@ These proposals are scored via the separate **Taxation Score** method (not inclu
 
 **Overall estimated net cost of tax package**: **£102.5 billion** per year  
 **Current GDP**: **£2.9 trillion**  
-**Taxation Score**: **72** (retained from original calculation)
+**Taxation Score**: **72** (rounded towards current score)
 
 ### Policies Which Currently Exist (Unchanged)
 
@@ -344,18 +344,70 @@ Although many other areas of regulation remain unchanged, the scale of the refor
 
 Reform UK would therefore create a **noticeably improved** regulatory environment, even while substantial coercion remains in several other areas of the economy.
 
-### Final Score
-
-- **Regulation Score (Holistic)**: **64**
-- **Taxation Score**: **72**
-- **Final Score**: **67**
 
 ---
+
+#### Restore Britain
+**Holistic Regulation Score: 63**  
+**Taxation Score: 71**  
+**Final Score: 67**
+
+### Policy Score Comparison Table (Taxation elements removed from Regulation scoring)
+
+| Policy Area | Current Score | New Score | Score Difference | Notes |
+|-------------|---------------|-----------|------------------|-------|
+| **Removal of net zero targets and green levies** | 57 | **65** | **+8** | Significant reduction in policy-driven direction and compliance burden |
+| **Planning liberalisation and fast-track infrastructure** | 57 | **64** | **+7** | Reduced prior restraint on development and investment |
+| **Energy production expansion (North Sea, nuclear, domestic)** | 58 | **64** | **+6** | Lower regulatory barriers to voluntary energy production |
+| **Reduction in employment regulation and bureaucracy** | 58 | **62** | **+4** | Modest reduction in labour market rigidity |
+
+### Tax Policy (Fiscal Impact) – Retained for Taxation Score only
+
+These proposals are scored via the separate **Taxation Score** method (not included in the Regulation Score above).
+
+- Corporation tax reduction and wider business tax reliefs: **£12 – 20 billion cost**
+- Raising personal income tax thresholds and fuel duty reductions: **£8 – 14 billion cost**
+- Abolition or major reduction of green levies and net zero-related taxes: **£6 – 10 billion cost**
+- Business rates relief for high-street and SME sectors: **£4 – 7 billion cost**
+
+**Overall estimated net cost of tax package**: **£30 – 51 billion** per year  
+**Current GDP**: **£2.9 trillion**  
+**Taxation Score**: **71** (rounded towards current score)
+
+### Policies Which Currently Exist (Unchanged)
+
+These policies remain at their current coercion levels:
+
+- Trade Union Power & Closed Shops **58**
+- Unfair Dismissal & Employment Protection **58**
+- Health and Safety at Work Act **60**
+- Competition Policy **66**
+- Banking & Financial Regulation **63**
+- Public Procurement & National Preference **62**
+- IP / Patent & Copyright Protection **75**
+- Agricultural Support & Production Steering **55**
+- Rent Controls & Security of Tenure **53**
+
+### Policies Which Will Be Introduced / Changed
+
+- Removal of net zero targets and green levies **65**
+- Planning liberalisation and fast-track infrastructure **64**
+- Energy production expansion (North Sea, nuclear, domestic) **64**
+- Reduction in employment regulation and bureaucracy **62**
+
+### Holistic Regulation Score & Justification
+
+**Holistic Regulation Score: 63**
+
+Restore Britain proposes significant reductions in state direction and regulatory burden, particularly through the removal of net zero mandates, planning liberalisation, and expanded domestic energy production. These measures would materially increase voluntary economic decision-making in energy, development, and business operations.
+
+While some areas of regulation remain unchanged, the overall package represents one of the stronger shifts toward lower coercion among the options assessed.
+
 
 #### Conservative Party
 **Holistic Regulation Score: 61**  
 **Taxation Score: 70**  
-**Final Score: 65**
+**Final Score: 66**
 
 ### Policy Score Comparison Table (Taxation elements removed from Regulation scoring)
 
@@ -369,10 +421,13 @@ Reform UK would therefore create a **noticeably improved** regulatory environmen
 
 These proposals are scored via the separate **Taxation Score** method (not included in the Regulation Score above).
 
-- Various personal and business tax cuts and reliefs: **Moderate cost** (estimated £15–30 billion range)
-- Welfare reform to encourage work: **Low to neutral cost**
+- Various personal income tax threshold increases and reliefs: **£8 – 15 billion cost**
+- Corporation tax and business tax reductions: **£5 – 10 billion cost**
+- Targeted business rates and high-street reliefs: **£2 – 5 billion cost**
 
-**Taxation Score**: **70** (retained from original calculation)
+**Overall estimated net cost of tax package**: **£15 – 30 billion** per year  
+**Current GDP**: **£2.9 trillion**  
+**Taxation Score**: **70** (rounded towards current score)
 
 ### Policies Which Currently Exist (Unchanged)
 
@@ -409,18 +464,12 @@ However, the party does not propose significant reforms across most other areas 
 
 On balance, the Conservative proposals would result in a modestly improved regulatory environment compared to the current baseline, but one that continues to feature significant ongoing state oversight and restrictions in many areas.
 
-### Final Score
-
-- **Regulation Score (Holistic)**: **61**
-- **Taxation Score**: **70**
-- **Final Score**: **65**
-
 ---
 
 #### Labour Party
 **Holistic Regulation Score: 53**  
 **Taxation Score: 69**  
-**Final Score: 60**
+**Final Score: 61**
 
 ### Policy Score Comparison Table (Taxation elements removed from Regulation scoring)
 
@@ -437,7 +486,9 @@ These proposals are scored via the separate **Taxation Score** method (not inclu
 - Targeted crackdowns on tax avoidance/evasion: **£3 – 6 billion gain**
 - Windfall tax extension/increase: **£2 – 4 billion gain**
 
-**Taxation Score**: **69** (retained from original calculation)
+**Overall estimated net fiscal gain**: **£5 – 10 billion** per year  
+**Current GDP**: **£2.9 trillion**  
+**Taxation Score**: **69** (rounded towards current score)
 
 ### Policies Which Currently Exist (Unchanged)
 
@@ -472,18 +523,69 @@ The Labour Party proposes a clear expansion of state involvement across several 
 
 On balance, Labour’s proposals would result in a moderately more regulated economic environment than the current baseline, with higher levels of state involvement in labour markets and industrial strategy.
 
-### Final Score
-
-- **Regulation Score (Holistic)**: **53**
-- **Taxation Score**: **69**
-- **Final Score**: **60**
-
 ---
+
+#### Liberal Democrats
+**Holistic Regulation Score: 49**  
+**Taxation Score: 67**  
+**Final Score: 58**
+
+### Policy Score Comparison Table (Taxation elements removed from Regulation scoring)
+
+| Policy Area | Current Score | New Score | Score Difference | Notes |
+|-------------|---------------|-----------|------------------|-------|
+| **Environmental regulation and net zero acceleration** | 60 | **48** | **-12** | Stronger environmental mandates and compliance requirements |
+| **Workers’ rights and employment protections** | 58 | **50** | **-8** | Expansion of collective bargaining and flexible working rights |
+| **Planning reform with environmental and community safeguards** | 59 | **52** | **-7** | Modest acceleration offset by additional regulatory hurdles |
+| **Green industrial and infrastructure strategy** | 60 | **51** | **-9** | Increased state direction through subsidies and mandates |
+
+### Tax Policy (Fiscal Impact) – Retained for Taxation Score only
+
+These proposals are scored via the separate **Taxation Score** method (not included in the Regulation Score above).
+
+- Increases to wealth taxes and higher rate income tax bands: **£6 – 12 billion gain**
+- Carbon tax and environmental levy increases: **£3 – 6 billion gain**
+- Modest adjustments to capital gains and inheritance tax: **£1 – 3 billion gain**
+
+**Overall estimated net fiscal gain**: **£10 – 21 billion** per year  
+**Current GDP**: **£2.9 trillion**  
+**Taxation Score**: **67** (rounded towards current score)
+
+### Policies Which Currently Exist (Unchanged)
+
+These policies remain at their current coercion levels:
+
+- Trade Union Power & Closed Shops **58**
+- Unfair Dismissal & Employment Protection **58**
+- Health and Safety at Work Act **60**
+- Competition Policy **66**
+- Banking & Financial Regulation **63**
+- Public Procurement & National Preference **62**
+- IP / Patent & Copyright Protection **75**
+- Agricultural Support & Production Steering **55**
+- Rent Controls & Security of Tenure **53**
+- Exchange Controls (already abolished) **75**
+
+### Policies Which Will Be Introduced / Changed
+
+- Environmental regulation and net zero acceleration **48**
+- Workers’ rights and employment protections **50**
+- Planning reform with environmental and community safeguards **52**
+- Green industrial and infrastructure strategy **51**
+
+### Holistic Regulation Score & Justification
+
+**Holistic Regulation Score: 49**
+
+The Liberal Democrats propose a moderate increase in state direction and regulatory burden, particularly through accelerated environmental mandates, expanded workers’ rights, and green industrial policy. While some planning reforms offer limited liberalisation, these are offset by additional environmental and community requirements.
+
+On balance, the package would result in a modestly more regulated economic environment than the current baseline.
+
 
 #### Green Party
 **Holistic Regulation Score: 44**  
 **Taxation Score: 68**  
-**Final Score: 55**
+**Final Score: 56**
 
 ### Policy Score Comparison Table (Taxation elements removed from Regulation scoring)
 
@@ -497,9 +599,12 @@ On balance, Labour’s proposals would result in a moderately more regulated eco
 
 These proposals are scored via the separate **Taxation Score** method (not included in the Regulation Score above).
 
-- Higher taxes on high earners, wealth, and multi-millionaires: **£20 – 40 billion gain** per year
-- Carbon tax: **£8 – 15 billion gain** per year (estimated)
+- Higher taxes on high earners, wealth, and multi-millionaires: **£20 – 40 billion gain**
+- Carbon tax and expanded environmental taxation: **£8 – 15 billion gain**
+- Increases to capital gains and inheritance tax: **£4 – 8 billion gain**
 
+**Overall estimated net fiscal gain**: **£32 – 63 billion** per year  
+**Current GDP**: **£2.9 trillion**  
 **Taxation Score**: **68** (retained from original calculation)
 
 ### Policies Which Currently Exist (Unchanged)
@@ -535,12 +640,6 @@ These changes are combined with expanded worker protections. The overall package
 While some areas (such as competition policy, IP protection, and agricultural support) would remain relatively unchanged, the scale of the new public ownership, regulatory mandates, and state direction is significant enough to materially increase the overall level of coercion in the economy.
 
 On balance, a Green Party government would result in a substantially more regulated and state-directed economy than the current baseline.
-
-### Final Score
-
-- **Regulation Score (Holistic)**: **44**
-- **Taxation Score**: **68**
-- **Final Score**: **55**
 
 ---
 
