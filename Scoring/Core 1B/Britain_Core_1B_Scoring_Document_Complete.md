@@ -11,18 +11,22 @@ Taxation is scored separately using the standard method:
 **Taxation Score = (1 − Government Tax Income / GDP) × 100**
 
 **Final Scoring Formula**  
-\[
+
+$$
 A = \frac{\text{Regulation Score} + \text{Taxation Score}}{2}
-\]
-\[
+$$
+
+$$
 L = \min(\text{Regulation Score}, \text{Taxation Score})
-\]
-\[
+$$
+
+$$
 d = \frac{|\text{Regulation Score} - \text{Taxation Score}|}{100}
-\]
-\[
+$$
+
+$$
 F = (1 - d) \cdot A + d \cdot L
-\]
+$$
 
 Final score \( F \) is rounded up to the nearest whole number.
 
@@ -44,17 +48,16 @@ The system reaches its highest level of economic autonomy in **Era 1** after the
 
 ### 3. Taxation Scores by Era
 
-| Era | Dates | Tax-to-GDP (approx.) | **Taxation Score** |
-|-----|-------|----------------------|--------------------|
-| Day Zero | Pre-1979 | 34.5% | **66** |
-| Era 1 | 1979–1990 | 32% | **68** |
-| Era 2 | 1991–2007 | 35% | **65** |
-| Era 3 | 2008–2016 | 35.5% | **65** |
-| Era 4 | 2017–early 2020 | 36% | **64** |
-| Era 5 | 2020–early 2022 | 38% | **62** |
-| Era 6 | 2022–2024 | 37% | **63** |
-| Era 7 | 2024/2025–present | 38.5% | **62** |
-
+| Era      | Dates                  | Tax Revenue (approx. period average) | GDP (approx. period average) | Tax-to-GDP (approx.) | **Taxation Score** |
+|----------|------------------------|--------------------------------------|------------------------------|----------------------|--------------------|
+| Day Zero | Pre-1979               | £55 Billion                          | £160 Billion                 | 34.5%                | **66**             |
+| Era 1    | 1979–1990              | £95 Billion                          | £297 Billion                 | 32%                  | **68**             |
+| Era 2    | 1991–2007              | £280 Billion                         | £800 Billion                 | 35%                  | **65**             |
+| Era 3    | 2008–2016              | £450 Billion                         | £1.27 Trillion               | 35.5%                | **65**             |
+| Era 4    | 2017–early 2020        | £580 Billion                         | £1.61 Trillion               | 36%                  | **64**             |
+| Era 5    | 2020–early 2022        | £620 Billion                         | £1.63 Trillion               | 38%                  | **62**             |
+| Era 6    | 2022–2024              | £680 Billion                         | £1.84 Trillion               | 37%                  | **63**             |
+| Era 7    | 2024/2025–present      | £720 Billion                         | £1.87 Trillion               | 38.5%                | **62**             |
 ### 4. Policies Active by Era
 
 #### Day Zero: Post-War Consensus (Pre-1979)
