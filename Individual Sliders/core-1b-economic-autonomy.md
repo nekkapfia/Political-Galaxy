@@ -102,7 +102,7 @@ Absolute or near-absolute economic autonomy across all domains, with zero tolera
 ### 60–69 (Mid – Moderate number and accessibility of state controls)
 
 - Regulation becomes more detailed in health, safety, and workers’ rights. Early ideological or policy-driven requirements begin to appear in some sectors.
-- Broader social programmes are introduced to reduce behaviour that threatens social cohesion or causes widespread disruption. Reason is collective stability.
+- Broader social programmes are introduced to reduce behaviour that threatens social cohesion or causes widespread disruption. 
 - Government spending is moderately high. The core of regulation remains protective, but state direction is increasing.
 
 ### 51–59 (Mid–Lower – Noticeable increase in state controls)
@@ -114,7 +114,7 @@ Absolute or near-absolute economic autonomy across all domains, with zero tolera
 ### 44–50 (Low–Mid – Multiple significant state controls)
 
 - Regulation is very heavy and increasingly driven by ideological goals. Significant portions of regulation are rooted in political priorities.
-- Spending is used to actively direct and restructure parts of the economy according to political priorities. The reason is control over economic results
+- Spending is used to actively direct and restructure parts of the economy according to political priorities.
 - Government spending is very high. The system actively uses rules and ownership to reshape industries and behaviour.
 
 ### 37–43 (Low Mid – High number and accessibility of state controls)
@@ -126,32 +126,29 @@ Absolute or near-absolute economic autonomy across all domains, with zero tolera
 ### 28–36 (Low – High number and accessibility of state controls)
 
 - Regulation involves active, detailed meddling and oversight across large parts of the economy.
-- Spending is directed toward enforcing ideological outcomes, rather than economic ones.
 - Government spending plays a major role in shaping economic outcomes. The state routinely intervenes in production methods, investment, hiring, and business models.
 
 ### 19–27 (Low – Broad prescriptive interference and heavy constraints)
 
 - Regulation is very broad and highly prescriptive. The state imposes detailed rules on how businesses can operate across most of the economy.
-- Spending funds projects that offer no meaningful direct benefit, but produce clear negative economic or social consequences as a direct result of the project itself. The harm is a secondary but foreseeable effect of the spending.
 - Government spending is near-total in its dominance. Independent economic decision-making is significantly constrained.
 
 ### 11–18 (Low – Near-total state control)
 
 - Regulation is near-total. Almost all meaningful private economic activity requires explicit or implicit state approval.
-- Spending becomes the dominant mechanism for allocating resources. The reason is the elimination of independent economic agency.
 - Government spending is effectively total. Genuine independent decision-making has been heavily reduced.
 
 ### 6–10 (Ultra Low – Extreme state control)
 
 - Regulation is absolute. There is no meaningful sphere of private economic action.
-- Spending is no longer distinguishable from the economy. The reason is complete state direction of all major resource flows.
+- Spending is no longer distinguishable from the economy.
 - Direct state ownership and control of the economy is near-complete. Government spending is total and indistinguishable from the economy itself. However, small pockets of heavily restricted private activity may still technically exist.
 
 ### 0–5 (Floor – Absolute statism – Total economic dominion) — Compressed zone
 
 Total state or collective control over all economic activity with zero tolerance for voluntary market mechanisms. This allows observable variation within different statist systems (different mechanisms of central control while retaining total rejection of private economic autonomy).
 
-- **5** = Near-absolute state economic control. The state owns or directs essentially all significant resources, capital, and production. Any remaining private economic activity is marginal, heavily restricted, and exists only under direct state oversight or permission. There is effectively no independent private economic decision-making of consequence. Spending is used as an instrument to exert total control and to inflict or sustain damage on parts of the population or economy. The reason includes domination and harm as features, not bugs.
+- **5** = Near-absolute state economic control. The state owns or directs essentially all significant resources, capital, and production. Any remaining private economic activity is marginal, heavily restricted, and exists only under direct state oversight or permission. There is effectively no independent private economic decision-making of consequence.
 - **3–4** = Total state economic control with only the most minimal and symbolic residual private activity. Virtually every meaningful economic decision regarding resources, capital, production, and distribution is directed by the state. The distinction between state and economy is almost entirely collapsed.
 - **1–2** = Absolute state economic control. There is no private economic action of any meaningful kind. All resources, capital, production, distribution, and economic decisions are fully directed by the state or collective. The distinction between the state and the economy has completely collapsed.
 - **0** = Theoretical floor. Complete and total state economic control with no private economic activity possible under any circumstances.
