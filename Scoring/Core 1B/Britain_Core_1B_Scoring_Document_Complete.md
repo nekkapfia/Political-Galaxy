@@ -273,12 +273,14 @@ Notable adjustments in this revision:
 
 ### Summary Table
 
-| Party              | Holistic Regulation Score | Taxation Score | **Final Score** | Overall Character |
-|--------------------|---------------------------|----------------|-----------------|-------------------|
-| **Reform UK**      | **64**                    | 72             | **67**          | Lowest additional coercion — major removal of net zero mandates + broad deregulation |
-| **Conservative Party** | **61**                | 70             | **65**          | Strong reduction in coercion through planning simplification and lighter regulation |
-| **Labour Party**   | **53**                    | 69             | **60**          | Net increase in coercion from labour market expansions and green industrial direction |
-| **Green Party**    | **44**                    | 68             | **55**          | Highest additional coercion from public ownership, strong mandates, and higher wealth taxation |
+| Party                | Holistic Regulation Score | Taxation Score | **Final Score** | Overall Character |
+|----------------------|---------------------------|----------------|-----------------|-------------------|
+| **Reform UK**        | **64**                    | 72             | **68**          | Lowest additional coercion — major removal of net zero mandates + broad deregulation |
+| **Restore Britain**  | **63**                    | 71             | **67**          | Strong deregulation and energy production focus with high sovereignty emphasis |
+| **Conservative Party** | **61**                  | 70             | **66**          | Strong reduction in coercion through planning simplification and lighter regulation |
+| **Liberal Democrats**| **49**                    | 67             | **58**          | Moderate increase in coercion from environmental regulation and workers’ rights expansions |
+| **Labour Party**     | **53**                    | 69             | **61**          | Net increase in coercion from labour market expansions and green industrial direction |
+| **Green Party**      | **44**                    | 68             | **56**          | Highest additional coercion from public ownership, strong mandates, and higher wealth taxation |
 
 ### Detailed Party Assessments
 
