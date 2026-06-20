@@ -289,15 +289,6 @@ Notable adjustments in this revision:
 **Taxation Score: 72**  
 **Final Score: 68**
 
-### Policy Score Comparison Table (Taxation elements removed from Regulation scoring)
-
-| Policy Area | Current Score | New Score | Score Difference | Notes |
-|-------------|---------------|-----------|------------------|-------|
-| **Complete removal of net zero targets, subsidies, and levies** | 57 | **64** | **+7** | Based on remaining regulatory elements after scope correction |
-| **Fast-tracking of North Sea, shale, and domestic energy sources** | 58 | **63** | **+5** | Based on remaining regulatory elements |
-| **Broad scrapping of retained EU-derived regulations and red tape** | 59 | **64** | **+5** | Based on remaining regulatory elements |
-| **Planning simplification (“loose fit” for large developments, fast-track brownfield)** | 57 | **63** | **+6** | Based on remaining regulatory elements |
-
 ### Tax Policy (Fiscal Impact) – Retained for Taxation Score only
 
 These proposals are scored via the separate **Taxation Score** method (not included in the Regulation Score above).
@@ -329,23 +320,21 @@ These policies remain at their current coercion levels:
 
 ### Policies Which Will Be Introduced / Changed
 
-- Complete removal of net zero targets, subsidies, and levies **64**
-- Fast-tracking of North Sea, shale, and domestic energy sources **63**
-- Broad scrapping of retained EU-derived regulations and red tape **64**
-- Planning simplification (“loose fit” for large developments, fast-track brownfield) **63**
+- Remaining planning controls after simplification **65**
+- Remaining restrictions on domestic energy production after fast-tracking **64**
+- Remaining regulatory burden after scrapping retained EU-derived rules **67**
+
+### Policies Which Will Be Removed
+
+- Complete removal of net zero targets, subsidies, and levies *(no longer scored – policy is abolished)*
 
 ### Holistic Regulation Score & Justification
 
 **Holistic Regulation Score: 64**
 
-**Justification:**
+Reform UK proposes meaningful reductions in coercion across several important areas. The removal of net zero targets, subsidies and levies, combined with planning simplification and reduced regulatory burden from retained EU rules, would materially increase voluntary economic decision-making in energy, development, and general business operations.
 
-Reform UK proposes meaningful reductions in coercion across several important and high-impact areas, particularly the removal of net zero targets, subsidies and levies, broad scrapping of retained EU-derived regulations, and planning simplification. These changes are substantial enough to deliver a clear overall improvement in the regulatory environment for businesses and investors.
-
-Although many other areas of regulation remain unchanged, the scale of the reforms in energy, general red tape, and planning is significant. On balance, these changes are sufficient to shift the overall level of state coercion downward compared to the current baseline.
-
-Reform UK would therefore create a **noticeably improved** regulatory environment, even while substantial coercion remains in several other areas of the economy.
-
+While many baseline restrictions remain in place, the scale of the proposed removals and liberalisations is sufficient to shift the overall level of state coercion downward compared to the current baseline.
 
 ---
 
