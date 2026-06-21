@@ -37,7 +37,7 @@ The system reaches its highest level of economic autonomy in **Era 1** following
 
 ### 3. Policies Active by Era
 
-## Day Zero: Post-War Consensus     | Pre-1979      
+## Day Zero: Post-War Consensus (Pre-1979)
 
 **Regulation Score: 42**  
 **Taxation Score: 66**  
@@ -62,7 +62,7 @@ The post-war system featured extensive direct state ownership, price and wage co
 **Lived-Experience Alignment (Late 1970s)**  
 Firms faced significant constraints on pricing, investment, labour utilisation, and international capital movements. Nationalised industries dominated key sectors with political interference in commercial decisions. Private employers operated under powerful unions with closed shops and secondary action rights. Strict exchange controls and planning restrictions limited flexibility. The overall environment featured constrained managerial discretion and high compliance costs.
 
-## Era 1: Thatcher Liberalisation    | 1979–1990  
+## Era 1: Thatcher Liberalisation (1979–1990)
 
 **Regulation Score: 62**  
 **Taxation Score: 68**  
@@ -81,7 +81,7 @@ This era saw substantial liberalisation through privatisation, the abolition of 
 **Lived-Experience Alignment (1979–1990)**  
 Firms experienced a progressive increase in managerial discretion over pricing, investment, hiring, and international expansion. Nationalised industries moved toward commercial decision-making. Employers gained greater flexibility as closed shops were dismantled and secondary action was restricted. The abolition of exchange controls allowed freer capital movement.
 
-## Era 2: Market Consolidation       | 1991–2007
+## Era 2: Market Consolidation (1991–2007)
 
 **Regulation Score: 59**  
 **Taxation Score: 65**  
@@ -98,7 +98,7 @@ This period represented consolidation after the major reforms of Era 1. Continue
 **Lived-Experience Alignment (1991–2007)**  
 Firms operated in a broadly market-oriented environment with continued benefits from earlier privatisation. The National Minimum Wage created a new compliance floor in low-wage sectors. Light-touch financial regulation supported expansion until the mid-2000s. New employment rights added procedural requirements but did not fundamentally reverse labour market flexibility.
 
-## Era 3: Financial Crisis & Austerity| 2008–2016  
+## Era 3: Financial Crisis & Austerity (2008–2016)
 
 **Regulation Score: 56**  
 **Taxation Score: 65**  
@@ -115,7 +115,7 @@ The financial crisis led to increased state involvement in the banking sector th
 **Lived-Experience Alignment (2008–2016)**  
 Firms faced a more constrained financial environment due to higher capital requirements and increased regulatory scrutiny. Austerity reduced public sector demand. Employment law changes added procedural complexity. Overall, businesses experienced a more regulated environment than in Era 2, particularly in finance.
 
-## Era 4: Brexit Uncertainty        | 2017–early 2020 
+## Era 4: Brexit Uncertainty (2017–early 2020) 
 
 **Regulation Score: 56**  
 **Taxation Score: 64**  
@@ -131,7 +131,7 @@ Prolonged uncertainty over future trading arrangements and regulatory standards 
 **Lived-Experience Alignment (2017–early 2020)**  
 Businesses faced prolonged uncertainty over future trading arrangements and customs procedures. Many companies delayed investment or restructured supply chains. Net zero policy continued to influence investment decisions in energy-intensive sectors.
 
-## Era 5: COVID Restrictions        | 2020–early 2022  
+## Era 5: COVID Restrictions (2020–early 2022)  
 
 **Regulation Score: 24**  
 **Taxation Score: 62**  
@@ -149,7 +149,7 @@ This period featured extensive state control over production, labour allocation,
 **Lived-Experience Alignment (2020–early 2022)**  
 Large parts of the economy were legally prohibited from trading. Repeated lockdowns and movement restrictions severely limited normal voluntary economic activity. The rule preventing furloughed employees from working represented direct state prohibition of voluntary labour allocation.
 
-## Era 6: Post-COVID & Energy | 2022–2024     
+## Era 6: Post-COVID & Energy (2022–2024)     
 
 **Regulation Score: 53**  
 **Taxation Score: 63**  
@@ -166,7 +166,7 @@ The wind-down of COVID restrictions improved autonomy, but new energy price caps
 **Lived-Experience Alignment (2022–2024)**  
 Firms navigated the removal of COVID restrictions alongside new government-imposed price controls in energy. Net zero policy continued to shape investment decisions. Planning reforms offered some acceleration but retained significant state oversight.
 
-## Era 7: Current Government Reforms | 2024/2025 – present  
+## Era 7: Current Government Reforms (2024/2025 – present)  
 
 **Regulation Score: 51**  
 **Taxation Score: 62**  
