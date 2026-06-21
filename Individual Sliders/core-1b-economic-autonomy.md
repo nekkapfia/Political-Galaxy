@@ -40,32 +40,6 @@ There is no fixed formula for calculating the effective tithe rate. The scorer i
 
 This alternative method exists specifically to allow sensible scoring in cases where modern economic statistics and concepts are either unavailable or would produce misleading results. Use of this method is at the scorer’s discretion.
 
-## Final Scoring
-
-The final Core 1B score is calculated by combining the **Regulation Score** (from the merged slider) and the **Taxation Score** using the following method:
-
-Start with the arithmetic mean:
-
-$$
-A = \frac{\text{Regulation Score} + \text{Taxation Score}}{2}
-$$
-
-$$
-L = \min(\text{Regulation Score}, \text{Taxation Score})
-$$
-
-$$
-d = \frac{|\text{Regulation Score} - \text{Taxation Score}|}{100}
-$$
-
-Then apply:
-
-$$
-F = (1 - d) \cdot A + d \cdot L
-$$
-
-The final score \( F \) is rounded up to the nearest whole number.
-
 ---
 
 # Economic Autonomy Axis
@@ -74,7 +48,7 @@ The final score \( F \) is rounded up to the nearest whole number.
 
 The scale measures the degree of protection for individual economic decision-making versus coercive state controls, ownership, direction, or prescription. It is mechanism-focused (institutions, rules, and structures) rather than outcome- or intention-based. It aligns with the framework's principles of empirical evaluation, non-linear/asymmetric scaling, and individual autonomy.
 
-## Scoring Scale
+## Regulation Scoring Scale
 
 **100** = Total, explicit, and universal protection of economic autonomy in every domain with no coercive state controls or rhetoric permitted. There is zero direct state ownership, zero direction of resources or capital, and zero prescriptive regulation. Government spending is negligible and limited to the absolute minimum required for basic order.
 
@@ -109,3 +83,30 @@ The scale measures the degree of protection for individual economic decision-mak
 **0** = Theoretical floor. Complete and total state economic control with no private economic activity possible under any circumstances.
 
 ---
+
+## Final Scoring
+
+The final Core 1B score is calculated by combining the **Regulation Score** and the **Taxation Score** using the following method:
+
+Start with the arithmetic mean:
+
+$$
+A = \frac{\text{Regulation Score} + \text{Taxation Score}}{2}
+$$
+
+$$
+L = \min(\text{Regulation Score}, \text{Taxation Score})
+$$
+
+$$
+d = \frac{|\text{Regulation Score} - \text{Taxation Score}|}{100}
+$$
+
+Then apply:
+
+$$
+F = (1 - d) \cdot A + d \cdot L
+$$
+
+The final score \( F \) is rounded up to the nearest whole number.
+
