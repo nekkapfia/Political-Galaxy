@@ -568,6 +568,8 @@ All pure taxation measures (rates, thresholds, reliefs, enforcement) were remove
 | **Core 1B** | Dominant effect on voluntary economic action | Nationalised industries, privatisation, trade union power, planning, energy/industrial policy, most employment regulation, financial regulation |
 | **Core 1A** | Dominant effect on individual personal autonomy/security | Personal remedies for unfair dismissal, COVID work-from-home rules, individual welfare conditionality |
 | **Core 2A** | Dominant concern is national sovereignty/external authority | Selected Brexit customs arrangements, historical capital controls |
+
+
 All routing decisions were made on the basis of observable mechanical effect rather than policy framing or intent.
 
 ---
