@@ -1,7 +1,4 @@
-# Core 1B: Economic Autonomy
-
-**Source Document**  
-**Date:** April 16, 2026
+# Core 1B: Economic Autonomy Source Document
 
 ## Core 1B Definition
 
@@ -112,5 +109,5 @@ $$
 F = (1 - d) \cdot A + d \cdot L
 $$
 
-The final score \( F \) is rounded up to the nearest whole number, this ensures that systems are always scored above their score rather than below.
+The final score \( F \) is rounded up to the nearest whole number. This conservative rounding convention ensures the final score is never lower than the calculated mathematical result.
 
