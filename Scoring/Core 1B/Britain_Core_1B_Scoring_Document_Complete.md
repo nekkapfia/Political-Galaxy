@@ -218,11 +218,13 @@ Businesses face new procedural requirements in employment practices and increase
 
 These proposals are scored via the separate **Taxation Score** method (not included in the Regulation Score above).
 
-- Various personal income tax threshold increases and reliefs
-- Corporation tax and business tax reductions
-- Targeted business rates and high-street reliefs
+- Various personal income tax threshold increases and reliefs: **£8 – 15 billion cost**
+- Corporation tax and business tax reductions: **£5 – 10 billion cost**
+- Targeted business rates and high-street reliefs: **£2 – 5 billion cost**
 
-**Taxation Score: 70**
+**Overall estimated net cost of tax package**: **£15 – 30 billion** per year  
+**Current GDP**: **£2.9 trillion**  
+**Taxation Score**: **70**
 
 ### Policies Which Currently Exist (Unchanged)
 
@@ -277,7 +279,7 @@ These proposals are scored via the separate **Taxation Score** method (not inclu
 
 **Overall estimated net fiscal gain**: **£32 – 63 billion** per year  
 **Current GDP**: **£2.9 trillion**  
-**Taxation Score**: **68** (retained from original calculation)
+**Taxation Score**: **68**
 
 ### Policies Which Currently Exist (Unchanged)
 
@@ -329,7 +331,7 @@ These proposals are scored via the separate **Taxation Score** method (not inclu
 
 **Overall estimated net fiscal gain**: **£5 – 10 billion** per year  
 **Current GDP**: **£2.9 trillion**  
-**Taxation Score**: **69** (rounded towards current score)
+**Taxation Score**: **69**
 
 ### Policies Which Currently Exist (Unchanged)
 
@@ -386,7 +388,7 @@ These proposals are scored via the separate **Taxation Score** method (not inclu
 
 **Overall estimated net fiscal gain**: **£10 – 21 billion** per year  
 **Current GDP**: **£2.9 trillion**  
-**Taxation Score**: **67** (rounded towards current score)
+**Taxation Score**: **67**
 
 ### Policies Which Currently Exist (Unchanged)
 
@@ -436,13 +438,15 @@ The Liberal Democrats’ non-tax policies would result in a modest increase in s
 
 These proposals are scored via the separate **Taxation Score** method (not included in the Regulation Score above).
 
-- Raising income tax starting threshold to £20,000
-- Corporation tax reduction (to 20%, then 15%)
-- Raising VAT registration threshold significantly
-- Abolition of business rates for many high-street SMEs
-- Other tax cuts (Stamp Duty, Inheritance Tax thresholds, Entrepreneurs’ relief)
+- Raising income tax starting threshold to £20,000: **£50 – 65 billion cost**
+- Corporation tax reduction (to 20%, then 15%): **£25 – 40 billion cost**
+- Raising VAT registration threshold significantly: **£0.5 – 1.5 billion cost**
+- Abolition of business rates for many high-street SMEs: **£5 – 10+ billion cost**
+- Other tax cuts (Stamp Duty, Inheritance Tax thresholds, Entrepreneurs’ relief): **£2 – 5 billion cost**
 
-**Taxation Score: 72**
+**Overall estimated net cost of tax package**: **£102.5 billion** per year  
+**Current GDP**: **£2.9 trillion**  
+**Taxation Score**: **72**
 
 ### Policies Which Currently Exist (Unchanged)
 
@@ -492,12 +496,14 @@ Reform UK’s non-tax policies would deliver a substantial reduction in state co
 
 These proposals are scored via the separate **Taxation Score** method (not included in the Regulation Score above).
 
-- Corporation tax reduction and wider business tax reliefs
-- Raising personal income tax thresholds and fuel duty reductions
-- Abolition or major reduction of green levies and net zero-related taxes
-- Business rates relief for high-street and SME sectors
+- Corporation tax reduction and wider business tax reliefs: **£12 – 20 billion cost**
+- Raising personal income tax thresholds and fuel duty reductions: **£8 – 14 billion cost**
+- Abolition or major reduction of green levies and net zero-related taxes: **£6 – 10 billion cost**
+- Business rates relief for high-street and SME sectors: **£4 – 7 billion cost**
 
-**Taxation Score: 71**
+**Overall estimated net cost of tax package**: **£30 – 51 billion** per year  
+**Current GDP**: **£2.9 trillion**  
+**Taxation Score**: **71**
 
 ### Policies Which Currently Exist (Unchanged)
 
