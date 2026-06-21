@@ -1,5 +1,7 @@
 # Britain Core 1B Scoring Document – Revised
 
+-----------------
+
 ### 1. Era Summary with Final Scores
 
 | Era Name                              | Dates                  | Regulation Score | Taxation Score | **Final Score** |
@@ -16,6 +18,8 @@
 **Long-Term Trend (Mechanical Reading)**  
 The system reaches its highest level of economic autonomy in **Era 1** following the major liberalising measures of the Thatcher period. Era 5 represents the lowest level of economic autonomy due to extensive state control over production, labour allocation, and consumption. The current era (Era 7) sits near the lower end of the post-Era 1 range.
 
+-----------------
+
 ### 2. Taxation Scores by Era
 
 | Era      | Dates                  | Tax Revenue (approx. period average) | GDP (approx. period average) | Tax-to-GDP (approx.) | **Taxation Score** |
@@ -28,7 +32,12 @@ The system reaches its highest level of economic autonomy in **Era 1** following
 | Era 5    | 2020–early 2022        | £620 Billion                         | £1.63 Trillion               | 38%                  | **62**             |
 | Era 6    | 2022–2024              | £680 Billion                         | £1.84 Trillion               | 37%                  | **63**             |
 | Era 7    | 2024/2025–present      | £720 Billion                         | £1.87 Trillion               | 38.5%                | **62**             |
+
+-----------------
+
 ### 3. Policies Active by Era
+
+## Day Zero: Post-War Consensus     | Pre-1979      
 
 **Regulation Score: 42**  
 **Taxation Score: 66**  
@@ -53,6 +62,8 @@ The post-war system featured extensive direct state ownership, price and wage co
 **Lived-Experience Alignment (Late 1970s)**  
 Firms faced significant constraints on pricing, investment, labour utilisation, and international capital movements. Nationalised industries dominated key sectors with political interference in commercial decisions. Private employers operated under powerful unions with closed shops and secondary action rights. Strict exchange controls and planning restrictions limited flexibility. The overall environment featured constrained managerial discretion and high compliance costs.
 
+## Era 1: Thatcher Liberalisation    | 1979–1990  
+
 **Regulation Score: 62**  
 **Taxation Score: 68**  
 **Final Score: 64**
@@ -70,6 +81,8 @@ This era saw substantial liberalisation through privatisation, the abolition of 
 **Lived-Experience Alignment (1979–1990)**  
 Firms experienced a progressive increase in managerial discretion over pricing, investment, hiring, and international expansion. Nationalised industries moved toward commercial decision-making. Employers gained greater flexibility as closed shops were dismantled and secondary action was restricted. The abolition of exchange controls allowed freer capital movement.
 
+## Era 2: Market Consolidation       | 1991–2007
+
 **Regulation Score: 59**  
 **Taxation Score: 65**  
 **Final Score: 61**
@@ -84,6 +97,8 @@ This period represented consolidation after the major reforms of Era 1. Continue
 
 **Lived-Experience Alignment (1991–2007)**  
 Firms operated in a broadly market-oriented environment with continued benefits from earlier privatisation. The National Minimum Wage created a new compliance floor in low-wage sectors. Light-touch financial regulation supported expansion until the mid-2000s. New employment rights added procedural requirements but did not fundamentally reverse labour market flexibility.
+
+## Era 3: Financial Crisis & Austerity| 2008–2016  
 
 **Regulation Score: 56**  
 **Taxation Score: 65**  
@@ -100,6 +115,8 @@ The financial crisis led to increased state involvement in the banking sector th
 **Lived-Experience Alignment (2008–2016)**  
 Firms faced a more constrained financial environment due to higher capital requirements and increased regulatory scrutiny. Austerity reduced public sector demand. Employment law changes added procedural complexity. Overall, businesses experienced a more regulated environment than in Era 2, particularly in finance.
 
+## Era 4: Brexit Uncertainty        | 2017–early 2020 
+
 **Regulation Score: 56**  
 **Taxation Score: 64**  
 **Final Score: 59**
@@ -113,6 +130,8 @@ Prolonged uncertainty over future trading arrangements and regulatory standards 
 
 **Lived-Experience Alignment (2017–early 2020)**  
 Businesses faced prolonged uncertainty over future trading arrangements and customs procedures. Many companies delayed investment or restructured supply chains. Net zero policy continued to influence investment decisions in energy-intensive sectors.
+
+## Era 5: COVID Restrictions        | 2020–early 2022  
 
 **Regulation Score: 24**  
 **Taxation Score: 62**  
@@ -130,6 +149,8 @@ This period featured extensive state control over production, labour allocation,
 **Lived-Experience Alignment (2020–early 2022)**  
 Large parts of the economy were legally prohibited from trading. Repeated lockdowns and movement restrictions severely limited normal voluntary economic activity. The rule preventing furloughed employees from working represented direct state prohibition of voluntary labour allocation.
 
+## Era 6: Post-COVID & Energy | 2022–2024     
+
 **Regulation Score: 53**  
 **Taxation Score: 63**  
 **Final Score: 57**
@@ -145,6 +166,8 @@ The wind-down of COVID restrictions improved autonomy, but new energy price caps
 **Lived-Experience Alignment (2022–2024)**  
 Firms navigated the removal of COVID restrictions alongside new government-imposed price controls in energy. Net zero policy continued to shape investment decisions. Planning reforms offered some acceleration but retained significant state oversight.
 
+## Era 7: Current Government Reforms | 2024/2025 – present  
+
 **Regulation Score: 51**  
 **Taxation Score: 62**  
 **Final Score: 55**
@@ -159,7 +182,7 @@ New workers’ rights expansions, strengthened collective bargaining, and green 
 **Lived-Experience Alignment (2024/2025 – Present)**  
 Businesses face new procedural requirements in employment practices and increased state direction in strategic sectors through green industrial policy. Planning reforms offer faster pathways in some areas while retaining significant state influence over land use.
 
-
+-----------------
 
 ### 4. Political Parties (2024/2025 Manifestos) 
 
@@ -490,6 +513,8 @@ These policies remain at their current coercion levels:
 **Regulation Score: 67**
 
 Restore Britain’s non-tax policies would produce a significant reduction in state coercion. The combination of net zero mandate removal, planning liberalisation, and expanded domestic energy production would materially increase voluntary economic decision-making in energy, development, and business operations. The package represents one of the stronger shifts toward lower coercion.
+
+-----------------
 
 #### 5. Routing & Exclusion Summary — Britain Core 1B
 
