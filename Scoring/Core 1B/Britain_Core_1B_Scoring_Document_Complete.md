@@ -199,6 +199,8 @@ Businesses face new procedural requirements in employment practices and increase
 
 ### Detailed Party Assessments
 
+------------
+
 #### Conservative Party
 **Regulation Score: 64**  
 **Taxation Score: 70**  
@@ -250,6 +252,8 @@ These policies remain at their current coercion levels:
 
 The Conservative Party’s non-tax policies would deliver a moderate reduction in coercion, primarily through planning simplification and a lighter regulatory approach. These changes would improve voluntary economic decision-making in development and business operations. However, the absence of major reforms to labour market rules or net zero policy limits the overall improvement compared to current Britain.
 
+-----------------
+
 #### Green Party
 **Regulation Score: 37**  
 **Taxation Score: 68**  
@@ -300,6 +304,8 @@ These policies remain at their current coercion levels:
 **Regulation Score: 37**
 
 The Green Party’s non-tax policies would result in a substantial increase in state coercion compared to current Britain. Large-scale renationalisation of utilities, expanded public investment vehicles, and strong environmental mandates would significantly increase state control over investment, production, and resource allocation. The overall package represents the largest shift toward greater state involvement among the major parties.
+
+-----------------
 
 #### Labour Party
 **Regulation Score: 48**  
@@ -353,6 +359,8 @@ These policies remain at their current coercion levels:
 **Regulation Score: 48**
 
 Labour’s non-tax policies would result in a modest increase in state coercion compared to current Britain. The introduction of day-one unfair dismissal rights, strengthened collective bargaining, and a green industrial strategy with public ownership elements would increase state influence over labour markets and industrial direction. While planning reform offers some modest liberalisation, the overall package tilts toward greater state involvement.
+
+-----------------
 
 #### Liberal Democrats
 **Regulation Score: 49**  
@@ -408,6 +416,8 @@ These policies remain at their current coercion levels:
 
 The Liberal Democrats’ non-tax policies would result in a modest increase in state coercion compared to current Britain. Accelerated environmental mandates, expanded workers’ rights, and increased state direction through green industrial policy would reduce voluntary economic decision-making in energy, labour markets, and development. While planning reforms offer some limited liberalisation, they are offset by additional regulatory requirements.
 
+-----------------
+
 #### Reform UK
 **Regulation Score: 68**  
 **Taxation Score: 72**  
@@ -461,6 +471,8 @@ These policies remain at their current coercion levels:
 **Regulation Score: 68**
 
 Reform UK’s non-tax policies would deliver a substantial reduction in state coercion. The removal of net zero targets, levies, and associated regulation, combined with planning liberalisation and reduced retained EU rules, would significantly increase voluntary economic decision-making in energy, development, and general business activity. The overall package represents one of the strongest shifts toward greater economic autonomy among the parties assessed.
+
+-----------------
 
 #### Restore Britain
 **Regulation Score: 67**  
