@@ -44,9 +44,13 @@ This alternative method exists specifically to allow sensible scoring in cases w
 
 # Economic Autonomy Axis
 
-**Definition**: This axis scores economic systems based on the **economic autonomy of individuals** inside the system, specifically their ability to decide *with whom, when, and how* they engage in economic activities (voluntary exchange, contracts, production, trade, investment, consumption, and resource allocation).
+**Definition**: This axis scores economic systems based on the **economic autonomy of individuals** inside the system, specifically their ability to decide *with whom, when, and how* they engage in economic activities (voluntary exchange, contracts, production, investment, consumption, and resource allocation).
 
 The scale measures the degree of protection for individual economic decision-making versus coercive state controls, ownership, direction, or prescription. It is mechanism-focused (institutions, rules, and structures) rather than outcome- or intention-based. It aligns with the framework's principles of empirical evaluation, non-linear/asymmetric scaling, and individual autonomy.
+
+Government spending is evaluated through its observable effects on voluntary economic activity (e.g. crowding-out, subsidies, state enterprises, welfare scale, and industrial policy). High non-core spending generally pulls the Regulation Score toward the lower part of the relevant band, even if financed partly by debt or other means.
+
+Within each band, score toward the upper end when state interventions are minimal in scope, temporary, narrowly targeted, and/or easily reversible. Score toward the lower end when interventions are broader, more permanent, more directive, or create significant path dependency. State ownership, price/wage controls, industrial policy, and large-scale welfare provision generally pull the score downward within the applicable band.
 
 ## Regulation Scoring Scale
 
@@ -108,5 +112,5 @@ $$
 F = (1 - d) \cdot A + d \cdot L
 $$
 
-The final score \( F \) is rounded up to the nearest whole number.
+The final score \( F \) is rounded up to the nearest whole number, this ensures that systems are always scored above their score rather than below.
 
