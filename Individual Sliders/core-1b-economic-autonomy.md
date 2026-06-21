@@ -110,4 +110,3 @@ F = (1 - d) \cdot A + d \cdot L
 $$
 
 The final score \( F \) is rounded up to the nearest whole number. This conservative rounding convention ensures the final score is never lower than the calculated mathematical result.
-
