@@ -184,35 +184,33 @@ Businesses face new procedural requirements in employment practices and increase
 
 -----------------
 
-### 4. Political Parties (2024/2025 Manifestos) 
+### 4. Political Parties (2024/2025 Manifestos)
 
 ### Summary Table
 
 | Party                | Regulation Score | Taxation Score | **Final Score** | Overall Character |
 |----------------------|------------------|----------------|-----------------|-------------------|
-| **Conservative Party** | **64**           | 70             | **67**          | Strong reduction in coercion through planning simplification and lighter regulation |
-| **Green Party**      | **37**           | 68             | **50**          | Highest additional coercion from public ownership, strong mandates, and higher wealth taxation |
-| **Labour Party**     | **48**           | 69             | **57**          | Net increase in coercion from labour market expansions and green industrial direction |
-| **Liberal Democrats**| **49**           | 67             | **58**          | Moderate increase in coercion from environmental regulation and workers’ rights expansions |
-| **Reform UK**        | **68**           | 72             | **70**          | Lowest additional coercion — major removal of net zero mandates + broad deregulation |
-| **Restore Britain**  | **67**           | 71             | **69**          | Strong deregulation and energy production focus with high sovereignty emphasis |
+| **Conservative Party** | **62**           | 70             | **65**          | Strong reduction in coercion through planning simplification and lighter regulation |
+| **Green Party**      | **35**           | 68             | **48**          | Highest additional coercion from public ownership, strong mandates, and higher wealth taxation |
+| **Labour Party**     | **52**           | 69             | **59**          | Net increase in coercion from labour market expansions and green industrial direction |
+| **Liberal Democrats**| **55**           | 67             | **60**          | Moderate increase in coercion from environmental regulation and workers’ rights expansions |
+| **Reform UK**        | **66**           | 72             | **68**          | Lowest additional coercion — major removal of net zero mandates + broad deregulation |
+| **Restore Britain**  | **65**           | 71             | **67**          | Strong deregulation and energy production focus with high sovereignty emphasis |
 
 ### Detailed Party Assessments
 
-------------
-
 #### Conservative Party
-**Regulation Score: 64**  
+**Regulation Score: 62**  
 **Taxation Score: 70**  
-**Final Score: 67**
+**Final Score: 65**
 
 ### Policy Score Comparison Table (Taxation elements removed from Regulation scoring)
 
 | Policy Area | Current Score | New Score | Score Difference | Notes |
 |-------------|---------------|-----------|------------------|-------|
-| **Planning system simplification and reduction of red tape** | 59 | **66** | **+7** | Reduced prior restraint on development and investment |
-| **Lighter overall regulatory approach** | 60 | **64** | **+4** | Modest reduction in compliance burden across sectors |
-| **Sectoral support with lighter state direction** | 60 | **63** | **+3** | Reduced state direction in favoured sectors |
+| **Planning system simplification and reduction of red tape** | 59 | **64** | **+5** | Reduced prior restraint on development and investment |
+| **Lighter overall regulatory approach** | 60 | **62** | **+2** | Modest reduction in compliance burden across sectors |
+| **Sectoral support with lighter state direction** | 60 | **61** | **+1** | Reduced state direction in favoured sectors |
 
 ### Tax Policy (Fiscal Impact) – Retained for Taxation Score only
 
@@ -226,48 +224,32 @@ These proposals are scored via the separate **Taxation Score** method (not inclu
 **Current GDP**: **£2.9 trillion**  
 **Taxation Score**: **70**
 
-### Policies Which Currently Exist (Unchanged)
-
-These policies remain at their current coercion levels:
-
-- Trade Union Power & Closed Shops **58**
-- Unfair Dismissal & Employment Protection **58**
-- Health and Safety at Work Act **60**
-- Competition Policy **66**
-- Banking & Financial Regulation **63**
-- Public Procurement & National Preference **62**
-- IP / Patent & Copyright Protection **75**
-- Agricultural Support & Production Steering **55**
-- Rent Controls & Security of Tenure **53**
-- Exchange Controls (already abolished) **75**
-- Net Zero / Energy Regulation (no major reversal proposed) **60**
-
 ### Policies Which Will Be Introduced / Changed
 
-- Planning system simplification and reduction of red tape **66**
-- Lighter overall regulatory approach **64**
-- Sectoral support with lighter state direction **63**
+- Planning system simplification and reduction of red tape **64**
+- Lighter overall regulatory approach **62**
+- Sectoral support with lighter state direction **61**
 
 ### Regulation Score & Justification
 
-**Regulation Score: 64**
+**Regulation Score: 62**
 
 The Conservative Party’s non-tax policies would deliver a moderate reduction in coercion, primarily through planning simplification and a lighter regulatory approach. These changes would improve voluntary economic decision-making in development and business operations. However, the absence of major reforms to labour market rules or net zero policy limits the overall improvement compared to current Britain.
 
 -----------------
 
 #### Green Party
-**Regulation Score: 37**  
+**Regulation Score: 35**  
 **Taxation Score: 68**  
-**Final Score: 50**
+**Final Score: 48**
 
 ### Policy Score Comparison Table (Taxation elements removed from Regulation scoring)
 
 | Policy Area | Current Score | New Score | Score Difference | Notes |
 |-------------|---------------|-----------|------------------|-------|
-| **Public Ownership & State Direction** | 60 | **42** | **-18** | Major renationalisation and expanded public investment |
-| **Environmental Regulation & Net Zero** | 60 | **45** | **-15** | Strong environmental mandates and net zero targets |
-| **Worker Protections** | 58 | **52** | **-6** | Expanded worker protections |
+| **Public Ownership & State Direction** | 60 | **38** | **-22** | Major renationalisation and expanded public investment |
+| **Environmental Regulation & Net Zero** | 60 | **40** | **-20** | Strong environmental mandates and net zero targets |
+| **Worker Protections** | 58 | **48** | **-10** | Expanded worker protections |
 
 ### Tax Policy (Fiscal Impact) – Retained for Taxation Score only
 
@@ -281,46 +263,34 @@ These proposals are scored via the separate **Taxation Score** method (not inclu
 **Current GDP**: **£2.9 trillion**  
 **Taxation Score**: **68**
 
-### Policies Which Currently Exist (Unchanged)
-
-These policies remain at their current coercion levels:
-
-- Competition Policy **66**
-- Banking & Financial Regulation **63**
-- Public Procurement & National Preference **62**
-- IP / Patent & Copyright Protection **75**
-- Agricultural Support & Production Steering **55**
-- Rent Controls & Security of Tenure **53**
-- Exchange Controls (already abolished) **75**
-
 ### Policies Which Will Be Introduced / Changed
 
-- Bringing privatised utilities into public hands **42**
-- Expanded public coordination and investment vehicles **44**
-- Expanded environmental mandates and strong net zero targets **45**
-- Large public investment programmes **47**
-- Expanded worker protections and equality measures **52**
+- Bringing privatised utilities into public hands **38**
+- Expanded public coordination and investment vehicles **40**
+- Expanded environmental mandates and strong net zero targets **35**
+- Large public investment programmes **42**
+- Expanded worker protections and equality measures **48**
 
 ### Regulation Score & Justification
 
-**Regulation Score: 37**
+**Regulation Score: 35**
 
 The Green Party’s non-tax policies would result in a substantial increase in state coercion compared to current Britain. Large-scale renationalisation of utilities, expanded public investment vehicles, and strong environmental mandates would significantly increase state control over investment, production, and resource allocation. The overall package represents the largest shift toward greater state involvement among the major parties.
 
 -----------------
 
 #### Labour Party
-**Regulation Score: 48**  
+**Regulation Score: 52**  
 **Taxation Score: 69**  
-**Final Score: 57**
+**Final Score: 59**
 
 ### Policy Score Comparison Table (Taxation elements removed from Regulation scoring)
 
 | Policy Area | Current Score | New Score | Score Difference | Notes |
 |-------------|---------------|-----------|------------------|-------|
-| **Workers’ Rights & Employment** | 58 | **54** | **-4** | Expansion of rights and collective bargaining |
-| **Green Industrial Strategy** | 60 | **50** | **-10** | Public ownership, borrowing for green investment, and state direction |
-| **Planning** | 59 | **61** | **+2** | Modest acceleration with retained oversight |
+| **Workers’ Rights & Employment** | 58 | **52** | **-6** | Expansion of rights and collective bargaining |
+| **Green Industrial Strategy** | 60 | **48** | **-12** | Public ownership, borrowing for green investment, and state direction |
+| **Planning** | 59 | **60** | **+1** | Modest acceleration with retained oversight |
 
 ### Tax Policy (Fiscal Impact) – Retained for Taxation Score only
 
@@ -333,50 +303,36 @@ These proposals are scored via the separate **Taxation Score** method (not inclu
 **Current GDP**: **£2.9 trillion**  
 **Taxation Score**: **69**
 
-### Policies Which Currently Exist (Unchanged)
-
-These policies remain at their current coercion levels:
-
-- Trade Union Power & Closed Shops **58**
-- Health and Safety at Work Act **60**
-- Competition Policy **66**
-- Banking & Financial Regulation **63**
-- Public Procurement & National Preference **62**
-- IP / Patent & Copyright Protection **75**
-- Agricultural Support & Production Steering **55**
-- Rent Controls & Security of Tenure **53**
-- Exchange Controls (already abolished) **75**
-
 ### Policies Which Will Be Introduced / Changed
 
-- Day-one unfair dismissal rights and restrictions on zero-hours/fire-and-rehire **54**
-- Strengthened collective bargaining **53**
-- Expanded flexible working and parental leave entitlements **56**
-- Great British Energy (public ownership) and National Wealth Fund **50**
-- Borrowing for green investment **51**
-- Planning reform to accelerate housebuilding (with retained oversight) **61**
+- Day-one unfair dismissal rights and restrictions on zero-hours/fire-and-rehire **52**
+- Strengthened collective bargaining **51**
+- Expanded flexible working and parental leave entitlements **54**
+- Great British Energy (public ownership) and National Wealth Fund **48**
+- Borrowing for green investment **49**
+- Planning reform to accelerate housebuilding (with retained oversight) **60**
 
 ### Regulation Score & Justification
 
-**Regulation Score: 48**
+**Regulation Score: 52**
 
 Labour’s non-tax policies would result in a modest increase in state coercion compared to current Britain. The introduction of day-one unfair dismissal rights, strengthened collective bargaining, and a green industrial strategy with public ownership elements would increase state influence over labour markets and industrial direction. While planning reform offers some modest liberalisation, the overall package tilts toward greater state involvement.
 
 -----------------
 
 #### Liberal Democrats
-**Regulation Score: 49**  
+**Regulation Score: 55**  
 **Taxation Score: 67**  
-**Final Score: 58**
+**Final Score: 60**
 
 ### Policy Score Comparison Table (Taxation elements removed from Regulation scoring)
 
 | Policy Area | Current Score | New Score | Score Difference | Notes |
 |-------------|---------------|-----------|------------------|-------|
-| **Environmental regulation and net zero acceleration** | 60 | **48** | **-12** | Stronger environmental mandates and compliance requirements |
-| **Workers’ rights and employment protections** | 58 | **50** | **-8** | Expansion of collective bargaining and flexible working rights |
-| **Planning reform with environmental and community safeguards** | 59 | **52** | **-7** | Modest acceleration offset by additional regulatory hurdles |
-| **Green industrial and infrastructure strategy** | 60 | **51** | **-9** | Increased state direction through subsidies and mandates |
+| **Environmental regulation and net zero acceleration** | 60 | **52** | **-8** | Stronger environmental mandates and compliance requirements |
+| **Workers’ rights and employment protections** | 58 | **53** | **-5** | Expansion of collective bargaining and flexible working rights |
+| **Planning reform with environmental and community safeguards** | 59 | **55** | **-4** | Modest acceleration offset by additional regulatory hurdles |
+| **Green industrial and infrastructure strategy** | 60 | **54** | **-6** | Increased state direction through subsidies and mandates |
 
 ### Tax Policy (Fiscal Impact) – Retained for Taxation Score only
 
@@ -390,49 +346,34 @@ These proposals are scored via the separate **Taxation Score** method (not inclu
 **Current GDP**: **£2.9 trillion**  
 **Taxation Score**: **67**
 
-### Policies Which Currently Exist (Unchanged)
-
-These policies remain at their current coercion levels:
-
-- Trade Union Power & Closed Shops **58**
-- Unfair Dismissal & Employment Protection **58**
-- Health and Safety at Work Act **60**
-- Competition Policy **66**
-- Banking & Financial Regulation **63**
-- Public Procurement & National Preference **62**
-- IP / Patent & Copyright Protection **75**
-- Agricultural Support & Production Steering **55**
-- Rent Controls & Security of Tenure **53**
-- Exchange Controls (already abolished) **75**
-
 ### Policies Which Will Be Introduced / Changed
 
-- Environmental regulation and net zero acceleration **48**
-- Workers’ rights and employment protections **50**
-- Planning reform with environmental and community safeguards **52**
-- Green industrial and infrastructure strategy **51**
+- Environmental regulation and net zero acceleration **52**
+- Workers’ rights and employment protections **53**
+- Planning reform with environmental and community safeguards **55**
+- Green industrial and infrastructure strategy **54**
 
 ### Regulation Score & Justification
 
-**Regulation Score: 49**
+**Regulation Score: 55**
 
 The Liberal Democrats’ non-tax policies would result in a modest increase in state coercion compared to current Britain. Accelerated environmental mandates, expanded workers’ rights, and increased state direction through green industrial policy would reduce voluntary economic decision-making in energy, labour markets, and development. While planning reforms offer some limited liberalisation, they are offset by additional regulatory requirements.
 
 -----------------
 
 #### Reform UK
-**Regulation Score: 68**  
+**Regulation Score: 66**  
 **Taxation Score: 72**  
-**Final Score: 70**
+**Final Score: 68**
 
 ### Policy Score Comparison Table (Taxation elements removed from Regulation scoring)
 
 | Policy Area | Current Score | New Score | Score Difference | Notes |
 |-------------|---------------|-----------|------------------|-------|
-| **Removal of net zero targets and green levies** | 57 | **68** | **+11** | Major reduction in regulatory burden and state direction of energy and investment |
-| **Planning liberalisation and fast-track infrastructure** | 57 | **67** | **+10** | Reduced prior restraint on development and investment decisions |
-| **Reduction in retained EU-derived regulation** | 58 | **66** | **+8** | Removal of unnecessary compliance requirements |
-| **Reduction in employment regulation and bureaucracy** | 58 | **64** | **+6** | Modest improvement in labour market flexibility |
+| **Removal of net zero targets and green levies** | 57 | **66** | **+9** | Major reduction in regulatory burden and state direction of energy and investment |
+| **Planning liberalisation and fast-track infrastructure** | 57 | **65** | **+8** | Reduced prior restraint on development and investment decisions |
+| **Reduction in retained EU-derived regulation** | 58 | **64** | **+6** | Removal of unnecessary compliance requirements |
+| **Reduction in employment regulation and bureaucracy** | 58 | **62** | **+4** | Modest improvement in labour market flexibility |
 
 ### Tax Policy (Fiscal Impact) – Retained for Taxation Score only
 
@@ -448,49 +389,34 @@ These proposals are scored via the separate **Taxation Score** method (not inclu
 **Current GDP**: **£2.9 trillion**  
 **Taxation Score**: **72**
 
-### Policies Which Currently Exist (Unchanged)
-
-These policies remain at their current coercion levels:
-
-- Trade Union Power & Closed Shops **58**
-- Unfair Dismissal & Employment Protection **58**
-- Health and Safety at Work Act **60**
-- Competition Policy **66**
-- Banking & Financial Regulation **63**
-- Public Procurement & National Preference **62**
-- IP / Patent & Copyright Protection **75**
-- Agricultural Support & Production Steering **55**
-- Rent Controls & Security of Tenure **53**
-- Exchange Controls (already abolished) **75**
-
 ### Policies Which Will Be Introduced / Changed
 
-- Removal of net zero targets and green levies **68**
-- Planning liberalisation and fast-track infrastructure **67**
-- Reduction in retained EU-derived regulation **66**
-- Reduction in employment regulation and bureaucracy **64**
+- Removal of net zero targets and green levies **66**
+- Planning liberalisation and fast-track infrastructure **65**
+- Reduction in retained EU-derived regulation **64**
+- Reduction in employment regulation and bureaucracy **62**
 
 ### Regulation Score & Justification
 
-**Regulation Score: 68**
+**Regulation Score: 66**
 
 Reform UK’s non-tax policies would deliver a substantial reduction in state coercion. The removal of net zero targets, levies, and associated regulation, combined with planning liberalisation and reduced retained EU rules, would significantly increase voluntary economic decision-making in energy, development, and general business activity. The overall package represents one of the strongest shifts toward greater economic autonomy among the parties assessed.
 
 -----------------
 
 #### Restore Britain
-**Regulation Score: 67**  
+**Regulation Score: 65**  
 **Taxation Score: 71**  
-**Final Score: 69**
+**Final Score: 67**
 
 ### Policy Score Comparison Table (Taxation elements removed from Regulation scoring)
 
 | Policy Area | Current Score | New Score | Score Difference | Notes |
 |-------------|---------------|-----------|------------------|-------|
-| **Removal of net zero targets and green levies** | 57 | **68** | **+11** | Major reduction in regulatory burden and state direction |
-| **Planning liberalisation and fast-track infrastructure** | 57 | **67** | **+10** | Reduced prior restraint on development and investment |
-| **Energy production expansion (North Sea, nuclear, domestic)** | 58 | **66** | **+8** | Lower regulatory barriers to voluntary energy production |
-| **Reduction in employment regulation and bureaucracy** | 58 | **64** | **+6** | Modest reduction in labour market rigidity |
+| **Removal of net zero targets and green levies** | 57 | **65** | **+8** | Major reduction in regulatory burden and state direction |
+| **Planning liberalisation and fast-track infrastructure** | 57 | **64** | **+7** | Reduced prior restraint on development and investment |
+| **Energy production expansion (North Sea, nuclear, domestic)** | 58 | **63** | **+5** | Lower regulatory barriers to voluntary energy production |
+| **Reduction in employment regulation and bureaucracy** | 58 | **62** | **+4** | Modest reduction in labour market rigidity |
 
 ### Tax Policy (Fiscal Impact) – Retained for Taxation Score only
 
@@ -505,30 +431,16 @@ These proposals are scored via the separate **Taxation Score** method (not inclu
 **Current GDP**: **£2.9 trillion**  
 **Taxation Score**: **71**
 
-### Policies Which Currently Exist (Unchanged)
-
-These policies remain at their current coercion levels:
-
-- Trade Union Power & Closed Shops **58**
-- Unfair Dismissal & Employment Protection **58**
-- Health and Safety at Work Act **60**
-- Competition Policy **66**
-- Banking & Financial Regulation **63**
-- Public Procurement & National Preference **62**
-- IP / Patent & Copyright Protection **75**
-- Agricultural Support & Production Steering **55**
-- Rent Controls & Security of Tenure **53**
-
 ### Policies Which Will Be Introduced / Changed
 
-- Removal of net zero targets and green levies **68**
-- Planning liberalisation and fast-track infrastructure **67**
-- Energy production expansion (North Sea, nuclear, domestic) **66**
-- Reduction in employment regulation and bureaucracy **64**
+- Removal of net zero targets and green levies **65**
+- Planning liberalisation and fast-track infrastructure **64**
+- Energy production expansion (North Sea, nuclear, domestic) **63**
+- Reduction in employment regulation and bureaucracy **62**
 
 ### Regulation Score & Justification
 
-**Regulation Score: 67**
+**Regulation Score: 65**
 
 Restore Britain’s non-tax policies would produce a significant reduction in state coercion. The combination of net zero mandate removal, planning liberalisation, and expanded domestic energy production would materially increase voluntary economic decision-making in energy, development, and business operations. The package represents one of the stronger shifts toward lower coercion.
 
