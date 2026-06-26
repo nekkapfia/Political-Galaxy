@@ -16,6 +16,8 @@ Scoring follows these core principles:
 
 Core 2A focuses exclusively on **state-level sovereignty**. It does not assess individual or firm-level economic autonomy (Core 1B) or personal autonomy (Core 1A), except where these intersect directly with national control over territory and borders.
 
+----
+
 ## 2. Era Summary Table
 
 | Era                              | Period                  | Score | Band     | Primary Mechanical Drivers |
@@ -25,6 +27,8 @@ Core 2A focuses exclusively on **state-level sovereignty**. It does not assess i
 | **Deep EU Integration**          | 1993–2020               | **34**    | 31–40    | Expanded supranational legal supremacy, free movement, and enforceable authority of EU institutions across a wide range of policy areas. |
 | **Covid Suppression of Settlers**| 2020 – mid/late 2022    | **43**    | 41–50    | Partial recovery of formal sovereignty after the transition period, supported by temporary suppression of irregular migration volumes due to COVID restrictions. |
 | **Large Scale Illegal Settlement Era** (Current) | Mid/late 2022 – Present | **28**    | 21–30    | Resumption of high-volume irregular migration combined with limited effective removal capacity and continued structural constraints under the Windsor Framework. |
+
+----
 
 ## 3. Detailed Era Analysis
 
@@ -70,6 +74,8 @@ This is the lowest-scoring era in the post-war period. The score of **28** refle
 These factors interact to create a situation in which the UK has reduced practical authority over key aspects of its territory and who remains within it.
 
 Following the lifting of COVID-related travel restrictions, large-scale irregular migration resumed. This development interacted with two persistent structural constraints: the Windsor Framework and legal/practical barriers to removal (particularly under the ECHR). The combination of high-volume irregular settlement and reduced effective control over presence on UK territory produces the lowest Core 2A score of any era since the Second World War.
+
+----
 
 ## 4. Current Era Analysis and Policy Type Reference  
 **(Large Scale Illegal Settlement Era – Mid/late 2022 to Present)**  
