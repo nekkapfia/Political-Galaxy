@@ -96,7 +96,7 @@ Following the lifting of COVID-related travel restrictions, large-scale irregula
 
 The current era’s low score is driven by the interaction of three main constraints. These are examined below, with relevant policy types integrated under each heading.
 
-#### High-Volume Irregular Migration and Settlement
+#### 4.1 High-Volume Irregular Migration and Settlement
 
 Following the end of COVID-related travel restrictions, irregular migration via small boats increased sharply. A significant proportion of those arriving have not been removed and remain in the UK, resulting in large-scale irregular settlement.
 
@@ -114,7 +114,7 @@ Large-scale irregular entry combined with limited practical ability to remove th
 **Analysis**:  
 This combines high volumes of successful irregular entry with low effective removal rates. The result is large-scale, sustained settlement that the state struggles to prevent or reverse. The mechanical effect demonstrates a meaningful reduction in control over both entry and presence on the territory. This is the most severe constraint currently operating and is the primary reason the current era scores in the 21–30 band.
 
-#### Constraints on Removal and Deportation
+#### 4.2 Constraints on Removal and Deportation
 
 Legal and practical barriers to removal, particularly under the European Convention on Human Rights (ECHR), significantly limit the UK’s ability to remove individuals who have entered irregularly or whose presence is no longer desired. Article 3 ECHR creates recurring barriers to deportation in cases involving claims of inhuman or degrading treatment.
 
@@ -132,7 +132,7 @@ International or supranational court rulings that create recurring legal barrier
 **Analysis**:  
 While not a broad supranational legal system, this creates a recurring and structural constraint on one of the core attributes of sovereignty — the ability to determine who remains on national territory. The mechanical effect on removal capacity is significant and ongoing. It aligns with the 31–40 band when combined with other constraints.
 
-#### Supranational Legal Supremacy in Defined Domains
+#### 4.3 Supranational Legal Supremacy in Defined Domains
 
 **Scoring Band**: 31–40 band
 
@@ -144,7 +144,7 @@ External legal rules that take precedence over national law in specified policy 
 **Analysis**:  
 This represents a substantial transfer of decision-making authority to external bodies in key policy areas. The state loses the ability to unilaterally set or change rules in those domains. The mechanical impact is broad enough to justify placement in the 31–40 band, as multiple core functions become subject to external legal control.
 
-#### Windsor Framework Arrangements
+#### 4.4 Windsor Framework Arrangements
 
 The Windsor Framework maintains a system of differential treatment between Great Britain and Northern Ireland. Goods moving from Great Britain to Northern Ireland remain subject to regulatory alignment requirements and internal border processes. While the Framework introduced the “green lane” system and the Stormont Brake, it did not remove the underlying structural features:
 
