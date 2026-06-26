@@ -184,4 +184,13 @@ These arrangements represent an ongoing, observable constraint on full territori
 **Justification**:  
 The Windsor Framework produces three distinct but related effects. The continuation of internal border infrastructure and checks (52) and the fragmentation of the UK’s internal market and regulatory uniformity (51) are the two strongest constraints. The partial external regulatory influence over goods staying in Northern Ireland (50) is slightly milder. When combined, these effects produce a noticeable but geographically limited reduction in full territorial and regulatory sovereignty. The overall impact therefore sits in the middle of the 51–59 band.
 
+#### 4.6 Legal Immigration System
+
+Under the current system, the UK operates a points-based immigration framework. This allows relatively straightforward entry for high-skilled workers, international students, and certain shortage occupations (particularly in health and social care). Family migration routes are also available, subject to minimum income thresholds. In practice, the system permits high volumes of legal immigration with relatively limited restrictions in key sectors, and reduced levels of individual vetting for certain shortage roles.
+
+**Score: 54 (51–59 band)**
+
+**Justification**:  
+The current legal immigration system results in high volumes of managed legal inflows, particularly through work and study routes. While the system retains some controls (such as points-based criteria and salary thresholds), it features noticeably loosened border controls in practice, especially for high-demand occupations where vetting requirements are reduced. This aligns most closely with the descriptor for the 51–59 band: *"Border controls loosen with higher legal immigration volumes and reduced vetting in practice."* It does not reach the 60–69 band, as the system still maintains meaningful restrictions rather than representing only a moderate increase in managed channels. It also falls well short of the 31–40 band, as the flows remain managed rather than uncontrolled or weakly managed.
+
 ---
