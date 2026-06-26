@@ -118,7 +118,7 @@ This combines high volumes of successful irregular entry with low effective remo
 
 Legal and practical barriers to removal, particularly under the European Convention on Human Rights (ECHR), significantly limit the UK’s ability to remove individuals who have entered irregularly or whose presence is no longer desired. Article 3 ECHR creates recurring barriers to deportation in cases involving claims of inhuman or degrading treatment.
 
-These constraints do not eliminate removal powers entirely, but they substantially raise the legal, procedural, and operational cost of removals. When combined with high arrival volumes, the result is a measurable reduction in the state’s effective capacity to determine who remains on its territory.
+These constraints do not eliminate removal powers entirely, but they substantially raise the legal, procedural, and operational cost of removals. When combined with high arrival volumes, the result is a measurable reduction in the state’s effective capacity to determine who remains on its territory. This interaction between high inflows and restricted removal capacity creates a compounding effect, where even moderate arrival numbers become difficult to manage over time.
 
 **External Judicial Override on Removals**
 
@@ -142,28 +142,46 @@ While not a broad supranational legal system, this creates a recurring and struc
 External legal rules that take precedence over national law in specified policy areas, with direct effect and enforceable authority.
 
 **Analysis**:  
-This represents a substantial transfer of decision-making authority to external bodies in key policy areas. The state loses the ability to unilaterally set or change rules in those domains. The mechanical impact is broad enough to justify placement in the 31–40 band, as multiple core functions become subject to external legal control.
+While this form of external legal influence is less dominant in the current era than during full EU membership, it remains relevant in specific areas — most notably in relation to migration and removal policy through the ECHR, and in regulatory matters affecting Northern Ireland under the Windsor Framework. The mechanical effect is that certain core functions (particularly those involving human rights obligations and cross-border regulatory alignment) continue to operate under external legal authority that the UK cannot unilaterally override. This contributes to the overall reduction in effective sovereignty, even if it is no longer the primary driver of the low score.
 
-#### 4.4 Windsor Framework Arrangements
+#### 4.4 Good Friday Agreement
+
+The Good Friday Agreement imposes significant constraints on the UK’s ability to exercise full unilateral control over its land border with Ireland. While the agreement was designed to support peace and stability on the island of Ireland, it creates ongoing limitations on UK border sovereignty.
+
+- Prohibition on closing or fully controlling the land border with Ireland. **(55)**
+
+This arrangement represents a clear structural limitation on the UK’s ability to exercise full sovereign control over one of its external borders.
+
+**Unified Score for the Good Friday Agreement Constraint: 55 (51–59 band)**
+
+**Justification**:  
+The inability to unilaterally close or tightly control the land border with Ireland removes one of the fundamental tools of border sovereignty. While this constraint is geographically limited to Northern Ireland, it represents a significant and ongoing restriction on the UK’s practical authority over its own territory. The effect is noticeable but not as severe as constraints that affect the entire country, placing it in the middle of the 51–59 band.
+
+**Prohibition on Closing the External Border**
+
+**Scoring Band**: 51–59 band
+
+* “Noticeable constraints from treaties or organisations begin to constrain national policy options.”
+
+**Mechanical Description**:  
+Treaty or agreement-based restrictions preventing the state from exercising unilateral authority to close or control a land border with a neighbouring state.
+
+**Analysis**:  
+This removes one of the fundamental tools of border sovereignty — the ability to close the border. While the state may retain other forms of control, the prohibition represents a clear and ongoing limitation on unilateral authority. The mechanical impact is significant but geographically and functionally contained, placing it in the 51–59 band.
+
+#### 4.5 Windsor Framework Arrangements
 
 The Windsor Framework maintains a system of differential treatment between Great Britain and Northern Ireland. Goods moving from Great Britain to Northern Ireland remain subject to regulatory alignment requirements and internal border processes. While the Framework introduced the “green lane” system and the Stormont Brake, it did not remove the underlying structural features:
 
-- Continued internal border infrastructure and checks.
-- Partial external regulatory influence over goods staying in Northern Ireland.
-- Fragmentation of the UK’s internal market and regulatory uniformity.
+- Continued internal border infrastructure and checks. **(52)**
+- Partial external regulatory influence over goods staying in Northern Ireland. **(50)**
+- Fragmentation of the UK’s internal market and regulatory uniformity. **(51)**
 
 These arrangements represent an ongoing, observable constraint on full territorial and regulatory sovereignty within one part of the United Kingdom.
 
-**Internal Customs Border Arrangements**
+**Unified Score for the Windsor Framework: 51 (51–59 band)**
 
-**Scoring Band**: 60–69 band
-
-* “Borders maintain strong controls but allow limited, highly managed immigration and trade routes.”
-
-**Mechanical Description**:  
-Treaty-based requirements to maintain border infrastructure, checks, and regulatory differentiation between different parts of the national territory.
-
-**Analysis**:  
-These arrangements create a measurable fragmentation of territorial and regulatory sovereignty within the state. While they do not eliminate national control entirely, they introduce ongoing internal border processes and partial external regulatory influence. The mechanical effect is significant but not severe enough to reach the 51–59 band or below, as the state retains substantial overall authority outside the affected region.
+**Justification**:  
+The Windsor Framework produces three distinct but related effects. The continuation of internal border infrastructure and checks (52) and the fragmentation of the UK’s internal market and regulatory uniformity (51) are the two strongest constraints. The partial external regulatory influence over goods staying in Northern Ireland (50) is slightly milder. When combined, these effects produce a noticeable but geographically limited reduction in full territorial and regulatory sovereignty. The overall impact therefore sits in the middle of the 51–59 band.
 
 ---
