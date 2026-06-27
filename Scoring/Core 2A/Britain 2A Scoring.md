@@ -208,6 +208,82 @@ The current legal immigration system results in high volumes of managed legal in
 
 ---
 
+## Liberal Democrats
+
+**Relevant Claims (based on stated positions)**
+* Would expand safe and legal routes for asylum seekers.
+* Strongly opposes leaving the ECHR.
+* Supports maintaining the Windsor Framework.
+
+### Component Assessment
+
+**High-Volume Irregular Migration & Settlement (Split)**
+
+* **Illegal / Uncontrolled Channel**: The party has not proposed strong enforcement measures against small boat crossings or illegal entry. Their main proposal is to expand legal routes as an alternative. While easier legal access would likely reduce some usage of illegal routes, they have not outlined robust measures to actively deter or stop illegal arrivals.  
+  → **Score: 34 (31–40 band)**
+
+* **Legal / Managed Channel**: Their core policy is to significantly expand legal asylum routes. This aligns with the band descriptor *"Border controls loosen with higher legal immigration volumes..."* (51–59 band). It represents a deliberate loosening of overall border control in exchange for managed inflows.  
+  → **Score: 52 (51–59 band)**
+
+**Net effect on this component**: The illegal channel improves modestly from the current baseline but remains a heavy drag at 34. This is partially offset by the new drag created by significantly higher legal immigration volumes at 52. Overall, this area remains a significant constraint.
+
+### Dominant Issues
+
+| Dominant Issues                                      | Estimated Score |
+|------------------------------------------------------|-----------------|
+| **Illegal Migration & Settlement**                   | 34 |
+| **ECHR Removal Constraints**                         | 34 |
+| **Windsor Framework**                                | 51 |
+| **Legal Immigration System** (increased legal routes) | 52 |
+
+### Overall Assessment
+
+The Liberal Democrats maintain the current structural constraints on removal (ECHR) and internal borders (Windsor Framework). While expanding legal routes may slightly reduce irregular migration through substitution, it simultaneously introduces a new drag through higher legal immigration volumes.
+
+The two heaviest drags (Illegal Migration at 34 and ECHR at 34) continue to dominate under primary drag dominance, resulting in only a modest improvement over the current baseline.
+
+### Final Score
+
+**Core 2A Score: 37 (31–40 band)**
+
+---
+
+## Reform UK
+
+**Policy Positions**
+* Prevent all small boat crossings and deport anyone who arrived illegally.
+* Would leave the ECHR.
+* Scrap the Windsor Framework.
+* Limit legal migration to 100k a year.
+
+### Position After Changes
+
+Reform UK’s proposed policies would remove the three heaviest current drags on UK sovereignty (illegal migration, ECHR removal constraints, and the Windsor Framework). This leaves the following as the dominant issues:
+
+### Dominant Issues
+
+| Dominant Issues                                      | Estimated Score |
+|------------------------------------------------------|-----------------|
+| **Legal Immigration System** (limited to 100k net migration per year) | 74 |
+| **NATO**                                             | 73 |
+| **WTO**                                              | 68 |
+| **CPTPP**                                            | 65 |
+| **UNCLOS – EEZ Economic Rights**                     | 82 |
+| **UNCLOS – Continental Shelf**                       | 88 |
+
+A cap of 100k on legal migration would place this issue in the **70–79 band**, aligning with the descriptor:  
+*"Borders maintain strong controls but allow limited, highly managed immigration and trade routes."*
+
+### Overall Assessment
+
+With illegal immigration stopped, more rigorous vetting resulting in caps for legal immigration, scrapping the Windsor Framework and leaving the ECHR, the previously minor sovereignty elements now come to the fore. Overall these changes represent a significant reclaiming of national sovereignty.
+
+### Final Score
+
+**Core 2A Score: 70 (70–79 band)**
+
+---
+
 ### 7. Routing & Exclusion Summary – Britain Core 2A
 
 **Routing Principles**  
