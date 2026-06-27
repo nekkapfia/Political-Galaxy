@@ -207,3 +207,42 @@ Under the current system, the UK operates a points-based immigration framework. 
 The current legal immigration system results in high volumes of managed legal inflows, particularly through work and study routes. While the system retains some controls (such as points-based criteria and salary thresholds), it features noticeably loosened border controls in practice, especially for high-demand occupations where vetting requirements are reduced. This aligns most closely with the descriptor for the 51–59 band: *"Border controls loosen with higher legal immigration volumes and reduced vetting in practice."* It does not reach the 60–69 band, as the system still maintains meaningful restrictions rather than representing only a moderate increase in managed channels. It also falls well short of the 31–40 band, as the flows remain managed rather than uncontrolled or weakly managed.
 
 ---
+
+### 7. Routing & Exclusion Summary – Britain Core 2A
+
+**Routing Principles**  
+Elements were assessed according to whether their dominant mechanical effect impacts **internal/national sovereignty** (control over a nation’s own territory, borders, domestic laws, and institutions) or **external/international sovereignty** (relations between states and activity outside national territory). Only the primary effect determines routing.
+
+**Routing Decisions**
+
+**Routed to Core 2B (International Sovereignty)**
+
+The majority of UNCLOS provisions were rerouted to Core 2B. These primarily consist of:
+
+- Provisions regulating areas **outside national territory** (High Seas, The Area, straits used for international navigation, etc.), or
+- Provisions that are **already superseded** by existing UK domestic law.
+
+**Retained in Core 2A (National Sovereignty)**
+
+Only the following elements were retained on Core 2A:
+
+- Territorial Sea and Contiguous Zone (limited retention)
+- Exclusive Economic Zone – Economic Output only
+- Continental Shelf
+- Protection and Preservation of the Marine Environment (internal portions)
+
+**Exclusions**
+
+Elements were excluded where they had no meaningful observable impact on control over UK territory, borders, or domestic institutions.
+
+**Summary of Routing Approach**
+
+| Destination     | When Applied                                      | Examples |
+|-----------------|---------------------------------------------------|----------|
+| **Core 2A**     | Dominant effect on control over national territory, borders, or domestic institutions | Territorial Sea, EEZ economic rights, Continental Shelf, internal marine environmental protection |
+| **Core 2B**     | Dominant effect concerns external relations or activity outside national territory | Most UNCLOS provisions (High Seas, The Area, straits, dispute settlement, etc.) |
+| **Excluded**    | Redundant with UK domestic law or negligible mechanical effect | Certain procedural or definitional rules already covered by existing legislation |
+
+All routing decisions were made on the basis of **observable mechanical effect** on internal sovereignty rather than formal legal text or policy framing.
+
+---
