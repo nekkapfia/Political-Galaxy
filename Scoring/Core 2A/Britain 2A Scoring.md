@@ -63,9 +63,9 @@ Short-term reduction in irregular migration or border pressure caused by externa
 **Analysis**:  
 This represents a temporary easing of border control pressures rather than a structural change in sovereignty. The mechanical effect can produce an uplift in scores during the period of suppression, but it does not permanently alter the baseline constraints. It is therefore treated as temporary and does not provide a lasting improvement to the sovereignty score.
 
-### Large Scale Illegal Settlement Era (Mid/late 2022 – Present) — Score: 28 (21–30 band)
+### Large Scale Illegal Settlement Era (Mid/late 2022 – Present) — Score: 32 (31–40 band)
 
-This is the lowest-scoring era in the post-war period. The score of **28** reflects the combination of three interconnected mechanical constraints that together produce a significant reduction in effective national control over territory and presence on that territory:
+This is the lowest-scoring era in the post-war period. The score of **32** reflects the combination of three interconnected mechanical constraints that together produce a significant reduction in effective national control over territory and presence on that territory:
 
 - High-volume irregular migration has resumed, and a significant proportion of those arriving are not removed, resulting in large-scale irregular settlement.
 - Legal and practical barriers to removal (particularly under the ECHR) limit the state’s ability to remove individuals who have entered irregularly.
@@ -79,18 +79,31 @@ Following the lifting of COVID-related travel restrictions, large-scale irregula
 
 ## 4. Current Era Analysis and Policy Type Reference  
 **(Large Scale Illegal Settlement Era – Mid/late 2022 to Present)**  
-**Score: 28 (21–30 band)**
+**Score: 32 (31–40 band)**
 
-**Quick Reference Table**
+#### Primary Constraints (Current Era)
 
-| Name | Score | Drag Priority |
-|------|-------|---------------|
-| High-Volume Irregular Settlement with Low Removal Capacity | **28** | Very High |
-| External Judicial Override on Removals | **34** | High |
-| Supranational Legal Supremacy in Defined Domains | **34** | High |
-| Internal Customs Border Arrangements | **45** | Medium |
-| Forced Resource Transfer via Treaty | **55** | Medium |
-| Prohibition on Closing an External Border | **55** | Medium |
+These are the dominant drags that determine the current score:
+
+| Constraint | Score | Band | Justification |
+|------------|-------|------|---------------|
+| **Illegal Migration & Settlement** | **28** | 21–30 | Large volumes of irregular entry combined with very low effective removal rates. This represents a significant reduction in control over both entry to and presence on UK territory. |
+| **ECHR Removal Constraints** | **36** | 31–40 | The European Convention on Human Rights continues to impose substantial legal and procedural barriers to deportation and removal (particularly under Article 3). This directly limits the UK’s ability to control who remains on its territory. |
+| **Windsor Framework** | **51** | 51–59 | Maintains internal border arrangements and partial regulatory alignment between Great Britain and Northern Ireland. This creates a structural constraint on full territorial and regulatory sovereignty within one part of the United Kingdom. |
+| **Legal Immigration System** | **52** | 51–59 | The points-based system permits relatively high volumes of legal immigration with limited restrictions in key sectors. While managed, it represents a noticeable loosening of overall border control. |
+
+#### Secondary Constraints
+
+The following constraints are present and have been analysed in detail:
+
+| Constraint | Score | Band | Notes |
+|------------|-------|------|-------|
+| **NATO** | 73 | 70–79 | Collective defence obligations and integrated command structures. The UK retains overall control as a key nuclear power and major contributor. |
+| **WTO** | 68 | 61–69 | Structured trade rules with limited real-world enforcement. |
+| **CPTPP** | 65 | 61–69 | Regulatory coherence, ISDS, and digital trade provisions create moderate external influence on specific policy areas. |
+| **UNCLOS – EEZ Economic Rights** | 82 | 80–89 | Sovereign rights over resources in the Exclusive Economic Zone. |
+| **UNCLOS – Continental Shelf** | 88 | 80–89 | Sovereign rights over seabed resources. |
+
 
 ### Major Mechanical Constraints
 
