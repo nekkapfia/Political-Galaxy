@@ -208,7 +208,117 @@ The current legal immigration system results in high volumes of managed legal in
 
 ---
 
-## Liberal Democrats
+## Party Analysis
+
+The parties below are ordered alphabetically. Each is classified by its general leaning on Core 2A issues:
+
+| Party Name                  | Leaning                  |
+|-----------------------------|--------------------------|
+| Conservative Party          | Nationalist              |
+| Green Party                 | Internationalist         |
+| Labour (Burnham)            | Mixed Cooperation        |
+| Liberal Democrats           | Internationalist         |
+| Reform UK                   | Nationalist              |
+| Restore Britain             | Nationalist              |
+
+---
+
+## Conservative Party (Nationalist)
+
+**Policy Positions**
+* Strengthen border enforcement and increase deportations.
+* Reform (but not necessarily leave) the ECHR to improve removal powers.
+* Maintain the Windsor Framework in its current form or seek minor adjustments.
+* Reduce net legal migration through tighter rules on work and study visas.
+
+### Position After Changes
+
+The Conservatives propose moderate improvements to removal capacity and some tightening of legal migration routes. However, they do not propose removing the ECHR or scrapping the Windsor Framework. This leaves the following as the dominant issues:
+
+### Dominant Issues
+
+| Dominant Issues                                      | Estimated Score |
+|------------------------------------------------------|-----------------|
+| **Illegal Migration & Settlement**                   | 42 |
+| **ECHR Removal Constraints**                         | 45 |
+| **Windsor Framework**                                | 51 |
+| **Legal Immigration System**                         | 58 |
+| **NATO**                                             | 73 |
+| **WTO**                                              | 68 |
+
+### Overall Assessment
+
+The Conservatives offer incremental improvements on illegal migration and removal capacity but retain the core structural constraints of the ECHR and Windsor Framework. While legal migration volumes would likely fall, the overall increase in national sovereignty is modest.
+
+### Final Score
+
+**Core 2A Score: 48 (41–50 band)**
+
+---
+
+## Green Party (Internationalist)
+
+**Policy Positions**
+* Oppose deterrent-based policies such as the Rwanda scheme.
+* Strongly oppose leaving the ECHR.
+* Support maintaining the Windsor Framework.
+* Favour expanding safe and legal routes for migration.
+
+### Dominant Issues
+
+| Dominant Issues                                      | Estimated Score |
+|------------------------------------------------------|-----------------|
+| **Illegal Migration & Settlement**                   | 28 |
+| **ECHR Removal Constraints**                         | 34 |
+| **Windsor Framework**                                | 51 |
+| **Legal Immigration System**                         | 48 |
+| **NATO**                                             | 73 |
+| **WTO**                                              | 68 |
+
+### Overall Assessment
+
+The Green Party pursues a strongly **internationalist** model. By opposing stronger border enforcement, supporting the ECHR, maintaining the Windsor Framework, and favouring expanded legal migration, they deliberately accept lower levels of unilateral national sovereignty in favour of deeper international integration, human rights frameworks, and global cooperation.
+
+### Final Score
+
+**Core 2A Score: 33 (31–40 band)**
+
+---
+
+## Labour (Burnham) (Mixed Cooperation)
+
+**Policy Positions**
+* Increase enforcement against people smuggling and small boat crossings.
+* Reform the asylum system and expand safe legal routes.
+* Maintain the ECHR but seek improvements in how it interacts with removal policy.
+* Keep the Windsor Framework but explore ways to reduce its impact on Great Britain.
+
+### Position After Changes
+
+Labour under Burnham proposes stronger enforcement on illegal routes alongside expanding legal pathways. They do not propose leaving the ECHR or scrapping the Windsor Framework. This leaves the following as the dominant issues:
+
+### Dominant Issues
+
+| Dominant Issues                                      | Estimated Score |
+|------------------------------------------------------|-----------------|
+| **Illegal Migration & Settlement**                   | 38 |
+| **ECHR Removal Constraints**                         | 42 |
+| **Windsor Framework**                                | 51 |
+| **Legal Immigration System**                         | 55 |
+| **NATO**                                             | 73 |
+| **WTO**                                              | 68 |
+
+### Overall Assessment
+
+Labour takes a mixed approach. It seeks to reclaim some sovereignty through stronger enforcement against illegal migration, while simultaneously prioritising continued international integration by maintaining the ECHR and the Windsor Framework. This results in incremental gains in border control alongside the retention of significant external legal influence over removals and regulatory alignment in Northern Ireland.
+
+### Final Score
+
+**Core 2A Score: 45 (41–50 band)**
+
+---
+
+## Liberal Democrats (Internationalist)
 
 **Relevant Claims (based on stated positions)**
 * Would expand safe and legal routes for asylum seekers.
@@ -219,13 +329,11 @@ The current legal immigration system results in high volumes of managed legal in
 
 **High-Volume Irregular Migration & Settlement (Split)**
 
-* **Illegal / Uncontrolled Channel**: The party has not proposed strong enforcement measures against small boat crossings or illegal entry. Their main proposal is to expand legal routes as an alternative. While easier legal access would likely reduce some usage of illegal routes, they have not outlined robust measures to actively deter or stop illegal arrivals.  
+* **Illegal / Uncontrolled Channel**: The party has not proposed strong enforcement measures against small boat crossings or illegal entry. Their main proposal is to expand legal routes as an alternative.  
   → **Score: 34 (31–40 band)**
 
-* **Legal / Managed Channel**: Their core policy is to significantly expand legal asylum routes. This aligns with the band descriptor *"Border controls loosen with higher legal immigration volumes..."* (51–59 band). It represents a deliberate loosening of overall border control in exchange for managed inflows.  
+* **Legal / Managed Channel**: Their core policy is to significantly expand legal asylum routes. This represents a deliberate increase in international integration through higher managed inflows.  
   → **Score: 52 (51–59 band)**
-
-**Net effect on this component**: The illegal channel improves modestly from the current baseline but remains a heavy drag at 34. This is partially offset by the new drag created by significantly higher legal immigration volumes at 52. Overall, this area remains a significant constraint.
 
 ### Dominant Issues
 
@@ -238,9 +346,7 @@ The current legal immigration system results in high volumes of managed legal in
 
 ### Overall Assessment
 
-The Liberal Democrats maintain the current structural constraints on removal (ECHR) and internal borders (Windsor Framework). While expanding legal routes may slightly reduce irregular migration through substitution, it simultaneously introduces a new drag through higher legal immigration volumes.
-
-The two heaviest drags (Illegal Migration at 34 and ECHR at 34) continue to dominate under primary drag dominance, resulting in only a modest improvement over the current baseline.
+The Liberal Democrats pursue a model of greater **international integration**. By expanding legal migration routes and maintaining the ECHR and Windsor Framework, they accept a higher degree of external legal influence and shared sovereignty in exchange for closer alignment with international norms and institutions.
 
 ### Final Score
 
@@ -248,7 +354,7 @@ The two heaviest drags (Illegal Migration at 34 and ECHR at 34) continue to domi
 
 ---
 
-## Reform UK
+## Reform UK (Nationalist)
 
 **Policy Positions**
 * Prevent all small boat crossings and deport anyone who arrived illegally.
@@ -271,16 +377,46 @@ Reform UK’s proposed policies would remove the three heaviest current drags on
 | **UNCLOS – EEZ Economic Rights**                     | 82 |
 | **UNCLOS – Continental Shelf**                       | 88 |
 
-A cap of 100k on legal migration would place this issue in the **70–79 band**, aligning with the descriptor:  
-*"Borders maintain strong controls but allow limited, highly managed immigration and trade routes."*
-
 ### Overall Assessment
 
-With illegal immigration stopped, more rigorous vetting resulting in caps for legal immigration, scrapping the Windsor Framework and leaving the ECHR, the previously minor sovereignty elements now come to the fore. Overall these changes represent a significant reclaiming of national sovereignty.
+With illegal immigration stopped, more rigorous vetting resulting in caps for legal immigration, scrapping the Windsor Framework and leaving the ECHR, Reform UK proposes a substantial increase in national sovereignty. The remaining constraints are moderate and largely relate to managed legal immigration and international commitments.
 
 ### Final Score
 
 **Core 2A Score: 70 (70–79 band)**
+
+---
+
+## Restore Britain (Nationalist)
+
+**Policy Positions**
+* Stop all small boat crossings and deport anyone who arrived illegally.
+* Leave the ECHR.
+* Scrap the Windsor Framework.
+* Significantly reduce legal migration (target well below 100k).
+
+### Position After Changes
+
+Restore Britain proposes the removal of the three heaviest current drags on UK sovereignty. Their position on legal migration is more restrictive than Reform UK. This leaves the following as the dominant issues:
+
+### Dominant Issues
+
+| Dominant Issues                                      | Estimated Score |
+|------------------------------------------------------|-----------------|
+| **Legal Immigration System** (significantly reduced) | 68 |
+| **NATO**                                             | 73 |
+| **WTO**                                              | 68 |
+| **CPTPP**                                            | 65 |
+| **UNCLOS – EEZ Economic Rights**                     | 82 |
+| **UNCLOS – Continental Shelf**                       | 88 |
+
+### Overall Assessment
+
+Restore Britain takes a very hard line on both illegal and legal migration while also removing the ECHR and Windsor Framework constraints. This produces one of the strongest increases in national sovereignty among the parties analysed. The remaining constraints are moderate and largely relate to international commitments.
+
+### Final Score
+
+**Core 2A Score: 72 (70–79 band)**
 
 ---
 
