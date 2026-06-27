@@ -208,7 +208,7 @@ The current legal immigration system results in high volumes of managed legal in
 
 ---
 
-## Party Analysis
+### 5. British Political Party Analysis
 
 The parties below are ordered alphabetically. Each is classified by its general leaning on Core 2A issues:
 
@@ -420,7 +420,7 @@ Restore Britain takes a very hard line on both illegal and legal migration while
 
 ---
 
-### 7. Routing & Exclusion Summary – Britain Core 2A
+### 6. Routing & Exclusion Summary – Britain Core 2A
 
 **Routing Principles**  
 Elements were assessed according to whether their dominant mechanical effect impacts **internal/national sovereignty** (control over a nation’s own territory, borders, domestic laws, and institutions) or **external/international sovereignty** (relations between states and activity outside national territory). Only the primary effect determines routing.
