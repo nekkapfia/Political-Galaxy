@@ -151,6 +151,75 @@ Use only the sections that are relevant to the specific party:
 - **Over-counting external obligations** → Strictly apply the internal vs external distinction.
 - **Forcing grey-area parties into binary categories** → Use “Mixed Cooperation” for parties that take a hybrid approach.
 
+
+# Flexible Party Analysis Framework (Core 2A)
+
+**Version 1.1 – June 2026**
+
+This framework provides a consistent yet flexible structure for analysing political parties on Core 2A. It allows different levels of detail depending on the complexity of each party’s positions, while maintaining comparability across analyses.
+
+---
+
+## Available Sections
+
+| Section | Name                        | Purpose                                                                 | When to Use |
+|---------|-----------------------------|--------------------------------------------------------------------------|-------------|
+| **1**   | **Party Name**              | Main heading and classification of the party                            | Always |
+| **2**   | **Policy Positions**        | Short bullet-point list of the party’s key policy stances               | Use when the party has a small number of clear, high-level positions |
+| **3**   | **Relevant Claims**         | More detailed list of the party’s stated positions, often with attached scores | Use when the party has more detailed or scored claims that need recording |
+| **4**   | **Position After Changes**  | Explains what major constraints the party would remove or change, and what remains | Use when the party proposes significant structural changes to current major drags |
+| **5**   | **Component Assessment**    | Detailed breakdown of one or more specific policy areas (can include splits and net effects) | Use when a party has nuanced or split positions on a key area |
+| **6**   | **Dominant Issues**         | Summary table of the remaining key constraints and their scores after the party’s changes | Use when you want a clear overview of what the main issues would be under the party |
+| **7**   | **Overall Assessment**      | Narrative summary of the implications of the party’s policies and how the remaining constraints interact | Use for most parties (provides context and reasoning) |
+| **8**   | **Final Score**             | The final Core 2A score and band, with brief justification              | Always (this is the core output) |
+
+---
+
+## Recommended Combinations by Party Type
+
+| Party Type                        | Recommended Sections          | Typical Structure |
+|-----------------------------------|-------------------------------|-------------------|
+| **Simple party** (few changes, clear positions) | 1, 2, 7, 8                   | Basic structure |
+| **Party with major structural changes** | 1, 2, 4, 6, 7, 8             | Good for parties proposing major shifts (e.g. Reform UK) |
+| **Party with nuanced/split positions** | 1, 3, 5, 6, 7, 8             | Good for parties with complex or split positions (e.g. Liberal Democrats) |
+| **Complex party**                 | 1, 2, 3, 4, 5, 6, 7, 8       | Full detailed analysis |
+| **Minimal analysis**              | 1, 8                         | Very short summary |
+
+---
+
+## How to Apply the Framework
+
+Use only the sections that add analytical value for the specific party. The goal is consistency in section naming and purpose across all party analyses, while allowing flexibility in depth.
+
+**Common Application Patterns**:
+
+- **Standard Version** (most common):  
+  1. Party Name → 2. Policy Positions → 4. Position After Changes → 6. Dominant Issues → 7. Overall Assessment → 8. Final Score
+
+- **Detailed Version** (for nuanced or split positions):  
+  1. Party Name → 3. Relevant Claims → 4. Position After Changes → 5. Component Assessment → 6. Dominant Issues → 7. Overall Assessment → 8. Final Score
+
+- **Minimal Version**:  
+  1. Party Name → 8. Final Score
+
+---
+
+## Key Principles
+
+- **Consistency**: Always use the same section names and numbering system.
+- **Relevance**: Only include sections that meaningfully contribute to the analysis.
+- **Scalability**: Simple parties remain short; complex parties can use more sections without breaking the overall structure.
+- **Comparability**: Consistent section structure makes it easier to compare parties across documents.
+
+---
+
+## Benefits of This Framework
+
+- Provides a reusable structure across different countries and elections.
+- Balances analytical rigour with practicality.
+- Supports both high-level overviews and detailed component-level analysis.
+- Maintains methodological transparency and consistency in Layer 3 scoring documents.
+
 ---
 
 **End of V4 Scoring Manual**
