@@ -147,7 +147,200 @@ These obligations are relevant but do not materially alter the overall assessmen
 
 ---
 
-## 5. Routing & Exclusion Summary
+# 5. German Political Party Analysis
+
+The parties below are ordered alphabetically. Each is classified by its general leaning on Core 2A issues.
+
+| Party Name | Leaning |
+|------------|---------|
+| Alternative for Germany (AfD) | Nationalist |
+| Christian Democratic Union (CDU/CSU) | Nationalist |
+| Free Democratic Party (FDP) | Mixed Cooperation |
+| Greens (Bündnis 90/Die Grünen) | Internationalist |
+| Social Democratic Party (SPD) | Mixed Cooperation |
+| The Left (Die Linke) | Internationalist |
+
+---
+
+### Alternative for Germany (AfD) (Nationalist)
+
+**Policy Positions**
+* Strongly restrict immigration and increase deportations.
+* Reform or leave the Eurozone.
+* Reduce EU competences and restore national sovereignty.
+* More sceptical of NATO and deeper EU foreign policy alignment.
+
+### Position After Changes
+
+In a single parliamentary term, the AfD could deliver noticeable but limited improvements. It could accelerate deportations and tighten migration enforcement using existing legal tools. However, major structural changes — such as Eurozone reform or exit, or a significant rollback of EU competences — are not realistically achievable within four years. Over an extended period in government, the party could plausibly achieve a significantly higher score, though this would not be realistic within a single term.
+
+### Dominant Issues
+
+| Dominant Issues | Estimated Score |
+|-----------------|-----------------|
+| **EU Migration & Asylum Framework** | 46 |
+| **State Aid Rules** | 49 |
+| **Eurozone & Economic Governance** | 50 |
+| **NATO** | 66 |
+
+### Overall Assessment
+
+Within one parliamentary term, an AfD government could make real progress on immigration enforcement and become a more difficult negotiating partner for Brussels. However, fundamental changes to Germany’s relationship with the EU — particularly regarding the Eurozone or the broader rollback of EU competences — would require either major treaty reform or a German exit from key parts of the EU. These outcomes are not realistically deliverable in a single 4-year term.
+
+**Final Score: 49 (41–50 band)**
+
+---
+
+### Christian Democratic Union (CDU/CSU) (Nationalist)
+
+**Policy Positions**
+* Maintain strong EU integration while protecting German interests.
+* Reform EU migration policy and strengthen external borders.
+* Support NATO and transatlantic cooperation.
+* Maintain fiscal discipline within the Eurozone.
+
+### Position After Changes
+
+The CDU/CSU would likely pursue incremental improvements in migration control and border enforcement while maintaining Germany’s central role in the EU. These changes are relatively achievable within one term through tougher enforcement, faster asylum procedures, and political pressure on other EU countries.
+
+### Dominant Issues
+
+| Dominant Issues | Estimated Score |
+|-----------------|-----------------|
+| **EU Migration & Asylum Framework** | 47 |
+| **State Aid Rules** | 49 |
+| **Eurozone & Economic Governance** | 50 |
+| **NATO** | 70 |
+
+### Overall Assessment
+
+A CDU/CSU-led government could deliver modest but meaningful improvements in migration management and border security. However, because they support continued deep EU integration, they would not fundamentally challenge the broader EU framework. The overall gain in national sovereignty would be limited.
+
+**Final Score: 50 (41–50 band)**
+
+---
+
+### Free Democratic Party (FDP) (Mixed Cooperation)
+
+**Policy Positions**
+* Support EU single market and trade liberalisation.
+* Favour reform of EU institutions and more market-oriented policies.
+* Maintain strong NATO commitment.
+* Relatively liberal on skilled migration.
+
+### Position After Changes
+
+The FDP would likely focus on economic liberalisation and institutional reform within the existing EU framework. These goals are relatively compatible with current EU structures and could be pursued through negotiation and coalition politics within one term.
+
+### Dominant Issues
+
+| Dominant Issues | Estimated Score |
+|-----------------|-----------------|
+| **EU Migration & Asylum Framework** | 50 |
+| **State Aid Rules** | 50 |
+| **Eurozone & Economic Governance** | 52 |
+| **NATO** | 72 |
+
+### Overall Assessment
+
+An FDP-influenced government would likely maintain most current EU constraints while pushing for greater flexibility in economic and regulatory areas. The overall sovereignty position would remain close to the current baseline.
+
+**Final Score: 52 (51–59 band)**
+
+---
+
+### Greens (Bündnis 90/Die Grünen) (Internationalist)
+
+**Policy Positions**
+* Strong support for deeper EU integration, especially on climate and migration.
+* Support for a more federal Europe.
+* Strong commitment to human rights frameworks (including ECHR).
+* Critical of national unilateralism.
+
+### Position After Changes
+
+The Greens would likely maintain or strengthen current EU constraints in several areas while pushing for deeper integration on climate policy and managed migration. These positions are broadly compatible with existing EU frameworks and could be advanced within one term.
+
+### Dominant Issues
+
+| Dominant Issues | Estimated Score |
+|-----------------|-----------------|
+| **EU Migration & Asylum Framework** | 39 |
+| **EU Green Deal & Energy Policy** | 46 |
+| **State Aid Rules** | 48 |
+| **NATO** | 65 |
+
+### Overall Assessment
+
+A Green-influenced government would likely keep Germany closely aligned with current EU structures and push for further integration in climate and migration policy. This would result in limited change to the current sovereignty position.
+
+**Final Score: 41 (41–50 band)**
+
+---
+
+### Social Democratic Party (SPD) (Mixed Cooperation)
+
+**Policy Positions**
+* Support for EU integration with social safeguards.
+* Reform of EU migration and asylum policy.
+* Strong commitment to NATO and European security.
+* Balance between national interests and European solidarity.
+
+### Position After Changes
+
+The SPD would likely pursue moderate reforms to the migration system while maintaining Germany’s central role in the EU. These changes are achievable within one term through negotiation and coalition agreements.
+
+### Dominant Issues
+
+| Dominant Issues | Estimated Score |
+|-----------------|-----------------|
+| **EU Migration & Asylum Framework** | 45 |
+| **State Aid Rules** | 49 |
+| **Eurozone & Economic Governance** | 50 |
+| **NATO** | 68 |
+
+### Overall Assessment
+
+An SPD-led government would likely deliver modest improvements in migration policy while preserving Germany’s strong commitment to European integration. The overall sovereignty position would remain close to the current baseline.
+
+**Final Score: 48 (41–50 band)**
+
+---
+
+### The Left (Die Linke) (Internationalist)
+
+**Policy Positions**
+* Critical of NATO and military engagement.
+* Support for EU reform with stronger social and democratic elements.
+* Generally open to migration and critical of restrictive border policies.
+* Strong emphasis on international solidarity.
+
+### Position After Changes
+
+Die Linke would likely maintain a relatively internationalist approach, supporting continued EU cooperation while pushing for social and democratic reforms. These positions are broadly compatible with current EU structures.
+
+### Dominant Issues
+
+| Dominant Issues | Estimated Score |
+|-----------------|-----------------|
+| **EU Migration & Asylum Framework** | 43 |
+| **EU Green Deal & Energy Policy** | 48 |
+| **State Aid Rules** | 50 |
+| **NATO** | 60 |
+
+### Overall Assessment
+
+A government influenced by Die Linke would likely maintain or slightly reduce current sovereignty constraints while prioritising social and international cooperation goals. The overall sovereignty position would remain close to the current baseline.
+
+**Final Score: 47 (41–50 band)**
+
+---
+
+**End of German Political Party Analysis**
+
+---
+
+## 6. Routing & Exclusion Summary
 
 **Routing Principles**  
 Elements were assessed according to whether their dominant mechanical effect impacts internal/national sovereignty (Core 2A) or external/international sovereignty (Core 2B).
