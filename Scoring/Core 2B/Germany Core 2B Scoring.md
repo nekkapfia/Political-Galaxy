@@ -68,5 +68,14 @@ Differences between German political parties on Core 2B issues have become more 
 | **CDU/CSU**            | Supportive of strong engagement     | **40**          | Slightly lower      | Generally aligned with current direction |
 | **Greens**             | Strongly internationalist           | **38**          | Lower (-4)          | Most supportive of robust action against Russia and strong support for Ukraine |
 
+#### AfD
+The AfD advocates a strongly nationalist and non-interventionist foreign policy. It has consistently opposed large-scale military support for Ukraine and the current extent of EU sanctions against Russia. In government, it would likely pursue a significant reduction in Germany’s involvement in the Ukraine conflict and a weakening of EU-level economic pressure on Russia. This would result in a substantially higher Core 2B score (less interference in other states’ affairs).
+
+#### Die Linke
+Die Linke remains opposed to the delivery of heavy weapons and deeper NATO involvement. While not as isolationist as the AfD, it would likely adopt a more restrained approach to the conflict, resulting in a moderately higher Core 2B score than the current baseline.
+
+#### Mainstream Parties (SPD, CDU/CSU, Greens, FDP)
+The four mainstream parties remain relatively close to one another. All support continued assistance to Ukraine and the use of sanctions against Russia, though they differ in emphasis. The **Greens** are generally the most willing to maintain strong measures, while the **CDU/CSU** tend to place greater weight on transatlantic coordination. None of these parties would be expected to move the Core 2B score by more than a few points.
+
 #### Overall Assessment
-The **AfD** holds the clearest alternative position and would likely produce a significantly higher Core 2B score (less interference abroad). **Die Linke** would also result in a moderately higher score. Among the mainstream parties, differences are relatively modest, with the **Greens** being the most interventionist and the **CDU/CSU** slightly more willing to maintain strong commitments than the current government. A more detailed analysis of how each party would affect the score in government is provided in the individual era documents.
+Only the **AfD** holds positions that would result in a significantly different Core 2B score. Among the mainstream parties, differences are modest. A more detailed breakdown of how each party would affect the score is available in the individual era documents.
