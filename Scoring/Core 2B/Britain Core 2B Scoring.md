@@ -1,81 +1,65 @@
-### Era 2: Thatcher/Major Restraint (Mid-1980 – 1997)
-**Score: 68**
+# UK Core 2B: International Sovereignty – Britain Overview
 
-| Category | Score |
-|----------|-------|
-| Diplomacy | **69** |
-| Foreign Aid | **66** |
-| Culture and Ideology | **68** |
-| Expelling the Iraqi Invasion of Kuwait (Gulf War, 1990–1991) | **81** |
+This document provides a high-level overview of the United Kingdom’s scores on the Core 2B (International Sovereignty) slider across all eras. Each era has its own dedicated document containing the full granular analysis.
 
-**Summary**  
-Era 2 was defined by general restraint. The three main categories (Diplomacy, Foreign Aid, and Culture and Ideology) all scored in the mid-to-high 60s, reflecting selective, limited, and non-systematic activity across the period.  
-The Gulf War stands out as a notable but short-lived outlier. Due to its defensive nature and the fact that it was conducted in support of the defender at their request, it has been treated with heavy mitigating factors. It is not used in determining the overall era score of 68.  
-The overall era score reflects a period that was predominantly restrained, with only modest and selective engagement in soft power tools, primarily concentrated in the post-Cold War years.
+## Era Scores Summary
 
-**1. Diplomacy: (69)** 
-
-| Diplomatic Activities                         | Score |
-|-----------------------------------------------|-------|
-| Strong Multilateral/Coordinated Diplomatic Pressure | **68** |
-| Light Bilateral Diplomatic Pressure           | **72** |
-| Diplomatic Ideological Promotion              | **66** |
-
-**Summary:**  
-Diplomatic activity during this era was generally low to moderate in intensity. Strong multilateral diplomatic pressure was limited and not a consistent feature. Light bilateral diplomatic pressure was routine but low intensity. Diplomatic ideological promotion was modest and largely confined to post-Cold War support for democratic transitions in Eastern Europe. Overall, diplomatic engagement remained restrained and selective.
+| Era | Period                  | Score | Character of Engagement                          |
+|-----|-------------------------|-------|--------------------------------------------------|
+| 1   | Rhodesia Crisis         | **61**    | Moderate, narrow, short-duration diplomatic intervention |
+| 2   | Thatcher/Major Restraint| **68**    | General restraint with selective engagement      |
+| 3   | Early Liberal Interventionism | **56** | Transitional increase in intervention            |
+| 4   | Offensive Wars Peak     | **23**    | Peak intensity – large-scale offensive wars and institutional reform |
+| 5   | Selective & Declining Intervention | **42** | Reduced scale and intensity of engagement        |
+| 6   | Sanctions & Proxy Support | **48**  | High volume of activity through sanctions and proxy support |
 
 ---
 
-**2. Foreign Aid: (66)**
+## Era Summaries
 
-| Aid-Related Conditions                        | Score |
-|-----------------------------------------------|-------|
-| Aid-Based Ideological Promotion               | **65** |
-| General Economic & Governance Aid Conditionality | **67** |
-| General Political & Human Rights Aid Conditionality | **66** |
-| General Civil Society Capacity Building       | **65** |
-| Democracy & Governance Programs               | **66** |
-| Human Rights Programs                         | **65** |
+### Era 1: Rhodesia Crisis (Late 1979 – Early 1980) — Score: 61
+This short era was defined almost entirely by the UK’s diplomatic intervention in the Rhodesian crisis through the Lancaster House negotiations. Activity was narrowly focused on diplomatic pressure and supporting sanctions. There was minimal engagement in Foreign Aid or Culture and Ideology. The score reflects moderate outward interference that was limited in both scope and duration.
 
-**Summary:**  
-Aid-related activity was present but limited in scale and intensity. Most efforts were concentrated in the post-Cold War period and focused on modest support for reform in Eastern Europe. Conditionality was selective rather than systematic, and programs were generally low-intensity.
+### Era 2: Thatcher/Major Restraint (Mid-1980 – 1997) — Score: 68
+This era was characterised by general restraint. While the Gulf War (1990–1991) was a notable event, it was a short, defensive, and multilateral intervention. Outside of this, the UK maintained selective and low-to-moderate levels of diplomatic and aid activity, primarily focused on post-Cold War transitions in Eastern Europe. The era reflects a predominantly restrained approach to outward engagement.
 
----
+### Era 3: Early Liberal Interventionism (1997–2001) — Score: 56
+This short transitional era saw an increase in the UK’s willingness to intervene, most notably in Kosovo (1999) and Sierra Leone (2000). Diplomatic and aid activity rose, particularly around democracy promotion and civil society support. The score reflects a moderate increase in outward engagement during a brief but significant period.
 
-**3. Culture and Ideology: (68)**
+### Era 4: Offensive Wars Peak (2001–2011) — Score: 23
+This era represents the high point of UK outward interventionism. It was dominated by two large-scale offensive wars in Afghanistan and Iraq involving regime change and prolonged occupation. Foreign Aid was used extensively for political conditionality and institutional reform. The very low score reflects sustained high-intensity interference across military, diplomatic, and aid domains.
 
-| Cultural/Ideological Exports                  | Score |
-|-----------------------------------------------|-------|
-| Passive Media & Entertainment Pressure        | **68** |
-| Educational & Academic Exchanges              | **67** |
+### Era 5: Selective & Declining Intervention (2011–2016) — Score: 42
+This era saw a noticeable reduction in the scale and intensity of UK intervention. Key events included the Libya intervention (2011) and limited support for opposition forces in Syria. While activity continued across Diplomacy and Foreign Aid, it was more selective and lower in intensity than in Era 4. The score reflects declining outward engagement.
 
-**Summary:**  
-Cultural and ideological soft power activity remained modest throughout the era. These efforts were not used as deliberate or systematic tools of interference and had limited impact. Activity was largely passive and low in intensity.
+### Era 6: Sanctions & Proxy Support Era (2016–2026) — Score: 48
+This era is defined by a shift toward economic sanctions and proxy support, particularly in response to Russian actions in Ukraine. The UK made extensive use of sanctions, diplomatic pressure, and support for Ukraine while continuing more modest governance and democracy programming in other regions. Although the volume of activity remained high, the nature of engagement was less directly invasive than in earlier periods. The score reflects high activity levels with lower direct interference.
 
 ---
 
-**4. Gulf War(1990–1991), Expulsion of Iraqi Invasion of Kuwait: (81)**
+## Current Era: Sanctions & Proxy Support Era (2016–2026)
 
-#### Actions Primarily In Defence of Kuwait
+**Score: 48**
 
-| Defensive Military Operations                 | Score |
-|-----------------------------------------------|-------|
-| Direct Military Participation (Kuwait)        | **68** |
-| Military Support to Kuwaiti Forces            | **70** |
-| Political & Diplomatic Support for Kuwait     | **72** |
-| Diplomatic Pressure & Coalition Building      | **70** |
-| Support for Economic Sanctions & Embargoes    | **68** |
-| Public Ideological Framing                    | **69** |
+This is the current era. It is characterised by the UK’s heavy reliance on economic sanctions and proxy support as primary tools of foreign policy, especially in response to Russia’s invasion of Ukraine. While direct military intervention has been limited, the UK has played a significant role in coordinating international sanctions, providing political and material support to Ukraine, and promoting liberal democratic norms in Eastern Europe and the Western Balkans.
 
-#### Military Actions Taken Against Iraq
+Activity remains notable in Diplomacy and Foreign Aid, though it is more selective and less intensive than during the peak intervention years of Era 4. Culture and Ideology programming continues at a modest level, focused on supporting democratic resilience and independent media in partner countries.
 
-| Offensive Military Operations                 | Score |
-|-----------------------------------------------|-------|
-| Direct Military Participation (Iraq)          | **45** |
-| Air Campaign Strikes inside Iraq              | **42** |
-| Intelligence Support for Strikes inside Iraq  | **48** |
+The current trajectory suggests continued emphasis on economic statecraft and proxy support rather than large-scale direct military engagement.
 
-**Summary:**  
-The 1990–1991 Gulf War was fought to reverse Iraq’s invasion and occupation of Kuwait. While the overall campaign involved offensive military operations against Iraq, the core objective was the defence and liberation of Kuwait at the request of its legitimate government. The UK participated as part of a broad international coalition authorised by the United Nations. The operation was time-limited and did not involve regime change in Iraq or long-term occupation.
+---
 
-Due to the war being not only defensive in nature but the support being provided to the defender, from an era perspective this is treated with heavy mitigating factors. As a result the final score for this event is **81**.
+## Scope and Rerouting
+
+### What Core 2B Measures
+Core 2B measures the degree to which a nation interferes in the **internal affairs of other states**. It focuses on observable actions that affect the sovereignty, governance, or internal political processes of other countries.
+
+### Key Rerouting Principles
+- **Defensive actions**: Military or diplomatic actions taken in direct self-defence (including defence of sovereign territory or at the explicit request of a legitimate government) are treated with significant mitigating credit.
+- **Invited interventions**: Actions taken at the request of the legitimate government of another state are viewed as less invasive than uninvited interference.
+- **Intra-state vs inter-state**: Actions that occur entirely within a country’s own territory (even during conflict) are generally not counted under Core 2B. Only actions that cross into another sovereign state’s internal affairs are scored.
+- **Negative-only weighting**: Restraint does not generate positive credit. Only actual increases in interference reduce the score.
+- **Short vs sustained activity**: Short-duration events are assessed in the context of the broader era and do not automatically define the era’s character unless they represent a sustained pattern.
+
+### Political Parties
+Differences between UK political parties on Core 2B issues are currently limited and are not a major defining feature of UK politics. While parties differ in emphasis (particularly regarding sanctions policy, support for Ukraine, and the balance between domestic and international priorities), there is broad cross-party consensus on the use of sanctions against Russia and support for Ukraine’s sovereignty. A more detailed party analysis is included in the individual era documents where relevant.
