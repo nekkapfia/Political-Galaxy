@@ -73,14 +73,6 @@ Morality is drawn equally from both transcendent sources and logic/reasoning, of
 - Neither source is treated as inherently superior; both are actively consulted and weighed.
 - **Example**: Laws and social norms are justified using both religious or traditional grounds and rational arguments about human nature, evidence, and social order.
 
-## 48–52
-Morality is drawn equally from both secular reasoning and transcendent sources, often intertwining the two to form the base.
-
-- Secular and transcendent sources are given roughly equal weight in moral reasoning.
-- Arguments frequently combine appeals to logic/evidence with transcendent or faith-based claims.
-- The balance between the two sources varies depending on the issue.
-- **Example**: Laws and social norms are justified using both rational arguments about human nature and social order and religious or traditional grounds.
-
 ## 40–47
 Secular sources form the core of the moral structure but are subject to criticism and debate. Transcendent sources play a significant role alongside secular reasoning.
 
