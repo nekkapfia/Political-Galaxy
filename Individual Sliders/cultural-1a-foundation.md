@@ -144,8 +144,3 @@ Secular reasoning and logic are the only source of moral legitimacy. All argumen
 - Transcendent, religious, or faith-based arguments are rejected if they contradict secular reason and evidence.
 - Appeals to divine command or sacred texts are treated as corruptions or distractions from rational truth.
 - **Example**: Laws and social norms are enforced exclusively because “reason and evidence demand it”, and any religious or faith-based counter-argument is dismissed as irrelevant or irrational.
-
-- Transcendent and secular sources are given roughly equal weight in moral reasoning.
-- Arguments frequently combine appeals to transcendent sources with logical and practical reasoning.
-- The balance between the two sources varies depending on the issue.
-- **Example**: Laws and social norms are justified using both religious or traditional grounds and rational arguments about human nature and social order.
