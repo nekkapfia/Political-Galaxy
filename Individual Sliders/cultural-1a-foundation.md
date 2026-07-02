@@ -1,5 +1,9 @@
 # Cultural 1A – Foundation
 
+## Core Definition
+This slider measures the proportion of moral legitimacy derived from transcendent sources compared to the proportion of moral legitimacy derived from secular logic and reasoning. It does not assess the moral content or consequences of positions, only the basis on which moral authority is claimed.
+
+
 ## 100
 The transcendent is the only source of moral legitimacy, all arguments appeal directly to some transcendent element or entity. Human logic and reason are shunned as corruptions of the transcendent truth.
 
