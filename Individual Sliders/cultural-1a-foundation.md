@@ -1,8 +1,12 @@
+
+---
+
 # Cultural 1A – Foundation
 
 ## Core Definition
-This slider measures the proportion of moral legitimacy derived from transcendent sources compared to the proportion of moral legitimacy derived from secular logic and reasoning. It does not assess the moral content or consequences of positions, only the basis on which moral authority is claimed.
+This slider measures the proportion of moral legitimacy derived from transcendent sources compared to the proportion of moral legitimacy derived from secular logic and reasoning. It does not assess the moral content, rightness, or consequences of any position, belief, or policy. It measures only the basis on which moral authority is claimed.
 
+---
 
 ## 100
 The transcendent is the only source of moral legitimacy, all arguments appeal directly to some transcendent element or entity. Human logic and reason are shunned as corruptions of the transcendent truth.
@@ -140,3 +144,6 @@ Secular reasoning and logic are the only source of moral legitimacy. All argumen
 - Transcendent, religious, or faith-based arguments are rejected if they contradict secular reason and evidence.
 - Appeals to divine command or sacred texts are treated as corruptions or distractions from rational truth.
 - **Example**: Laws and social norms are enforced exclusively because “reason and evidence demand it”, and any religious or faith-based counter-argument is dismissed as irrelevant or irrational.
+
+
+---
