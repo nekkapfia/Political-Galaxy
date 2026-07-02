@@ -139,3 +139,104 @@ A long period of stability in which the secular moral framework established by t
 This long period represents the consolidation of the current secular baseline. The origin of moral grammar remained stable at this lower level across all domains. While cultural and political debates continued (particularly around gender, education, and the role of faith in public life), there was no major new directional shift in the observable source of moral norms.
 
 The era was characterised by the normalisation and embedding of secular frameworks that had been established in previous periods. Legal and institutional changes from the early 2000s became fully integrated into everyday life and governance.
+
+---
+
+# UK Political Parties – Cultural 1A Assessment
+
+## Party Overview
+
+| Party                  | Score | Summary |
+|------------------------|-------|---------|
+| **Conservative Party**     | 28    | Maintains a secular foundation while showing the highest tolerance for debate and a mild cultural preference for Britain’s Christian heritage. |
+| **Green Party**            | 15    | Operates from a strongly secular progressive framework with low tolerance for opposing views and selective accommodation of non-Christian religious practices. |
+| **Labour Party**           | 24    | Maintains a consistent secular framework with reasonable tolerance for debate and limited carve-outs for faith-based institutions. |
+| **Liberal Democrats**      | 23    | Strongly secular and ideologically liberal, with high tolerance for debate and selective accommodation of religious practices through secular liberal principles. |
+| **Reform UK**              | 18    | Strongly secular with a clear cultural preference for Christian heritage and notably lower tolerance for counter-arguments on cultural and immigration issues. |
+| **Restore Britain**        | 16    | Maintains the strongest secular framework while showing the most explicit rhetorical support for Britain remaining a Christian country. |
+
+## The State of British Politics on Cultural 1A
+
+British politics operates within a broadly secular framework. Across the political spectrum, parties overwhelmingly justify their policies through secular reasoning — whether that takes the form of rights, evidence, national interest, fairness, or social cohesion. Direct appeals to transcendent sources as the primary basis for policy are extremely rare.
+
+However, there is significant variation in how parties engage with transcendent claims. Left-leaning parties tend to be more hostile toward traditional Christian positions on social issues while showing greater willingness to accommodate certain non-Christian religious practices when these can be framed through secular liberal values. Right-leaning parties are more protective of Britain’s Christian cultural heritage and more sceptical of non-Christian (especially Islamic) transcendent claims.
+
+Despite these differences in tone and emphasis, no major party currently treats transcendent sources as having independent moral authority over policy. Even when parties defend or oppose religious practices, they almost always do so by subordinating those claims to secular reasoning. This results in a political environment where secular logic remains dominant, but the treatment of different transcendent traditions is often inconsistent and shaped by broader ideological and cultural priorities.
+
+---
+
+### Conservative Party
+**Score: 28**
+
+- Consistent use of secular reasoning across policies
+- Limited direct use of transcendent sources
+- Highest tolerance for counter-arguments among the six parties
+- Mild cultural preference for Christian heritage
+- Greater scepticism toward non-Christian transcendent claims on integration issues
+
+The Conservative Party maintains a secular foundation across its policy positions while demonstrating greater overall tolerance for debate than the left-wing parties. It shows a mild but consistent cultural preference for Britain’s Christian heritage and is more sceptical of non-Christian (particularly Islamic) transcendent claims when these are seen to conflict with integration or social cohesion. The party’s arguments remain overwhelmingly secular, even when defending Christian heritage, which is typically framed in terms of national identity, history, and cultural continuity rather than religious doctrine. It shows greater willingness than left-wing parties to accommodate faith-based institutions, particularly Christian ones, while applying more scrutiny to other religious claims.
+
+---
+
+### Green Party of England and Wales
+**Score: 15**
+
+- Strong and consistent use of secular reasoning across all policies
+- No direct use of transcendent sources in policy arguments
+- Low tolerance for counter-arguments on core progressive social issues
+- Selective accommodation of non-Christian transcendent claims through secular liberal framing
+- One carve-out for religious practices, justified through secular reasoning
+
+The Green Party operates from a strongly secular foundation shaped by progressive ideology. It almost never uses transcendent sources directly in its policy arguments. The party shows a clear asymmetry in how it treats different transcendent claims: it is notably hostile toward traditional Christian positions on gender, sexuality, and family, while demonstrating greater willingness to accommodate certain non-Christian (particularly Islamic) religious practices when these can be framed through secular liberal principles such as religious freedom and minority rights. The Green Party maintains low tolerance for counter-arguments that challenge its core progressive positions, often rejecting them on secular grounds. When it does engage with transcendent sources, it consistently subordinates them to secular reasoning rather than granting them independent moral authority.
+
+---
+
+### Labour Party
+**Score: 24**
+
+- Consistent use of secular reasoning across policies
+- No direct use of transcendent sources in policy arguments
+- Good tolerance for both secular and transcendent counter-arguments
+- Moderate asymmetry in treatment of Christian versus non-Christian claims
+- Limited carve-outs, justified through secular arguments around choice and diversity
+
+The Labour Party maintains a consistent and largely pragmatic secular framework across its policy positions. It relies overwhelmingly on secular reasoning, with no direct appeal to transcendent sources as the foundation for its arguments. While progressive on social issues, Labour is generally more pragmatic and less ideologically rigid than the Green Party in its treatment of religious claims. The party shows reasonable tolerance for debate and creates limited carve-outs, most notably its continued support for faith schools. These accommodations are justified through secular arguments around parental choice, diversity, and community cohesion rather than religious principle. Labour displays a moderate asymmetry, tending to be more critical of traditional Christian positions on social issues while showing greater willingness to accommodate Islamic religious practices when framed through secular liberal values.
+
+---
+
+### Liberal Democrats
+**Score: 23**
+
+- Strong and consistent use of secular liberal reasoning
+- No direct use of transcendent sources in policy arguments
+- High tolerance for both secular and transcendent counter-arguments
+- Clear asymmetry between treatment of Christian and non-Christian claims
+- Carve-outs framed through secular liberal principles
+
+The Liberal Democrats operate from a strongly secular liberal foundation. Their policy positions are justified through secular reasoning centred on individual autonomy, rights, and progressive values, with no direct use of transcendent sources as moral authority. The party shows high tolerance for debate and uses secular liberal principles to justify limited accommodations for religious practices. Like Labour, the Liberal Democrats exhibit asymmetry in their treatment of transcendent claims. They tend to oppose traditional Christian positions on gender and social issues while being more accommodating toward other religious groups when these can be defended through secular arguments around religious freedom and minority rights. Their single carve-out is framed through secular liberal reasoning rather than religious doctrine.
+
+---
+
+### Reform UK
+**Score: 18**
+
+- Strong and consistent use of secular reasoning
+- No direct use of transcendent sources in policy arguments
+- Lower tolerance for counter-arguments than centre and left parties
+- Cultural preference for Christian heritage, defended through secular framing
+- Significant scepticism toward Islamic transcendent claims
+
+Reform UK operates from a strongly secular foundation with a clear cultural preference for Britain’s Christian heritage. Its policy positions are justified through secular reasoning focused on national interest, security, fairness, and social cohesion, with no direct use of transcendent sources as moral authority. The party is notably less tolerant of counter-arguments than the centre and left-wing parties, particularly on issues of immigration and cultural integration. While Reform UK is more explicit than most parties in calling for the protection of Britain’s Christian heritage, it defends this position as a matter of national and cultural identity rather than religious doctrine. It shows significant scepticism toward non-Christian (particularly Islamic) transcendent claims, often framing opposition through secular arguments around integration and women’s rights.
+
+---
+
+### Restore Britain
+**Score: 16**
+
+- Strongest secular framework among the six parties
+- No direct use of transcendent sources in policy arguments
+- Lowest tolerance for counter-arguments among the six parties
+- Most explicit rhetorical support for Britain as a Christian country
+- Strong scepticism toward non-Christian transcendent claims
+
+Restore Britain maintains the strongest secular framework among the six parties while showing the most explicit rhetorical support for Britain remaining a Christian country. Its policy positions are justified almost entirely through secular reasoning, with no direct appeal to transcendent sources as the basis for its arguments. The party is notably less tolerant of counter-arguments than the other parties, particularly on issues of immigration, cultural integration, and national identity. While Restore Britain is the most vocal in stating that Britain is and should remain a Christian country, it defends this position primarily as a matter of national and cultural identity rather than religious doctrine. The party is the most sceptical of non-Christian transcendent claims, particularly those associated with Islam, and consistently opposes practices justified on religious grounds when they conflict with national interest or social cohesion.
