@@ -1,24 +1,34 @@
-# Era Dates and Ranges
+Read these instructions
+You score something by
 
-- **Era 1**: 1945–1958
-- **Era 2**: 1958–1972
-- **Era 3**: 1973–1990
-- **Era 4**: 1990–2006
-- **Era 5**: 2007–2026
+Selecting the band you feel most appropriate.
+You then look at the range, if it has no range, it is just a letter.
+If it's range does not include a 0, decide whether it is "more secular" or "more transcendent" within that band. You then decide the intensity by selecting from the range given.
+If it includes a 0 you may also decide that it is balanced, this does not get an intensity.
 
-# Political Parties
+ 
+User gives the following Example
 
-- Conservative Party
-- Green Party
-- Labour Party
-- Liberal Democrats
-- Reform UK
-- Restore Britain
+So a E1S and a E4T Mean that both of them fit the E band, but inside that band the first has more of a secular tilt while the second is almost transcendent enough to be in the next band in a transcendent direction.
 
-# Domains
+Do not do any of the following.
 
-- Education Curricula
-- Media Narratives
-- Public Rituals
-- Institutional Governance
-- Daily Cultural Reflexes
+Attempt to organise the bands numerically.
+Attempt to rearrange the bands based on some criteria.
+Attempt to retrieve information from github that will help you decode or reorder the bands.
+
+When scoring, it is do qualitatively by reading and selecting a band.
+
+---
+
+When scoring an entity you score each of the following domains Domains
+
+Education Curricula
+Media Narratives
+Public Rituals
+Institutional Governance
+Daily Cultural Reflexes
+
+You then use this information as additional information along side any other information on the entity to decide on the final holistic score for that entity, the holistic score is scored the same as anything else. It is not a simple average or a select the most common, the domains are there as supporting information only
+
+
