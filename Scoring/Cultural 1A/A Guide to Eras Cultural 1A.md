@@ -1,73 +1,99 @@
-# Guide: Constructing and Scoring Eras Sections for Cultural 1A (Britain)
+# Guide: Constructing and Scoring Eras Sections for Cultural 1A
 
-This guide is based on the current document structure and methodology developed for the Britain Cultural 1A eras section. It is designed to be reusable for future work.
+This guide reflects the current version of the Cultural 1A slider and the methodology developed through extensive work on the Britain document. It is designed to be reusable and consistent across future era analyses.
 
 ## 1. Purpose of the Eras Document
 
-The document analyses how the **permitted space for moral sources** (transcendent/Christian vs secular reasoning) has changed over time in Britain. It uses domains as **indicators** to illustrate the state of this balance, but the final era score is a **holistic judgment**, not a mechanical calculation from the domain scores.
+The document analyses how the **permitted space for moral sources** (transcendent vs secular reasoning) has changed over time in a given society. 
 
-## 2. Identifying Era Boundaries
+Domains function as **indicators** to illustrate the state of this balance during a period. The final era score is a **holistic judgment** of the overall balance of permitted space, not a mechanical average of domain scores.
 
-### Step 1: Establish the Overall Timeline
-- Start from a clear baseline (e.g. 1945 for post-war Britain).
-- Work forward chronologically.
+---
+
+## 2. Core Principle
+
+- The slider measures the **proportion of moral legitimacy** derived from transcendent sources versus secular logic and reasoning.
+- Domains help show *where* and *how* this balance manifests, but they do not mechanically determine the era score.
+- The scorer makes a considered judgment based on the overall pattern across domains and the historical context.
+
+---
+
+## 3. Identifying Era Boundaries
+
+### Step 1: Establish the Timeline
+Start from a clear baseline (e.g. 1945 for post-war Britain) and work forward chronologically.
 
 ### Step 2: Distinguish Between Stable and Transition Eras
 
-| Type            | Definition                                                                 | Characteristics |
-|-----------------|----------------------------------------------------------------------------|-----------------|
-| **Stable Era**      | A period where the balance of permitted space remains relatively consistent | Start and end scores are the same or very similar. No major directional shift. Minor fluctuations are acceptable if they do not represent a sustained trend. |
-| **Transition Era**  | A period where the balance of permitted space undergoes a noticeable directional change | Usually involves sustained movement in one direction. Often split into phases (see below). |
+| Type              | Definition                                                                 | Key Characteristics |
+|-------------------|----------------------------------------------------------------------------|---------------------|
+| **Stable Era**    | Period where the balance of permitted space remains relatively consistent | Start and end scores are the same or very similar. Only minor fluctuations. |
+| **Transition Era**| Period where the balance undergoes a clear directional change             | Sustained movement in one direction. Often benefits from being split into phases. |
 
-### Step 3: Finding Breakpoints (How to Split Eras)
+### Step 3: Finding Breakpoints
 
-Use the following indicators to identify where one era ends and another begins:
+Look for points where one or more of the following occur:
 
-- **Major legislative or institutional changes** that alter the source of moral authority (e.g. Abortion Act 1967, Civil Partnership Act 2004).
-- **Sustained cultural shifts** in public attitudes and discourse (visible in media, social expectations, etc.).
-- **Changes in the rate of movement** (use a “rollercoaster” analogy — look for where the gradient changes significantly).
-- **Points where the dominant source of legitimacy clearly shifts** (e.g. from Christian moral authority being primary to secular reasoning becoming primary).
+- Major legislative or institutional changes that shift the source of moral authority.
+- Sustained cultural shifts in public discourse, media, and social expectations.
+- Clear changes in the *rate* of movement (use the “rollercoaster” test — look for where the gradient changes significantly).
+- A visible shift in which source holds primary legitimacy across multiple domains.
 
-**Rule of thumb**: If a period shows a clear, sustained change in the balance of permitted space, treat it as a Transition Era. If the balance stabilises, treat it as a Stable Era.
+**Rule of thumb**: Treat a period as a Transition Era when there is sustained, noticeable change in the balance of permitted space. Treat it as a Stable Era once that balance stabilises.
 
-## 3. Structuring Transition Eras (Two-Phase Model)
+---
 
-Transition eras should usually be divided into two phases:
+## 4. Structuring Transition Eras (Two-Phase Model)
 
-- **Cultural Shift Phase**: The period when attitudes, discourse, and social expectations begin moving. This often happens first.
-- **Legal/Institutional Shift Phase**: The period when changes are formalised through law, policy, or institutional reform.
+Transition eras should normally be divided into two phases:
 
-**Important**: The phases can overlap in time. The cultural phase often starts earlier and continues into the legal phase.
+- **Cultural Shift Phase**: The period during which attitudes, discourse, and social expectations begin to move. This phase often starts first.
+- **Legal/Institutional Shift Phase**: The period during which changes are formalised through law, policy, or institutional reform.
 
-## 4. Scoring Methodology
+**Note**: The two phases can overlap. The cultural phase frequently begins earlier and continues into the legal phase.
 
-### Core Principle
-- Domains are **indicators**, not direct scoring inputs.
-- The era score is a **holistic judgment** of the overall state of permitted space in society during that period.
-- The scorer decides focus and weighting based on the historical context.
+---
 
-### Recommended Scoring Process
+## 5. Recommended Domains (Current Version)
 
-For each domain:
+Use the following five domains as indicators:
 
-1. Review the three most relevant band descriptors from the current Cultural 1A slider (chosen band + band above + band below).
-2. Select the **most appropriate** bullet point.
+- Legal & Institutional Authority
+- Education & Moral Formation
+- Public Discourse
+- Everyday Moral Norms
+- Celebrations and Observations
+
+These domains should be treated as **supporting indicators**. The scorer may emphasise some domains more than others depending on the historical period.
+
+---
+
+## 6. Scoring Methodology
+
+### For Individual Domains
+
+1. Review the three most relevant band descriptors (chosen band + band immediately above + band immediately below).
+2. Select the **most appropriate** bullet point from those three.
 3. Assign the domain to that band.
-4. Compare the chosen band with the bands immediately above and below to determine an **exact score** within the band.
+4. Refine to an **exact score** within the band by comparing it with the bands above and below.
 
-For the era as a whole:
+### For the Era as a Whole
 
-- Review all domain scores.
-- Consider the overall narrative across the domains.
-- Make a holistic judgment on the era score.
+- Review the pattern across all domains.
+- Consider the overall narrative and how the domains interact.
+- Make a **holistic judgment** on the era score.
 - The era score does **not** need to be a mathematical average of the domain scores.
 
-## 5. Document Layout and Structure
+**Key Principle**: Domains illustrate the state of permitted space. The final score is a considered judgment of the overall balance during that period.
+
+---
+
+## 7. Document Structure
 
 ### Master Era Overview Table (at the top)
 
-Columns:
-- Era
+Include:
+- Era number
 - Period
 - Type (Stable / Transition)
 - Score
@@ -77,64 +103,74 @@ Columns:
 
 Each era should contain:
 
-1. **Era heading** with period and type
+1. **Era heading** (including period and type)
 2. **Era Score**
-3. **Overall Character** (optional short paragraph)
+3. **Overall Character** (short paragraph — optional but recommended)
 4. **Permitted Space for Moral Sources** table with columns:
    - Domain
    - Score
-   - Summary (short, focused on permitted space and primary legitimacy)
-5. **Phase subsections** (only for Transition Eras):
+   - Summary (focused on primary legitimacy and permitted space)
+5. **Phase subsections** (Transition Eras only):
    - Cultural Shift Phase
    - Legal/Institutional Shift Phase
-6. **Summary** (holistic analysis of the era)
+6. **Summary** (holistic analysis)
 
-### For Transition Eras Only
+### For Transition Eras
 
 - Remove the single broad Summary at the bottom.
-- Integrate the holistic analysis into the two phase subsections instead.
+- Distribute the holistic analysis across the two phase subsections.
 
-## 6. Style Guidelines for Content
+---
 
-### Domain Summaries (inside the table)
+## 8. Style Guidelines
 
-- Keep them relatively short and focused.
-- Address:
-  - Which source is given **primary legitimacy**.
-  - How much **space** the other source is allowed.
-- Use contextually specific language where appropriate (e.g. “Christian moral authority” rather than always saying “transcendent sources”).
-- Avoid describing specific policies or events unless they directly illustrate the permitted space.
+### Domain Summaries (in the table)
 
-### Era-Level Summaries (below the table)
+- Keep them concise and focused.
+- Clearly state which source holds **primary legitimacy**.
+- Describe how much **space** is permitted to the other source.
+- Use historically specific language where appropriate (e.g. “Christian moral authority” rather than always using abstract terms).
+- Focus on the *state* of permitted space rather than listing specific events or policies.
 
-- Take a **holistic** view.
-- Discuss how the domains interact with each other.
-- Describe the overall character of the moral foundation during the era.
+### Era-Level Summaries
+
+- Take a **holistic** view of how the domains interact.
+- Describe the overall character of moral legitimacy during the period.
 - Explain the broader balance between sources.
-- For transition eras, distribute this analysis across the phase subsections.
+- For transition eras, integrate this analysis into the phase subsections.
 
 ### General Tone
 
 - Analytical and precise.
 - Focused on **permitted space** and **sources of moral legitimacy**.
-- Contextually grounded (use “Christian” where historically accurate rather than remaining abstract).
-- Avoid dry, repetitive phrasing across domains.
+- Contextually grounded.
+- Avoid repetitive or overly mechanical phrasing.
 
-## 7. Additional Principles
+---
+
+## 9. Additional Principles
 
 | Principle                        | Explanation |
 |----------------------------------|-----------|
-| **Domains are indicators**       | They help illustrate the state of permitted space but do not mechanically determine the era score. |
-| **Slider flexibility**           | The Cultural 1A slider varies in relevance across time. Some domains may become less central in certain periods (this is acceptable). |
-| **Holistic scoring**             | Final era scores are judgments made by the scorer, informed by the domains and historical evidence. |
-| **Consistency over perfection**  | Maintain consistent structure and language across eras, even if some domains are stronger indicators than others in particular periods. |
+| **Domains are indicators**       | They illustrate the state of permitted space but do not mechanically determine the era score. |
+| **Holistic scoring**             | Final era scores are judgments informed by domains and historical evidence. |
+| **Flexibility of domains**       | Some domains may be stronger indicators than others in different periods. This is acceptable. |
+| **Consistency**                  | Maintain consistent structure and approach across eras, even when emphasis varies. |
+| **Transparency**                 | Clearly distinguish between domain-level observations and the holistic era judgment. |
 
-## 8. Summary of Best Practice
+---
 
-- Use **Stable vs Transition** as the primary distinction.
+## 10. Summary of Best Practice
+
+- Distinguish clearly between **Stable** and **Transition** eras.
 - Split transition eras into **Cultural** and **Legal/Institutional** phases.
+- Use the current five-domain framework as indicators.
 - Keep tables clean (**Domain | Score | Summary**).
-- Write domain summaries that focus on **primary legitimacy** and **permitted space**.
-- Write era summaries that are **holistic** and examine how domains interact.
-- Remember that domains are **indicators**, not scoring inputs.
-- The final era score is a **considered judgment**, not an average.
+- Write domain summaries focused on **primary legitimacy** and **permitted space**.
+- Write era summaries that are **holistic** and examine interactions between domains.
+- Apply the **parity swap** logic where relevant for consistency with party scoring methodology.
+- Remember that the final era score is a **considered judgment**, not an average of domain scores.
+
+---
+
+**End of Guide**
