@@ -5,7 +5,7 @@ This slider measures the proportion of moral legitimacy derived from Transcenden
 
 ---
 
-## 100
+## C 100
 Transcendence is the only source of moral legitimacy. All arguments appeal directly to some transcendent element or entity. Secularism is shunned as a corruption of transcendent truth.
 
 - Moral claims are justified solely by direct reference to divine command, sacred texts, or religious revelation.
@@ -13,7 +13,7 @@ Transcendence is the only source of moral legitimacy. All arguments appeal direc
 - Appeals to logic or observable reality are treated as corruptions or distractions from divine truth.
 - **Example**: Laws and social norms are enforced exclusively because “God commands it”, and any scientific or philosophical counter-argument is dismissed as irrelevant or sinful.
 
-## 96–99
+## H 96–99
 All arguments appeal to Transcendence. Secularism, debate and logic are accepted only insofar as they appeal to and derive from a transcendent source.
 
 - Logic and debate are permitted but must ultimately be shown to support or derive from a transcendent authority.
@@ -21,7 +21,7 @@ All arguments appeal to Transcendence. Secularism, debate and logic are accepted
 - Human reason is viewed as subordinate and must be validated by the transcendent source.
 - **Example**: Religious scholars may use philosophy and historical analysis, but only to better understand or defend divine law.
 
-## 95
+## Q 95
 All arguments appeal to Transcendence. Secularism, debate and logic are accepted in so much as they appeal to and derive from a transcendent source.
 
 - Secularism and debate are accepted when they align with and serve transcendent moral claims.
@@ -29,7 +29,7 @@ All arguments appeal to Transcendence. Secularism, debate and logic are accepted
 - The final source of moral legitimacy remains Transcendence.
 - **Example**: Religious authorities use logical or historical arguments to interpret scripture, provided the ultimate authority stays with the transcendent source.
 
-## 91–94
+## M 91–94
 Although the majority of moral legitimacy and argumentation are drawn from Transcendence, debate and logical reasoning exist and are allowed in any areas in which Transcendence is either unclear or does not make comment.
 
 - Transcendence remains the dominant foundation of moral legitimacy.
@@ -37,7 +37,7 @@ Although the majority of moral legitimacy and argumentation are drawn from Trans
 - Core moral principles are still justified primarily through Transcendence.
 - **Example**: A religious society allows rational debate on technical or administrative matters, but maintains that fundamental issues (such as marriage, crime, and sexuality) are determined by divine command.
 
-## 81–90
+## D 81–90
 Transcendence forms the core of the moral structure but is subject to criticism and debate on all but the most central of elements.
 
 - Transcendence remains the primary source of moral legitimacy.
@@ -45,7 +45,7 @@ Transcendence forms the core of the moral structure but is subject to criticism 
 - Core moral principles are still grounded in Transcendence, even if they are debated.
 - **Example**: Religious texts form the foundation of law and ethics, but scholars and authorities are permitted to debate and adapt rules in areas not directly addressed by scripture.
 
-## 71–80
+## A 71–80
 Although the majority of moral legitimacy and argumentation are drawn from Transcendence, debate and logical reasoning exist and are allowed in any areas in which Transcendence is either unclear or does not make comment.
 
 - Transcendence remains the main foundation of moral legitimacy.
@@ -53,7 +53,7 @@ Although the majority of moral legitimacy and argumentation are drawn from Trans
 - The overall moral framework is still understood as rooted in Transcendence.
 - **Example**: A society treats religious sources as the primary moral authority but permits rational debate on secondary or practical matters.
 
-## 61–70
+## K 61–70
 Transcendence forms the core of the moral structure but is subject to criticism and debate on all but the most central of elements.
 
 - Transcendence remains the primary source of moral legitimacy.
@@ -61,7 +61,7 @@ Transcendence forms the core of the moral structure but is subject to criticism 
 - The moral structure is still understood as fundamentally grounded in Transcendence.
 - **Example**: A society in which religious or traditional sources form the moral foundation, but open criticism and reform are allowed on secondary rules and practices.
 
-## 53–60
+## E 53–60
 Transcendence forms the core of the moral structure but is subject to criticism and debate. Secularism plays a significant role alongside Transcendence.
 
 - Both Transcendence and Secularism are actively used in moral argumentation.
@@ -69,7 +69,7 @@ Transcendence forms the core of the moral structure but is subject to criticism 
 - Neither source is entirely dominant across all areas.
 - **Example**: Public moral debates regularly combine religious or traditional references with scientific, rights-based, or utilitarian arguments.
 
-## 48–52
+## L 48–52
 Morality is drawn equally from both Transcendence and Secularism, often intertwining the two to form the base.
 
 - Transcendence and Secularism are given roughly equal weight in moral reasoning.
@@ -78,7 +78,7 @@ Morality is drawn equally from both Transcendence and Secularism, often intertwi
 - Neither source is treated as inherently superior; both are actively consulted and weighed.
 - **Example**: Laws and social norms are justified using both religious or traditional grounds and rational arguments about human nature, evidence, and social order.
 
-## 40–47
+## I 40–47
 Secularism forms the core of the moral structure but is subject to criticism and debate. Transcendence plays a significant role alongside Secularism.
 
 - Both Secularism and Transcendence are actively used in moral argumentation.
@@ -86,7 +86,7 @@ Secularism forms the core of the moral structure but is subject to criticism and
 - Neither source is entirely dominant across all areas.
 - **Example**: Public moral debates regularly combine scientific, rights-based, or utilitarian arguments with religious or traditional references.
 
-## 30–39
+## O 30–39
 Secularism forms the core of the moral structure but is subject to criticism and debate on all but the most central of elements.
 
 - Secularism remains the primary source of moral legitimacy.
@@ -94,7 +94,7 @@ Secularism forms the core of the moral structure but is subject to criticism and
 - The moral structure is still understood as fundamentally grounded in Secularism.
 - **Example**: A society in which reason and evidence form the moral foundation, but open criticism and faith-based views are allowed on secondary rules and practices.
 
-## 20–29
+## F 20–29
 Although the majority of moral legitimacy and argumentation are drawn from Secularism, Transcendence and faith exist and are allowed in any areas in which Secularism is either unclear or does not make comment.
 
 - Secularism remains the main foundation of moral legitimacy.
@@ -102,7 +102,7 @@ Although the majority of moral legitimacy and argumentation are drawn from Secul
 - The overall moral framework is still understood as rooted in Secularism.
 - **Example**: A society treats reason and evidence as the primary moral authority but permits faith-based debate on secondary or practical matters.
 
-## 10–19
+## G 10–19
 Secularism forms the core of the moral structure but is subject to criticism and debate on all but the most central of elements.
 
 - Secularism remains the primary source of moral legitimacy.
@@ -110,7 +110,7 @@ Secularism forms the core of the moral structure but is subject to criticism and
 - Core moral principles are still grounded in Secularism, even if they are debated.
 - **Example**: Evidence and logic form the foundation of law and ethics, but scholars and authorities are permitted to debate and adapt rules in areas not directly addressed by science or reason.
 
-## 6–9
+## B 6–9
 Although the majority of moral legitimacy and argumentation are drawn from Secularism, Transcendence and faith exist and are allowed in any areas in which Secularism is either unclear or does not make comment.
 
 - Secularism remains the dominant foundation of moral legitimacy.
@@ -118,7 +118,7 @@ Although the majority of moral legitimacy and argumentation are drawn from Secul
 - Core moral principles are still justified primarily through Secularism.
 - **Example**: A secular society allows faith-based debate on technical or administrative matters, but maintains that fundamental issues (such as marriage, crime, and sexuality) are determined by reason and evidence.
 
-## 5
+## J 5
 All arguments appeal to Secularism. Transcendence, faith, and revelation are accepted in so much as they appeal to and derive from Secularism and evidence.
 
 - Transcendence and faith are accepted when they align with and serve secular moral claims.
@@ -126,7 +126,7 @@ All arguments appeal to Secularism. Transcendence, faith, and revelation are acc
 - The final source of moral legitimacy remains Secularism.
 - **Example**: Authorities use religious or historical arguments to interpret data, provided the ultimate authority stays with evidence and logic.
 
-## 1–4
+## N 1–4
 All arguments appeal to Secularism. Transcendence, faith, and revelation are accepted only insofar as they appeal to and derive from Secularism and evidence.
 
 - Faith and transcendent claims are permitted but must ultimately be shown to support or derive from secular authority and logic.
@@ -134,7 +134,7 @@ All arguments appeal to Secularism. Transcendence, faith, and revelation are acc
 - Transcendence is viewed as subordinate and must be validated by Secularism.
 - **Example**: Scholars may use religious or historical texts, but only to better understand or defend evidence-based conclusions.
 
-## 0
+## P 0
 Secularism and logic are the only source of moral legitimacy. All arguments appeal directly to observable reality, evidence, and human reason. Transcendence is shunned as a corruption of rational truth.
 
 - Moral claims are justified solely by direct reference to empirical evidence, logical deduction, or scientific reasoning.
