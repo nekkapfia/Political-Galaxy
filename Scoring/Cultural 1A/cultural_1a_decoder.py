@@ -1,0 +1,1 @@
+cat /home/workdir/artifacts/cultural_1a_decoder.py
