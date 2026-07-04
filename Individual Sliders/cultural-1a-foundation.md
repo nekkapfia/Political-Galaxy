@@ -1,143 +1,102 @@
-# Cultural 1A – Foundation
+# Cultural 1A – Foundation (0–50 Absence Balance Scale)
 
-## Core Definition
-This slider measures the proportion of moral legitimacy derived from Transcendence compared to the proportion of moral legitimacy derived from Secularism. It does not assess the moral content, rightness, or consequences of any position, belief, or policy. It measures only the basis on which moral authority is claimed.
+**Scope (Exact and Limited)**  
+This slider measures **only** the observable sources actually invoked in moral justification and argumentation — i.e., what foundations people or institutions treat as legitimate bases for moral claims in law, education, governance, and public moral reasoning.  
+
+It does **not** measure:  
+- Enforcement, punishment, or coercion mechanisms  
+- Power dynamics, suppression, exclusion, or marginalisation in practice  
+- Cultural hegemony, dominance, or broader social/cultural influence  
+- Rhetoric, stated claims, self-reported beliefs, or intentions (only what sources are actually used)  
+- Outcomes, downstream effects, or policy results  
+- The *content* of specific moral rules or prohibitions (these belong in Core 1A – Personal Autonomy)  
+- The *intensity* with which the moral foundation is enforced or dissent suppressed (this belongs in Cultural 1B – Dogmatism)  
+- The *degree or existence* of constraints on roles, outcomes, or life circumstances based on circumstances of birth (ethnicity, socioeconomic status, caste, disabilities, sexuality, etc.) — this belongs in Cultural 4A – Social Determinism.  
+  However, the *source of the moral justification* for such constraints (transcendent vs secular) **is** measured by Cultural 1A.
+
+Scoring is based solely on empirical patterns of which sources appear (or do not appear) in moral reasoning. The slider stays strictly within this defined scope at all times.
+
+The slider measures the degree to which **one source of moral legitimacy is absent from the moral conversation**. 
+
+Transcendent sources include divine command, sacred texts, revelation, heavenly authority, Gaia, mother nature, or equivalent non-worldly foundations.  
+Worldly/secular sources include evidence, science, history, tradition (as empirical or reasoned inheritance), secular thought, reason, and debate.
+
+Low scores reflect both sources being actively present and integrated in the moral conversation. High scores reflect increasing absence of one source. 
+
+**50 is the complete theoretical extreme** — total conceptual absence. It represents the pure pole where one source has **zero conceptual existence** in the moral framework (not rejected or excluded, but never having entered the worldview at all — equivalent to a mind that has never encountered the concept). Real-world entities score below this pole.
+
+When scoring, note which source (transcendent or worldly/secular) is absent or reduced.
+
+## Universal Application Rules
+- Focus exclusively on observable presence or absence of each source in moral justification and argumentation (law, education, governance carry primary weight).
+- Bands are flexible guidelines. Final placement uses totality judgment: predominant pattern of presence/absence, cumulative impact, breadth across domains, consistency, and primacy of the sources actually invoked.
+- Scoring uses empirical reality only — what sources are actually referenced in arguments and decisions.
+- Score 4 floor as practical minimum for real-world cases.
+- Axis extremes are theoretical reference points.
+
+## 50 (Theoretical Extreme – Total Conceptual Absence)
+One source constitutes the entire moral universe. The other source has **zero conceptual existence** within it. It is not present, not rejected, not excluded, and not even available as a category of thought. The moral framework has no language, mechanism, or space for the absent source — it has never entered the worldview in any form, equivalent to a mind that has never encountered the concept at all.
+
+- All moral claims are justified solely and exclusively by direct reference to the one source. There is no conceptual room for the absent source to be invoked, considered, or dismissed.
+- **Example**: A moral system in which the world and all justification is understood exclusively through one lens (e.g., pure divine command or sacred authority), where the very idea of evidence-based or secular moral reasoning has never existed as a concept. Or the pure reverse: a moral system in which only empirical reason and observable evidence exist as categories of moral legitimacy, with no conceptual category for transcendent, faith-based, or revelatory sources having ever been part of moral thought.
+
+## 46–49
+One source is almost entirely absent **in practice** from the moral conversation of an otherwise functioning moral system. It may appear in isolated, trivial, or non-substantive contexts but has no meaningful presence in actual moral reasoning or decisions.
+
+- The absent source is nearly completely excluded from core domains and most substantive discussion, surviving only in the most marginal and residual contexts. This is the highest level of practical absence short of the theoretical pole.
+- **Example**: Moral and legal reasoning in a society proceeds almost exclusively through one source, with only rare, ceremonial, or private references to the other that carry no weight.
+
+## 41–45
+One source is largely absent from the moral conversation in practice. It persists only in minor or peripheral areas and exerts no meaningful influence on primary moral reasoning or policy.
+
+- Core domains operate without substantive engagement with the absent source.
+- **Example**: Fundamental issues are discussed and resolved without invoking one source in any substantive way; it survives only in limited traditional or symbolic roles.
+
+## 31–40
+One source has significant absence from substantial areas of moral argumentation in practice. It remains present in limited or specialised domains but is routinely omitted from broader discussion.
+
+- Major policy and ethical conversations proceed with clear gaps where one source is not engaged.
+- **Example**: Public moral debates on key issues largely bypass one source, while it may still appear in narrow contexts.
+
+## 21–30
+One source is noticeably absent from meaningful portions of the moral conversation. Both sources are still invoked in some contexts, but one is frequently omitted where it could relevantly apply.
+
+- Clear and recurring gaps appear in the moral arena.
+- **Example**: Arguments on certain issue categories regularly omit one source while including the other.
+
+## 11–20
+Both sources are generally present in the moral conversation, but one source begins to be omitted from specific categories or types of discussion in a recurring manner. The overall discourse still includes both in most areas, but absence is emerging in practice within particular domains.
+
+- Absence is emerging but limited to specific recurring contexts rather than systemic.
+- **Example**: Moral reasoning combines both sources across most areas, yet one is consistently omitted from particular domains in a recurring way.
+
+## 3–10
+Both sources are actively present and integrated into the moral conversation. Minor contextual variation or differences in emphasis may occur across issues, but these do not rise to meaningful absence of either source.
+
+- The conversation maintains regular, functional engagement with both.
+- **Example**: Laws and norms are justified through ongoing combination of both sources, with neither systematically omitted from relevant discussions.
+
+## 0–2
+Both sources exist and are used in perfect harmony within the moral conversation. They carry equal weight with no variation in emphasis or contextual drop-off and are routinely invoked together as fully complementary foundations with no gaps whatsoever.
+
+- Moral legitimacy flows from the fully integrated, perfectly balanced presence of both sources.
+- **Example**: Core moral claims are justified through balanced, interdependent appeals to both transcendent/traditional authority and empirical reason/secular debate, treated as mutually reinforcing with no contextual omissions.
 
 ---
 
-## C 100
-Transcendence is the only source of moral legitimacy. All arguments appeal directly to some transcendent element or entity. Secularism is shunned as a corruption of transcendent truth.
+**Scoring Notes**
 
-- Moral claims are justified solely by direct reference to divine command, sacred texts, or religious revelation.
-- Human reasoning, evidence, or secular debate is rejected if it contradicts the transcendent source.
-- Appeals to logic or observable reality are treated as corruptions or distractions from divine truth.
-- **Example**: Laws and social norms are enforced exclusively because “God commands it”, and any scientific or philosophical counter-argument is dismissed as irrelevant or sinful.
+1. Determine the band and numeric score first using totality judgment.
+2. **Only after** the band and score are finalised, add a directional suffix:
+   - **T** = The Transcendent source is the one unaffected (transcendent remains present; mundane/secular is absent or reduced).
+   - **M** = The Mundane (secular) source is the one unaffected (mundane/secular remains present; transcendent is absent or reduced).
 
-## H 96–99
-All arguments appeal to Transcendence. Secularism, debate and logic are accepted only insofar as they appeal to and derive from a transcendent source.
+**Examples**:
+- 48T = Extremely high absence of the mundane/secular source.
+- 48M = Extremely high absence of the transcendent source.
+- 12T = Moderate absence of the mundane/secular source.
+- 12M = Moderate absence of the transcendent source.
 
-- Logic and debate are permitted but must ultimately be shown to support or derive from a transcendent authority.
-- Secularism is only tolerated when it reinforces or explains transcendent truths.
-- Human reason is viewed as subordinate and must be validated by the transcendent source.
-- **Example**: Religious scholars may use philosophy and historical analysis, but only to better understand or defend divine law.
-
-## Q 95
-All arguments appeal to Transcendence. Secularism, debate and logic are accepted in so much as they appeal to and derive from a transcendent source.
-
-- Secularism and debate are accepted when they align with and serve transcendent moral claims.
-- Secular tools may be used, but only as instruments to support or clarify transcendent authority.
-- The final source of moral legitimacy remains Transcendence.
-- **Example**: Religious authorities use logical or historical arguments to interpret scripture, provided the ultimate authority stays with the transcendent source.
-
-## M 91–94
-Although the majority of moral legitimacy and argumentation are drawn from Transcendence, debate and logical reasoning exist and are allowed in any areas in which Transcendence is either unclear or does not make comment.
-
-- Transcendence remains the dominant foundation of moral legitimacy.
-- Secularism and debate are permitted in secondary or ambiguous areas.
-- Core moral principles are still justified primarily through Transcendence.
-- **Example**: A religious society allows rational debate on technical or administrative matters, but maintains that fundamental issues (such as marriage, crime, and sexuality) are determined by divine command.
-
-## D 81–90
-Transcendence forms the core of the moral structure but is subject to criticism and debate on all but the most central of elements.
-
-- Transcendence remains the primary source of moral legitimacy.
-- Significant room exists for debate, reform, and Secularism on non-central issues.
-- Core moral principles are still grounded in Transcendence, even if they are debated.
-- **Example**: Religious texts form the foundation of law and ethics, but scholars and authorities are permitted to debate and adapt rules in areas not directly addressed by scripture.
-
-## A 71–80
-Although the majority of moral legitimacy and argumentation are drawn from Transcendence, debate and logical reasoning exist and are allowed in any areas in which Transcendence is either unclear or does not make comment.
-
-- Transcendence remains the main foundation of moral legitimacy.
-- Debate and Secularism are accepted where Transcendence is unclear or silent.
-- The overall moral framework is still understood as rooted in Transcendence.
-- **Example**: A society treats religious sources as the primary moral authority but permits rational debate on secondary or practical matters.
-
-## K 61–70
-Transcendence forms the core of the moral structure but is subject to criticism and debate on all but the most central of elements.
-
-- Transcendence remains the primary source of moral legitimacy.
-- Criticism and Secularism are permitted on non-central issues.
-- The moral structure is still understood as fundamentally grounded in Transcendence.
-- **Example**: A society in which religious or traditional sources form the moral foundation, but open criticism and reform are allowed on secondary rules and practices.
-
-## E 53–60
-Transcendence forms the core of the moral structure but is subject to criticism and debate. Secularism plays a significant role alongside Transcendence.
-
-- Both Transcendence and Secularism are actively used in moral argumentation.
-- Transcendence remains important but is regularly debated alongside Secularism.
-- Neither source is entirely dominant across all areas.
-- **Example**: Public moral debates regularly combine religious or traditional references with scientific, rights-based, or utilitarian arguments.
-
-## L 48–52
-Morality is drawn equally from both Transcendence and Secularism, often intertwining the two to form the base.
-
-- Transcendence and Secularism are given roughly equal weight in moral reasoning.
-- Arguments frequently combine appeals to Transcendence with logical and practical reasoning.
-- The balance between the two sources varies depending on the issue, with neither consistently dominating.
-- Neither source is treated as inherently superior; both are actively consulted and weighed.
-- **Example**: Laws and social norms are justified using both religious or traditional grounds and rational arguments about human nature, evidence, and social order.
-
-## I 40–47
-Secularism forms the core of the moral structure but is subject to criticism and debate. Transcendence plays a significant role alongside Secularism.
-
-- Both Secularism and Transcendence are actively used in moral argumentation.
-- Secularism remains important but is regularly debated alongside Transcendence.
-- Neither source is entirely dominant across all areas.
-- **Example**: Public moral debates regularly combine scientific, rights-based, or utilitarian arguments with religious or traditional references.
-
-## O 30–39
-Secularism forms the core of the moral structure but is subject to criticism and debate on all but the most central of elements.
-
-- Secularism remains the primary source of moral legitimacy.
-- Criticism and Transcendence are permitted on non-central issues.
-- The moral structure is still understood as fundamentally grounded in Secularism.
-- **Example**: A society in which reason and evidence form the moral foundation, but open criticism and faith-based views are allowed on secondary rules and practices.
-
-## F 20–29
-Although the majority of moral legitimacy and argumentation are drawn from Secularism, Transcendence and faith exist and are allowed in any areas in which Secularism is either unclear or does not make comment.
-
-- Secularism remains the main foundation of moral legitimacy.
-- Transcendence and faith are accepted where Secularism is unclear or silent.
-- The overall moral framework is still understood as rooted in Secularism.
-- **Example**: A society treats reason and evidence as the primary moral authority but permits faith-based debate on secondary or practical matters.
-
-## G 10–19
-Secularism forms the core of the moral structure but is subject to criticism and debate on all but the most central of elements.
-
-- Secularism remains the primary source of moral legitimacy.
-- Significant room exists for Transcendence, faith, and debate on non-central issues.
-- Core moral principles are still grounded in Secularism, even if they are debated.
-- **Example**: Evidence and logic form the foundation of law and ethics, but scholars and authorities are permitted to debate and adapt rules in areas not directly addressed by science or reason.
-
-## B 6–9
-Although the majority of moral legitimacy and argumentation are drawn from Secularism, Transcendence and faith exist and are allowed in any areas in which Secularism is either unclear or does not make comment.
-
-- Secularism remains the dominant foundation of moral legitimacy.
-- Transcendence and faith are permitted in secondary or ambiguous areas.
-- Core moral principles are still justified primarily through Secularism.
-- **Example**: A secular society allows faith-based debate on technical or administrative matters, but maintains that fundamental issues (such as marriage, crime, and sexuality) are determined by reason and evidence.
-
-## J 5
-All arguments appeal to Secularism. Transcendence, faith, and revelation are accepted in so much as they appeal to and derive from Secularism and evidence.
-
-- Transcendence and faith are accepted when they align with and serve secular moral claims.
-- Religious tools may be used, but only as instruments to support or clarify secular authority.
-- The final source of moral legitimacy remains Secularism.
-- **Example**: Authorities use religious or historical arguments to interpret data, provided the ultimate authority stays with evidence and logic.
-
-## N 1–4
-All arguments appeal to Secularism. Transcendence, faith, and revelation are accepted only insofar as they appeal to and derive from Secularism and evidence.
-
-- Faith and transcendent claims are permitted but must ultimately be shown to support or derive from secular authority and logic.
-- Religious or transcendent reasoning is only tolerated when it reinforces or explains secular truths.
-- Transcendence is viewed as subordinate and must be validated by Secularism.
-- **Example**: Scholars may use religious or historical texts, but only to better understand or defend evidence-based conclusions.
-
-## P 0
-Secularism and logic are the only source of moral legitimacy. All arguments appeal directly to observable reality, evidence, and human reason. Transcendence is shunned as a corruption of rational truth.
-
-- Moral claims are justified solely by direct reference to empirical evidence, logical deduction, or scientific reasoning.
-- Transcendence, religious, or faith-based arguments are rejected if they contradict Secularism and evidence.
-- Appeals to divine command or sacred texts are treated as corruptions or distractions from rational truth.
-- **Example**: Laws and social norms are enforced exclusively because “reason and evidence demand it”, and any religious or faith-based counter-argument is dismissed as irrelevant or irrational.
+- Always record which source is absent/reduced when the score is above 10.
+- Cross-reference the scored-policies corpus before new assignments.
+- Revise on new information or clarification.
