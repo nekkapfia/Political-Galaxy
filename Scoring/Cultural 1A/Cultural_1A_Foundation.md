@@ -1,1 +1,0 @@
-cat /home/workdir/artifacts/Cultural_1A_Foundation.md | head -500
