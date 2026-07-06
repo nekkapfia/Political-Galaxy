@@ -1,5 +1,7 @@
 # Cultural 1A – Foundation (0–50 Absence Balance Scale)
 
+---
+
 **Scope (Exact and Limited)**  
 This slider measures **only** the observable sources actually invoked in moral justification and argumentation — i.e., what foundations people or institutions treat as legitimate bases for moral claims in law, education, governance, and public moral reasoning.  
 
@@ -27,12 +29,18 @@ Low scores reflect both sources being actively present and integrated in the mor
 
 When scoring, note which source (transcendent or worldly/secular) is absent or reduced.
 
+---
+
 ## Universal Application Rules
 - Focus exclusively on observable presence or absence of each source in moral justification and argumentation (law, education, governance carry primary weight).
 - Bands are flexible guidelines. Final placement uses totality judgment: predominant pattern of presence/absence, cumulative impact, breadth across domains, consistency, and primacy of the sources actually invoked.
 - Scoring uses empirical reality only — what sources are actually referenced in arguments and decisions.
 - Score 4 floor as practical minimum for real-world cases.
 - Axis extremes are theoretical reference points.
+
+---
+
+# Cultural 1A: Foundation Bands
 
 ## 50 (Theoretical Extreme – Total Conceptual Absence)
 One source constitutes the entire moral universe. The other source has **zero conceptual existence** within it. It is not present, not rejected, not excluded, and not even available as a category of thought. The moral framework has no language, mechanism, or space for the absent source — it has never entered the worldview in any form, equivalent to a mind that has never encountered the concept at all.
@@ -100,3 +108,28 @@ Both sources exist and are used in perfect harmony within the moral conversation
 - Always record which source is absent/reduced when the score is above 10.
 - Cross-reference the scored-policies corpus before new assignments.
 - Revise on new information or clarification.
+
+---
+
+# Final Score Conversion
+
+In order to integrate easily into the rest of the slider project, the original 0–50 score is translated into a 0–100 range using a simple formula.
+
+**Formula:**
+- T = (+1)
+- M = (−1)
+- **Final Score = 50 + (Original Score) × (T or M)**
+
+**Examples:**
+- 36T → 50 + 36 = **86**
+- 14M → 50 − 14 = **36**
+- 47M → 50 − 47 = **3**
+
+**Interpretation:**
+- Higher positive scores (closer to 100) = Stronger transcendent foundation (greater absence/reduction of mundane/secular sources).
+- Scores near 50 = Greater balance between transcendent and mundane sources.
+- Lower scores (closer to 0) = Stronger mundane/secular foundation (greater absence/reduction of transcendent sources).
+
+This conversion allows the Cultural 1A score to be plotted directly on a consistent directional scale across countries and time periods.
+
+---
