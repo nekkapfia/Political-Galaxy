@@ -26,7 +26,7 @@ Measures the observable degree to which a nation asserts or refrains from interf
 Measures the observable origin of a culture's moral grammar — the degree to which core moral norms derive from transcendent/religious sources versus secular/immanent sources (human reason, empirical utility, social contract, or material conditions).
 
 **1B – Dogmatism**  
-Measures the observable intensity with which a system enforces its moral or ideological foundation against dissent, deviation, or alternative frameworks. It tracks the degree of suppression mechanisms rather than the content of the belief itself.
+Dogmatism measures the observable degree to which a system treats its foundational moral, cultural, and ideological principles as closed — both to internal revision or challenge, and to engagement with or legitimacy for alternative moral frameworks originating outside the in-group. It tracks institutional, legal, educational, and cultural mechanisms that protect core principles from change while rejecting or delegitimizing external alternatives.
 
 ## Cultural 2 – Identity & Belonging
 
