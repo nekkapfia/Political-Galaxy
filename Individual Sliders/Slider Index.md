@@ -41,7 +41,7 @@ Measures the observable emotional and cultural stance a system takes toward the 
 **3A – Ethnicity**  
 Measures the observable basis on which a culture defines its core in-group (“us”) — the degree to which group membership is determined primarily by shared ethnicity, ancestry, and descent versus shared ideas, values, behaviours, citizenship, or voluntary adoption.
 
-**3B – Xenophobia**  
+**3B – Exclusivity**  
 Measures the observable permeability of the boundary between “us” and “not us” — the degree of difficulty, cost, cultural resistance, and institutional friction involved in crossing into the in-group.
 
 ## Cultural 4 – Structure
