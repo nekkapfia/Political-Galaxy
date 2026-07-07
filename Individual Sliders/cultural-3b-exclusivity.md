@@ -1,4 +1,4 @@
-# Cultural 3B: Xenophobia vs Xenophilia
+# Cultural 3B: Exclusivity vs Inclusivity
 
 **Source Document**  
 **Date:** April 16, 2026
@@ -71,4 +71,4 @@ Complete dissolution of the “us” vs “not us” boundary with zero institut
 - **1–5** = Near-absolute openness: the original in-group identity is effectively erased through policy and culture.
 - **0** = Absolute openness: no distinguishable “us” remains; every individual is treated as interchangeable with zero boundary enforcement.
 
-**End of Cultural 2B: Xenophobia**
+**End of Cultural 2B: Exclusivity**
