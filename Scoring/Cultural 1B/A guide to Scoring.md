@@ -133,3 +133,4 @@ Use the same core structure as the eras, but allow slightly more detail:
 - Making eras as long or longer than party sections.
 - Weak or missing bridging language between the two halves of the document.
 - Inconsistent heading formatting.
+- Parties shoudl be arranged alphabetically in both the table and individual sections
