@@ -33,6 +33,8 @@ The immediate post-war years were defined by exceptionally strong internal closu
 
 The 1945 Labour landslide and the scale of reconstruction needs produced unusually tight Orthodoxy. Mechanisms of party discipline and elite consensus effectively closed off major revision of the new social settlement. Tribalism remained moderate, centred on a cohesive post-victory British identity that still encompassed the Commonwealth while beginning to manage early immigration flows. The result was a system with very high internal protection of the reconstruction project and only moderate external rejection of alternatives.
 
+**Key Shift**: This era shows very high Orthodoxy due to post-war reconstruction needs and wartime-inherited discipline, with moderate Tribalism centred on a cohesive national identity.
+
 ---
 
 ## **1951-1959: Butskellite Consensus – Final Score: 70**
@@ -63,6 +65,8 @@ This period saw noticeable decline in Orthodoxy on social and moral questions al
 
 Orthodoxy softened as cultural liberalization and political scandals reduced the previous level of internal closure on moral and social issues. Tribalism rose as immigration and identity became more contested. The era shows the first sustained movement away from the high-consensus character of the earlier post-war decades.
 
+**Key Shift**: This era marks a clear decline in Orthodoxy on social and moral questions alongside the first major rise in Tribalism around national identity and immigration.
+
 ---
 
 ## **1968-1979: Powell Shock to Winter of Discontent – Final Score: 66**
@@ -77,6 +81,8 @@ The 1970s were marked by declining Orthodoxy across multiple domains and persist
 
 Orthodoxy continued to fall as economic and industrial crises made sustained internal closure around any single framework difficult. Tribalism remained moderate-to-high, driven by ongoing identity tensions alongside dominant class-based conflicts. The period shows the clearest breakdown of the post-war high-Orthodoxy model.
 
+**Key Shift**: This era shows a further decline in Orthodoxy due to repeated governance and economic crises, with Tribalism remaining elevated and contested on both identity and class issues.
+
 ---
 
 ## **1979-1990: Thatcher Ascendancy & High Thatcherism – Final Score: 73**
@@ -90,6 +96,8 @@ The Thatcher years re-established higher Orthodoxy around a new set of market-or
 - Some conservative social pushback occurred on specific issues.
 
 Orthodoxy rose on the new Thatcherite framework through determined leadership and institutional change. Tribalism was elevated in the explicit rejection of the post-war settlement and the promotion of a more individualistic and patriotic national narrative. The era represents a clear reversal of the declining Orthodoxy trend of the 1970s.
+
+**Key Shift**: This era shows a significant rise in Orthodoxy around new market and individualist principles, combined with strong Tribalism rejecting the post-war consensus.
 
 ---
 
@@ -121,6 +129,8 @@ This was the period of highest institutional Orthodoxy and Tribalism around a pr
 
 Orthodoxy was high through centralized control and the embedding of progressive principles across state institutions. Tribalism was also high as alternatives emphasizing ethnic cohesion or stricter immigration were often treated as illegitimate in mainstream discourse. The era represents the clearest peak of institutional dogmatism in the post-war period.
 
+**Key Shift**: This era shows the highest levels of both Orthodoxy and Tribalism in the post-war period through strong institutional embedding of progressive multicultural and human-rights frameworks.
+
 ---
 
 ## **2010-2016: Austerity & Rising Contestation – Final Score: 76**
@@ -135,6 +145,8 @@ Orthodoxy softened somewhat under coalition government and growing challenges, w
 
 Orthodoxy declined from the New Labour peak as coalition politics and public contestation made internal closure more difficult. Tribalism stayed high on both progressive institutional lines and emerging nationalist challenges. The era shows the beginning of the fragmentation that intensified after 2016.
 
+**Key Shift**: This era shows a decline in Orthodoxy from the 1997–2010 peak due to coalition politics and rising contestation, while Tribalism remained high on both progressive and nationalist positions.
+
 ---
 
 ## **2016-2019: Brexit Shock & May Negotiations – Final Score: 76**
@@ -148,6 +160,8 @@ The immediate post-referendum years featured high bidirectional Tribalism and co
 - Immigration and sovereignty became central contested issues.
 
 Orthodoxy was weakened by repeated internal rebellions, while Tribalism rose sharply as competing moral frameworks around national identity and sovereignty directly confronted each other. The era marks the clearest popular challenge to the institutional consensus of the previous two decades.
+
+**Key Shift**: This era shows high bidirectional Tribalism and reduced Orthodoxy as the Brexit decision created major political fractures and identity contestation.
 
 ---
 
@@ -172,14 +186,14 @@ Orthodoxy has been inconsistent at the political level but remains relatively ro
 
 Modern Britain exhibits moderate to strong dogmatism in its institutional and cultural spheres. Progressive identity and equity frameworks are strongly protected in education, public sector policy, and media, often with mechanisms that penalise dissent (e.g., hate speech expansions, disciplinary actions in institutions). However, the multiparty democratic system and the rise of populist challengers (Reform and Restore) provide avenues for internal challenge and external alternatives, preventing total closure at the national level. The overall state is transitional to predominant dogmatism, with high-dogmatism pockets in dominant institutions offset by political pluralism and pragmatic adaptations. These patterns reflect the longer historical trajectory of institutional embedding and periodic contestation outlined in the eras above.
 
-| **Party**              | Orthodoxy | Tribalism | **Score** |
-|--------------------|-----------|-----------|-------|
-| **Conservatives**     | 50        | 48        | **49**    |
-| **Greens**            | 88        | 90        | **89**    |
-| **Labour**            | 73        | 68        | **70**    |
-| **Liberal Democrats** | 79        | 81        | **80**    |
-| **Reform UK**         | 77        | 86        | **81**    |
-| **Restore Britain**   | 89        | 92        | **90**    |
+| **Party**              | Orthodoxy | Tribalism | **Dogmatism** |
+|--------------------|-----------|-----------|---------------|
+| **Conservatives**     | 50        | 48        | **49**        |
+| **Greens**            | 88        | 90        | **89**        |
+| **Labour**            | 73        | 68        | **70**        |
+| **Liberal Democrats** | 79        | 81        | **80**        |
+| **Reform UK**         | 77        | 86        | **81**        |
+| **Restore Britain**   | 89        | 92        | **90**        |
 
 ---
 
@@ -215,7 +229,7 @@ The Green Party has developed consistent governance mechanisms that actively pen
 
 Externally, frameworks grounded in biological materiality or more cautious policy approaches receive little institutional legitimacy and are routinely positioned as incompatible with the party’s foundational positions. The combination of firm internal enforcement and strong external rejection creates a tightly closed system on these issues, with minimal room for revision or engagement. This pattern of robust institutional protection against internal challenge paired with comprehensive dismissal of external alternatives produces the Final Score of 89.
 
---
+---
 
 ## Labour Party – Final Score: 70
 
@@ -283,5 +297,3 @@ Restore Britain applies tight protection to its foundational principles of natio
 Restore Britain has constructed a tightly controlled organisational model in which the leader’s authority and the party’s explicit foundational commitments function as non-negotiable boundaries. The combination of central ownership of the party structure and the deliberate framing of its mission as an urgent corrective to establishment failure leaves little room for internal factions or gradualist compromises. Positions on mass deportation, the reversal of demographic change, and the defence of Britain as a specific historic and demographic entity are presented not as policy options but as essential requirements for national survival. This creates a high threshold for any internal challenge: deviation is structurally difficult because the party’s identity and growth strategy are built around uncompromising clarity on these issues.
 
 Externally, the party extends almost no legitimacy to competing moral frameworks. Approaches that tolerate sustained high levels of immigration, treat national identity as purely civic and open, or accept supranational limits on sovereignty are characterised as actively destructive to the British people’s continuity. There is no meaningful engagement with gradualist or accommodationist alternatives; these are positioned as part of the problem that Restore Britain exists to reverse. The result is a closed system in which both internal revision and external dialogue are heavily constrained by design. This pattern of strong institutional protection against internal challenge, paired with comprehensive rejection of external moral frameworks, produces the Final Score of 90.
-
----
