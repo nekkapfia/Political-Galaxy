@@ -1,7 +1,5 @@
 # Britain Cultural 1B - Dogmatism
 
----
-
 # Eras
 
 | Era | Orthodoxy | Tribalism | **Dogmatism** |
