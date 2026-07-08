@@ -1,6 +1,6 @@
 # Britain Cultural 1B - Dogmatism
 
-# Eras
+Over the eight decades from 1945 to the present, Britain moved from a high-Orthodoxy post-war consensus era of strong internal discipline and national reconstruction toward greater pluralism on social and moral questions, while identity and sovereignty issues produced recurring waves of Tribalism. The overall pattern shows Orthodoxy peaking during periods of strong governing consensus or institutional embedding of new principles, then gradually softening as economic crises, cultural liberalization, and internal party fractures increased. Tribalism has been more variable, rising sharply during identity shocks and during assertive promotion or defence of particular national or progressive frameworks, resulting in a system that has rarely been extremely dogmatic but has frequently sat in the Moderate-Strong to Predominant range with notable bidirectional contestation in recent decades. These long-term patterns of institutional embedding and periodic contestation are visible in the contemporary dogmatism scores of Britain’s main political parties.
 
 | Era | Orthodoxy | Tribalism | **Dogmatism** |
 |-----|-----------|-----------|---------------|
@@ -15,7 +15,7 @@
 | **2016-2019: Brexit Shock & May Negotiations** | 73 | 80 | **76** |
 | **2019-present: Johnson Delivery, COVID, Instability & Starmer** | 72 | 80 | **76** |
 
-Over the eight decades from 1945 to the present, Britain moved from a high-Orthodoxy post-war consensus era of strong internal discipline and national reconstruction toward greater pluralism on social and moral questions, while identity and sovereignty issues produced recurring waves of Tribalism. The overall pattern shows Orthodoxy peaking during periods of strong governing consensus or institutional embedding of new principles, then gradually softening as economic crises, cultural liberalization, and internal party fractures increased. Tribalism has been more variable, rising sharply during identity shocks and during assertive promotion or defence of particular national or progressive frameworks, resulting in a system that has rarely been extremely dogmatic but has frequently sat in the Moderate-Strong to Predominant range with notable bidirectional contestation in recent decades. These long-term patterns of institutional embedding and periodic contestation are visible in the contemporary dogmatism scores of Britain’s main political parties.
+
 
 ---
 
