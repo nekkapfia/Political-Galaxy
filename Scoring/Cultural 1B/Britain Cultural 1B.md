@@ -17,8 +17,7 @@
 | **2016-2019: Brexit Shock & May Negotiations** | 73 | 80 | **76** |
 | **2019-present: Johnson Delivery, COVID, Instability & Starmer** | 72 | 80 | **76** |
 
-Over the eight decades from 1945 to the present, Britain moved from a high-Orthodoxy post-war consensus era of strong internal discipline and national reconstruction toward greater pluralism on social and moral questions, while identity and sovereignty issues produced recurring waves of Tribalism. The overall pattern shows Orthodoxy peaking during periods of strong governing consensus or institutional embedding of new principles, then gradually softening as economic crises, cultural liberalization, and internal party fractures increased. Tribalism has been more variable, rising sharply during identity shocks and during assertive promotion or defence of particular national or progressive frameworks, resulting in a system that has rarely been extremely dogmatic but has frequently sat in the Moderate-Strong to Predominant range with notable bidirectional contestation in recent decades.
-
+Over the eight decades from 1945 to the present, Britain moved from a high-Orthodoxy post-war consensus era of strong internal discipline and national reconstruction toward greater pluralism on social and moral questions, while identity and sovereignty issues produced recurring waves of Tribalism. The overall pattern shows Orthodoxy peaking during periods of strong governing consensus or institutional embedding of new principles, then gradually softening as economic crises, cultural liberalization, and internal party fractures increased. Tribalism has been more variable, rising sharply during identity shocks and during assertive promotion or defence of particular national or progressive frameworks, resulting in a system that has rarely been extremely dogmatic but has frequently sat in the Moderate-Strong to Predominant range with notable bidirectional contestation in recent decades. These long-term patterns of institutional embedding and periodic contestation are visible in the contemporary dogmatism scores of Britain’s main political parties.
 
 ---
 
@@ -34,7 +33,6 @@ The immediate post-war years were defined by exceptionally strong internal closu
 
 The 1945 Labour landslide and the scale of reconstruction needs produced unusually tight Orthodoxy. Mechanisms of party discipline and elite consensus effectively closed off major revision of the new social settlement. Tribalism remained moderate, centred on a cohesive post-victory British identity that still encompassed the Commonwealth while beginning to manage early immigration flows. The result was a system with very high internal protection of the reconstruction project and only moderate external rejection of alternatives.
 
-
 ---
 
 ## **1951-1959: Butskellite Consensus – Final Score: 70**
@@ -44,11 +42,12 @@ The 1950s saw the continuation of high Orthodoxy through cross-party policy cont
 ### Mechanisms of Protection and Rejection – Expanded Analysis
 - Exceptional party discipline continued, with almost no government defeats from backbench dissent.
 - Cross-party agreement on welfare, full employment, and managed economy reduced the need for coercive enforcement.
-- Suez Crisis (1956) created the first major shock to imperial British identity.
-- Rising Commonwealth immigration began generating social tensions while policy remained largely assimilationist.
+- Suez Crisis (1956) created the first major shock to imperial British identity and self-confidence.
+- Rising Commonwealth immigration began generating social tensions while policy remained largely assimilationist or controlled.
 
-Orthodoxy stayed high because the core post-war settlement was not seriously contested by either major party. Tribalism began a gradual rise as decolonization and early immigration challenged the imperial dimension of British identity, though mainstream rejection of overt racism coexisted with growing public anxiety. The era retained the high internal cohesion of the immediate post-war years while identity questions started to surface more clearly.
+Orthodoxy stayed high because the core post-war settlement was not seriously contested by either major party. The “Butskellism” consensus allowed governance to continue with relatively light enforcement mechanisms. Tribalism began a gradual rise as decolonization and early immigration challenged the imperial dimension of British identity, though mainstream rejection of overt racism coexisted with growing public anxiety over rapid social change.
 
+**Key Shift**: This era shows a slight softening of Orthodoxy compared to 1945–1951 as cross-party agreement replaced wartime-style discipline, while Tribalism began to rise due to the first significant post-war challenges to imperial British identity.
 
 ---
 
@@ -64,7 +63,6 @@ This period saw noticeable decline in Orthodoxy on social and moral questions al
 
 Orthodoxy softened as cultural liberalization and political scandals reduced the previous level of internal closure on moral and social issues. Tribalism rose as immigration and identity became more contested. The era shows the first sustained movement away from the high-consensus character of the earlier post-war decades.
 
-
 ---
 
 ## **1968-1979: Powell Shock to Winter of Discontent – Final Score: 66**
@@ -78,7 +76,6 @@ The 1970s were marked by declining Orthodoxy across multiple domains and persist
 - Repeated changes of government demonstrated eroding state capacity.
 
 Orthodoxy continued to fall as economic and industrial crises made sustained internal closure around any single framework difficult. Tribalism remained moderate-to-high, driven by ongoing identity tensions alongside dominant class-based conflicts. The period shows the clearest breakdown of the post-war high-Orthodoxy model.
-
 
 ---
 
@@ -94,20 +91,21 @@ The Thatcher years re-established higher Orthodoxy around a new set of market-or
 
 Orthodoxy rose on the new Thatcherite framework through determined leadership and institutional change. Tribalism was elevated in the explicit rejection of the post-war settlement and the promotion of a more individualistic and patriotic national narrative. The era represents a clear reversal of the declining Orthodoxy trend of the 1970s.
 
-
 ---
 
 ## **1990-1997: Major Government & Fractures – Final Score: 69**
 
-The Major period saw Orthodoxy soften again as internal party divisions and scandals reduced governing cohesion.
+The Major period saw Orthodoxy soften again as internal party divisions (particularly over Europe) and scandals reduced governing cohesion.
 
 ### Mechanisms of Protection and Rejection – Expanded Analysis
-- Growing backbench rebellions over European integration.
+- Growing backbench rebellions over Maastricht and European integration weakened party discipline.
 - Scandals eroded public and internal authority.
 - Continued emphasis on national identity and immigration controls.
-- Institutional multiculturalism persisted alongside rising contestation.
+- Institutional multiculturalism persisted alongside rising contestation from both left and right.
 
-Orthodoxy declined from the Thatcher peak as internal fractures made sustained closure harder. Tribalism remained moderate-to-high on sovereignty and identity questions. The era marks a transitional phase between the assertive Thatcher realignment and the new progressive consensus that followed.
+Orthodoxy declined from the Thatcher peak as internal fractures and governance difficulties made sustained closure harder to maintain. Tribalism remained moderate-to-high on sovereignty and identity questions. The era marks a transitional phase between the assertive Thatcher realignment and the new progressive consensus that followed in 1997.
+
+**Key Shift**: This era shows a clear decline in Orthodoxy from the 1979–1990 period as internal Conservative divisions over Europe and accumulating scandals weakened governing cohesion, while Tribalism remained steady on national identity and sovereignty issues.
 
 ---
 
@@ -153,7 +151,7 @@ Orthodoxy was weakened by repeated internal rebellions, while Tribalism rose sha
 
 ---
 
-## 2019-present: Johnson Delivery, COVID, Instability & Starmer – Final Score: 76
+## **2019-present: Johnson Delivery, COVID, Instability & Starmer – Final Score: 76**
 
 The most recent period shows continued high bidirectional Tribalism alongside moderate Orthodoxy that varies with changes in government but remains institutionally protected on progressive identity issues.
 
@@ -161,17 +159,18 @@ The most recent period shows continued high bidirectional Tribalism alongside mo
 - Brexit delivery and COVID governance temporarily strengthened central authority.
 - Successive leadership changes and scandals reduced long-term cohesion.
 - Progressive institutional mechanisms continued defending diversity and gender frameworks.
-- Populist and nationalist challenges maintained strong external contestation.
+- Populist and nationalist challenges (especially Reform UK) maintained strong external contestation.
 
-Orthodoxy has been inconsistent at the political level but remains relatively robust in state institutions. Tribalism has stayed high and explicitly two-sided, with progressive frameworks continuing to reject nationalist and gender-critical alternatives while those alternatives equally reject progressive orthodoxy on immigration and cultural change. The era reflects a more fragmented but still predominantly dogmatic system.
+Orthodoxy has been inconsistent at the political level but remains relatively robust in state institutions. Tribalism has stayed high and explicitly two-sided, with progressive frameworks continuing to reject nationalist and gender-critical alternatives while those alternatives equally reject progressive orthodoxy on immigration and cultural change. The era reflects a more fragmented but still predominantly dogmatic system than the 1997–2010 peak.
 
+**Key Shift**: This era shows a continuation of high bidirectional Tribalism from 2016–2019, with Orthodoxy remaining moderate and contested at the political level while institutional mechanisms continue to protect progressive identity frameworks.
 
 ---
 ---
 
 # Political Parties
 
-Modern Britain exhibits moderate to strong dogmatism in its institutional and cultural spheres. Progressive identity and equity frameworks are strongly protected in education, public sector policy, and media, often with mechanisms that penalise dissent (e.g., hate speech expansions, disciplinary actions in institutions). However, the multiparty democratic system and the rise of populist challengers (Reform and Restore) provide avenues for internal challenge and external alternatives, preventing total closure at the national level. The overall state is transitional to predominant dogmatism, with high-dogmatism pockets in dominant institutions offset by political pluralism and pragmatic adaptations.
+Modern Britain exhibits moderate to strong dogmatism in its institutional and cultural spheres. Progressive identity and equity frameworks are strongly protected in education, public sector policy, and media, often with mechanisms that penalise dissent (e.g., hate speech expansions, disciplinary actions in institutions). However, the multiparty democratic system and the rise of populist challengers (Reform and Restore) provide avenues for internal challenge and external alternatives, preventing total closure at the national level. The overall state is transitional to predominant dogmatism, with high-dogmatism pockets in dominant institutions offset by political pluralism and pragmatic adaptations. These patterns reflect the longer historical trajectory of institutional embedding and periodic contestation outlined in the eras above.
 
 | **Party**              | Orthodoxy | Tribalism | **Score** |
 |--------------------|-----------|-----------|-------|
