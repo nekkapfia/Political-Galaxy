@@ -1,6 +1,70 @@
-**Empirical Political Slider System**  
-**Version:** Final (Pairings Updated)  
-**Date:** May 10, 2026
+# Introduction to the Empirical Political Slider System
+
+## Purpose and Philosophy
+
+The Empirical Political Slider System is a structured framework for analysing political systems, ideologies, and historical periods across multiple independent dimensions. Rather than reducing complex political realities to a single left–right axis or broad ideological labels, the system uses a set of precisely defined, orthogonal sliders. Each slider measures a specific, observable aspect of how power, rights, status, resources, and authority are allocated within a society.
+
+The core purpose of the system is to enable **clear, comparable, and evidence-based analysis** that minimises ambiguity, moral loading, and definitional drift. By breaking political reality into multiple narrow, well-bounded dimensions, the framework allows for more precise mapping of continuity and change over time, as well as more rigorous comparison between different countries, regimes, and ideologies.
+
+## Core Principles
+
+The system is built on several foundational principles:
+
+- **Empirical Priority**: Scoring and analysis are based on observable reality — what is actually done in law, policy, and institutional practice — rather than on official rhetoric, self-description, or stated intentions.
+- **Precise and Limited Definitions**: Each slider has a narrowly defined scope. Definitions are deliberately restricted to specific areas of allocation or behaviour and do not expand into adjacent concepts.
+- **Orthogonality**: The sliders are designed to measure distinct dimensions. While real-world phenomena may touch multiple sliders, each dimension is kept conceptually and analytically separate to avoid conflation.
+- **Non-Moralising Measurement**: The extremes of each slider represent theoretical endpoints rather than moral judgements. The system aims to describe patterns of allocation and organisation, not to assign moral value.
+- **Relativism through Clear Anchors**: Each slider includes theoretical extremes (typically scored as 0 and 100) to provide clear reference points, even though real-world cases rarely reach these absolutes.
+
+## Methodological Foundations
+
+### Observable Allocation and Behaviour
+
+The system focuses on how societies and regimes actually allocate outcomes, rights, responsibilities, status, and authority. This includes both formal rules (laws, constitutions, institutional policies) and observable patterns of enforcement and practice. Rhetorical claims, ideological self-descriptions, and justifications are treated as secondary or irrelevant unless they directly shape allocation mechanisms.
+
+### Holistic but Weighted Assessment
+
+When evaluating a period, regime, or political actor, the analysis considers the full range of relevant domains (law, education, employment, institutional governance, etc.). However, not all domains carry equal weight. Core domains — particularly law, institutional rules, and the allocation of significant rights or opportunities — are given primary importance, while secondary domains provide supporting context.
+
+### Handling Mixed and Anomalous Cases
+
+Real-world systems are rarely pure. When a case contains both individualist and group-based elements, or both restrictive and permissive policies, the scorer must evaluate the overall pattern using the principle of **primacy** — the predominant, consistent, and impactful direction across the most important domains. Anomalous or contradictory elements are acknowledged but do not override the dominant pattern unless they are themselves significant in scope and effect.
+
+### Flexible but Bounded Judgement
+
+The bands on each slider are guidelines rather than rigid mathematical thresholds. They exist to support consistent judgement while allowing for nuance. When a case sits near a boundary or contains genuinely mixed characteristics, the scorer exercises reasoned judgement based on the totality of evidence, with clear justification.
+
+## Structure of the System
+
+The framework consists of multiple sliders organised into thematic groups (such as Autonomy, Sovereignty, and various Cultural dimensions). Each slider is treated as an independent axis of analysis. This multi-dimensional structure allows for:
+
+- More accurate representation of political complexity than single-axis models.
+- Better identification of continuity and change across different domains.
+- Clearer comparison between different countries and time periods.
+- Reduced risk of conflating distinct political phenomena.
+
+## Working with Individual Sliders
+
+Each slider within the system follows the same general methodological rules but has its own precisely defined scope. When working with a specific slider, the following approach is used:
+
+- The definition is kept narrow and operational.
+- Scoring focuses on observable mechanisms of allocation or treatment.
+- The slider is analysed independently from other dimensions, even when real-world cases show interaction between them.
+- Bands are interpreted with reference to empirical patterns rather than abstract ideals.
+
+## Application to Historical and Contemporary Analysis
+
+The system can be applied to both historical periods (divided into coherent eras) and contemporary political actors (such as parties or governments). In both cases, the goal is the same: to map how allocation principles have operated or are operating, using consistent definitions and evidence-based scoring.
+
+When analysing historical periods, eras are segmented according to meaningful shifts in allocation patterns. When analysing current political parties or actors, the focus remains on stated positions, proposed policies, and (where relevant) implemented practices.
+
+## Summary
+
+The Empirical Political Slider System provides a disciplined, multi-dimensional approach to political analysis. By prioritising precise definitions, empirical evidence, and orthogonal dimensions, it aims to reduce ambiguity and improve the quality of comparative and historical political research. Each individual slider operates within this shared methodological framework while maintaining its own narrowly defined area of measurement.
+
+---
+
+# Slider Definitions
 
 ---
 
