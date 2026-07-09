@@ -2,90 +2,151 @@
 
 ## Eras (1945-2026)
 
-| **Era** | **Period**              | **Dominant Stance**                  | **Final Score** |
-|---------|-------------------------|--------------------------------------|-----------------|
-| **1**   | **1945–1964**           | Mixed affirmative with emerging tension | **68**          |
-| **2**   | **1964–1979**           | Increasingly critical and uncertain     | **42**          |
-| **3**   | **1979–1997**           | Strongly affirmative                    | **72**          |
-| **4**   | **1997–2010**           | Qualified and internationalist          | **48**          |
-| **5**   | **2010–2016**           | Polarised and inconsistent              | **55**          |
-| **6**   | **2016–present**        | Highly contested with strong affirmative currents | **60** |
+| **Era** | **Era Name**                              | **Period**       | **Title**                                              | **Score** | **One-line Summary** |
+|---------|-------------------------------------------|------------------|--------------------------------------------------------|-----------|----------------------|
+| 1       | Post-War Victory and Institutional Confidence | 1945–1955     | Post-War Victory and Institutional Confidence          | 70        | High confidence rooted in victory and continuity |
+| 2       | Suez, Decolonisation and Emerging Malaise     | 1955–1964     | Suez, Decolonisation and Emerging Malaise              | 62        | Declining confidence amid imperial retreat |
+| 3       | Cultural Liberalisation and National Malaise  | 1964–1979     | Cultural Liberalisation and National Malaise           | 42        | Increasingly critical and uncertain national mood |
+| 4       | Thatcherite Reassertion of National Pride     | 1979–1990     | Thatcherite Reassertion of National Pride              | 74        | Strongly assertive national pride and resistance to decline |
+| 5       | Major Years – Defensive Patriotism and Division | 1990–1997   | Major Years – Defensive Patriotism and Division        | 65        | More defensive posture amid internal party and national division |
+| 6       | Early New Labour Cosmopolitanism              | 1997–2005     | Early New Labour Cosmopolitanism                       | 50        | Cosmopolitan reframing of British identity |
+| 7       | Late New Labour – Strained Cosmopolitanism    | 2005–2010     | Late New Labour – Strained Cosmopolitanism             | 46        | Declining confidence and growing strain on the cosmopolitan vision |
+| 8       | Contested Austerity and Identity              | 2010–2016     | Contested Austerity and Identity                       | 55        | Growing polarisation with no clear dominant stance |
+| 9       | Brexit Polarisation and Reassertion           | 2016–present  | Brexit Polarisation and Reassertion                    | 60        | Intense contestation with strong affirmative currents |
 
+Britain’s post-war emotional and cultural stance toward its national history, symbols, founding myths, people, and collective identity has passed through several distinct phases since 1945. In the immediate aftermath of the Second World War, a powerful narrative of victory and national resilience sustained relatively high levels of pride, even as the British Empire began to contract. From the mid-1950s through to the late 1970s, repeated economic crises, the final loss of empire, and rapid cultural change produced a prolonged period of national uncertainty and self-criticism. The election of Margaret Thatcher in 1979 marked a conscious political attempt to restore national confidence and pride, an effort that achieved partial success during the 1980s before losing momentum in the 1990s. Between 1997 and 2010, New Labour promoted a more cosmopolitan and multicultural vision of British identity that often qualified or downplayed traditional expressions of national pride. Since 2010, and particularly since the 2016 Brexit referendum, national identity has become intensely contested, with strong reassertions of British pride coexisting alongside continued institutional and cultural emphasis on historical critique and atonement.
 
+Between 1945 and the mid-1960s, Britain retained a broadly affirmative stance toward its national identity, anchored in the narrative of victory in the Second World War and the creation of the welfare state. Although the loss of empire created some tension, it was generally presented as an orderly process rather than a source of shame. From the mid-1960s to the late 1970s, however, economic stagnation, industrial conflict, and the final retreat from empire combined with rapid cultural liberalisation to produce a more critical and uncertain national mood. Shame-based interpretations of British history gained greater legitimacy in elite institutions during this period.
 
-Britain’s post-war emotional and cultural stance toward its national history, symbols, founding myths, people, and collective identity has passed through several distinct phases. In the immediate aftermath of 1945, a narrative of victory and national resilience sustained relatively high levels of pride, even as the empire began to unravel. From the mid-1960s to the late 1970s, economic decline, cultural liberalisation, and the final loss of empire produced a more uncertain and self-critical national mood. The period from 1979 to 1997 saw a deliberate political effort to reassert national pride and reverse narratives of decline. Between 1997 and 2010, a more cosmopolitan and multicultural framing gained ground, often qualifying traditional expressions of British identity. Since 2010, and especially since 2016, national pride has become more openly contested, with strong reassertions of British identity coexisting alongside continued institutional and cultural emphasis on historical critique. These long-term patterns of affirmation, qualification, and contestation over national pride and shame are visible in the contemporary Cultural 2B scores of Britain’s main political parties.
+The Thatcher years (1979–1990) saw a deliberate political effort to reverse narratives of decline and reassert national pride. This was followed by a more defensive posture during the Major years (1990–1997). Between 1997 and 2010, New Labour promoted a more internationalist and multicultural framing of British identity, which often qualified traditional expressions of national pride. From 2010 onward, the picture became increasingly polarised. While some political forces sought to reassert national confidence, significant parts of the political and cultural establishment continued to emphasise historical critique and atonement. The period since 2016 has seen this contestation intensify, with national pride becoming a more openly contested and politically salient issue than at any point since the 1970s.
+
+Overall, Britain moved from a position of qualified post-war confidence, through a prolonged period of national malaise, into a phase of deliberate reassertion during the 1980s, followed by a more cosmopolitan and self-critical turn under New Labour. Since 2010, the country has entered a period of heightened polarisation in which strong affirmations of national identity coexist with persistent institutional and cultural emphasis on historical critique and shame. These long-term patterns of affirmation, decline, revival, and contestation are visible in the contemporary Cultural 2B scores of Britain’s main political parties.
 
 ---
 
-## **1945–1964: Post-War Consensus and Imperial Decline – Final Score: 68**
+## **1945–1955: Post-War Victory and Institutional Confidence – Final Score: 70**
 
-In the two decades following the Second World War, Britain retained a broadly affirmative stance toward its national identity, rooted in the narrative of victory and the creation of the welfare state. At the same time, the accelerating loss of empire and the first signs of domestic social change introduced new tensions into this picture.
+In the decade immediately following the Second World War, Britain maintained a relatively confident and affirmative stance toward its national identity. This was rooted in the narrative of military victory, the establishment of the welfare state, and a continued sense of institutional and cultural continuity, even as the British Empire began to contract.
 
 ### Emotional and Cultural Stance – Expanded Analysis
 
-- Official rhetoric, public rituals, and commemorations continued to emphasise British resilience, victory, and continuity, particularly through Remembrance events and national celebrations.
-- The loss of empire was largely presented in official and popular narratives as an orderly and largely positive transition rather than a source of national shame or failure.
-- Education, popular culture, and political discourse still presented British history in broadly positive or neutral terms, with limited emphasis on colonial exploitation or moral reckoning.
-- Growing Commonwealth immigration began to prompt defensive assertions of British identity in some sections of society, though these remained relatively marginal in mainstream political discourse.
-- There was no systematic institutional effort to promote shame narratives or to reframe British history as primarily a story of guilt.
+- Victory in the Second World War provided a powerful and widely shared source of national pride that dominated public memory and political rhetoric throughout the late 1940s and early 1950s.
+- The creation of the National Health Service and the expansion of the welfare state were widely presented as expressions of British decency, fairness, and institutional strength rather than as sources of division.
+- The loss of empire was generally portrayed in official and popular narratives as an orderly and largely positive process of granting independence, rather than as a humiliating retreat or moral failure.
+- Education, broadcasting, and popular culture continued to present British history in broadly positive or neutral terms, with limited critical examination of the imperial record.
+- There was no significant institutional effort to promote shame or guilt regarding Britain’s past; on the contrary, national symbols and commemorations retained strong positive resonance across most of society.
 
-National pride remained the dominant emotional tone in public life during this period, though it was increasingly accompanied by quiet anxiety about national decline and loss of global status. The overall stance was one of qualified affirmation rather than unqualified celebration.
+During this period, national pride remained the dominant emotional tone in public life. While the practical challenges of imperial decline and economic reconstruction were significant, they had not yet produced a widespread loss of national confidence or a systematic turn toward self-criticism.
 
-**Key Shift**: Compared with the pre-1945 period, national pride became more defensive and less expansive. The loss of empire and rising domestic social change introduced the first sustained challenges to the previously confident post-war national narrative, even while pride in victory and continuity remained strong.
+**Key Shift**: Compared with the pre-1945 period, national pride became more defensive and inward-looking as the empire began to contract, but it remained broadly confident and institutionally supported. The dominant narrative was still one of continuity and achievement rather than decline or guilt.
+
+---
+
+## **1955–1964: Suez, Decolonisation and Emerging Malaise – Final Score: 62**
+
+The period from the mid-1950s to the mid-1960s saw a noticeable decline in national confidence. The Suez Crisis of 1956 exposed Britain’s reduced global power, while the rapid pace of decolonisation and growing economic difficulties began to undermine the previously confident post-war narrative.
+
+### Emotional and Cultural Stance – Expanded Analysis
+
+- The Suez Crisis represented a major psychological blow, revealing Britain’s diminished international status and generating widespread debate about national decline.
+- The accelerating pace of decolonisation was increasingly difficult to present as an orderly or triumphant process, contributing to a growing sense of loss and reduced global relevance.
+- Economic challenges, including balance of payments crises and relative decline compared to continental Europe, began to erode confidence in Britain’s post-war settlement.
+- Early signs of cultural and generational change started to challenge traditional expressions of British identity, particularly among younger and more educated groups.
+- Political rhetoric remained largely defensive, with attempts to maintain national morale increasingly strained by events.
+
+This era marks the beginning of a sustained period of national malaise. While outright shame had not yet become dominant, the confident and affirmative tone of the immediate post-war years was visibly weakening as Britain confronted the reality of reduced power and status.
+
+**Key Shift**: National pride became noticeably more defensive and uncertain. The Suez Crisis and rapid decolonisation marked a clear break from the more confident posture of the 1945–1955 period, introducing a persistent sense of decline that would intensify in subsequent years.
 
 ---
 
 ## **1964–1979: Cultural Liberalisation and National Malaise – Final Score: 42**
 
-The period from the mid-1960s to the end of the 1970s marked a clear decline in confident national pride. Economic stagnation, industrial conflict, rapid cultural change, and the final retreat from empire combined to produce a more critical and uncertain national mood.
+The period from the mid-1960s to the end of the 1970s represented the low point of post-war national confidence. Economic stagnation, industrial conflict, rapid cultural change, and the final loss of empire combined to produce a more critical, uncertain, and often self-lacerating national mood.
 
 ### Emotional and Cultural Stance – Expanded Analysis
 
-- Public and political discourse increasingly framed Britain as a declining power, with frequent unfavourable comparisons to more dynamic European countries.
-- Cultural commentary and intellectual life became more critical of Britain’s imperial past and class-bound present, with shame-based interpretations gaining greater prominence.
-- Official rhetoric under both Labour and Conservative governments struggled to articulate a compelling positive national story.
-- National symbols and rituals continued but often lacked the emotional resonance they had held in earlier decades.
-- Emerging identity-based and regional movements began to challenge traditional narratives of Britishness from multiple directions.
+- Public and political discourse increasingly framed Britain as a declining power, with frequent and often unfavourable comparisons to more successful European economies.
+- Cultural commentary, television, literature, and academic life became markedly more critical of Britain’s imperial past and class-bound present, with shame-based interpretations gaining greater legitimacy in elite institutions.
+- Official rhetoric under both Labour and Conservative governments struggled to articulate a compelling positive national story and often appeared reactive or managerial.
+- National symbols and rituals continued but frequently lacked the emotional force they had held in earlier decades, appearing increasingly residual rather than generative of collective identity.
+- Emerging social movements began to challenge traditional narratives of Britishness, sometimes framing them as inherently exclusionary or tied to imperial guilt.
 
-This era represents the low point of post-war national confidence. Shame and self-criticism became more culturally legitimate, while affirmative pride was increasingly associated with nostalgia or political reaction. The dominant emotional tone shifted from qualified affirmation to uncertainty and critique.
+This era marks the clearest period of national self-doubt in the post-war period. Shame and self-criticism became more culturally legitimate, while affirmative pride was increasingly associated with nostalgia or political reaction. The dominant emotional tone shifted decisively toward uncertainty and critique.
 
-**Key Shift**: National pride moved from being the default emotional stance to something contested and often viewed with suspicion in elite and cultural institutions. This marked a decisive break from the more confident (if defensive) posture of the previous period.
+**Key Shift**: National pride moved from being a defensive but still legitimate default position to something widely viewed with suspicion in elite and cultural institutions. This represented a decisive break from the qualified confidence of the 1955–1964 period.
 
 ---
 
-## **1979–1997: Thatcherite Reassertion of National Identity – Final Score: 72**
+## **1979–1990: Thatcherite Reassertion of National Pride – Final Score: 74**
 
-The Thatcher and Major years saw a deliberate political and cultural effort to restore national pride and reverse narratives of national decline. British identity was reframed around themes of enterprise, sovereignty, resilience, and historical achievement.
+The election of Margaret Thatcher in 1979 marked a deliberate and sustained political effort to reverse narratives of national decline and restore pride in British identity. This period saw the strongest reassertion of national confidence since the immediate post-war years.
 
 ### Emotional and Cultural Stance – Expanded Analysis
 
-- Government rhetoric strongly emphasised British exceptionalism, victory in the Falklands, and resistance to further European integration as expressions of national character.
-- Education policy and public discourse promoted a more positive view of British history and achievements, with explicit pushback against what was portrayed as excessive self-criticism.
-- National symbols, military commemorations, and traditional institutions were given renewed public prominence.
-- There was a conscious attempt to make pride in Britain compatible with economic and social modernisation rather than simple nostalgia.
-- Shame-oriented narratives around British history were actively challenged in mainstream political discourse.
+- Government rhetoric strongly emphasised British exceptionalism, victory in the Falklands War, and resistance to deeper European integration as expressions of national character and historical resilience.
+- Education policy and public discourse promoted a more positive view of British history and achievements, with explicit political pushback against what was portrayed as excessive self-criticism during the 1960s and 1970s.
+- National symbols, military commemorations, and traditional institutions were given renewed public prominence as part of a broader effort to rebuild national morale.
+- There was a conscious attempt to associate national pride with economic modernisation and enterprise rather than simple nostalgia or reaction.
+- Shame-oriented narratives around British history were actively challenged in mainstream political discourse, with the government positioning itself against elite cultures of national self-doubt.
 
-This period represents the strongest sustained reassertion of national pride since 1945. While not without internal tensions, the dominant tone was affirmative, with shame-based interpretations of British history pushed back against at the highest levels of government.
+This era represents the strongest sustained reassertion of national pride in the post-war period. While not without internal tensions, the dominant tone in government and significant parts of the media was affirmative, with shame-based interpretations of British history pushed back against at the highest levels of the state.
 
 **Key Shift**: National pride moved from a defensive and contested position back to a more assertive and politically central stance. This reversed much of the critical turn of the 1964–1979 period and re-established pride as a legitimate and mainstream political value.
 
 ---
 
-## **1997–2010: New Labour Cosmopolitanism – Final Score: 48**
+## **1990–1997: Major Years – Defensive Patriotism and Division – Final Score: 65**
 
-New Labour sought to combine economic modernisation with a more internationalist and multicultural presentation of British identity. Traditional expressions of national pride were frequently qualified or reframed during this period.
+John Major’s government inherited a more divided and uncertain national mood than its predecessor. While efforts were made to maintain national pride, they were increasingly defensive and struggled against internal party divisions and growing European tensions.
 
 ### Emotional and Cultural Stance – Expanded Analysis
 
-- Official rhetoric emphasised diversity, “Cool Britannia”, and Britain’s role as a bridge between Europe and the wider world rather than historical exceptionalism.
-- There was greater institutional willingness to critically examine Britain’s imperial past and to present national history through more ambivalent or critical lenses.
-- National symbols were sometimes presented in more inclusive or ironic ways, rather than straightforwardly celebratory ones.
+- The government promoted a vision of “Britain in Europe” while attempting to defend national sovereignty, creating a somewhat ambiguous and defensive posture.
+- The “Back to Basics” campaign attempted to reassert traditional British values but was undermined by political scandals and economic difficulties.
+- National symbols and institutions retained public support, but there was less confident political leadership in promoting them compared with the 1980s.
+- Growing internal Conservative divisions over Europe contributed to a sense of national uncertainty rather than renewed confidence.
+- Cultural and media discourse remained divided between more assertive and more critical views of British identity and history.
+
+This period represents a partial retreat from the assertive confidence of the Thatcher years. National pride remained present but became more defensive and contested within the governing party itself, weakening its ability to shape the broader national mood.
+
+**Key Shift**: National pride became more defensive and internally contested within the Conservative Party, losing much of the assertive coherence it had possessed during the 1980s. This marked a transition from confident reassertion to a more anxious and divided form of patriotism.
+
+---
+
+## **1997–2005: Early New Labour Cosmopolitanism – Final Score: 50**
+
+Tony Blair’s New Labour government promoted a more internationalist and multicultural vision of British identity. Traditional expressions of national pride were often qualified or reframed in favour of diversity and global engagement.
+
+### Emotional and Cultural Stance – Expanded Analysis
+
+- Official rhetoric emphasised diversity, creativity, and Britain’s role as a bridge between Europe and the wider world, rather than historical exceptionalism or martial achievement.
+- There was greater institutional willingness to critically examine Britain’s imperial past and to present national history through more ambivalent or critical lenses in education and public institutions.
+- National symbols were sometimes presented in more inclusive or ironic ways, with less emphasis on traditional forms of patriotic expression.
 - European integration and multiculturalism were framed as compatible with, and even enhancing, British identity.
-- Public rituals and commemorations continued, but often with reduced emphasis on martial or imperial themes.
+- Public rituals and commemorations continued but often carried less emphasis on themes of military victory or imperial legacy.
 
-This era saw a partial return to more critical and cosmopolitan framings of national identity. While outright shame was not dominant in government rhetoric, uncomplicated national pride was often presented as outdated or insufficiently inclusive in elite and institutional settings.
+This era saw a partial return to more critical and cosmopolitan framings of national identity in elite and institutional settings. While outright shame was not dominant, uncomplicated national pride was frequently presented as outdated or insufficiently inclusive.
 
-**Key Shift**: National pride became more conditional and internationalist in official presentation. This represented a clear move away from the assertive Britishness of the Thatcher–Major years toward a more qualified and cosmopolitan self-image.
+**Key Shift**: National pride became more conditional and internationalist in official and institutional presentation. This represented a clear move away from the assertive Britishness of the Thatcher–Major years toward a more qualified and cosmopolitan self-image.
+
+---
+
+## **2005–2010: Late New Labour – Strained Cosmopolitanism – Final Score: 46**
+
+The later years of New Labour were marked by growing strain on the cosmopolitan vision of British identity. The Iraq War, the financial crisis, and rising public concern over immigration contributed to a more uncertain and defensive national mood.
+
+### Emotional and Cultural Stance – Expanded Analysis
+
+- The Iraq War significantly damaged public trust in the government and complicated attempts to present Britain as a confident, outward-looking power.
+- Economic difficulties and the 2008 financial crisis further eroded national confidence and reduced the appeal of optimistic cosmopolitan narratives.
+- Growing public concern over immigration and rapid demographic change began to strengthen more traditional and defensive expressions of national identity in parts of society.
+- Institutional and cultural approaches to British history remained largely critical, with limited official pushback against shame-oriented narratives.
+- Political rhetoric became more defensive and reactive as the government struggled to maintain a coherent positive story about Britain’s direction.
+
+This period saw the cosmopolitan reframing of British identity come under increasing pressure. While the official stance remained broadly internationalist, public confidence in this vision weakened significantly.
+
+**Key Shift**: National pride became more defensive and fragmented. The optimistic cosmopolitanism of the early New Labour years gave way to a more strained and uncertain posture as external events and domestic pressures mounted.
 
 ---
 
@@ -95,11 +156,11 @@ The period after 2010 was marked by increasing contestation over national identi
 
 ### Emotional and Cultural Stance – Expanded Analysis
 
-- Coalition and Conservative governments made some rhetorical efforts to promote British values and national cohesion, particularly after 2014.
-- At the same time, critical approaches to British history continued to develop in education, media, and parts of the cultural sector.
-- The Scottish independence referendum intensified debate over the meaning and boundaries of British identity.
-- Growing public concern over rapid demographic change strengthened demands for a clearer defence of national identity in some sections of society.
-- Institutional approaches to symbols and history remained mixed, with continued critical framing alongside official efforts to promote integration.
+- Coalition and Conservative governments made some rhetorical efforts to promote British values and national cohesion, particularly after the 2014 Scottish independence referendum.
+- At the same time, critical approaches to British history continued to develop in education, parts of the media, and cultural institutions, often with institutional support.
+- The Scottish independence referendum intensified debate over the meaning and boundaries of British identity and exposed deep regional differences in attachment to the Union.
+- Growing public concern over rapid demographic change strengthened demands for a clearer defence of national identity and cultural continuity in some sections of society.
+- Institutional approaches to symbols and history remained mixed, with continued critical framing in some public bodies alongside official efforts to promote integration.
 
 This era was characterised by fragmentation rather than a clear dominant emotional stance. Affirmative and critical narratives coexisted and competed, with neither achieving clear hegemony in public or institutional life.
 
@@ -113,11 +174,11 @@ The Brexit referendum and its aftermath produced the most polarised period in po
 
 ### Emotional and Cultural Stance – Expanded Analysis
 
-- Significant sections of public opinion and political discourse have embraced more assertive defences of British sovereignty, history, and identity.
-- At the same time, parts of the political, media, and cultural establishment have continued to promote critical and atonement-focused narratives around empire and national history.
-- Debates over statues, flags, education, and national symbols have become highly polarised and politically charged.
-- New political forces have made explicit defence of national pride and resistance to shame narratives a central part of their platform.
-- Mainstream parties have adopted varied positions, with some attempting to balance positive patriotism with critical historical awareness.
+- Significant sections of public opinion and political discourse have embraced more assertive defences of British sovereignty, history, and identity, particularly around themes of control, continuity, and cultural confidence.
+- At the same time, parts of the political, media, and cultural establishment have continued to promote critical and atonement-focused narratives around empire, slavery, and national history.
+- Debates over statues, flags, education, and national symbols have become highly polarised and politically charged, often cutting across traditional party lines.
+- New political forces have made explicit defence of national pride and resistance to shame narratives a central part of their platform and electoral appeal.
+- Mainstream parties have adopted varied and sometimes inconsistent positions, with some attempting to balance positive patriotism with critical historical awareness.
 
 This period represents a return to more open and intense contestation over national pride. Affirmative currents have become stronger in mainstream political discourse than at any point since the 1980s, but they remain deeply contested at the institutional and cultural level.
 
