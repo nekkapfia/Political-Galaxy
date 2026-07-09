@@ -92,6 +92,7 @@ After completing a first draft:
 ## 7. Writing the Political Parties Section
 
 Include a Political Parties section at the end of the document.
+Parties should always be arranged alphabetically.
 
 **Structure:**
 - Short overall summary of the current state of allocation.
