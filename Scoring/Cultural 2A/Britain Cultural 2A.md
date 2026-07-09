@@ -198,6 +198,8 @@ Modern Britain exhibits a mixed pattern on Cultural 2A. Core legal and instituti
 | **Reform**             | 87                    |
 | **Restore Britain**    | 76                    |
 
+---
+
 ## Conservatives – Final Score: 73
 
 The Conservative Party has taken steps to reduce the role of group membership in the allocation of opportunities and protections, but continues to operate within a legal framework that permits group-based considerations in several areas.
@@ -211,6 +213,8 @@ The Conservative Party has taken steps to reduce the role of group membership in
 - Emphasis on equality of opportunity rather than group-based equity outcomes in recent policy direction.
 
 The Conservatives have moved to constrain group-based allocation in institutional practice, particularly through proposed reforms to the Public Sector Equality Duty and the definition of sex. These positions reflect an attempt to restore individual merit and conduct as the primary basis for allocating opportunities and protections. However, the party has not proposed the complete removal of group-based mechanisms within the existing equality framework. As a result, individualist principles remain dominant in most areas but continue to coexist with institutionalised exceptions that allow group membership to influence outcomes in specific contexts. The overall allocation pattern is therefore predominantly individualist with meaningful but incomplete constraints on group-based differentiation.
+
+---
 
 ## Greens – Final Score: 27
 
@@ -226,6 +230,8 @@ The Green Party prioritises group identity over individual characteristics in th
 
 The Greens have developed a coherent approach in which group identity functions as a legitimate and often primary basis for allocating rights, access, and institutional outcomes. Self-ID policies and intersectional frameworks systematically subordinate individual biological characteristics and merit-based criteria to group membership. This pattern extends across law, education, employment, and public services, creating a system in which group identity exerts substantial influence over allocation decisions. Individual agency is recognised in principle but is frequently overridden by group-based considerations in practice.
 
+---
+
 ## Labour – Final Score: 53
 
 Labour maintains a legal and institutional framework in which group membership continues to play a significant role in the allocation of protections, opportunities, and institutional attention.
@@ -240,6 +246,8 @@ Labour maintains a legal and institutional framework in which group membership c
 
 Labour operates within a system that routinely incorporates group membership as a legitimate factor in the allocation of rights, protections, and opportunities. While the party has made some pragmatic adjustments in response to legal developments, it has not sought to remove or significantly constrain the underlying group-based allocation mechanisms embedded in equality law and institutional practice. Individual merit remains formally recognised, but it is regularly balanced against group identity and equity considerations in multiple domains. This produces a pattern in which group membership exerts substantial and recurring influence over allocation outcomes.
 
+---
+
 ## Liberal Democrats – Final Score: 38
 
 The Liberal Democrats support allocation mechanisms that allow self-identified group membership to determine access to rights and provisions in significant areas of law and policy.
@@ -252,6 +260,8 @@ The Liberal Democrats support allocation mechanisms that allow self-identified g
 - Opposition to reforms that would restrict the role of self-identified gender in legal and institutional allocation.
 
 The Liberal Democrats have consistently supported mechanisms that allocate access to rights, spaces, and legal status according to self-identified group membership rather than individual biological characteristics or merit-based criteria. This approach subordinates individual attributes to group identity in areas such as single-sex provisions and legal recognition. While the party also supports individual rights in other contexts, its positions on gender and identity create clear and recurring instances in which group membership functions as the determining factor in allocation.
+
+---
 
 ## Reform – Final Score: 87
 
@@ -266,6 +276,8 @@ Reform maintains the strongest and most consistent commitment among the six part
 - Local government record of actively reducing or removing DEI-related roles and initiatives.
 
 Reform has developed a coherent set of positions that directly challenge the use of group identity as a factor in the distribution of opportunities and protections. Its approach consistently frames group-based allocation mechanisms (whether through quotas, diversity targets, or self-ID policies) as distortions that undermine individual agency. The party does not merely critique these mechanisms; it proposes their removal or replacement with systems centred on individual merit and conduct. This creates a clear pattern in which individual actions and characteristics are treated as the proper basis for allocation, while group membership is actively excluded as a legitimate consideration. The combination of platform commitments and observable local government practice produces a high degree of consistency in prioritising individualist allocation.
+
+---
 
 ## Restore Britain – Final Score: 76
 
