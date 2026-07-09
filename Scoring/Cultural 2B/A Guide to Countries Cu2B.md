@@ -41,10 +41,10 @@ Focus on **what was actually done and said** in public and institutional life ra
 **Critical rule:** Start by creating **more eras than you initially think are necessary**. It is far easier to merge similar eras later than to split an era that has become too broad.
 
 **Good reasons to create a new era:**
-- A clear shift in the dominant emotional tone toward national history or identity (e.g. from affirmation to critique, or vice versa)
-- Major political or cultural events that significantly alter national self-perception (e.g. military defeat, independence, major constitutional change, economic crisis)
+- A clear shift in the dominant emotional tone toward national history or identity
+- Major political or cultural events that significantly alter national self-perception
 - Periods of sustained political contestation over national identity and history
-- Significant changes in how national symbols are treated (e.g. widespread statue removals, new national days, or restrictions on flags)
+- Significant changes in how national symbols are treated
 
 Aim for relatively short, coherent periods rather than long eras that contain multiple distinct phases.
 
@@ -64,11 +64,7 @@ Use a consistent structure for every era. Maintain similar depth and analytical 
 
 ### Recommended Structure
 
-Use the following structure for each era section:
-
-```markdown
-
-**Heading format:**  
+**Heading format (use exactly this style):**  
 ## **StartYear–EndYear: Era Name – Final Score: XX**
 
 **Intro paragraph** (3 to 5 sentences)
@@ -83,8 +79,7 @@ Use the following structure for each era section:
 
 **Analysis paragraphs** (1–2 paragraphs)
 
-**Key Shift sentence** at the end of every era.
-```
+**Key Shift sentence** at the end of every era (this is mandatory).
 
 **Rules for Era Sections:**
 - Keep eras reasonably concise but with sufficient analytical depth.
@@ -108,19 +103,16 @@ After completing a first draft:
 
 Include a Political Parties section at the end of the document.  
 **Parties should always be arranged alphabetically.**
-``
 
 **Structure:**
-```markdown
 - Short overall summary of the current state of national pride vs shame.
 - Summary table with party names and Final Scores.
-- Individual party entries using this format:
+- Individual party entries with this format:
   - Brief Overview
   - Emotional and Cultural Stance – Expanded Analysis (with bullets)
   - Why This Produces a Final Score of XX
 
 Base this section on current party platforms, rhetoric, and record (especially where parties have held power or significant influence). Focus on what each party communicates and does regarding national history, symbols, and pride.
-```
 
 ## 8. Final Assembly and Quality Control
 
@@ -151,7 +143,7 @@ Base this section on current party platforms, rhetoric, and record (especially w
 ## Summary Workflow
 
 1. Define the time period and starting point.
-2. Research observable expressions of national pride and shame (rhetoric, symbols, education, rituals, policy language).
+2. Research observable expressions of national pride and shame.
 3. Create an initial high-granularity set of eras.
 4. Score each era using the Cultural 2B bands.
 5. Write the era sections to a consistent standard (including Key Shift sentences).
