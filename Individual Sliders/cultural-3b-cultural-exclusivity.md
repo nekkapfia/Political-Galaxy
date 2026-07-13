@@ -3,7 +3,8 @@
 
 ## 1. Definition
 
-Note that this slider is intended to be scored in conjunction with Core 3A, Ethnic Exclusivity.
+*Note that this slider is intended to be scored in conjunction with Core 3A, Ethnic Exclusivity.*
+
 Cultural Exclusivity measures the strictness of the cultural adoption and transformation required for full membership of the core in-group. It covers the difficulty and extent of immersion in the group's culture and way of life, together with the degree of severance from previous cultural groups, traditions and heritage.
 
 **Core continuum**
