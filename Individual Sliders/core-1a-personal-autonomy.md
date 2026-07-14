@@ -77,16 +77,16 @@ The system starts policing those who do things it consideres to be directly dama
 - Police begin actively using entrapment to tempt people to commit crimes.
 
 ### 28–36 — Ideological enforcement and police state
-The system heavily polices anything which might cause deviation from it's understanding of the world in an aggressive manner.
-- Laws designed to criminalise dissent or deviant behaviour.
+The system aggressively polices ideological deviation through laws, monitoring, and institutional mechanisms.
+- Laws that criminalise or penalise dissenting speech or beliefs.
 - Laws are now extensive enough that everyone is guilty of something which the system can use to persecute its detractors.
 - Access to information which is critical or undesirable is curtailed.
 
 ### 19–27 — Ideological reprogramming / thought control
-The system targets any deviation from it's acceptable world view and introduces measure specifically aimed at altering their beliefs and understanding of the world to bring them into alignment with the system.
-- Mandatory ideological re-education for wrongthink.
-- Speaking out or saying the wrong thing results in system-enforced persecution.
-- Education and media are run to indoctrinate the population.
+The system uses institutional power to target individual beliefs and worldviews, applying pressure or sanctions aimed at forcing alignment with official ideology.
+- Mandatory training or re-education programs designed to correct "incorrect" beliefs or attitudes.
+- Sanctions or persecution for expressing views that deviate from the required orthodoxy.
+- Education and media systems used to promote the official ideology and discourage or suppress alternatives.
 
 ### 10–18 — Extreme restrictions on voluntary actions, movement and association
 The system imposes severe, systematic physical restrictions on the voluntary movement, residence, and daily activities of members of the general public.
