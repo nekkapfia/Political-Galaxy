@@ -1,127 +1,96 @@
-# Cultural 3A: Ethnic Exclusivity
+# Cultural 3 – Exclusivity
+## Ethnic Exclusivity
 
-## 1. Core definition
-
-*Note that this slider is intended to be scored in conjunction with Core 3B, Cultural Exclusivity.*
-
+### 1. Definition
 Ethnic Exclusivity measures the strictness of the ancestral / blood requirement for full membership of the core in-group. It covers the difficulty and extent of ancestral purity demanded, together with the degree of exclusion based on non-group ancestry or the degree of inclusion based on any ancestral connection to the group.
 
-**Core continuum**
+Scoring uses only observable reality concerning the ethnic / ancestral criterion for full membership. Immigration, deportation, resident non-members, and all cultural requirements are out of scope.
 
-- **100** = One drop that is **not** our blood means you are **not** us. (Strict exclusionary purity / one-drop rule against outsiders)
-- **Low positive (1–20)** = One drop of **our** blood makes you us. (Any ancestral connection, even distant or partial, is sufficient for full membership)
-- **0** = We literally do not care about your ethnicity / ancestry at all. (Ethnicity has zero role in full membership)
-
-**Bright-line tests**
-- If a person with any foreign ancestry is excluded from full membership even after complete cultural adoption → high score.
-- If any ancestral connection (no matter how minimal) is treated as sufficient for full membership → low positive score.
-- If ancestry is simply irrelevant → near 0.
-
-Scoring uses only observable reality concerning the criterion for **full membership**. Immigration, deportation and resident non-members are irrelevant (see Document 1).
-
----
-
-## 2. Avoidance Rules
-
+### 2. Avoidance Rules
 Do not use as evidence:
-- Cultural thickness or assimilation demands (that is Cultural / 3B)
-- Immigration or border policy
+- Cultural adoption, language, loyalty, or way-of-life requirements (these belong to 3B Cultural)
+- Immigration volume or border control
 - Deportation
 - Treatment of resident non-members
-- Demographic anxiety unless it is explicitly about the membership criterion itself
+- Any non-ethnic pathway to membership
 
----
+### 3. Scoring Bands
 
-## 3. Scoring Bands
-
-### 90–100 — Strict Exclusionary Purity
+#### 90–100 — One-Drop Exclusion
 One drop of non-group blood is disqualifying for full membership.
 
-- 100: Absolute one-drop exclusion. Any non-group ancestry bars full membership.
-- 95–99: Purity rules exclude all mixed ancestry from full membership.
-- 90–94: Ancestral purity is the dominant and near-necessary condition. Mixed ancestry faces severe or total barriers to full membership.
+* **100**: Explicit One-Drop Exclusion. Any non-group ancestry bars full membership.
+* **95–99**: Near One-Drop. Anything beyond the most marginal mixing results in exclusion.
+* **90–94**: Mixed ancestry faces total or near-total barriers.
 
-### 80–89 — High Ancestral Purity
-Strong preference for unmixed or clearly group ancestry. Mixed or distant ancestry is disadvantaged or excluded from full membership.
+#### 80–89 — Strong Purity Preference
+Significant foreign ancestry is heavily discouraged and produces lasting lower status.
 
-- Full membership is strongly tied to demonstrable group descent.
-- Mixed-ancestry individuals face significant formal or informal barriers to equal full status.
-- Cultural performance can help but cannot fully equalise someone of mixed or non-group ancestry.
-- Diaspora co-ethnics of pure ancestry are favoured; those with diluted ancestry are not.
+* Interbreeding is heavily discouraged.
+* Those who are not close to pure-blood are looked down upon even if formally accepted.
+* Even relatively recent mixed ancestry remains a criterion for discrimination.
 
-### 70–79 — Predominantly Ancestral
-Ancestry is the primary criterion. Limited secondary pathways exist but ancestry remains decisive for full membership.
+#### 70–79 — Dominant Ancestry Expectation
+Group ancestry is expected to be the dominant element; substantial foreign contribution is a serious barrier.
 
-- Core institutions and definitional claims treat ancestral continuity as the normal and preferred basis of full membership.
-- A person of foreign ancestry can reach full membership only under restrictive secondary conditions that keep ancestry primary.
-- Public discourse presents ancestral belonging as natural and legitimate.
-- Mixed ancestry is tolerated more than in higher bands but still carries a clear penalty or slower path.
+* Interbreeding is not formally forbidden but is not regarded as fully legitimate.
+* Traits or ancestry that are obviously substantially foreign are cause for discrimination or reduced standing.
+* Only those whose foreign contribution is limited and not dominant are fully embraced.
 
-### 60–69 — Ancestral Preference
-Ancestry carries significant weight in granting full membership, though non-ancestral routes have some real existence.
+#### 60–69 — Core Ancestry Preference
+Mixed people are accepted, but those of predominantly group ancestry are clearly preferred.
 
-- Ancestral connection is treated as important, advantageous, and often decisive in contested cases.
-- Non-ancestral full membership is possible and occurs with frequency, but those without ancestry face higher bars or residual suspicion.
-- Definitional claims frequently reference the historic people or blood continuity alongside cultural elements.
-- Statistical outcomes still show ancestral members over-represented in full status relative to pure cultural adoptees.
+* Interbreeding is accepted but not encouraged.
+* Those with substantial foreign ancestry are accepted but disadvantaged relative to those of core ancestry.
+* Obvious foreign traits are not automatically disqualifying.
 
-### 50–59 — Contested / Mixed
-Both ancestral and non-ancestral criteria have comparable force. No clear dominance of either principle in defining full membership.
+#### 51–59 — Minimal Ancestry Threshold
+Some demonstrable group ancestry is required; once present, foreign ancestry is not itself a barrier.
 
-- Some domains (citizenship rhetoric, family law, symbolic identity) retain ancestral emphasis.
-- Other domains (public institutions, education, everyday status) operate more on cultural, civic or behavioural criteria.
-- Mixed-ancestry individuals and pure cultural adoptees both achieve full membership with observable success, but neither path is frictionless.
-- Public discourse and institutional practice show genuine internal tension or dual messaging.
+* Mixed-ethnicity people are accepted provided there is a clear ancestral connection to the group.
+* The required connection can be relatively limited.
+* Interbreeding itself is fully acceptable.
 
-### 40–49 — Residual Ancestral Weight
-Ancestry still appears in definitional claims or residual practice but is secondary to other criteria.
+#### 50 — Inverse One-Drop Rule
+One drop of our blood makes you us.
 
-- Historic peoplehood or ancestral language is used, yet full membership is routinely granted on cultural, civic or contribution grounds without regard to blood.
-- Ancestral preference may surface in soft ways (social preference, symbolic recognition, easier family routes) but does not function as a hard or primary gate.
-- A person of completely foreign ancestry who meets cultural and civic standards is accepted as a full member in the large majority of cases.
+* Any ancestral connection, even distant or partial, is sufficient for full membership.
+* Individuals with remote or fractional group ancestry are treated as already belonging or as having a strong presumptive claim to full membership.
 
-### 30–39 — Weak Ancestral Role
-Ancestry has only minor or rhetorical importance for full membership.
+#### 41–49 — Related Ethnicities
+Full membership is open to the core ethnicity and to ethnic groups that share the same origins.
 
-- Definitional claims occasionally reference heritage or historic stock, but institutional practice treats ancestry as irrelevant or nearly so.
-- Full membership is available to cultural and civic adoptees on essentially equal terms with ancestral members.
-- Any remaining ancestral advantage is small, informal, and easily overridden.
+* Any person of the core ethnicity is accepted, regardless of how distant or limited the connection.
+* Ethnic groups that split from the core group in the past are also accepted.
+* Example: two tribes that diverged centuries ago and have had no contact since.
 
-### 20–29 — Minimal Ancestral Role
-Ancestry is not decisive. Full membership is available largely without regard to blood.
+#### 31–40 — Ethnic Similarity
+Full membership is open to the core ethnicity and to groups that are ethnically similar, even when they do not share recent common origins.
 
-- Ancestral language is mostly historical or decorative.
-- Observable institutional and legal practice does not use ancestry as a meaningful filter for full status.
-- Mixed and non-ancestral individuals achieve full membership at rates comparable to ancestral ones (controlling for culture and contribution).
+* Any person of the core ethnicity is accepted.
+* People who are ethnically similar but not directly related are also accepted.
+* Example: two populations both classified as “black” that originated in different continents and diverged before some populations classified as “white”.
 
-### 10–19 — Any-Drop / Inclusive Ancestral
-One drop of group blood (even distant or partial) is treated as sufficient or strongly facilitative for full membership.
+#### 21–30 — Historic Alliance
+Full membership is open to ethnic groups that have historic alliances or long-standing connections with the core group, even without shared ancestry.
 
-- Individuals with even remote or fractional group ancestry are treated as already belonging or as having a strong presumptive claim to full membership.
-- Cultural performance, language, and residence become secondary or optional for those with the blood connection.
-- Pure cultural adoptees without any ancestry face a higher bar.
-- Typical of certain historical and modern diaspora nationalisms, some jus sanguinis systems with very liberal descent rules, and “blood is thicker than soil” ideologies.
+* Membership is granted on the basis of historic ethnic relations and alliance, not genetic relatedness.
+* Example: the Gurkhas are not ethnically related to the British but are accepted because of their historic military service and alliance with Britain.
 
-### 6–9 — Near-Indifference with Residual Trace
-Ethnicity has almost no role. The faintest residual ancestral preference remains.
+#### 11–20 — Residual Ethnic Restrictions
+The ethnic criterion now operates mainly through targeted exclusions rather than broad inclusions.
 
-- Full membership is determined almost entirely by non-ethnic criteria.
-- Any remaining ancestral language is purely historical, sentimental, or decorative and carries no binding force.
-- In practice, a person of any ancestry who meets the (usually cultural or civic) standards is treated as a full member.
+* Specific ethnic groups against which historic grudges or prejudices exist are excluded.
+* The set of accepted ethnicities is wide, but certain named groups remain barred.
+* Example: laws that explicitly discriminate against people of English heritage in Scotland.
 
-### 5 — Borderline Indifference
-Ethnicity has no role in defining full membership except in rare symbolic contexts with no binding force.
+#### 0–10 — Residual to Zero Genetic Role
+Ancestry declines from narrow residual relevance to complete irrelevance.
 
-### 1–4 — Complete Indifference
-Ethnicity / ancestry has zero role in determining full membership of the core in-group.
-
-- No ancestral criterion exists in law, institutions, public definition, or meaningful practice.
-- Definitional claims about membership make no reference to blood, descent, or historic stock as a requirement.
-- Ancestry is treated as a private or irrelevant fact, equivalent to hair colour or height for the purposes of full membership.
-
-### 0 — Absolute Indifference
-Ethnicity / ancestry has zero role and the system actively rejects ancestry as a basis for full membership.
+* **6–10**: Ancestry retains residual meaning. Targeted restrictions or preferences based on ancestry exist in narrow domains.
+* **1–5**: Ancestry retains residual meaning in very specific, narrowly targeted restrictions only. Outside those narrow cases, ancestry has no operational role in full membership.
+* **0**: Absolute genetic indifference. Ancestry has zero role. No ancestral criterion exists in law, institutions, public definition, or practice. The system treats genetic similarity as irrelevant to full membership.
 
 ---
 
-**End of Document 2: Ethnicity (Version 7.2)**
+**End of Document 2: Ethnicity (Version 8.0)**
