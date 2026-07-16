@@ -2,6 +2,8 @@
 ## Ethnic Exclusivity
 
 ### 1. Definition
+*Note that this slider is intended to be scored in conjunction with Core 3B, Cultural Exclusivity.*
+
 Ethnic Exclusivity measures the strictness of the ancestral / blood requirement for full membership of the core in-group. It covers the difficulty and extent of ancestral purity demanded, together with the degree of exclusion based on non-group ancestry or the degree of inclusion based on any ancestral connection to the group.
 
 Scoring uses only observable reality concerning the ethnic / ancestral criterion for full membership. Immigration, deportation, resident non-members, and all cultural requirements are out of scope.
