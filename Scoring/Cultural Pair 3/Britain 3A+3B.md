@@ -59,28 +59,28 @@ Cultural adoption had zero meaningful role in defining full membership for the v
 **Scores: 3A 0 | 3B 5**
 
 ### Brief Description of the Era
-The Commonwealth Immigrants Acts of 1962 and 1968 introduced controls on primary migration from the Commonwealth. These measures restricted entry but did not alter the legal criteria for full membership (Endos status) once a person already held CUKC or British subject status. The core legal framework established in 1948 remained in place.
+The Commonwealth Immigrants Acts of 1962 and 1968 introduced the first post-war controls on primary migration from the Commonwealth. These measures restricted entry through voucher systems and limits on dependents but did not change the legal definition of who held full membership (Endos status). The core framework established by the 1948 Act remained intact.
 
 ### Relevant Policies / Elements
 
 | Policy / Element | Relevance & Quick Summary | Slider |
 |------------------|---------------------------|--------|
-| Commonwealth Immigrants Act 1962 & 1968 | Restricted entry of Commonwealth citizens but did not change membership criteria for those already holding status | Neither (entry controls only) |
-| Continued CUKC / British subject status | Membership rules themselves unchanged from 1948 | Both |
-| Naturalisation rules for aliens | Remained light with only basic English requirement | 3B |
+| Commonwealth Immigrants Act 1962 & 1968 | Restricted entry of Commonwealth citizens but did not redefine membership criteria for those already holding status | Neither (entry controls only) |
+| Continued CUKC / British subject status | Membership rules remained unchanged from the 1948 framework | Both |
+| Naturalisation rules for aliens | Continued to require only basic English knowledge and good character | 3B |
 
 ### More Detailed Analysis
-The 1962 and 1968 Acts introduced the first post-war immigration controls on Commonwealth citizens, primarily through voucher systems and restrictions on dependents. However, these were rules about *entry*, not about who counted as a full member of the core in-group once already inside the UK or holding the relevant status. People who were already CUKCs or British subjects retained full legal rights of residence and membership. No ethnic or blood criteria were introduced into the definition of citizenship.
+The 1962 and 1968 Acts marked the first significant restriction on Commonwealth migration since 1948, primarily through employment vouchers and tighter rules on family reunion. These were explicitly framed as immigration controls rather than changes to citizenship or membership status. People who already held CUKC or British subject status continued to enjoy full legal rights of residence and membership once inside the UK. No ethnic or blood-based criteria were introduced into the rules governing who could become or remain a full member of the core in-group.
 
-Cultural requirements for full membership also remained negligible. Naturalisation for true aliens continued to require only basic English knowledge and good character. There was still no formal integration test or expectation of cultural transformation. The Endos category remained open on both ethnic and cultural dimensions, with the new controls operating outside the membership boundary itself.
+Cultural expectations for membership also remained negligible throughout this period. Naturalisation for aliens who were not already British subjects continued to rest on the same light requirements established in 1948: basic English knowledge, good character, and a period of residence. There was still no formal test of British values, history, or cultural conformity, and no expectation that new members would sever ties with their original cultural identities. The Endos category therefore remained open on both the ethnic and cultural dimensions, with the new controls operating strictly at the border rather than at the boundary of membership itself.
 
 ### 3A Summary (Ethnic Exclusivity)
 **Score: 0**  
-No ethnic or ancestral barrier to membership was introduced. Controls affected entry only and did not redefine who could become or remain a full member of the core in-group.
+No ethnic or ancestral barrier to membership was introduced. The new controls affected entry only and did not redefine the criteria for full Endos status.
 
 ### 3B Summary (Cultural Exclusivity)
 **Score: 5 (Complete / Borderline Indifference)**  
-Cultural adoption continued to play almost no role in defining full membership. The new entry controls did not impose additional cultural requirements on those already holding status.
+Cultural adoption continued to play almost no role in defining full membership. The entry controls of this period did not impose additional cultural requirements on those already holding legal status.
 
 ---
 
@@ -88,28 +88,28 @@ Cultural adoption continued to play almost no role in defining full membership. 
 **Scores: 3A 0 | 3B 5**
 
 ### Brief Description of the Era
-The Immigration Act 1971 introduced the concept of “patriality” (later right of abode), giving preference in residence rights to those with a UK-born parent or grandparent. This was an immigration status rule rather than a change to the criteria for citizenship or full Endos membership.
+The Immigration Act 1971 introduced the concept of “patriality” (later right of abode), granting preferential residence rights to those with a UK-born parent or grandparent. This was an immigration and residence rule rather than a redefinition of citizenship or full membership of the core in-group.
 
 ### Relevant Policies / Elements
 
 | Policy / Element | Relevance & Quick Summary | Slider |
 |------------------|---------------------------|--------|
-| Immigration Act 1971 (patriality) | Created preference for UK-born parents/grandparents for right of abode | Neither (residence rights only) |
-| Continued jus soli for those born in UK | Birthright membership remained non-ethnic | 3A |
-| Naturalisation of aliens | Still required only basic English and good character | 3B |
+| Immigration Act 1971 (patriality) | Created preference based on UK-born parents or grandparents for right of abode | Neither (residence rights only) |
+| Continued jus soli for those born in UK | Birthright membership remained available without ethnic criteria | 3A |
+| Naturalisation of aliens | Still required only basic English knowledge and good character | 3B |
 
 ### More Detailed Analysis
-Patriality linked unrestricted residence rights to close ancestral connection with the UK. While this introduced a preference based on parental birthplace, it did not impose an ethnic or blood requirement for citizenship itself. People without patriality could still become full members through birth in the UK, naturalisation, or other routes. The core definition of Endos status remained open.
+Patriality created a clear preference in immigration law for individuals with close ancestral ties to the UK. However, this preference operated exclusively within the domain of residence rights and did not extend to the definition of citizenship or Endos membership. People without patriality could still acquire full membership through birth in the UK, naturalisation, or registration. The core legal criteria for who counted as a full member of the in-group remained free of ethnic or blood-based tests.
 
-Cultural demands stayed minimal. Naturalisation continued to require only basic English knowledge. There was no significant move toward requiring cultural transformation or alignment for full membership. The era maintained the low cultural threshold established in previous decades.
+Cultural demands for membership stayed at the same minimal level established in previous decades. Naturalisation continued to require only basic English and good character, with no formal expectation of cultural transformation or alignment. The era did not introduce any new mechanisms that treated cultural practices or identity as relevant to the acquisition or retention of full Endos status.
 
 ### 3A Summary (Ethnic Exclusivity)
 **Score: 0**  
-No ethnic criterion for full membership was created. Patriality affected residence rights, which fall outside the scope of the membership sliders.
+No ethnic criterion for full membership was created. Patriality was limited to residence rights and did not affect the definition of Endos status.
 
 ### 3B Summary (Cultural Exclusivity)
 **Score: 5 (Complete / Borderline Indifference)**  
-Cultural requirements for Endos status remained negligible. No meaningful increase in expectations of cultural adoption or transformation occurred.
+Cultural requirements for Endos status remained negligible. No meaningful increase in expectations of cultural adoption occurred during this period.
 
 ---
 
@@ -117,28 +117,28 @@ Cultural requirements for Endos status remained negligible. No meaningful increa
 **Scores: 3A 0 | 3B 8**
 
 ### Brief Description of the Era
-The British Nationality Act 1981 (effective 1983) ended pure *jus soli*. Birth in the UK now required at least one parent who was a British citizen or settled. This was a legal-status rule rather than an ethnic one.
+The British Nationality Act 1981 (effective 1 January 1983) ended automatic *jus soli*. From this point, birth in the UK generally required at least one parent who was a British citizen or settled. This change was framed in legal-status terms rather than ethnic ones.
 
 ### Relevant Policies / Elements
 
 | Policy / Element | Relevance & Quick Summary | Slider |
 |------------------|---------------------------|--------|
-| British Nationality Act 1981 | Ended pure jus soli; introduced parental status requirement for birthright citizenship | 3A |
-| Citizenship by descent (limited) | Generational limit on transmission abroad | 3A |
-| Naturalisation of aliens | Remained relatively light with basic English requirement | 3B |
+| British Nationality Act 1981 | Replaced pure *jus soli* with a parental status requirement for birthright citizenship | 3A |
+| Citizenship by descent (limited) | Introduced generational limits on transmission for those born abroad | 3A |
+| Naturalisation of aliens | Remained relatively light, requiring basic English knowledge and good character | 3B |
 
 ### More Detailed Analysis
-The parental connection rule for birth in the UK was a status-based requirement, not an ethnic or blood one. A parent of any ethnicity who held British citizenship or settled status could transmit membership. Naturalisation for aliens continued to require only basic English knowledge and good character. No ethnic purity rules or dominant-ancestry expectations were introduced.
+The 1981 Act replaced automatic birthright citizenship with a rule requiring a parental connection to the UK. This was a technical legal-status change rather than the introduction of ethnic or ancestral exclusivity. A parent of any ethnicity who held British citizenship or settled status could still transmit membership. Naturalisation for aliens continued on the same relatively light terms that had existed since 1948.
 
-Cultural demands for membership remained low. While the Act modernised the framework, it did not significantly increase expectations of cultural transformation for those becoming Endos. The system stayed open on both ethnic and cultural dimensions, with only modest formalisation of language expectations for naturalisation.
+Cultural expectations remained low throughout this period. While the Act modernised the overall nationality framework, it did not impose significant new cultural or integration requirements on those acquiring Endos status. The system stayed broadly open on both the ethnic and cultural dimensions, with only modest formalisation of language expectations for naturalisation.
 
 ### 3A Summary (Ethnic Exclusivity)
 **Score: 0**  
-No ancestral or blood criterion was introduced. The parental status rule is legal rather than ethnic.
+No ancestral or blood criterion was introduced. The parental status rule is a legal connection requirement, not an ethnic one.
 
 ### 3B Summary (Cultural Exclusivity)
 **Score: 8**  
-Cultural requirements remained minimal. Slight formalisation occurred for naturalisation, but birth and descent routes required nothing cultural.
+Cultural requirements remained minimal. Slight formalisation occurred for naturalisation, but the primary routes into membership continued to carry no cultural expectations.
 
 ---
 
@@ -146,29 +146,29 @@ Cultural requirements remained minimal. Slight formalisation occurred for natura
 **Scores: 3A 0 | 3B 22**
 
 ### Brief Description of the Era
-The Nationality, Immigration and Asylum Act 2002 and subsequent measures introduced the first systematic cultural requirements for naturalisation, including citizenship ceremonies (2004) and the Life in the UK test (2005).
+The Nationality, Immigration and Asylum Act 2002 and related measures introduced the first formal cultural requirements for naturalisation, including citizenship ceremonies from 2004 and the Life in the UK test from 2005.
 
 ### Relevant Policies / Elements
 
 | Policy / Element | Relevance & Quick Summary | Slider |
 |------------------|---------------------------|--------|
-| Life in the UK test (from 2005) | Knowledge test required for naturalisation | 3B |
-| Citizenship ceremonies (from 2004) | Mandatory for most naturalising adults | 3B |
-| English language requirement | Formalised and strengthened for naturalisation | 3B |
-| Birth and descent routes | Continued to require no cultural tests | Neither |
+| Life in the UK test (from 2005) | Knowledge test introduced as a requirement for naturalisation | 3B |
+| Citizenship ceremonies (from 2004) | Mandatory ceremony and oath for most naturalising adults | 3B |
+| English language requirement | Formalised and applied more consistently for naturalisation | 3B |
+| Birth and descent routes | Continued with no cultural requirements | Neither |
 
 ### More Detailed Analysis
-Cultural requirements appeared for the first time as binding conditions on the naturalisation route. These included a knowledge test and mandatory ceremony. However, they remained limited in depth — focused on basic knowledge and language rather than deep cultural transformation or severance of prior identity. People who were British by birth or descent continued to become Endos with zero cultural requirements.
+This period marked the first time that explicit cultural requirements were attached to one pathway into membership. The Life in the UK test and citizenship ceremonies represented a clear step toward expecting some degree of knowledge and symbolic commitment from those naturalising. However, these requirements remained limited in scope and depth — they focused on basic civic knowledge and language rather than demanding deep cultural transformation or the abandonment of prior identities.
 
-No ethnic criteria were introduced. The system remained open on ethnicity while modestly raising the cultural threshold for one specific pathway into membership.
+No ethnic criteria were added at any point. People acquiring membership through birth or descent continued to do so without any cultural expectations. The system therefore remained completely open on the ethnic dimension while introducing a modest but meaningful cultural threshold on the naturalisation route.
 
 ### 3A Summary (Ethnic Exclusivity)
 **Score: 0**  
-No ethnic or blood requirement was added. Membership remained non-ethnic.
+No ethnic or blood requirement was introduced. Membership criteria remained non-ethnic across all routes.
 
 ### 3B Summary (Cultural Exclusivity)
 **Score: 22**  
-Light cultural requirements were introduced for naturalisation. Overall system score rises because these now form a formal part of one route into Endos status, while birth and descent routes remain culturally open.
+Light but formal cultural requirements were introduced for naturalisation. The overall score rose because these now constitute a binding part of one significant route into Endos status, while birth and descent routes remain culturally unrestricted.
 
 ---
 
@@ -176,26 +176,26 @@ Light cultural requirements were introduced for naturalisation. Overall system s
 **Scores: 3A 0 | 3B 25**
 
 ### Brief Description of the Era
-The post-2005 framework has been maintained with modest tightening of language standards. No fundamental change occurred in the ethnic or cultural definition of full membership.
+The framework established in the mid-2000s has been maintained with modest further tightening of language standards. No fundamental shift has occurred in the ethnic or cultural definition of full membership.
 
 ### Relevant Policies / Elements
 
 | Policy / Element | Relevance & Quick Summary | Slider |
 |------------------|---------------------------|--------|
-| Continued Life in the UK test | Remains required for naturalisation | 3B |
-| Strengthened English language standards | Higher proficiency expected for settlement and citizenship | 3B |
-| Citizenship ceremony and oath | Remains mandatory for most naturalising adults | 3B |
-| Birth and descent routes | Continue to require no cultural tests | Neither |
+| Continued Life in the UK test | Remains a requirement for naturalisation | 3B |
+| Strengthened English language standards | Higher proficiency levels now expected for settlement and citizenship | 3B |
+| Citizenship ceremony and oath | Continues to be mandatory for most naturalising adults | 3B |
+| Birth and descent routes | Remain free of cultural requirements | Neither |
 
 ### More Detailed Analysis
-The cultural threshold for naturalisation has been maintained and slightly raised, particularly around language proficiency. These requirements still apply only to the naturalisation route. People acquiring membership through birth or descent face no cultural expectations. No ethnic barriers have been introduced at any point.
+The period since 2010 has seen consolidation rather than major reform. Language requirements have been modestly strengthened, particularly for those seeking settlement and subsequent citizenship, but the underlying structure has not changed. Cultural expectations remain concentrated on the naturalisation route and continue to focus on language proficiency and basic civic knowledge rather than deep cultural transformation.
 
-The system continues to treat legal status as the primary determinant of Endos membership, with only light cultural expectations concentrated on one pathway. The overall boundary remains relatively open compared with many other countries.
+No ethnic criteria have been introduced. The system continues to treat legal status as the primary gateway to Endos membership, with cultural expectations remaining light and limited to one pathway. The overall character of the membership boundary has therefore stayed relatively open compared with many comparable European states.
 
 ### 3A Summary (Ethnic Exclusivity)
 **Score: 0**  
-No ethnic or ancestral requirement exists for full membership.
+No ethnic or ancestral requirement exists for full membership in any era since 1945.
 
 ### 3B Summary (Cultural Exclusivity)
 **Score: 25**  
-Light cultural demands are maintained and modestly strengthened for naturalisation. The system remains open on the primary routes into membership.
+Light cultural demands have been maintained and modestly strengthened for naturalisation. The system remains open on the primary routes into membership and does not require significant cultural transformation for Endos status.
