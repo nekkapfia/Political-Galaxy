@@ -19,9 +19,9 @@ Low scores indicate high mobility and agency: birth circumstances have minimal l
 ### 90–100: Near-absolute social determinism
 Birth assigns highly specific hereditary roles + birth-order rules. Almost no residual choice or mobility.
 
-- Exact occupational and social niches are inherited (including first-son / second-son type rules).
-- Individual actions, talent, or effort produce virtually zero change in life trajectory or descendant status.
-- No legitimate pathways exist out of the birth-assigned niche.
+- **100**: Every aspect of a person’s life is determined by birth-related factors. The individual has no meaningful choice or agency over their life trajectory.
+- **95–99**: Birth determines highly specific occupational and social niches. Only the most marginal agency exists around extremely minor issues.
+- **90–94**: Exact occupational and social apsects are inherited by birth-related factors. Individual actions produce virtually no change in life trajectory or descendant status, and no legitimate pathways exist out of the assigned aspect.
 
 ### 80–89: High social determinism – heavy restrictions both intra-class and inter-class
 Broad classes exist (manual, trades, commercial, professional, landed) but movement both *between* and *inside* them is heavily restricted.
