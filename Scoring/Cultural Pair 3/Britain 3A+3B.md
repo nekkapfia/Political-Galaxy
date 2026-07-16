@@ -199,3 +199,118 @@ No ethnic or ancestral requirement exists for full membership in any era since 1
 ### 3B Summary (Cultural Exclusivity)
 **Score: 25**  
 Light cultural demands have been maintained and modestly strengthened for naturalisation. The system remains open on the primary routes into membership and does not require significant cultural transformation for Endos status.
+
+---
+
+---
+
+# Political Parties
+
+Modern Britain’s political parties show near-complete consensus on the ethnic dimension of membership (Cultural 3A) but meaningful variation on the cultural dimension (Cultural 3B). All six major parties maintain a position of absolute ethnic indifference: none propose ancestral, blood, or racial criteria for full membership of the core in-group. Differentiation therefore occurs almost entirely on 3B — the degree to which cultural adoption, language, knowledge, or alignment is treated as a meaningful requirement for becoming or being accepted as fully British. Reform and Restore Britain articulate the clearest expectation that cultural integration should matter for substantive membership, while the Greens and Liberal Democrats treat cultural requirements as minimal or largely irrelevant. Labour and the Conservatives occupy intermediate positions, retaining formal cultural tests for naturalisation while rejecting any deeper transformation or exclusivity. The overall pattern is one of broad openness on ethnicity combined with modest but real contestation over how much cultural alignment should be expected for full Endos status.
+
+| **Party**          | **3A Score** | **3B Score** | **Combined Character**          |
+|--------------------|--------------|--------------|---------------------------------|
+| **Conservatives**  | 0            | 40           | Moderate cultural expectations  |
+| **Greens**         | 0            | 5            | Minimal cultural expectations   |
+| **Labour**         | 0            | 25           | Light cultural expectations     |
+| **Liberal Democrats** | 0         | 10           | Very low cultural expectations  |
+| **Reform UK**      | 0            | 52           | Clear cultural alignment expected |
+| **Restore Britain**| 0            | 58           | Strongest cultural expectations |
+
+---
+
+## Conservatives – Final Score: 3A 0 | 3B 40
+
+The Conservative Party maintains a position of complete ethnic openness while supporting moderate cultural expectations for those seeking full membership through naturalisation.
+
+### Allocation Mechanisms – Expanded Analysis
+
+- Continued support for the existing Life in the UK test and English language requirements as conditions for naturalisation.
+- Emphasis on “earned” citizenship through contribution, integration, and compliance with British laws and values.
+- Opposition to lowering or removing cultural and knowledge tests for citizenship.
+- Resistance to any ethnic or ancestral criteria for membership, while supporting stronger enforcement of integration expectations for those who naturalise.
+- Record in government of maintaining (and occasionally tightening) language standards without introducing ethnic filters.
+
+The Conservatives treat legal status as the primary gateway to Endos membership and reject any ethnic dimension. On the cultural dimension they support the current modest framework of language and knowledge requirements for naturalisation and have shown willingness to strengthen these expectations. They do not, however, demand deep cultural transformation or treat cultural non-alignment as a barrier to substantive membership once legal status is obtained. This produces a balanced but clearly individualist-leaning stance on membership that prioritises legal connection and basic civic integration over either ethnic exclusivity or transformative cultural demands.
+
+---
+
+## Greens – Final Score: 3A 0 | 3B 5
+
+The Green Party maintains absolute ethnic openness and treats cultural requirements for membership as minimal and largely irrelevant.
+
+### Allocation Mechanisms – Expanded Analysis
+
+- Opposition to strengthening language or knowledge tests for naturalisation or settlement.
+- Support for easier and faster routes to citizenship with reduced cultural or integration conditions.
+- Framing of cultural requirements as potentially exclusionary or discriminatory.
+- Emphasis on rights-based approaches to membership that downplay cultural alignment.
+- Consistent resistance to policies that would make cultural integration a meaningful barrier to Endos status.
+
+The Greens take the most open position on both sliders. They reject ethnic criteria entirely and also resist meaningful cultural expectations for membership. In their view, legal status and presence should be sufficient for full Endos recognition, with cultural identity treated as a private matter that should not affect access to citizenship or substantive belonging. This produces the lowest combined score among the six parties and reflects a strong preference for minimal barriers to membership on both ethnic and cultural dimensions.
+
+---
+
+## Labour – Final Score: 3A 0 | 3B 25
+
+Labour maintains complete ethnic openness while supporting light but formal cultural expectations for naturalisation.
+
+### Allocation Mechanisms – Expanded Analysis
+
+- Retention of the Life in the UK test and English language requirements as conditions for citizenship.
+- Support for citizenship ceremonies as a symbolic integration mechanism.
+- Emphasis on “earned” routes to membership through contribution and compliance with basic civic standards.
+- Resistance to significantly raising the cultural bar or introducing more demanding integration tests.
+- Opposition to any ethnic or ancestry-based criteria for membership.
+
+Labour operates within the existing post-2002 framework that attaches modest cultural requirements to naturalisation while keeping birth and descent routes culturally unrestricted. The party has shown no interest in ethnic exclusivity and has generally sought to keep cultural expectations at a light, formal level rather than pushing for deeper transformation. This produces a moderate 3B score that reflects acceptance of the current system without enthusiasm for either significantly strengthening or dismantling cultural requirements for membership.
+
+---
+
+## Liberal Democrats – Final Score: 3A 0 | 3B 10
+
+The Liberal Democrats maintain absolute ethnic openness and favour very low cultural expectations for membership.
+
+### Allocation Mechanisms – Expanded Analysis
+
+- Support for reducing or simplifying language and knowledge requirements for naturalisation.
+- Preference for rights-based and inclusive approaches to citizenship with minimal cultural hurdles.
+- Opposition to policies that would make cultural integration a significant barrier.
+- Emphasis on ease of access to membership for long-term residents.
+- Consistent rejection of ethnic or ancestral criteria.
+
+The Liberal Democrats take one of the most open positions on the cultural dimension. While they accept the basic existing framework, they have generally argued for lowering rather than raising cultural expectations for naturalisation and have shown little enthusiasm for treating cultural alignment as a meaningful condition of Endos status. Combined with their absolute rejection of ethnic criteria, this produces a very low overall score that reflects a strong preference for minimal barriers to membership on both sliders.
+
+---
+
+## Reform UK – Final Score: 3A 0 | 3B 52
+
+Reform UK maintains complete ethnic openness while advocating clearer and stronger cultural expectations for full membership.
+
+### Allocation Mechanisms – Expanded Analysis
+
+- Support for maintaining and strengthening the Life in the UK test and English language requirements.
+- Explicit view that cultural integration and commitment to British values should be meaningful conditions for citizenship.
+- Opposition to lowering cultural standards or treating citizenship as a purely administrative process.
+- Clear rejection of any ethnic or ancestral criteria for membership.
+- Emphasis on “Britishness” as carrying substantive cultural content that should be reflected in membership rules.
+
+Reform takes the strongest position among the mainstream parties that cultural alignment should matter for Endos status. While remaining firmly opposed to ethnic criteria, the party argues that those seeking membership through naturalisation should demonstrate a meaningful degree of integration and commitment to British society. This produces the highest 3B score among the six parties and reflects a coherent view that legal status alone is insufficient for full substantive membership without accompanying cultural expectations.
+
+---
+
+## Restore Britain – Final Score: 3A 0 | 3B 58
+
+Restore Britain maintains complete ethnic openness while advocating the strongest cultural expectations for full membership among the six parties.
+
+### Allocation Mechanisms – Expanded Analysis
+
+- Strong support for robust cultural and integration requirements for naturalisation.
+- View that cultural alignment and commitment to British norms should be central to becoming a full member of the in-group.
+- Explicit criticism of policies that treat citizenship as primarily administrative rather than substantive.
+- Clear rejection of ethnic or blood-based criteria for membership.
+- Emphasis on the idea that being British carries meaningful cultural content that should be reflected in who is accepted as Endos.
+
+Restore Britain combines absolute ethnic openness with the most demanding stance on cultural expectations. The party argues that full membership of the core in-group should require demonstrable cultural integration and alignment, particularly for those entering through naturalisation. While it does not propose ethnic criteria, it treats cultural non-alignment as a more significant barrier to substantive Endos status than any other party. This produces the highest 3B score and reflects the clearest articulation of cultural exclusivity as a legitimate dimension of membership.
+
+---
