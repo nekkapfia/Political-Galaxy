@@ -76,6 +76,8 @@ Measures the observable degree to which the system interferes with or imposes re
 **1B – Economic Autonomy**  
 Measures the observable degree to which a system protects or restricts individuals' and private entities' economic autonomy — the range of voluntary economic actions, contracts, property rights, production, trade, investment, and consumption decisions that remain free from state or collective coercion.
 
+---
+
 ## Core 2 – Sovereignty
 
 **2A – National Sovereignty**  
@@ -83,6 +85,8 @@ Measures the observable degree to which a nation maintains or surrenders control
 
 **2B – International Sovereignty**  
 Measures the observable degree to which a nation asserts or refrains from interference in the internal affairs of other nations — the range of diplomatic, economic, military, or cultural actions used to influence, pressure, or control foreign governments, societies, or policies versus strict non-intervention and respect for other nations’ sovereignty.
+
+---
 
 ## Cultural 1 – Foundation
 
@@ -92,6 +96,8 @@ Measures the observable origin of a culture's moral grammar — the degree to wh
 **1B – Dogmatism**  
 Dogmatism measures the observable degree to which a system treats its foundational moral, cultural, and ideological principles as closed — both to internal revision or challenge, and to engagement with or legitimacy for alternative moral frameworks originating outside the in-group. It tracks institutional, legal, educational, and cultural mechanisms that protect core principles from change while rejecting or delegitimizing external alternatives.
 
+---
+
 ## Cultural 2 – Identity & Belonging
 
 **2A – Individuality**  
@@ -100,13 +106,17 @@ Measures the observable degree to which a system treats individuals as sovereign
 **2B – Pride (National Identity)**  
 Measures the observable emotional and cultural stance a system takes toward the nation itself — its history, symbols, founding myths, people, continuity, and collective identity (pride, absence of pride, guilt, or active shame).
 
-## Cultural 3 – Group Boundaries
+---
+
+## Cultural 3 – Exclusivity
 
 **3A – Ethnicity**  
-Measures the observable basis on which a culture defines its core in-group (“us”) — the degree to which group membership is determined primarily by shared ethnicity, ancestry, and descent versus shared ideas, values, behaviours, citizenship, or voluntary adoption.
+Ethnic Exclusivity measures the strictness of the ancestral / blood requirement for full membership of the core in-group. It covers the difficulty and extent of ancestral purity demanded, together with the degree of exclusion based on non-group ancestry or the degree of inclusion based on any ancestral connection to the group.
 
-**3B – Exclusivity**  
-Measures the observable permeability of the boundary between “us” and “not us” — the degree of difficulty, cost, cultural resistance, and institutional friction involved in crossing into the in-group.
+**3B – Culture**  
+Cultural Exclusivity measures the strictness of the cultural adoption and transformation required for full membership of the core in-group. It covers the difficulty and extent of immersion in the group's culture and way of life, together with the degree of severance from previous cultural groups, traditions and heritage.
+
+---
 
 ## Cultural 4 – Structure
 
@@ -115,6 +125,8 @@ Measures the degree to which circumstances of birth (such as race, class, social
 
 **4B – Equity Lens**  
 Measures the observable framework a system uses to explain differential group outcomes — the degree to which it attributes disparities to systemic oppression (requiring equity interventions) versus individual actions, merit, and personal responsibility.
+
+---
 
 ## Cultural 5 – Change
 
