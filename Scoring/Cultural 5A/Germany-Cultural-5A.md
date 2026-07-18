@@ -150,6 +150,10 @@ The following section scores the major German political parties on Cultural 5A a
 | Left Party     | 19          | Strong enforced progressivism |
 | SPD            | 34          | Progressive transformation dominant |
 
+German politics in mid-2026 is defined by a sharp and ongoing tension between deeply entrenched progressive modernisation — accelerated significantly since the 2015 migration crisis through gender and family law reform, citizenship liberalisation, diversity mandates, and cultural reframing — and rising political contestation from actors emphasising Leitkultur, national identity, integration requirements, and the restoration of traditional cultural continuity. While core institutional, educational, media, and administrative frameworks continue to operate under a progressive transformation logic, the post-2025 electoral environment has produced visible pushback, particularly from centre-right and right-wing parties advocating patriotic cultural policy and positive national historical framing. This has created a fragmented party landscape in which established parties largely accept the post-Schröder and Merkel-era modernisation trajectory with varying degrees of rhetorical adaptation, while opposition forces explicitly call for measurable reassertion of traditional norms and transmission mechanisms.
+
+---
+
 ### AfD
 **Brief Overview**  
 The Alternative for Germany (AfD) explicitly positions itself as defender of German Leitkultur, customs, traditions, and positive national historical framing. Its platform calls for patriotic cultural policy, remigration where integration fails, strict asylum limits, and restoration of traditional identity and sovereignty norms.
