@@ -1,13 +1,14 @@
 # Cultural 4B: Equity Lens
 
-**Source Document**  
-**Date:** April 16, 2026
+---
 
-## Cultural 4B Definition
+## Core Definition
 
 This guideline measures the observable framework a system uses to explain and address differential group outcomes — the degree to which it attributes disparities primarily to systemic/intersectional oppression, historical group-based factors, or identity-based disadvantages (requiring equity-based interventions for mandated equal outcomes) versus attributing them primarily to individual actions, merit, effort, competence, or personal responsibility (requiring only equality of opportunity/treatment). 
 
 Scoring is based exclusively on empirical reality (observable enforcement in law, education curricula and admissions, employment and promotion practices, family and inheritance policy, media narratives, institutional governance, public rituals, and statistical outcomes of group outcomes) — never on claims, justifications, official rhetoric, or moral framing.
+
+---
 
 ## Scoring Bands
 
@@ -47,23 +48,39 @@ Equity frameworks gain observable traction in multiple core domains yet encounte
 - Media narratives increasingly favour systemic explanations of disparities while still featuring prominent individual-merit counter-arguments.
 - Statistical outcomes show early measurable shifts toward group equalization in selected areas accompanied by visible merit-based exceptions and pushback.
 
-### 31–50 (Mid–Low – Noticeable shift toward individual-merit / opportunity frameworks)
-- Individual-merit and equality-of-opportunity policies gain observable dominance in multiple domains (e.g., removal of quotas, merit-based admissions/selection, legal restrictions on group preferences).
-- Equity structures are tolerated only where unavoidable and are actively reframed as suspect or temporary.
-- Public rituals and media increasingly emphasize individual responsibility over group corrections.
-- Family and inheritance rules begin to prioritize personal merit over equity redistribution.
+### 41–50 (Mid-Low – Clear shift toward individual-merit / opportunity frameworks; equity interventions recede in scope and institutional priority)
+- Individual-merit and equality-of-opportunity policies gain measurable dominance in multiple core domains through legislation, court rulings, or administrative changes (e.g., scaling back or removal of quotas, shift to selection criteria based solely on individual qualifications and performance metrics, legal or policy restrictions on explicit group preferences).
+- Equity structures and mandates have their scope narrowed through new legislation, binding court rulings, or administrative practice; they are no longer default requirements in core institutional processes.
+- Public rituals, media narratives, and institutional discourse prominently feature individual responsibility, competence, and personal agency as the primary explanations for outcomes; group-based correction frameworks receive reduced institutional endorsement.
+- Family and inheritance rules prioritize transmission based on personal achievement and documented individual performance rather than equity redistribution mechanisms.
+- Statistical outcomes show measurable slowing or reversal of prior group-parity targets in favor of differentiation based on individual-level performance metrics in a growing number of sectors.
 
-### 11–30 (Low – Strong enforcement of individual merit / equality of opportunity)
-- Promotion of individual frameworks becomes primary across most domains: explicit bans or heavy penalties on group-based corrections, mandatory equal-treatment rules without identity preferences.
-- Equity mechanisms are dismantled or heavily constrained wherever possible; group-outcome symbols are actively discouraged or inverted.
-- Education, employment, and law prioritize personal merit and opportunity over group equalization.
-- Cultural reflexes and daily norms treat any observable equity correction as inherently illegitimate or harmful.
+### 31–40 (Low-Mid – Individual merit dominant in core domains; equity mechanisms reduced to residual, narrowly targeted, or voluntary roles)
+- Selection and allocation rules based on individual qualifications and performance metrics constitute the primary operating framework across most institutional and policy domains (admissions, hiring, promotion, contracting).
+- Equity interventions persist only in limited, narrowly defined niches (e.g., small targeted programs or voluntary corporate initiatives) and are subject to routine political opposition, legal challenges, and administrative scrutiny.
+- Public discourse, education content, and institutional communications promote explanations centered on individual responsibility and critique group-preference mechanisms on grounds of inconsistency with individual-outcome allocation.
+- Observable institutional rules and procedures favor selection processes based solely on individual qualifications and performance metrics; group-outcome equalization requirements are deprioritized or rolled back in core operational areas.
+- Statistical trends show increasing weight assigned to individual-level performance factors in outcomes alongside declining institutional emphasis on systemic group correction targets.
+
+### 21–30 (Low – Strong enforcement of individual merit and equality of opportunity; equity structures actively dismantled or heavily constrained)
+- Promotion of individual frameworks is primary: explicit policy or legal barriers prohibit group-based corrections in most public and large private contexts; mandatory equal-treatment rules that exclude identity preferences are standard.
+- Equity mechanisms (quotas, audits, preferential scoring) are systematically dismantled, defunded, legally prohibited, or subjected to strict oversight and justification requirements wherever they previously operated.
+- Education policy, employment rules, law, and institutional governance require allocation decisions to be based on individual merit, effort, and competence metrics as the legitimate basis.
+- Institutional and professional consequences (sanctions, loss of funding, legal liability, or public criticism tied to fairness and individual merit standards) apply to the use of equity-style group corrections in core domains.
+- Media coverage and public rituals prominently feature merit-based success cases and subject identity-based redistribution mechanisms to sustained critical examination on empirical outcome grounds.
+
+### 11–20 (Very Low – Merit frameworks primary across nearly all domains; equity corrections subject to prohibition or severe institutional restriction with minimal tolerated exceptions)
+- Almost all observable allocation mechanisms (admissions, hiring, promotion, contracting, benefits) operate under rules requiring individual merit or equal-opportunity criteria, with active enforcement mechanisms against the use of group-identity factors.
+- Any residual equity-style interventions face prohibition, severe institutional resistance, binding legal restrictions, or requirements for exceptional justification; they are confined to the most marginal or explicitly exempted private spheres.
+- Education curricula, media narratives, and public policy documents frame group-based equity approaches as inconsistent with individual-outcome allocation rules and subject them to institutional discouragement or prohibition.
+- Statistical outcomes and institutional practice demonstrate near-complete reliance on competence- and effort-based differentiation; group-parity engineering programs are absent from core public and institutional operations or subject to outright prohibition.
+- Institutional rules, professional standards, and public communications reinforce that outcomes are to be determined by individual qualifications and performance rather than group identity-based adjustments.
 
 ### 0–10 (Floor – Absolute individual merit / equality of opportunity) — Compressed zone
 Total rejection of all equity lenses with universal enforcement of individual-based outcomes regardless of group identity. This allows observable variation within different merit systems (different mechanisms of equal opportunity while retaining zero tolerance for group corrections).
 
-- **6–10** = Extreme individual-merit enforcement: equity lenses treated as inherently illegitimate; widespread merit-based selection and rejection of group preferences dominate most core domains with extreme sanctions for any deviation.
-- **1–5** = Near-absolute individual-merit enforcement: equality of opportunity enforced across nearly all domains with only marginal group-accommodation exceptions and light monitoring.
-- **0** = Absolute individual-merit enforcement: zero tolerance for any equity correction whatsoever; all disparities, status, authority, resource allocation, and outcomes treated solely on personal merit with total rejection of group-based interventions.
+- **6–10** = Extreme individual-merit enforcement: equity lenses treated as incompatible with institutional rules; widespread merit-based selection and prohibition of group preferences dominate most core domains with severe sanctions (legal, financial, or professional) for any deviation.
+- **1–5** = Near-absolute individual-merit enforcement: equality of opportunity enforced across nearly all domains through binding rules; only marginal, explicitly justified group-accommodation exceptions exist under strict oversight.
+- **0** = Absolute individual-merit enforcement: zero tolerance for any equity correction whatsoever; all disparities, status, authority, resource allocation, and outcomes are required to be determined solely on individual merit and performance metrics with total institutional prohibition of group-based interventions.
 
 **End of Cultural 4B: Equity Lens**
