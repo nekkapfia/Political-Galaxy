@@ -30,6 +30,8 @@ This era established a clear baseline of low equity lens enforcement. Individual
 
 **Key Shift:** The period ends with the first Race Relations Act 1965, marking the initial legal recognition of racial discrimination as a distinct problem requiring specific remedies and setting the stage for gradual expansion of the equity lens.
 
+---
+
 ## 1965–1975: First Wave of Race and Sex Discrimination Legislation – Final Score: 35
 
 The Race Relations Acts of 1965 and 1968, followed by the Equal Pay Act 1970 (effective 1975) and Sex Discrimination Act 1975, introduced prohibitions on direct discrimination and limited indirect discrimination concepts. Enforcement relied heavily on conciliation through new commissions rather than outcome mandates or quotas. The framework remained primarily one of equal treatment and opportunity with narrow positive action exceptions.
@@ -44,6 +46,8 @@ The Race Relations Acts of 1965 and 1968, followed by the Equal Pay Act 1970 (ef
 Legal protections expanded noticeably, yet the dominant observable practice stayed within an equality-of-opportunity paradigm with only marginal group-based accommodations.
 
 **Key Shift:** The 1976 Race Relations Act (effective shortly after this era) and the operationalization of the Sex Discrimination Act strengthened enforcement mechanisms and indirect discrimination concepts, paving the way for deeper institutional engagement with group outcomes.
+
+---
 
 ## 1976–1998: Strengthened Commissions and Indirect Discrimination Focus – Final Score: 42
 
@@ -60,6 +64,8 @@ The equity lens gained institutional footholds through commissions and indirect 
 
 **Key Shift:** The 1997–1999 period, culminating in the Macpherson Report, dramatically elevated systemic and institutional explanations of racial disparities, fundamentally altering the dominant framework in policing and broader public institutions.
 
+---
+
 ## 1999–2009: Macpherson Report and Institutional Racism Era – Final Score: 62
 
 The 1999 Macpherson Report into the Stephen Lawrence murder investigation concluded that the Metropolitan Police was institutionally racist and extended the critique to other institutions. This triggered widespread adoption of systemic-oppression explanations, diversity targets in public services (especially policing), and institutional self-scrutiny. The equity lens strengthened markedly in law enforcement, criminal justice, and parts of the public sector, though still operating alongside individual rights frameworks.
@@ -74,6 +80,8 @@ The 1999 Macpherson Report into the Stephen Lawrence murder investigation conclu
 The Macpherson era produced the clearest observable rise in equity lens enforcement within core public institutions, shifting the balance toward systemic attribution while legal prohibitions on positive discrimination remained in place.
 
 **Key Shift:** The Equality Act 2010 consolidated prior legislation and introduced the Public Sector Equality Duty, embedding equity considerations more systematically across public authorities while retaining a “due regard” rather than outcome-mandated model.
+
+---
 
 ## 2010–2015: Equality Act 2010 and Public Sector Equality Duty Implementation – Final Score: 68
 
@@ -90,6 +98,8 @@ The Equality Act era entrenched equity considerations as a routine institutional
 
 **Key Shift:** From 2016 onward, particularly after 2020, institutional adoption of explicit equity language, DEI programmes, and outcome-focused initiatives reached its highest observable intensity, even as legal constraints on hard quotas persisted.
 
+---
+
 ## 2016–2020: Peak Institutional DEI and Equity Push – Final Score: 71
 
 Following the 2016 referendum and especially after George Floyd’s murder in 2020, many public institutions, universities, corporations, and media outlets intensified equity-focused practices. Systemic explanations of disparities dominated elite discourse. Diversity, equity and inclusion (DEI) programmes, equity audits, diversity statements, and outcome targets proliferated, though still operating within the “due regard” and positive-action limits of the Equality Act.
@@ -104,6 +114,8 @@ Following the 2016 referendum and especially after George Floyd’s murder in 20
 This period represents the highest observable intensity of the equity lens in institutional practice and cultural framing, even while core legal rules continued to prohibit widespread hard quotas or mandatory group parity.
 
 **Key Shift:** The 2021 Sewell Report (Commission on Race and Ethnic Disparities) explicitly challenged the primacy of systemic racism explanations, documented substantial progress in education and pay gaps for many groups, and recommended greater emphasis on family, culture, and individual agency — producing the first major official contestation of the dominant equity lens since Macpherson.
+
+---
 
 ## 2021–2023: Sewell Report and Visible Contestation – Final Score: 58
 
@@ -120,6 +132,8 @@ The period marks a clear, observable retreat from peak equity lens dominance in 
 
 **Key Shift:** The 2024 general election and subsequent Labour government produced continuity in equality infrastructure with incremental expansions in transparency (e.g., menopause and gender pay gap action plans) alongside persistent contestation over the appropriate balance between equity interventions and merit-based allocation.
 
+---
+
 ## 2024–2026: Continuity and Ongoing Tension under Current Government – Final Score: 56
 
 Under the current Labour government, the Public Sector Equality Duty, specific duties, gender pay gap reporting, and related transparency mechanisms remain in place. New employment rights legislation (Employment Rights Act 2025) introduces further reporting elements. Institutional practices show mixed signals: continued procedural equity obligations alongside visible political and corporate pushback against expansive equity framing in some sectors. Statistical representation of ethnic minorities has continued gradual improvement in Parliament, civil service senior grades, judiciary, and police, though gaps persist in certain areas.
@@ -135,7 +149,11 @@ The current period reflects a stabilised contested mid-zone in which equity lens
 
 **Key Shift:** None yet definitive; the era shows ongoing tension and incremental adjustment rather than a decisive directional change from the post-Sewell rebalancing.
 
-## Political Parties
+---
+
+---
+
+# Political Parties
 
 The current state of the equity lens in Britain is one of institutional persistence of procedural and transparency-based equity mechanisms (PSED, pay gap reporting, contextual admissions, diversity targets) alongside growing political and cultural contestation over systemic versus individual explanations of disparities. Major parties differ markedly in emphasis.
 
@@ -146,9 +164,13 @@ The current state of the equity lens in Britain is one of institutional persiste
 | Labour Party | 65 |
 | Liberal Democrats | 62 |
 | Reform UK | 22 |
+| Restore Britain | 25 |
 | Scottish National Party | 60 |
 
-### Conservative Party
+---
+
+## Conservative Party
+
 **Brief Overview**  
 The Conservative Party has historically combined support for anti-discrimination law with strong emphasis on individual merit, personal responsibility, and market mechanisms. Recent leadership under Kemi Badenoch has articulated explicit opposition to expansive equity frameworks.
 
@@ -160,9 +182,13 @@ The Conservative Party has historically combined support for anti-discrimination
 
 This produces a mid-low score reflecting commitment to legal equality of opportunity and anti-discrimination while actively contesting and seeking to constrain equity interventions in favour of merit-based frameworks.
 
-**Why This Produces a Final Score of 48**
+**Why This Produces a Final Score of 48**  
+The Conservative score sits in the low-mid contested band because, while the party maintains core legal equality protections and has implemented PSED and transparency tools in government, its platforms and recent leadership consistently prioritise individual merit, personal responsibility, and critique of expansive equity mechanisms. Observable policy and rhetoric show active pushback against systemic-oppression primacy and identity-based preferences, aligning with bands that feature strong individual frameworks alongside limited equity structures.
 
-### Green Party
+---
+
+## Green Party
+
 **Brief Overview**  
 The Green Party consistently advocates strong equity interventions, systemic analysis of disparities, and transformative policies to achieve equal outcomes across identity groups.
 
@@ -174,9 +200,13 @@ The Green Party consistently advocates strong equity interventions, systemic ana
 
 This produces a high score reflecting near-consistent prioritisation of equity lens explanations and interventions across domains.
 
-**Why This Produces a Final Score of 78**
+**Why This Produces a Final Score of 78**  
+The Green score falls in the high band because party platforms and positions consistently frame disparities through systemic and intersectional oppression lenses and advocate for expansive equity interventions, including quotas, targets, and institutional transformation. This aligns with bands featuring predominant equity corrections with limited merit exceptions and strong cultural reinforcement of group-outcome frameworks.
 
-### Labour Party
+---
+
+## Labour Party
+
 **Brief Overview**  
 Labour has been the primary driver of equality legislation historically and currently maintains support for the Equality Act framework while balancing it with broader economic and individual opportunity policies.
 
@@ -188,9 +218,13 @@ Labour has been the primary driver of equality legislation historically and curr
 
 This produces a mid-high score reflecting institutional support for equity infrastructure combined with significant emphasis on individual and economic factors.
 
-**Why This Produces a Final Score of 65**
+**Why This Produces a Final Score of 65**  
+The Labour score is placed in the mid-high contested band because the party has driven and sustains core equity mechanisms (PSED, transparency reporting, widening participation) while also emphasising individual opportunity, economic growth, and skills. This creates visible institutional equity infrastructure alongside substantial merit and individual-responsibility elements, matching bands with active equity corrections coexisting with significant merit-based systems and ongoing debate.
 
-### Liberal Democrats
+---
+
+## Liberal Democrats
+
 **Brief Overview**  
 The Liberal Democrats have consistently supported strong equality legislation and institutional measures to address disparities while emphasising individual rights and opportunity.
 
@@ -202,9 +236,13 @@ The Liberal Democrats have consistently supported strong equality legislation an
 
 This produces a mid score reflecting solid support for equity mechanisms alongside liberal emphasis on individual agency.
 
-**Why This Produces a Final Score of 62**
+**Why This Produces a Final Score of 62**  
+The Liberal Democrat score sits in the mid contested band because the party supports PSED, transparency tools, and positive action within legal bounds while maintaining a strong liberal commitment to individual rights and evidence-based opportunity expansion. This produces a balanced but contested position with visible equity infrastructure alongside prominent individual-merit and equal-treatment principles.
 
-### Reform UK
+---
+
+## Reform UK
+
 **Brief Overview**  
 Reform UK explicitly rejects expansive equity and DEI frameworks, advocating colour-blind meritocracy, individual responsibility, and reduction of identity-based policies.
 
@@ -216,9 +254,31 @@ Reform UK explicitly rejects expansive equity and DEI frameworks, advocating col
 
 This produces a very low score reflecting near-consistent prioritisation of individual-merit and equal-opportunity frameworks with active opposition to equity lens interventions.
 
-**Why This Produces a Final Score of 22**
+**Why This Produces a Final Score of 22**  
+The Reform UK score is placed in the very low band because the party’s platform and positions consistently promote individual merit, colour-blind selection, and active dismantling or reform of equity mechanisms in favour of strict equal-treatment and personal responsibility frameworks. This aligns with bands featuring strong enforcement of individual merit with equity corrections subject to prohibition or severe restriction.
 
-### Scottish National Party
+---
+
+## Restore Britain
+
+**Brief Overview**  
+Restore Britain advocates a return to traditional merit-based and individual-responsibility frameworks, with strong opposition to identity-based equity policies and institutional DEI initiatives.
+
+**Framework for Explaining and Addressing Group Disparities – Expanded Analysis**
+- Platforms emphasise restoring colour-blind meritocracy, scrapping diversity quotas and targets, and focusing on individual competence and effort.
+- Critique systemic explanations of disparities as divisive and advocate policy based on personal responsibility and equal opportunity.
+- Support basic legal equality protections but oppose expansive equity interventions, unconscious bias training, and outcome engineering.
+- Political positioning highlights backlash against peak equity-era policies and calls for rebalancing toward individual agency.
+
+This produces a very low score reflecting consistent prioritisation of individual-merit frameworks and active opposition to equity lens mechanisms.
+
+**Why This Produces a Final Score of 25**  
+The Restore Britain score falls in the very low band because its positions consistently reject equity interventions in favour of strict individual merit, personal responsibility, and colour-blind allocation. This matches bands with primary individual frameworks, explicit barriers to group-based corrections, and institutional consequences for equity-style approaches.
+
+---
+
+## Scottish National Party
+
 **Brief Overview**  
 The SNP supports strong equality legislation within a framework that combines identity-based equity measures with Scottish-specific social policy.
 
@@ -230,6 +290,9 @@ The SNP supports strong equality legislation within a framework that combines id
 
 This produces a mid score reflecting consistent support for equity infrastructure alongside Scottish social democratic emphasis on both group and individual factors.
 
-**Why This Produces a Final Score of 60**
+**Why This Produces a Final Score of 60**  
+The SNP score is placed in the mid contested band because the party sustains and expands equity mechanisms (additional duties, targets, progressive policies in devolved areas) while operating within legal limits on positive discrimination and balancing with socio-economic and individual opportunity emphases. This creates a mixed but predominantly equity-supporting profile with visible merit exceptions.
+
+---
 
 **End of Cultural 4B Timeline Document: Britain 1945–2026**
