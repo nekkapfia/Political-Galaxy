@@ -84,11 +84,12 @@ Use a consistent structure for every era. Maintain similar depth and analytical 
 
 **Analysis paragraphs** (1–2 paragraphs)
 
-**Key Shift sentence** at the end of every era (this is mandatory).
+**Key Shift sentence** at the end of every era (this is mandatory), **followed by a single "---" horizontal rule break**.
 
 **Rules for Era Sections:**
 - Keep eras reasonably concise but with sufficient analytical depth.
 - Every single era **must** have a **Key Shift** sentence at the end (e.g., “This era marks a clear shift toward stronger equity lens enforcement through the introduction of mandatory equity audits and group-preference policies in university admissions and public-sector hiring...” or “This era represents a measurable rollback of equity interventions, with individual-merit and equal-opportunity frameworks regaining primacy in law and institutional practice...”).
+- Immediately after the Key Shift sentence, insert a single "---" horizontal rule break before the next era heading.
 - Focus on observable attribution mechanisms and intervention scope rather than moral justifications.
 - Use 3–5 bullets maximum.
 
@@ -107,15 +108,16 @@ After completing a first draft:
 ## 7. Writing the Political Parties Section
 
 Include a Political Parties section at the end of the document.  
-**Parties should always be arranged alphabetically.**
+**Parties must be arranged in strict alphabetical order** both in the summary table and in the individual subsection headings.
 
 **Structure:**
 - Short overall summary of the current state of equity lens vs merit/opportunity frameworks in the country.
-- Summary table with party names and Final Scores.
-- Individual party entries with this format:
+- Summary table with party names and Final Scores (parties listed alphabetically).
+- Individual party entries (in strict alphabetical order) with this exact format:
   - Brief Overview
   - Framework for Explaining and Addressing Group Disparities – Expanded Analysis (with bullets)
   - Why This Produces a Final Score of XX
+    - Immediately beneath this heading, include a short explanatory paragraph (2–4 sentences) that justifies the assigned score band by direct reference to the observable patterns described in the Expanded Analysis above it (e.g., strength of equity mechanisms vs emphasis on individual merit/responsibility, scope of interventions, presence of contestation or exceptions).
 
 Base this section on current party platforms, rhetoric, and record (especially where parties have held power or significant influence). Focus on what each party communicates and does regarding the causes of group disparities and the appropriate policy responses (equity interventions vs individual merit and equal opportunity).
 
@@ -124,14 +126,19 @@ Base this section on current party platforms, rhetoric, and record (especially w
 **Include these elements in the final document:**
 - Opening summary paragraph (no main title above it) — identify overall trajectory and main drivers of change in the equity lens vs merit framework
 - Era Summary Table
-- All individual era sections (in chronological order)
+- All individual era sections (in chronological order), each ending with its Key Shift sentence followed by a single "---" break
+- Two consecutive "---" breaks immediately after the final era section and before the # Political Parties heading
 - # Political Parties heading
 - Political Parties intro paragraph (with bridging reference to the eras)
-- Table of parties
-- All individual party sections (alphabetically)
+- Table of parties (parties listed in strict alphabetical order)
+- All individual party sections (in strict alphabetical order), each with a short explanatory paragraph directly under the "Why This Produces a Final Score of XX" heading
 
 **Quality Standards:**
 - All eras should be written to a similar depth and analytical standard.
+- Every era must end with a Key Shift sentence followed by a single "---" break.
+- Two consecutive "---" breaks must separate the final era from the Political Parties section.
+- Parties must appear in strict alphabetical order in both the table and the individual subsections.
+- Every party subsection must include a short explanatory paragraph directly under the "Why This Produces a Final Score of XX" heading that justifies the band with reference to the preceding analysis.
 - The Overview section should identify the overall trajectory and main drivers of change in the dominant framework for explaining disparities and the scope of equity interventions.
 - Repetitive phrasing across eras should be minimised.
 - Later eras must receive the same level of analytical attention as earlier eras.
@@ -151,12 +158,13 @@ Base this section on current party platforms, rhetoric, and record (especially w
 2. Research observable expressions of equity lens enforcement vs merit/opportunity frameworks (laws, policies, education, employment, media, institutions, statistical outcomes).
 3. Create an initial high-granularity set of eras.
 4. Score each era using the official Cultural 4B bands.
-5. Write the era sections to a consistent standard (including Key Shift sentences).
+5. Write the era sections to a consistent standard (including Key Shift sentences followed by a single "---" break after each).
 6. Review and refine the eras (merge where appropriate).
-7. Write the Political Parties section.
+7. Write the Political Parties section, ensuring strict alphabetical order and a short explanatory paragraph under every "Why This Produces a Final Score of XX" heading.
 8. Write the opening summary paragraph (make it analytical).
-9. Review the full document against the quality standards above.
-10. Edit for repetition, consistency of depth, and analytical clarity.
+9. Insert two consecutive "---" breaks between the final era and the # Political Parties heading.
+10. Review the full document against the quality standards above.
+11. Edit for repetition, consistency of depth, and analytical clarity.
 
 This process is designed to produce a rigorous, consistent, and analytically strong Cultural 4B timeline document that aligns directly with the Equity Lens guideline and the broader Empirical Political Slider System.
 
