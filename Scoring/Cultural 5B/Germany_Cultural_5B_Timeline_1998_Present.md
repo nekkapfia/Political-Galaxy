@@ -28,6 +28,7 @@ The Schröder Red-Green government pursued a sustained programme of rapid, disru
 The dominant observable pattern was one of high-intensity, compressed transformation with systematic use of mechanisms that reduced or bypassed slower deliberative and sequencing processes.
 
 This era marks a clear and sustained shift toward strong institutional requirement for rapid and disruptive structural change in core economic and welfare domains, with law, executive action, and political practice enabling accelerated implementation while overriding traditional gradualist and consensus-preserving mechanisms.
+
 ---
 
 ## 2005–2021: Merkel Consensus Gradualism – Final Score: 22
@@ -44,6 +45,7 @@ The Merkel governments (including multiple grand coalitions) established a prolo
 The dominant observable pattern was one of near-constant institutional and political preference for measured, deliberative, and stability-preserving processes, with systematic marginalisation of accelerated or disruptive approaches.
 
 This era represents a clear and sustained reassertion of maximum gradualism, with institutional design, political culture, and policy practice systematically enabling extended deliberation, sequencing, and consensus while constraining rapid or disruptive transformation.
+
 ---
 
 ## 2021–Present: Scholz Mixed Coalition Pace – Final Score: 48
@@ -60,6 +62,7 @@ The Scholz traffic-light coalition (SPD–Greens–FDP) has displayed a mixed re
 The dominant observable pattern is one of partial and inconsistent acceleration: rapid mechanisms operate effectively when external crisis pressure aligns with coalition priorities, but traditional gradualist and consensus constraints routinely slow or dilute change in other areas.
 
 This era currently represents a mid-point balance in which accelerated change is enabled and demonstrated in selected high-priority domains, while gradualist and deliberative processes retain substantial institutional weight and political legitimacy across the broader policy agenda.
+
 ---
 
 ---
