@@ -111,14 +111,17 @@ After completing a first draft:
 Include a Political Parties section at the end of the document.  
 **Parties must be arranged in strict alphabetical order** both in the summary table and in the individual subsection headings.
 
+**Introductory Summary**  
+Immediately after the party summary table, include a brief (3–5 sentence) analytical summary describing the broad state of current politics in the country with specific reference to the ongoing balance between tradition preservation and progressive modernisation/replacement. This summary should bridge the historical eras section and the party analysis, highlighting the dominant institutional patterns, the degree of contestation, and the positioning of major political actors. It should be written in the same empirical, non-moralising style as the rest of the document and focus on observable mechanisms rather than rhetorical claims. This should be followed by a "---" break before the first individual political party subsection.
+
 **Structure:**
-- Short overall summary of the current state of tradition preservation versus modernisation/replacement frameworks in the country.
+- Short overall summary of the current state of tradition preservation versus modernisation/replacement frameworks in the country (now including the required introductory summary paragraph described above).
 - Summary table with party names and Final Scores (parties listed alphabetically).
 - Individual party entries (in strict alphabetical order) with this exact format:
   - Brief Overview
   - Observable Patterns of Tradition Preservation versus Modernisation and Replacement – Expanded Analysis (with bullets)
   - Why This Produces a Final Score of XX
-    - Immediately beneath this heading, include a short explanatory paragraph (2–4 sentences) that justifies the assigned score band by direct reference to the observable patterns described in the Expanded Analysis above it (e.g., strength of heritage protection and traditional continuity mechanisms versus emphasis on modernisation, reform, or replacement of established norms, scope of interventions, presence of contestation or exceptions).
+    - Immediately beneath this heading, include a short explanatory paragraph (2–4 sentences) that justifies the assigned score band by direct reference to the observable patterns described in the Expanded Analysis above it.
 
 Base this section on current party platforms, rhetoric, and record (especially where parties have held power or significant influence). Focus on what each party communicates and does regarding the reverence, enforcement, and preservation of traditions versus the need for active updating, modernisation, or replacement (heritage policy, education content on history and classics, family structures and transmission, cultural rituals and symbols, institutional continuity versus transformation).
 
