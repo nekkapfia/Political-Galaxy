@@ -88,12 +88,12 @@ Use a consistent structure for every era. Maintain similar depth and analytical 
 
 **Analysis paragraphs** (1–2 paragraphs)
 
-**Key Shift sentence** at the end of every era (this is mandatory), **followed by a single "---" horizontal rule break**.
+**Key Shift sentence** at the end of every era (this is mandatory). After the Key Shift sentence, add **one blank line**, followed by a single "---" horizontal rule break before the next era heading.
 
 **Rules for Era Sections:**
 - Keep eras reasonably concise but with sufficient analytical depth.
 - Every single era **must** have a **Key Shift** sentence at the end (e.g., “This era marks a clear shift toward stronger institutional requirements for rapid and total change through expanded fast-track powers, reduced consultation mandates, and education curricula framing urgency as the only legitimate mode...” or “This era represents a measurable reassertion of gradualist and deliberative processes via strengthened review requirements, extended pilot programmes, and institutional norms prioritising sequencing and evidence-based implementation...”).
-- Immediately after the Key Shift sentence, insert a single "---" horizontal rule break before the next era heading.
+- Immediately after the Key Shift sentence, insert **one blank line**, followed by a single "---" horizontal rule break before the next era heading.
 - Focus on observable pace, intensity, enforcement of speed, and tolerance for deliberation or delay rather than the direction or moral justification of the changes themselves.
 - Use 3–5 bullets maximum.
 
@@ -133,7 +133,7 @@ Base this section on current party platforms, rhetoric, and record (especially w
 **Include these elements in the final document:**
 - Opening summary paragraph (no main title above it) — identify overall trajectory and main drivers of change in the balance between radical/accelerated approaches and gradualist/cautious approaches
 - Era Summary Table
-- All individual era sections (in chronological order), each ending with its Key Shift sentence followed by a single "---" break
+- All individual era sections (in chronological order), each ending with its Key Shift sentence, followed by **one blank line** and then a single "---" horizontal rule break
 - Two consecutive "---" breaks immediately after the final era section and before the # Political Parties heading
 - # Political Parties heading
 - Political Parties intro paragraph (with bridging reference to the eras)
