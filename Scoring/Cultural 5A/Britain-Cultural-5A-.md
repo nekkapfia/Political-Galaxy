@@ -153,7 +153,7 @@ The current period represents a modest stabilisation with practical heritage sup
 
 ## Political Parties
 
-The following section scores the major British political parties on Cultural 5A as of mid-2026, based on their platforms, records in government or opposition, and observable positions on the preservation versus modernisation/replacement of traditions. Parties are listed in strict alphabetical order.
+The following section scores the major British political parties on Cultural 5A as of mid-2026, based on their platforms, records in government or opposition, and observable positions on the preservation versus modernisation/replacement of traditions. Parties are listed in strict alphabetical order. Restore Britain is included as a distinct actor that has emerged with an explicit platform focused on earned citizenship, national service, and strong tradition preservation.
 
 ### Summary Table of Party Scores
 
@@ -164,7 +164,12 @@ The following section scores the major British political parties on Cultural 5A 
 | Labour Party       | 38          | Progressive transformation dominant |
 | Liberal Democrats  | 29          | Strong progressive modernisation |
 | Reform UK          | 68          | Strong tradition preservation emphasis |
+| Restore Britain    | 71          | Strong tradition preservation & restoration emphasis |
 | SNP                | 35          | Progressive transformation with national identity overlay |
+
+British politics in mid-2026 is characterised by deep and persistent contestation over the balance between preserving traditional norms, institutions, cultural continuity and national sovereignty versus the continued pursuit of active modernisation and replacement across education, media, family policy, and institutional design. Progressive frameworks, consolidated particularly between the 1960s and 2010, retain clear primacy in core cultural transmission mechanisms, yet the post-Brexit era has produced sustained and electorally significant pushback from sovereignty-focused and traditionalist actors. This has resulted in a fragmented party system in which the major established parties largely operate within the post-war modernisation settlement (with varying rhetorical emphasis on heritage or continuity), while newer or repositioned parties explicitly advocate the restoration of traditional transmission, earned obligations, and unmodified national cultural continuity.
+
+---
 
 ### Conservative Party
 **Brief Overview**  
@@ -243,6 +248,22 @@ Reform UK positions itself as a defender of British sovereignty, traditional val
 
 **Why This Produces a Final Score of 68**  
 Reform UK produces a high 60s score because its observable platform and public positioning prioritise systematic preservation and restoration of traditional norms, educational content, family structures, and national cultural continuity. It explicitly frames progressive modernisation as a problem requiring reversal and offers concrete mechanisms (curriculum reform, immigration control, institutional pushback) to achieve it.
+
+---
+
+### Restore Britain
+**Brief Overview**  
+Restore Britain, associated with Rupert Lowe and the New Covenant framework, positions itself as a defender of earned citizenship, national sovereignty, traditional British identity, and reciprocal obligations between citizen and state. It explicitly advocates national service, cultural continuity, and strong preservation of inherited institutions and norms against progressive modernisation.
+
+**Observable Patterns of Tradition Preservation versus Modernisation and Replacement – Expanded Analysis**
+- Platform centres on earned suffrage and citizenship through service or allegiance, directly reinforcing traditional reciprocal obligations and national membership transmission.
+- Strong emphasis on national service curriculum and restoration of traditional civic and cultural formation mechanisms.
+- Education and cultural policy proposals prioritise British history, heritage, and continuity over deconstruction or future-oriented reframing.
+- Family, community, and institutional policy supports traditional structures and generational transmission of norms.
+- Explicit critique of progressive institutional capture in media, education, and governance with calls for reversal in favour of unmodified traditional continuity.
+
+**Why This Produces a Final Score of 71**  
+Restore Britain produces a high-70s score because its observable platform and positioning systematically prioritise preservation and active restoration of traditional British norms, citizenship transmission, educational content, and institutional continuity. It offers concrete mechanisms (national service, earned citizenship, heritage-focused education) to reverse progressive transformation and frames unmodified traditional continuity as a core positive goal rather than something requiring justification or adaptation.
 
 ---
 
