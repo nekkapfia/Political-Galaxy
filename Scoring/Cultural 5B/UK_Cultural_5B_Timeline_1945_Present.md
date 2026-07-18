@@ -35,6 +35,7 @@ The Attlee government pursued an exceptionally compressed programme of instituti
 The dominant pattern was one of high-volume, top-down, compressed implementation across core economic and social institutions. Fast-track legislative processes and strong executive direction were used systematically to override potential delays. Education and media narratives framed rapid reconstruction and structural overhaul as essential and non-negotiable. Institutional resistance was limited by the scale of the post-war mandate and wartime planning legacy.
 
 This era marks a clear shift toward strong institutional preference for rapid and total structural transformation through compressed legislative timelines, direct executive action, and minimal tolerance for extended deliberation or gradual sequencing in the core domains of economic organisation and welfare provision.
+
 ---
 
 ## 1951–1964: Conservative Gradualism – Final Score: 28
@@ -51,6 +52,7 @@ The Conservative governments of this period operated under a clear preference fo
 The dominant observable pattern was one of deliberate pacing, extended consultation norms, and institutional preference for evolutionary rather than disruptive change. Mechanisms designed to slow or sequence reform operated effectively.
 
 This era represents a clear reassertion of gradualist and deliberative processes, with institutional norms, political culture, and policy practice prioritising measured sequencing, stability preservation, and limited tolerance for accelerated or disruptive implementation.
+
 ---
 
 ## 1964–1979: Wilson–Heath–Callaghan Mixed Pace – Final Score: 52
@@ -67,6 +69,7 @@ This period contained alternating impulses toward modernisation and acceleration
 The era shows a mixed regime: accelerated rhetoric and some fast-track crisis mechanisms existed alongside persistent institutional and political constraints that routinely slowed or reversed disruptive change.
 
 This era marks a period of unstable balance in which accelerated methods were attempted in several domains but were frequently overridden or diluted by residual gradualist mechanisms, producing no sustained dominant pattern of either radicalism or incrementalism.
+
 ---
 
 ## 1979–1990: Thatcher Radical Acceleration – Final Score: 85
@@ -83,6 +86,7 @@ The Thatcher governments established a sustained pattern of high-intensity, disr
 The dominant pattern was one of near-constant initiation and implementation of transformative changes with short intervals between major initiatives and systematic weakening of mechanisms that would slow or sequence change.
 
 This era marks a clear and sustained shift toward strong institutional requirement for rapid and disruptive transformation, with law, education, media framing, and policy practice systematically enabling and rewarding compressed, high-intensity change while marginalising gradualist processes.
+
 ---
 
 ## 1990–1997: Major Continuity and Stabilisation – Final Score: 35
@@ -99,6 +103,7 @@ The Major government largely continued the direction of the Thatcher period but 
 The observable pattern was one of reduced volume and intensity of disruptive initiatives, with greater space for deliberative processes and stability-preserving adjustments.
 
 This era represents a measurable moderation of radical acceleration, with institutional practice and political culture re-emphasising incremental sequencing and reduced tolerance for the most compressed or confrontational change mechanisms of the previous period.
+
 ---
 
 ## 1997–2010: New Labour Compressed Modernisation – Final Score: 82
@@ -115,6 +120,7 @@ New Labour delivered one of the most compressed and wide-ranging programmes of c
 The dominant observable pattern across core domains (especially constitutional architecture and education) was one of high-volume, compressed implementation with routine use of mechanisms that reduced or bypassed slower deliberative processes.
 
 This era marks a clear shift toward strong institutional preference for accelerated and disruptive constitutional and social modernisation, with law, executive action, and political practice enabling rapid transformation on compressed timelines while marginalising traditional gradualist sequencing in priority areas.
+
 ---
 
 ## 2010–2016: Coalition Austerity and Incrementalism – Final Score: 48
@@ -131,6 +137,7 @@ The Coalition government combined some accelerated fiscal and welfare measures w
 The era demonstrates a regime in which accelerated mechanisms operated in fiscal and some welfare domains but were routinely constrained or overridden by coalition procedures, judicial processes, and implementation resistance in structural reform areas.
 
 This era represents a period of unstable and partial acceleration in which rapid change was enabled in selected priority areas but constrained by institutional and political mechanisms that preserved significant space for deliberation, sequencing, and incremental adjustment.
+
 ---
 
 ## 2016–2019: Brexit Paralysis and Delay – Final Score: 25
@@ -147,6 +154,7 @@ This period was characterised by prolonged procedural blockage, repeated extensi
 The era shows a clear weakening of institutional capacity and political will to enforce accelerated or disruptive change, with deliberative and blocking mechanisms gaining unusual dominance.
 
 This era marks a pronounced shift toward maximum gradualism and procedural stagnation on the central political question of the period, with institutional culture and parliamentary processes systematically enabling delay and constraining rapid, decisive transformation.
+
 ---
 
 ## 2019–2024: Johnson–Truss–Sunak Accelerated Delivery – Final Score: 68
@@ -179,13 +187,14 @@ The early Starmer government has shown initial signs of both accelerated deliver
 The current regime shows a mixed and still-emerging balance, with some fast-track elements in security and border areas but a broader institutional inclination toward deliberation and incremental sequencing in structural reform.
 
 This era currently represents a mid-point balance in which accelerated mechanisms are available and used selectively, but gradualist and deliberative processes retain significant institutional weight and political legitimacy.
+
 ---
 
 ---
 
 ## Political Parties
 
-Current British politics contains a spectrum of approaches to the pace and intensity of change. The dominant institutional pattern since 2010 has been one of selective acceleration in high-priority or crisis domains alongside persistent gradualist constraints in structural reform. Major parties differ in their stated and demonstrated tolerance for compressed, disruptive implementation versus emphasis on deliberation, testing, and stability.
+Current British politics contains a spectrum of approaches to the pace and intensity of change. The dominant institutional pattern since 2010 has been one of selective acceleration in high-priority or crisis domains alongside persistent gradualist constraints in structural reform. Major parties differ in their stated and demonstrated tolerance for compressed, disruptive implementation versus emphasis on deliberation, testing, and stability. The emergence of Restore Britain adds a new actor explicitly committed to the highest levels of radical acceleration on core issues such as immigration enforcement and institutional overhaul, pushing the upper boundary of observable radicalism in current British politics.
 
 | Party                  | Final Score |
 |------------------------|-------------|
@@ -194,6 +203,7 @@ Current British politics contains a spectrum of approaches to the pace and inten
 | Labour Party          | 58         |
 | Liberal Democrats     | 42         |
 | Reform UK             | 78         |
+| Restore Britain       | 80         |
 
 ---
 
@@ -279,6 +289,23 @@ Reform UK explicitly advocates rapid, disruptive, and large-scale change across 
 
 **Why This Produces a Final Score of 78**  
 Reform UK’s platform and positioning demonstrate one of the clearest current commitments to high-intensity, compressed, and disruptive change with minimal tolerance for deliberation or gradual sequencing. This places it in the high range, comparable to the Thatcher era’s sustained radical acceleration, though without a comparable governing record to confirm enforcement capacity.
+
+---
+
+### Restore Britain
+
+**Brief Overview**  
+Restore Britain, led by Rupert Lowe, is a new party that explicitly advocates for rapid, large-scale, and disruptive transformation — particularly through mass deportation, abolition of the asylum system, and aggressive reversal of recent demographic and institutional changes — with open criticism of gradualist, legal-paralysis, and deliberative mechanisms as unacceptable obstacles.
+
+**Observable Patterns of Pace and Intensity of Change – Expanded Analysis**
+- Platform and policy documents call for “day one” implementation of the largest deportation scheme in British history, immediate abolition of the asylum system, retrospective removals, and net-negative immigration, framed as immediate, total, and non-negotiable with minimal tolerance for delay or extended process.
+- Rhetoric consistently attacks “legal paralysis”, “endless bureaucracy”, activist judges, and slow institutional procedures as barriers that must be overridden through swift, decisive executive and legislative action.
+- Additional policies (red tape bonfire, major tax cuts, institutional reforms, ending foreign aid that does not serve narrow national interest) are presented as urgent structural resets requiring compressed timelines rather than sequenced or consultative rollout.
+- A 100+ page detailed deportation plan has already been published, demonstrating preparedness for rapid implementation once in power.
+- Media and internal communications present constant rapid, total transformation as the required operating mode, with explicit rejection of gradual or stability-preserving approaches on priority issues.
+
+**Why This Produces a Final Score of 80**  
+Restore Britain’s platform and positioning demonstrate one of the clearest and most intense current commitments to high-intensity, compressed, and disruptive change with very low tolerance for deliberation, legal sequencing, or gradual implementation. This places it at the high end of the scale — slightly above Reform UK and comparable to the upper range of the Thatcher era’s sustained radical acceleration — though without a governing record to confirm sustained enforcement capacity across institutions.
 
 ---
 
