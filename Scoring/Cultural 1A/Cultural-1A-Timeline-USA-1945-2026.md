@@ -140,79 +140,266 @@ Mundane sources remain dominant overall, though the presence of competing transc
 
 # Political Parties
 
-The contemporary American party system shows a clear divide on Cultural 1A. Progressive and left-leaning forces more frequently invoke transcendent sources (inherent rights, justice as moral imperative, duties of inclusion), while right-leaning and populist forces ground legitimacy more heavily in popular sovereignty, national interest of living citizens, and pragmatic or reciprocal claims. Both major parties retain access to natural-rights language, but its weight and framing differ.
+| Party / Faction                                      | Final Score |
+|------------------------------------------------------|-------------|
+| **Democratic Party**                                 | 48          |
+| Democratic (Progressive Left)                        | 64          |
+| Democratic (Democratic Socialists)                   | 71          |
+| Democratic (Moderate Centrist)                       | 41          |
+| Democratic (Mainstream Liberals / Institutional Progressives) | 52 |
+| Democratic (Establishment / Party Institutionalists) | 44          |
+| Democratic (Eco-Socialist Current)                   | 72          |
+| **Green Party**                                      | 78          |
+| **Libertarian Party**                                | 22          |
+| **Republican Party**                                 | 19          |
+| Republican (MAGA)                                    | 14          |
+| Republican (Hard Isolationist Current)               | 12          |
+| Republican (National Conservatives)                  | 24          |
+| Republican (Traditional Fusionist)                   | 27          |
+| Republican (Religious Right)                         | 39          |
+| Republican (Christian Nationalist Current)           | 46          |
+| Republican (Libertarian Conservatives)               | 21          |
 
-| Party                  | Final Score | Source of Moral Authority |
-|------------------------|-------------|---------------------------|
-| Democratic Party       | 48          | Mix of progressive justice/inherent dignity language and pragmatic/evidence-based governance. |
-| Green Party            | 78          | Strong transcendent emphasis on ecological justice, future generations, and systemic moral transformation. |
-| Libertarian Party      | 22          | Individual natural rights framed primarily through personal autonomy and non-aggression, with strong mundane emphasis on consent and outcomes. |
-| Republican Party       | 19          | Popular sovereignty, national interest of living citizens, tradition as empirical inheritance, and individual responsibility. |
+### Broad Summary of the Current State of American Politics (Cultural 1A)
 
----
+American politics on Cultural 1A is currently characterised by a sharp polarisation between two major poles. On the right, the dominant MAGA current has pulled the Republican Party strongly toward mundane sources, prioritising popular sovereignty and the concrete interests of living American citizens, with only secondary residual natural-rights and religious language. On the left, the Democratic Party remains more mixed overall, but its energetic progressive and democratic-socialist wings give significantly greater weight to transcendent sources — particularly systemic justice, equity, and (in some currents) ecological and intergenerational duties. 
 
-## Democratic Party – Final Score: 48
-
-The Democratic Party positions itself as the defender of fairness, opportunity, and inclusive progress within a constitutional framework.
-
-### Moral Justification Sources – Expanded Analysis
-
-- Justice, fairness, and the moral imperative to expand opportunity and reduce inequality appear regularly in platform language and major speeches.
-- Evidence-based policy, economic outcomes, and governability remain central to detailed justification.
-- Natural-rights and constitutional language is retained but often subordinated to progressive fairness claims.
-- International and domestic policy frequently blends moral duty language with pragmatic national interest.
-
-### Why This Produces a Final Score of 48
-
-Both transcendent (justice, dignity, fairness as moral goods) and mundane (evidence, outcomes, pragmatic governance) sources are actively used. Transcendent framing is more prominent than in the Republican Party but does not fully dominate detailed policy justification. This produces a near-balanced score with a mild transcendent lean.
-
----
-
-## Green Party – Final Score: 78
-
-The Green Party advocates systemic transformation grounded in ecological and social justice.
-
-### Moral Justification Sources – Expanded Analysis
-
-- Ecological justice and duties to future generations and non-human nature are presented as binding moral requirements.
-- Social and economic policy is framed as part of a comprehensive moral project rather than incremental optimisation.
-- Scientific evidence is used diagnostically but subordinated to the ethical imperative of transformation.
-- Inherent dignity and systemic justice language is central.
-
-### Why This Produces a Final Score of 78
-
-The transcendent source is primary and organising. Moral authority flows mainly from ecological and intergenerational duties and systemic justice claims. Mundane sources serve a supporting role. This produces a strong transcendent lean.
+Minor parties reinforce the extremes: the Green Party represents one of the strongest transcendent profiles in the system through ecological and future-generations claims, while the Libertarian Party occupies a clear mundane position centred on individual consent and non-aggression. The overall landscape is therefore one in which the centre of gravity on the right has shifted decisively toward popular-sovereignty mundane justifications, while the left retains a more contested but still meaningfully transcendent character driven by its progressive factions.
 
 ---
 
-## Libertarian Party – Final Score: 22
+## Democrats
 
-The Libertarian Party centres individual liberty, non-aggression, and voluntary cooperation.
+### Democratic Party (as a totality)
+**Final Score: 48**
 
-### Moral Justification Sources – Expanded Analysis
+#### Moral Justification Sources – Expanded Analysis
+* Justice, fairness, and the moral imperative to expand opportunity and reduce inequality appear regularly.
+* Evidence-based policy, economic outcomes, and governability remain central to detailed policy defence.
+* Natural-rights and constitutional language is retained but frequently subordinated to progressive fairness and equity claims.
+* International and domestic policy often blends moral-duty language with pragmatic assessments of national interest and institutional capacity.
 
-- Individual rights are frequently framed in natural-rights terms, but the operational emphasis is on consent, non-aggression, and observable outcomes of free interaction.
-- Policy is justified through arguments about personal responsibility, voluntary exchange, and the practical consequences of coercion.
-- Higher moral abstraction is present but secondary to claims about individual agency and reciprocal non-interference.
-
-### Why This Produces a Final Score of 22
-
-Although natural-rights language appears, the dominant justification rests on individual autonomy, consent, and pragmatic consequences of freedom versus coercion. This produces a clear mundane lean.
+#### Why This Produces a Final Score of 48
+Both transcendent sources (justice, dignity, fairness as moral goods) and mundane sources (evidence, outcomes, pragmatic governance) are actively used. Transcendent framing is more prominent than in the Republican Party but does not fully dominate detailed justification.
 
 ---
 
-## Republican Party – Final Score: 19
+### Alexandria Ocasio-Cortez, Progressive Left, Justice Democrats (Primary Faction)
+**Final Score: 64**
 
-The Republican Party emphasises national interest, popular sovereignty, individual responsibility, and cultural continuity.
+#### Moral Justification Sources – Expanded Analysis
+* Systemic justice and the moral imperative to correct structural inequalities are central.
+* Equity, inclusion, and solidarity with marginalised groups are treated as binding moral requirements.
+* Existing economic and political arrangements are frequently criticised in moral terms.
+* Evidence and feasibility are acknowledged but usually subordinated to the prior ethical framework of justice.
+* Dignity-based and universalist language is prominent.
 
-### Moral Justification Sources – Expanded Analysis
+#### Why This Produces a Final Score of 64
+Transcendent sources (systemic justice and equity as moral imperatives) carry substantial weight. Mundane considerations of evidence and governability are present but secondary. This produces a clear transcendent lean.
 
-- Popular sovereignty and the interests of living American citizens are primary sources of legitimacy.
-- Tradition and institutions are defended largely as empirically successful arrangements that serve current citizens.
-- Individual responsibility and market outcomes feature heavily.
-- Natural-rights and constitutional language remains available, particularly on judicial and cultural issues, but is secondary to sovereignty and reciprocity claims in most policy domains.
+---
 
-### Why This Produces a Final Score of 19
+#### Eco-Socialist / Climate Maximalist Current (Tertiary Faction under Progressive Left)
+**Final Score: 72**
 
-The transcendent source has limited weight in substantive policy justification. Moral authority is derived primarily from popular will, national interest of living citizens, and pragmatic or reciprocal claims. This produces a strong mundane lean.
-```
+This current largely shares the Progressive Left’s emphasis on systemic justice and equity, but differs by elevating ecological transformation and duties to the climate and future generations to an overriding moral priority that can subordinate other progressive goals.
+
+---
+
+### Bernie Sanders, Democratic Socialists, Hard Left (Primary Faction)
+**Final Score: 71**
+
+#### Moral Justification Sources – Expanded Analysis
+* Capitalism and concentrated economic power are treated as fundamentally unjust systems requiring structural transformation.
+* Economic rights, social ownership, and solidarity are framed as moral requirements rather than policy preferences.
+* Class analysis and systemic critique supply a strong transcendent-style moral framework.
+* Pragmatic and electoral considerations exist but are secondary to the ethical rejection of the current economic order.
+
+#### Why This Produces a Final Score of 71
+The transcendent source is stronger than in the broader Progressive Left because the critique of capitalism is framed as a fundamental moral and systemic indictment. This produces a stronger transcendent score.
+
+---
+
+### Hakeem Jeffries, Moderate Centrist Democrats (Primary Faction)
+**Final Score: 41**
+
+#### Moral Justification Sources – Expanded Analysis
+* Pragmatism, electability, and workable governance are central justificatory themes.
+* Fairness and opportunity language is retained but tempered by concerns about feasibility and broader electoral appeal.
+* Evidence, outcomes, and institutional stability carry substantial weight.
+* Progressive moral claims are accepted selectively rather than as overriding imperatives.
+* Constitutional and incremental approaches are preferred over transformative ones.
+
+#### Why This Produces a Final Score of 41
+Mundane sources (pragmatism, evidence, outcomes, and institutional stability) are stronger than on the party’s left. Residual fairness and opportunity language prevents a strongly mundane score, producing a mild mundane lean.
+
+---
+
+### Gavin Newsom, Mainstream Liberals, Institutional Progressives (Secondary Faction)
+**Final Score: 52**
+
+#### Moral Justification Sources – Expanded Analysis
+* Progressive goals on social and economic issues are affirmed, but justification more frequently balances moral claims with governance capacity and electoral reality.
+* Evidence-based policy and institutional competence are given higher relative weight than in the Primary progressive factions.
+* Dignity and fairness language remains important but is less likely to be treated as an overriding imperative that displaces pragmatic constraints.
+* The faction operates closer to the party’s institutional centre while still accepting core progressive moral framing.
+
+#### Why This Produces a Final Score of 52
+This faction sits between the stronger transcendent orientation of the Progressive Left and the more pragmatic Moderate Centrists. Both sources are active, with a slight transcendent lean.
+
+---
+
+### Chuck Schumer, Establishment, Party Institutionalists (Secondary Faction)
+**Final Score: 44**
+
+#### Moral Justification Sources – Expanded Analysis
+* Institutional stability, legislative effectiveness, and protection of the party’s governing capacity are central.
+* Moral and justice language is used, but is frequently subordinated to considerations of what can actually be passed and sustained.
+* Donor, organisational, and coalition-management realities shape justificatory emphasis.
+* The faction prioritises holding and using power within the existing system over transformative moral projects.
+
+#### Why This Produces a Final Score of 44
+Mundane sources (institutional effectiveness, pragmatic coalition management, and governability) are stronger than in the progressive primary factions. Residual justice language keeps the score from becoming strongly mundane.
+
+---
+
+---
+
+## Green Party
+**Final Score: 78**
+
+#### Moral Justification Sources – Expanded Analysis
+* Ecological justice and duties to future generations and non-human nature are presented as binding moral requirements.
+* Social and economic policy is framed as part of a comprehensive moral project of systemic transformation rather than incremental optimisation.
+* Scientific evidence on climate and ecology is used extensively but functions primarily as diagnostic support for the ethical imperative of transformation.
+* Inherent dignity and systemic justice language is central across policy domains.
+* Present democratic majorities and short-term economic preferences are treated as subordinate to the moral claims of the planet and future people.
+
+#### Why This Produces a Final Score of 78
+The transcendent source is primary and organising. Moral authority flows mainly from ecological and intergenerational duties and from systemic justice claims. Mundane sources (science, evidence, and pragmatic considerations) are present but clearly subordinate. This produces a strong transcendent lean.
+
+---
+
+---
+
+## Libertarian Party
+**Final Score: 22**
+
+#### Moral Justification Sources – Expanded Analysis
+* Individual rights and personal autonomy are central, often framed in natural-rights terms but operationalised through consent and non-aggression.
+* Opposition to state coercion is justified primarily by the value of individual freedom and the practical consequences of intervention.
+* Free markets and voluntary exchange are treated as both morally preferable and empirically superior.
+* Popular sovereignty is accepted but limited; the legitimacy of majoritarian coercion is constrained by prior individual rights.
+* Higher moral abstraction is present but secondary to claims about individual agency and reciprocal non-interference.
+
+#### Why This Produces a Final Score of 22
+Although natural-rights language appears, the dominant practical justification rests on individual consent, non-aggression, and the outcomes of voluntary interaction. This produces a clear mundane lean.
+
+---
+
+---
+
+
+## Republicans
+
+### Republican Party (as a totality)
+**Final Score: 19**
+
+#### Moral Justification Sources – Expanded Analysis
+* Popular sovereignty and the interests of living American citizens are the primary sources of legitimacy across core domains.
+* Tradition and established institutions are generally defended as empirically successful arrangements that serve current citizens.
+* Individual responsibility and market outcomes remain important, particularly in economic rhetoric.
+* Natural-rights and constitutional language is available and used selectively, but is subordinate to sovereignty and citizen-interest claims in most policy areas.
+* The party currently operates under clear MAGA primacy, with other currents secondary.
+
+#### Why This Produces a Final Score of 19
+The transcendent source has limited weight in substantive justification. Moral authority is derived primarily from popular will, national interest of living citizens, and pragmatic or reciprocal claims. This produces a strong mundane lean.
+
+---
+
+### Donald Trump, MAGA, America First Populists (Primary Faction)
+**Final Score: 14**
+
+#### Moral Justification Sources – Expanded Analysis
+* Popular sovereignty is treated as the primary and decisive source of political legitimacy.
+* The national interest of living citizens (immigration, trade, security, industrial capacity) functions as a core moral and political standard.
+* Elite institutions, transnational commitments, and abstract universalist claims are frequently criticised as overriding the consent and interests of the demos.
+* Natural-rights and constitutional language appears but is generally subordinated to sovereignty and citizen-interest arguments.
+* Tradition and national continuity are valued mainly as practical inheritances that serve the current population.
+
+#### Why This Produces a Final Score of 14
+The transcendent source has very limited organisational weight. Moral authority derives overwhelmingly from popular sovereignty and the concrete interests of living American citizens. This produces a very strong mundane lean.
+
+---
+
+#### Hard Isolationist Current (Tertiary Faction under MAGA)
+**Final Score: 12**
+
+This current largely shares the MAGA emphasis on popular sovereignty and citizen interest, but differs by taking a significantly harder line against almost all foreign military commitments and overseas entanglement. The deviation is concentrated on foreign policy scope rather than on the fundamental source of moral authority.
+
+---
+
+### JD Vance, National Conservatives, Post-Liberal Right (Secondary Faction)
+**Final Score: 24**
+
+#### Moral Justification Sources – Expanded Analysis
+* The nation and its historical continuity are treated as important sources of political meaning and obligation.
+* Order, social cohesion, and the common good of the political community are given higher priority than pure procedural or market liberalism.
+* Popular sovereignty remains central, but is interpreted through a more substantive national and cultural lens.
+* Critiques of liberalism often include moral and civilizational language grounded in historical and communal goods.
+* Market outcomes and individual rights are accepted but subordinated to national and communal considerations.
+
+#### Why This Produces a Final Score of 24
+Mundane sources remain dominant. The stronger emphasis on the nation as a moral community and on the common good introduces a modestly thicker layer of non-individualist justification than pure MAGA populism.
+
+---
+
+### John Thune, Traditional Fusionist Conservatives (Secondary Faction)
+**Final Score: 27**
+
+#### Moral Justification Sources – Expanded Analysis
+* Individual responsibility, free markets, and limited government remain central justificatory themes.
+* Constitutionalism and institutional stability are frequently invoked as valuable inheritances.
+* Social and moral traditionalism is present but usually framed as the defence of proven social arrangements rather than as sacred command.
+* National strength and a robust foreign policy are justified in both pragmatic and value-based terms.
+* Natural-rights language appears more readily than in the MAGA current, particularly on economic and constitutional questions.
+
+#### Why This Produces a Final Score of 27
+Mundane sources (individual responsibility, market outcomes, institutional pragmatism, and popular constitutionalism) are clearly primary. Residual natural-rights and traditional-moral language keep the score from falling as low as pure populist sovereignty currents.
+
+---
+
+### Mike Johnson, Religious Right, Christian Conservatives (Secondary Faction)
+**Final Score: 39**
+
+#### Moral Justification Sources – Expanded Analysis
+* Christian moral teaching and religious liberty are treated as fundamental goods that political authority should respect and, in some versions, actively support.
+* Many social issues are justified by reference to religious and natural-law understandings of human flourishing and moral order.
+* Popular sovereignty and constitutionalism remain important, but are often interpreted through a religious-moral lens.
+* The nation is frequently understood as having a Christian heritage that carries ongoing moral weight.
+* Pragmatic and democratic arguments are used, but the faction is distinguished by the higher salience of religiously grounded moral claims.
+
+#### Why This Produces a Final Score of 39
+This faction shows a clear transcendent element because religious and natural-law sources are regularly invoked as independent moral authorities. These claims usually operate alongside rather than fully displacing popular sovereignty and constitutional arguments, producing a moderate transcendent lean relative to other Republican factions.
+
+---
+
+#### Christian Nationalist Current (Tertiary Faction under Religious Right)
+**Final Score: 46**
+
+This current largely shares the Religious Right’s emphasis on Christian moral teaching, but differs by advocating a more explicit and maximalist role for Christianity in the public and legal order of the nation. The deviation increases the relative weight of transcendent religious sources compared with the broader Religious Right.
+
+---
+
+### Rand Paul, Libertarian Conservatives (Secondary Faction)
+**Final Score: 21**
+
+#### Moral Justification Sources – Expanded Analysis
+* Individual rights and personal autonomy are central, often framed in natural-rights terms but operationalised through consent and non-aggression.
+* Opposition to state coercion and expansive government is justified primarily by the value of individual freedom and the practical consequences of intervention.
+* Free markets and voluntary exchange are treated as both morally preferable and empirically superior.
+* Foreign policy tends toward greater restraint or non-intervention on both principled and pragmatic grounds.
+* Popular sovereignty is accepted but is not given the same primacy as in MAGA discourse; limits on what majorities may legitimately do are emphasised.
+
+#### Why This Produces a Final Score of 21
+Although natural-rights language is more prominent than in pure MAGA populism, the dominant practical justification rests on individual consent, non-aggression, and the outcomes of voluntary interaction. This keeps the faction firmly on the mundane side of the scale.
