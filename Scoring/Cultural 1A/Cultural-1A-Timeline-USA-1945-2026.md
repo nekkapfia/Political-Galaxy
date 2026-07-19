@@ -1,171 +1,144 @@
 # Cultural 1A: Eras of Moral Justification in the United States (1945–Present)
 
-The United States since 1945 has shown a long-term movement toward greater reliance on mundane sources of moral authority (popular sovereignty, evidence, pragmatic outcomes, and individual reciprocity), while retaining a persistent undercurrent of transcendent natural-rights language. The early post-war period combined strong transcendent framing (natural rights, anti-totalitarian moral duty, and later civil rights as inherent dignity) with pragmatic governance. From the 1980s onward, popular sovereignty, national interest of living citizens, and evidence-based or outcome-focused justifications became more dominant, though natural-rights rhetoric never fully disappeared. Major external shocks (particularly 9/11) and clear shifts in domestic political coalitions have produced distinct sub-periods within the broader mundane trend.
+The United States since 1945 has shown a long-term movement toward greater reliance on mundane sources of moral authority — popular sovereignty, evidence, pragmatic outcomes, and individual reciprocity — while retaining a persistent undercurrent of transcendent natural-rights language. The early post-war decades combined strong natural-rights and anti-totalitarian moral framing with pragmatic governance. From the 1980s onward, and especially after 2016, justifications centred on the will and concrete interests of living American citizens became dominant, although natural-rights and progressive justice language never disappeared entirely. Major external shocks (particularly 9/11) and shifts in domestic political coalitions produced distinct sub-periods within this broader trajectory.
 
 ## Converted Final Scores
 
 | Era | Period          | Final Score | Source of Moral Authority |
 |-----|-----------------|-------------|---------------------------|
-| Era 1 | 1945–1964       | 58          | Mixed: natural rights and anti-totalitarian moral duty combined with pragmatic Cold War governance. |
-| Era 2 | 1964–1980       | 62          | Stronger transcendent lean via civil rights as inherent dignity and social justice language. |
-| Era 3 | 1980–1992       | 28          | Strongly mundane: individual responsibility, market outcomes, and popular will. |
-| Era 4 | 1992–2001       | 36          | Mundane dominant with residual fairness, opportunity, and natural-rights language. |
-| Era 5 | 2001–2008       | 32          | Mundane dominant with elevated national-security and freedom/democracy-promotion rhetoric after 9/11. |
-| Era 6 | 2008–2016       | 42          | Mixed: progressive justice language alongside evidence-based technocracy. |
-| Era 7 | 2016–2020       | 18          | Very strongly mundane: popular sovereignty and national interest of living citizens. |
-| Era 8 | 2021–2025       | 31          | Mixed: progressive justice language + technocratic pragmatism. |
-| Era 9 | 2025–Present    | 17          | Very strongly mundane: return of popular sovereignty and citizen-interest primacy. |
+| Era 1 | 1945–1964       | 58          | Mixed: natural rights and anti-totalitarian moral duty combined with pragmatic Cold War governance |
+| Era 2 | 1964–1980       | 62          | Clear transcendent lean via civil rights as inherent dignity and social justice as moral imperative |
+| Era 3 | 1980–1992       | 28          | Strongly mundane: individual responsibility, market outcomes, and popular will |
+| Era 4 | 1992–2001       | 36          | Mundane dominant with residual fairness, opportunity, and natural-rights language |
+| Era 5 | 2001–2008       | 32          | Mundane dominant with elevated national-security and freedom/democracy-promotion rhetoric after 9/11 |
+| Era 6 | 2008–2016       | 42          | Mixed: progressive justice language alongside evidence-based technocracy |
+| Era 7 | 2016–2020       | 18          | Very strongly mundane: popular sovereignty and national interest of living citizens |
+| Era 8 | 2021–2025       | 31          | Mixed: progressive justice language + technocratic pragmatism |
+| Era 9 | 2025–Present    | 17          | Very strongly mundane: return of popular sovereignty and citizen-interest primacy |
 
 ---
 
-## **1945–1964: Post-War Consensus and Cold War Moral Framing – Final Score: 58**
+## 1945–1964: Post-War Consensus and Cold War Moral Framing – Final Score: 58
 
-This period covered the immediate post-war years through the early civil rights movement and the height of the Cold War consensus. American leaders framed the United States as a defender of freedom against totalitarianism while expanding the administrative state and managing economic growth.
+American political language in this period treated the defence of free societies against totalitarianism as a moral duty grounded in natural rights and human dignity, while simultaneously justifying domestic expansion of state capacity in pragmatic terms of national strength and social stability.
 
 ### Moral Justification Sources – Expanded Analysis
 
-- Natural rights language remained central in foreign policy and domestic rhetoric. Freedom, human dignity, and the moral superiority of liberal democracy over communism were regularly presented as higher principles that justified both international leadership and domestic arrangements.
-- The Cold War was frequently cast as a moral struggle for the survival of free societies and the defence of inherent human dignity, not merely a geopolitical contest.
-- Domestic initiatives such as the GI Bill, interstate highway system, and early civil rights measures mixed pragmatic arguments about national strength, economic capacity, and social stability with appeals to fairness and opportunity as American ideals.
-- Supreme Court decisions and mainstream political discourse continued to invoke higher principles of justice and equality under the law, treating them as binding rather than purely conventional.
+Natural-rights language was not ornamental. Freedom, human dignity, and the moral superiority of liberal democracy over communism were routinely presented as higher principles that justified both international leadership and domestic arrangements. The Cold War itself was frequently framed as a struggle for the survival of free societies rather than a purely geopolitical contest. At the same time, major domestic initiatives — the GI Bill, interstate highways, and early civil-rights steps — were defended through a mixture of appeals to fairness and opportunity as American ideals and hard-headed arguments about economic capacity, manpower, and institutional competence. Supreme Court decisions and mainstream political rhetoric continued to invoke justice and equality under the law as binding standards rather than mere conventions.
 
-Both transcendent sources (natural rights, moral duty against tyranny) and mundane sources (economic strength, institutional competence, popular support) were actively used and integrated. Transcendent framing carried significant weight in the defining conflicts of the era, particularly in foreign policy and the emerging civil rights domain.
+Both sources were therefore active and integrated. Transcendent claims carried real weight in the defining conflicts of the era, particularly in foreign policy and the emerging civil-rights domain, while mundane considerations of power, competence, and popular support remained indispensable.
 
-**Key Shift:** This era established a durable mix in which natural-rights and anti-totalitarian moral claims retained real force alongside pragmatic Cold War statecraft.
+**Key Shift:** This era established a durable mixture in which natural-rights and anti-totalitarian moral claims retained genuine force alongside pragmatic Cold War statecraft.
 
 ---
 
-## **1964–1980: Civil Rights Peak and Social Transformation – Final Score: 62**
+## 1964–1980: Civil Rights Peak and Social Transformation – Final Score: 62
 
-This period began with the Civil Rights Act and Voting Rights Act and continued through the Great Society, Vietnam, and the cultural upheavals of the late 1960s and 1970s. It represents the high-water mark of transcendent moral framing in post-war American domestic politics.
+This period marks the high point of transcendent moral framing in post-war American domestic politics. The decisive civil-rights legislation and the Great Society were justified primarily as requirements of justice and inherent human dignity rather than as discretionary policy choices.
 
 ### Moral Justification Sources – Expanded Analysis
 
-- Civil rights legislation and related court decisions were justified primarily through appeals to inherent human dignity, equal protection, and the moral imperative to end racial injustice. These claims were presented as requirements of justice that stood above current majority preference or pragmatic convenience.
-- Great Society programmes combined pragmatic claims about poverty reduction and administrative capacity with strong moral language about justice, opportunity, and the national obligation to the disadvantaged.
-- Opposition to the Vietnam War and many cultural movements of the period frequently invoked higher moral duties, universal principles, and the demands of conscience.
-- By the late 1970s, economic stagnation, institutional distrust, and the limits of transformative ambition began shifting some discourse toward more pragmatic and individualist justifications, foreshadowing the next era.
+The Civil Rights Act, Voting Rights Act, and related court decisions were defended through explicit appeals to inherent dignity, equal protection, and the moral imperative to end racial injustice — claims presented as standing above current majority preference or administrative convenience. Great Society programmes combined practical arguments about poverty reduction with strong moral language about national obligation and justice. Opposition to the Vietnam War and many of the cultural movements of the period likewise drew on higher moral duties, universal principles, and the demands of conscience. Only toward the end of the decade, under the pressure of economic stagnation and institutional distrust, did more pragmatic and individualist justifications begin to regain ground.
 
-Transcendent sources (inherent rights and justice as moral duty) were particularly prominent in the defining domestic achievements of the era. This produced a clearer transcendent lean than the immediate post-war years, even while mundane considerations of governability and outcomes remained present.
+Transcendent sources were therefore primary in the era’s defining domestic achievements. Mundane considerations of governability and outcomes never disappeared, but they operated in a secondary role relative to the moral claims of dignity and justice.
 
-**Key Shift:** This era marked the high point of transcendent moral framing in post-war American domestic politics, centred on civil rights as an inherent moral imperative.
+**Key Shift:** This era represented the clearest post-war elevation of inherent rights and justice as moral imperatives above pragmatic or majoritarian constraints.
 
 ---
 
-## **1980–1992: Reagan Era Individual Responsibility – Final Score: 28**
+## 1980–1992: Reagan Era Individual Responsibility – Final Score: 28
 
-The Reagan years and the early post-Cold War transition emphasised individual responsibility, market outcomes, and national revival. Collective moral projects and expansive justice claims were deliberately de-emphasised.
+The Reagan years deliberately shifted the centre of justificatory gravity toward individual agency, market outcomes, and national revival, reducing the relative weight of collective moral projects.
 
 ### Moral Justification Sources – Expanded Analysis
 
-- Economic and social policy was justified primarily through individual responsibility, incentives, and measurable results rather than collective moral duties or systemic justice claims.
-- Anti-communism retained some residual moral framing but was increasingly paired with arguments about American strength, practical success, and the demonstrated superiority of free institutions.
-- “Morning in America” rhetoric stressed opportunity, competence, renewed confidence, and popular will more than higher moral abstraction.
-- Tradition, family, and established institutions were defended largely as empirically successful arrangements that served living citizens, rather than as sacred or transcendent authorities.
+Economic and social policy was justified primarily through individual responsibility, incentives, and measurable results. Anti-communism retained residual moral colouring but was increasingly yoked to arguments about American strength and the demonstrated practical superiority of free institutions. “Morning in America” rhetoric emphasised opportunity, competence, and renewed popular confidence far more than abstract moral duty. Tradition, family, and established institutions were defended largely as empirically successful arrangements that served living citizens rather than as sacred authorities.
 
-Mundane sources (individual responsibility, market outcomes, popular sovereignty, and pragmatic national strength) became clearly dominant. Transcendent claims were reduced in both frequency and organisational weight.
+Mundane sources — individual responsibility, market outcomes, popular will, and pragmatic national strength — became clearly dominant. Transcendent claims were not eliminated, but they lost organisational primacy across the main domains of policy justification.
 
-**Key Shift:** This era produced a decisive shift toward mundane justifications centred on individual agency and results, reducing the relative weight of transcendent moral claims.
+**Key Shift:** This era produced a decisive turn toward mundane justifications centred on individual agency and results, substantially diminishing the weight of transcendent moral claims.
 
 ---
 
-## **1992–2001: Third Way Pragmatism – Final Score: 36**
+## 1992–2001: Third Way Pragmatism – Final Score: 36
 
-The Clinton years and the pre-9/11 period were characterised by centrist pragmatism, fiscal discipline, and residual fairness and opportunity language. Higher-principle claims remained available but secondary.
+The Clinton years and the immediate pre-9/11 period consolidated a managerial style of justification that retained residual fairness and opportunity language while making “what works” the dominant standard.
 
 ### Moral Justification Sources – Expanded Analysis
 
-- “Third Way” politics emphasised what works, economic growth, fiscal responsibility, and expanding opportunity, while retaining some fairness and inclusion rhetoric.
-- Policy justification relied heavily on evidence, measurable outcomes, and the interests of the broad middle class.
-- Natural-rights and constitutional language remained part of the repertoire but was less organising of day-to-day domestic justification than in earlier decades.
-- International engagement was framed more in terms of pragmatic leadership and institutional management than as a moral crusade.
+Third Way rhetoric emphasised economic growth, fiscal responsibility, evidence, and expanding opportunity. Fairness and inclusion language remained available and was periodically deployed, yet it rarely overrode pragmatic or electoral calculations. Natural-rights and constitutional arguments continued to appear but functioned more as background resources than as organising principles of day-to-day domestic justification. International engagement was framed largely in terms of pragmatic leadership and institutional management rather than moral crusade.
 
-Mundane sources were clearly dominant. Residual transcendent language (fairness, opportunity, natural rights) was present but secondary.
+Mundane sources were clearly primary. Residual transcendent language (fairness, opportunity, natural rights) prevented the profile from becoming as strongly mundane as the Reagan period, but it remained secondary.
 
-**Key Shift:** This era consolidated a pragmatic, outcome-focused style of justification while preserving residual natural-rights and fairness language as secondary resources.
+**Key Shift:** This era institutionalised a pragmatic, outcome-focused style of justification while keeping residual natural-rights and fairness claims available as secondary resources.
 
 ---
 
-## **2001–2008: Post-9/11 Security and Freedom Framing – Final Score: 32**
+## 2001–2008: Post-9/11 Security and Freedom Framing – Final Score: 32
 
-The September 11 attacks produced a noticeable shift in justificatory emphasis. National-security imperatives rose sharply, and democracy-promotion language reintroduced stronger transcendent freedom rhetoric, particularly in foreign policy, while domestic justification remained largely pragmatic.
+The September 11 attacks produced a noticeable but domain-specific shift. National-security imperatives rose sharply, and democracy-promotion language reintroduced stronger transcendent freedom rhetoric in foreign policy, while domestic justification stayed largely pragmatic.
 
 ### Moral Justification Sources – Expanded Analysis
 
-- National-security and counter-terrorism measures were justified primarily through the protection of American lives and the practical requirements of defending the existing political community.
-- Democracy promotion and the “freedom agenda” reintroduced transcendent language about liberty and human dignity as universal goods, especially in foreign policy.
-- Domestic policy continued to rely heavily on pragmatic and managerial justifications.
-- Natural-rights and constitutional arguments remained active, particularly in debates over executive power and civil liberties, but competed with urgent security claims.
+Counter-terrorism and homeland-security measures were justified first and foremost through the protection of American lives and the practical requirements of defending the existing political community. At the same time, the “freedom agenda” and democracy-promotion efforts revived transcendent language about liberty and human dignity as universal goods, particularly in foreign-policy discourse. Domestic policy, by contrast, continued to rely heavily on managerial and pragmatic arguments. Constitutional and natural-rights claims remained active in debates over executive power and civil liberties, but they competed with urgent security justifications rather than dominating them.
 
-Mundane sources (security of the living political community, pragmatic governance) remained dominant overall. The post-9/11 period elevated transcendent freedom rhetoric in one major domain without overturning the broader mundane orientation established since the 1980s.
+Overall, mundane sources (security of the living political community and pragmatic governance) retained primacy. The post-9/11 period elevated transcendent freedom rhetoric in one major domain without reversing the broader mundane orientation established since the 1980s.
 
-**Key Shift:** The 9/11 attacks produced a meaningful but domain-specific increase in transcendent freedom language alongside a sharp rise in security-based mundane justifications, distinguishing this period from the preceding Third Way years.
+**Key Shift:** 9/11 produced a meaningful increase in both security-based mundane justifications and transcendent freedom language in foreign policy, distinguishing the period from the preceding Third Way years without overturning the longer-term mundane trend.
 
 ---
 
-## **2008–2016: Obama Years – Final Score: 42**
+## 2008–2016: Obama Years – Final Score: 42
 
-The Obama administration combined progressive justice rhetoric with technocratic, evidence-based governance. Both sources were actively present and frequently intertwined.
+The Obama administration combined progressive justice rhetoric with a strong technocratic and evidence-based governing style, producing a genuinely mixed profile.
 
 ### Moral Justification Sources – Expanded Analysis
 
-- Major initiatives (healthcare reform, financial regulation, and related measures) were justified through a mix of fairness and justice language on one side and pragmatic claims about system stability, risk reduction, and long-term outcomes on the other.
-- “Hope and change” rhetoric carried moral overtones of progress, inclusion, and national renewal.
-- Evidence-based policy, technocratic competence, and data-driven administration were heavily emphasised as sources of legitimacy.
-- Natural-rights and constitutional language remained part of the broader discourse but competed with, and was sometimes subordinated to, group-oriented justice and equity framing.
+Major initiatives were defended through a dual register: fairness, justice, and inclusion on one side; system stability, risk reduction, and data-driven competence on the other. “Hope and change” language carried clear moral overtones of progress and national renewal. At the same time, technocratic competence and evidence were heavily emphasised as independent sources of legitimacy. Natural-rights and constitutional arguments remained part of the broader discourse but frequently competed with, and were sometimes subordinated to, group-oriented justice and equity framing.
 
-Both transcendent (progressive justice and dignity claims) and mundane (evidence, technocracy, outcomes) sources were present. Mundane technocratic justifications carried substantial weight in detailed policy defence, while progressive moral language added a visible and recurring transcendent layer.
+Both transcendent and mundane sources were therefore active and recurring. Neither fully displaced the other, resulting in a more balanced profile than the preceding or immediately following periods.
 
-**Key Shift:** This era reintroduced stronger progressive moral framing alongside technocratic pragmatism, producing a more mixed profile than the preceding two decades.
+**Key Shift:** This era reintroduced a substantial progressive moral layer alongside technocratic pragmatism, producing the most mixed justificatory profile since the early post-war decades.
 
 ---
 
-## **2016–2020: First Trump Presidency – Final Score: 18**
+## 2016–2020: First Trump Presidency – Final Score: 18
 
-The first Trump presidency elevated popular sovereignty and the interests of living American citizens as primary moral sources. Higher-principle claims that could override the will or interests of the current demos were systematically sidelined in core policy domains.
+The first Trump presidency marked the strongest post-war elevation of popular sovereignty and the concrete interests of living American citizens as the primary sources of moral and political authority.
 
 ### Moral Justification Sources – Expanded Analysis
 
-- Immigration, trade, and foreign policy were justified overwhelmingly through the interests, security, and democratic will of current American citizens and through national sovereignty.
-- “America First” framing treated popular will and national interest as the decisive sources of legitimacy, rather than universal moral obligations or elite expertise.
-- Critiques of institutions, trade arrangements, and prior foreign commitments rested primarily on accountability to voters and reciprocal fairness among living citizens.
-- Transcendent natural-rights language continued to appear in cultural and judicial contexts, but it was secondary to sovereignty and citizen-interest claims in the administration’s central policy justifications.
+Immigration, trade, and foreign policy were justified overwhelmingly by reference to the interests, security, and democratic will of current American citizens. “America First” framing treated popular will and national interest as decisive, rather than universal moral obligations or expert consensus. Critiques of institutions and prior international commitments rested primarily on accountability to voters and reciprocal fairness among living citizens. Natural-rights language continued to appear in cultural and judicial contexts, but it remained secondary to sovereignty and citizen-interest claims in the administration’s core policy justifications.
 
-Mundane sources (popular sovereignty, national interest of living citizens, and reciprocal fairness among current citizens) were overwhelmingly dominant. The transcendent source had very limited organisational weight in the core domains of the period.
+Mundane sources were overwhelmingly dominant. The transcendent source retained only marginal organisational weight in the central domains of the period.
 
-**Key Shift:** This era marked the strongest post-war elevation of popular sovereignty and citizen interest as the primary sources of moral authority.
+**Key Shift:** This era established popular sovereignty and the interests of the living political community as the primary sources of moral authority more clearly than any previous post-war period.
 
 ---
 
-## **2021–2025: Biden Presidency – Final Score: 31**
+## 2021–2025: Biden Presidency – Final Score: 31
 
-The Biden presidency restored a mixed profile in which progressive justice language regained visibility while technocratic and institutional justifications remained central.
+The Biden years restored a mixed profile in which progressive justice language regained visibility while technocratic and institutional justifications remained central to governance.
 
 ### Moral Justification Sources – Expanded Analysis
 
-- Progressive policy justifications frequently invoked fairness, equity, moral duty, and the imperative to correct historical or systemic wrongs.
-- Institutional and technocratic actors emphasised evidence, administrative stability, governability, and measurable results.
-- Democratic norms and constitutional processes were defended with a mixture of principled and pragmatic language.
-- Natural-rights and constitutional arguments remained active, particularly in judicial and cultural contests, but operated alongside stronger equity-oriented moral claims than in the preceding period.
+Progressive policy arguments frequently invoked fairness, equity, moral duty, and the need to correct historical or systemic wrongs. At the same time, institutional actors emphasised evidence, administrative stability, governability, and measurable results. Democratic norms and constitutional processes were defended through a mixture of principled and pragmatic language. Natural-rights and constitutional claims remained active, particularly in judicial and cultural disputes, but operated alongside stronger equity-oriented moral claims than in the preceding period.
 
-Mundane sources remained dominant overall, but the reappearance of a clear progressive justice layer produced a more mixed profile than 2016–2020.
+Mundane sources retained overall primacy, yet the reappearance of a clear progressive justice layer produced a noticeably more mixed profile than 2016–2020.
 
-**Key Shift:** This era restored a visible progressive justice component to official justification while retaining a strong technocratic and institutional core.
+**Key Shift:** This era restored a visible progressive moral component to official justification while preserving a strong technocratic and institutional core.
 
 ---
 
-## **2025–Present: Second Trump Presidency – Final Score: 17**
+## 2025–Present: Second Trump Presidency – Final Score: 17
 
-The second Trump presidency has rapidly reasserted popular sovereignty and the interests of living American citizens as the primary sources of moral authority, sharply reducing the weight of progressive justice language.
+The second Trump presidency has rapidly reasserted popular sovereignty and the interests of living American citizens as the dominant sources of moral authority, sharply reducing the weight of progressive justice language.
 
 ### Moral Justification Sources – Expanded Analysis
 
-- Core policy domains are again justified primarily through the democratic will and practical interests of current American citizens.
-- Equity-focused and systemic-justice claims have been marginalised in official justification.
-- National sovereignty, reciprocal fairness among living citizens, and resistance to external or elite moral claims have returned to central positions.
-- Natural-rights language remains available in specific cultural and judicial contexts but is secondary to sovereignty and citizen-interest arguments.
+Core policy domains are again justified primarily through the democratic will and practical interests of current American citizens. Equity-focused and systemic-justice claims have been marginalised in official justification. National sovereignty, reciprocal fairness among living citizens, and resistance to external or elite moral claims have returned to central positions. Natural-rights language remains available in specific cultural and judicial contexts but functions as a secondary resource.
 
-The profile closely resembles the 2016–2020 pattern: very strongly mundane, with popular sovereignty and the interests of the living political community as the organising sources.
+The profile closely resembles that of 2016–2020: very strongly mundane, with popular sovereignty and the interests of the living political community as the organising sources of legitimacy.
 
 **Key Shift:** This era marks a clear return to popular-sovereignty primacy and a sharp reduction in progressive transcendent framing, re-establishing a very strong mundane orientation.
 
@@ -176,37 +149,20 @@ The profile closely resembles the 2016–2020 pattern: very strongly mundane, wi
 
 # Political Parties
 
-| Party / Faction                                      | Final Score |
-|------------------------------------------------------|-------------|
-| **Democratic Party**                                 | 48          |
-| Democratic (Progressive Left)                        | 64          |
-| Democratic (Democratic Socialists)                   | 71          |
-| Democratic (Moderate Centrist)                       | 41          |
-| Democratic (Mainstream Liberals / Institutional Progressives) | 52 |
-| Democratic (Establishment / Party Institutionalists) | 44          |
-| Democratic (Eco-Socialist Current)                   | 72          |
-| **Green Party**                                      | 78          |
-| **Libertarian Party**                                | 22          |
-| **Republican Party**                                 | 19          |
-| Republican (MAGA)                                    | 14          |
-| Republican (Hard Isolationist Current)               | 12          |
-| Republican (National Conservatives)                  | 24          |
-| Republican (Traditional Fusionist)                   | 27          |
-| Republican (Religious Right)                         | 39          |
-| Republican (Christian Nationalist Current)           | 46          |
-| Republican (Libertarian Conservatives)               | 21          |
+| Party                  | Final Score |
+|------------------------|-------------|
+| Democratic Party       | 48          |
+| Green Party            | 78          |
+| Libertarian Party      | 22          |
+| Republican Party       | 19          |
 
 ### Broad Summary of the Current State of American Politics (Cultural 1A)
 
-American politics on Cultural 1A is currently characterised by a sharp polarisation between two major poles. On the right, the dominant MAGA current has pulled the Republican Party strongly toward mundane sources, prioritising popular sovereignty and the concrete interests of living American citizens, with only secondary residual natural-rights and religious language. On the left, the Democratic Party remains more mixed overall, but its energetic progressive and democratic-socialist wings give significantly greater weight to transcendent sources — particularly systemic justice, equity, and (in some currents) ecological and intergenerational duties. 
-
-Minor parties reinforce the extremes: the Green Party represents one of the strongest transcendent profiles in the system through ecological and future-generations claims, while the Libertarian Party occupies a clear mundane position centred on individual consent and non-aggression. The overall landscape is therefore one in which the centre of gravity on the right has shifted decisively toward popular-sovereignty mundane justifications, while the left retains a more contested but still meaningfully transcendent character driven by its progressive factions.
+American politics on Cultural 1A is currently characterised by sharp polarisation. On the right, the dominant MAGA current has pulled the Republican Party strongly toward mundane sources, prioritising popular sovereignty and the concrete interests of living American citizens. On the left, the Democratic Party remains more mixed overall, but its progressive and democratic-socialist wings give significantly greater weight to transcendent sources — particularly systemic justice, equity, and (in some currents) ecological and intergenerational duties. Minor parties reinforce the extremes: the Green Party holds one of the strongest transcendent profiles through ecological and future-generations claims, while the Libertarian Party occupies a clear mundane position centred on individual consent and non-aggression.
 
 ---
 
-## Democrats
-
-### Democratic Party (as a totality)
+## Democratic Party
 **Final Score: 48**
 
 #### Moral Justification Sources – Expanded Analysis
@@ -217,6 +173,25 @@ Minor parties reinforce the extremes: the Green Party represents one of the stro
 
 #### Why This Produces a Final Score of 48
 Both transcendent sources (justice, dignity, fairness as moral goods) and mundane sources (evidence, outcomes, pragmatic governance) are actively used. Transcendent framing is more prominent than in the Republican Party but does not fully dominate detailed justification.
+
+---
+
+## Factions Inside the Democratic Party
+
+| Faction                                              | Final Score | Designation          |
+|------------------------------------------------------|-------------|----------------------|
+| Progressive Left (Justice Democrats)                 | 64          | Primary Faction      |
+| Democratic Socialists / Hard Left                    | 71          | Primary Faction      |
+| Moderate Centrist Democrats                          | 41          | Primary Faction      |
+| Mainstream Liberals / Institutional Progressives     | 52          | Secondary Faction    |
+| Establishment / Party Institutionalists              | 44          | Secondary Faction    |
+| Eco-Socialist / Climate Maximalist Current           | 72          | Tertiary Faction     |
+
+The Democratic Party is currently marked by a live contest between its progressive and more pragmatic wings. The Progressive Left and Democratic Socialist currents give significantly greater weight to transcendent sources, treating systemic justice, equity, and (in some cases) ecological or intergenerational duties as binding moral requirements that can override present preferences or institutional constraints. 
+
+By contrast, Moderate Centrists and the party’s institutional/establishment currents place heavier emphasis on pragmatism, electability, evidence, and governability, while still retaining residual fairness and opportunity language. Mainstream Liberals sit between these poles. 
+
+As a result, the party as a whole remains mixed, but its energetic left wing pulls the overall profile further toward transcendent justifications than the Republican Party. The internal division is therefore not merely tactical but reflects a genuine difference in the primary sources of moral authority.
 
 ---
 
@@ -299,8 +274,6 @@ Mundane sources (institutional effectiveness, pragmatic coalition management, an
 
 ---
 
----
-
 ## Green Party
 **Final Score: 78**
 
@@ -313,8 +286,6 @@ Mundane sources (institutional effectiveness, pragmatic coalition management, an
 
 #### Why This Produces a Final Score of 78
 The transcendent source is primary and organising. Moral authority flows mainly from ecological and intergenerational duties and from systemic justice claims. Mundane sources (science, evidence, and pragmatic considerations) are present but clearly subordinate. This produces a strong transcendent lean.
-
----
 
 ---
 
@@ -333,12 +304,7 @@ Although natural-rights language appears, the dominant practical justification r
 
 ---
 
----
-
-
-## Republicans
-
-### Republican Party (as a totality)
+## Republican Party
 **Final Score: 19**
 
 #### Moral Justification Sources – Expanded Analysis
@@ -350,6 +316,26 @@ Although natural-rights language appears, the dominant practical justification r
 
 #### Why This Produces a Final Score of 19
 The transcendent source has limited weight in substantive justification. Moral authority is derived primarily from popular will, national interest of living citizens, and pragmatic or reciprocal claims. This produces a strong mundane lean.
+
+---
+
+## Factions Inside the Republican Party
+
+| Faction                                              | Final Score | Designation          |
+|------------------------------------------------------|-------------|----------------------|
+| MAGA / America First Populists                       | 14          | Primary Faction      |
+| Hard Isolationist Current                            | 12          | Tertiary Faction     |
+| National Conservatives / Post-Liberal Right          | 24          | Secondary Faction    |
+| Traditional Fusionist Conservatives                  | 27          | Secondary Faction    |
+| Religious Right / Christian Conservatives            | 39          | Secondary Faction    |
+| Christian Nationalist Current                        | 46          | Tertiary Faction     |
+| Libertarian Conservatives                            | 21          | Secondary Faction    |
+
+The Republican Party is currently characterised by clear MAGA primacy combined with several secondary currents that differ in the relative weight they give to transcendent sources. The dominant MAGA / America First faction is strongly mundane, grounding legitimacy almost exclusively in popular sovereignty and the concrete interests of living American citizens. 
+
+Secondary factions introduce modest variations: National Conservatives add a thicker emphasis on the nation as a moral community; Traditional Fusionists retain more classical liberal and institutional language; the Religious Right (and especially its Christian Nationalist tertiary current) brings the strongest transcendent element through religious and natural-law claims; while Libertarian Conservatives emphasise individual consent and non-aggression. 
+
+Despite these differences, all major Republican factions remain on the mundane side of the scale. The party’s centre of gravity is firmly located in popular-sovereignty and citizen-interest justifications, with transcendent sources present but secondary across the board.
 
 ---
 
