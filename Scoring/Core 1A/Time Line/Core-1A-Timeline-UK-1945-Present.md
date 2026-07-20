@@ -21,109 +21,110 @@ The long-term arc is therefore one of progressive densification of the speech an
 
 ## **1945–1985: Post-War Common-Law Baseline – Base Score: 78**
 
-The period is defined by the persistence of a high-autonomy common-law tradition with relatively few statutory content-based speech offences. The dominant political and legal self-understanding emphasised parliamentary sovereignty, the residual liberty of the subject, and a narrow set of criminal prohibitions focused on direct harm rather than on the content of expression or the feelings of audiences. While public-order powers and older residual offences existed, they had not yet been transformed into the broad modern toolkit of Section 5-style and stirring-up offences.
+The post-war decades retained a relatively high-autonomy common-law baseline. Statutory content-based speech offences were limited. Residual public-order powers and older blasphemy and obscenity rules existed but were not transformed into the broad modern toolkit later created by the Public Order Act 1986. Core criminal prohibitions on violence and direct harm formed the protective floor. The practical environment for political and public expression remained comparatively open by later British standards.
 
 ### Core 1A Relevant Restrictions / Elements – Expanded Analysis
 
-* Core criminal prohibitions on violence, true threats, and direct physical harm. These form the protective baseline and sit in the high-autonomy bands.
-* Limited application of older public-order provisions and residual blasphemy and obscenity rules. Enforcement intensity remained relatively narrow by later standards.
-* Absence of the modern Section 5 “harassment, alarm or distress” standard introduced in 1986.
-* Absence of the Racial and Religious Hatred Act-style stirring-up offences in their contemporary form.
-* Communications offences existed in narrower pre-2003 form but lacked the breadth and enforcement intensity of later layers.
-* No comprehensive statutory framework equivalent to the later Online Safety Act or the dense post-1986 public-order speech regime.
+* Residual common-law and statutory offences of blasphemy, obscenity and public-order breach of the peace, applied with relatively limited intensity.
+* Absence of the later Section 5 Public Order Act and Part III racial-hatred offences.
+* Core criminal prohibitions on violence, threats and sexual offences supplying the protective baseline.
+* Association rights subject only to ordinary public-order and conspiracy rules.
+* Institutional self-restraint and judicial interpretation further limited the reach of the older residual offences.
+* No comprehensive modern hate-speech or online-content regime yet existed.
 
-The restrictive architecture of the era is therefore dominated by a strong protective baseline against direct harm, with only modest statutory overlays on expression. The common-law presumption in favour of liberty still structured the practical environment for voluntary speech and association to a greater degree than in subsequent decades.
+The restrictive architecture of the period is defined by a common-law presumption in favour of liberty of expression tempered by narrow residual offences. Political speech, including robust criticism of government policy, operated under relatively light statutory constraint. Negative-Only Weighting records the comparatively open practical environment relative to the denser statutory framework that developed after 1986.
 
-**Key Shift:** Continuity of the post-1945 legal order with minimal new content-based speech legislation, preserving a relatively high-autonomy baseline.
+**Key Shift:** Continuity of the high-autonomy common-law baseline in the first four post-war decades, without the later densification of statutory speech controls.
 
 ### Why this produces a final score of 78
 
-Negative-Only Weighting applied to the strong protective baseline and the limited contemporaneous statutory speech controls yields a Base Score of 78. The score reflects a system that had not yet enacted the major expansions of non-violent speech offences that would begin in 1986. Inheritance from equivalent high-autonomy protective baselines in the master Scored Policies document supports this placement. No Endos/Xenos split is warranted.
+Negative-Only Weighting applied to the relatively light statutory overlay on a strong common-law baseline yields a Base Score of 78. The score reflects the highest practical autonomy level in the post-1945 British series.
 
 ---
 
-## **1986–2000: Public Order Act and Early Hate-Speech Expansion – Base Score: 68**
+## **1986–2000: Public Order Act Densification – Base Score: 68**
 
-The Public Order Act 1986 marked the first major statutory densification of speech controls in the post-war period. Section 5 and the Part III racial-hatred provisions introduced broader standards for criminalising expression that caused harassment, alarm or distress or that stirred up racial hatred. These changes shifted the restrictive architecture downward in a durable way.
+Section 5 of the Public Order Act 1986 criminalised the use of threatening, abusive or insulting words or behaviour, or disorderly behaviour, within the hearing or sight of a person likely to be caused harassment, alarm or distress. Part III created specific offences of stirring up racial hatred. Enforcement practice through the 1990s produced a steady stream of prosecutions for public statements, posters and demonstrations. The cumulative effect was a permanent statutory densification of non-violent speech controls.
 
 ### Core 1A Relevant Restrictions / Elements – Expanded Analysis
 
-* Public Order Act 1986 Section 5: criminalisation of threatening, abusive or insulting words or behaviour likely to cause harassment, alarm or distress. This is a direct content-based restriction on voluntary expression and sits well below the high-autonomy bands.
-* Part III of the 1986 Act: offences of stirring up racial hatred. These expanded the scope of prohibited political and public speech.
-* Subsequent enforcement practice through the 1990s that normalised the use of these provisions against a range of public expression.
-* Retention of core direct-harm criminal prohibitions.
-* Continued absence of the later Communications Act 2003 Section 127 breadth and of any Online Safety Act-style platform duties.
-* The new statutory layer constituted a clear and lasting addition to the restrictive baseline rather than a temporary emergency measure.
+* Section 5 Public Order Act 1986 creating a broad offence of threatening, abusive or insulting words or behaviour likely to cause harassment, alarm or distress.
+* Part III offences of stirring up racial hatred through words, written material, performances and recordings.
+* Enforcement practice that normalised the use of these provisions against a range of public expression.
+* Retention of core protective criminal prohibitions on violence and direct harm.
+* Absence of the later Communications Act online offences or Online Safety Act platform duties.
+* The new statutory layer permanently lowered the autonomy baseline relative to the preceding common-law-dominant era.
 
-The era is defined by the replacement of a relatively narrow common-law and residual statutory environment with a more expansive legislative framework for non-violent speech offences.
+The restrictive architecture of the period is defined by the first major statutory densification of non-violent speech controls in the post-war period. The practical environment for voluntary public expression became more constrained. Negative-Only Weighting records the addition of the Public Order Act layer as a clear downward movement from the 1945–1985 baseline.
 
-**Key Shift:** Introduction of the modern statutory architecture for non-violent speech offences that cause alarm or distress or stir up racial hatred, permanently lowering the autonomy baseline.
+**Key Shift:** Introduction of the Public Order Act 1986 speech and public-order offences, permanently densifying the statutory restriction of non-violent expression.
 
 ### Why this produces a final score of 68
 
-Addition of the Section 5 and racial-hatred layers to the prior high baseline produces a clear downward movement from 78 to 68 under Negative-Only Weighting. The restrictions are direct prohibitions on voluntary expression rather than mere punishments or processes. The score is consistent with the cumulative weight of the new statutory instruments and with inheritance from equivalent public-order speech restrictions.
+The addition of Section 5 and the racial-hatred offences produces a clear downward movement from 78 to 68 under Negative-Only Weighting. The new architecture lowered the autonomy baseline relative to the preceding common-law-dominant period.
 
 ---
 
-## **2001–2015: Security, Communications and Early Online Layers – Base Score: 62**
+## **2001–2015: Communications Act and Terrorism Expression Controls – Base Score: 62**
 
-The period following the September 2001 attacks and the July 2005 London bombings saw further layering of communications offences, terrorism-related expression controls, and the early stages of online regulation. These additions increased the cumulative restrictive weight on voluntary expression and association.
+Section 127 of the Communications Act 2003 made it an offence to send a message that is grossly offensive or of an indecent, obscene or menacing character by means of a public electronic communications network. Terrorism legislation added further content-based restrictions on expression judged to encourage or glorify terrorism. Early regulatory pressure on platforms began to shape the online environment even before comprehensive statutory duties were imposed.
 
 ### Core 1A Relevant Restrictions / Elements – Expanded Analysis
 
-* Communications Act 2003 Section 127 and related offences criminalising grossly offensive, indecent, obscene or menacing communications sent via public electronic networks. This broadened the reach of speech controls into digital and private messaging contexts.
-* Malicious Communications Act enforcement expansion.
-* Terrorism-related expression and glorification provisions that introduced additional content-based restrictions.
-* Early platform and content-regulation pressures that began to shape the online environment even before the Online Safety Act.
-* Retention and continued enforcement of the 1986 Public Order Act architecture (Section 5 and racial-hatred offences).
-* No yet of the comprehensive Online Safety Act duties that would arrive in 2023.
+* Section 127 Communications Act 2003 criminalising grossly offensive, indecent, obscene or menacing messages sent via public electronic networks, and the use of such networks to cause annoyance, inconvenience or needless anxiety.
+* Terrorism-related expression and glorification provisions adding further content-based restrictions.
+* Early regulatory and political pressure on platforms that began to shape the online environment.
+* Retention of the full 1986 Public Order Act architecture.
+* Core protective criminal prohibitions remained in place.
+* The cumulative layers produced a further reduction in the practical autonomy of both offline and online expression.
 
-The restrictive profile is characterised by the accretion of communications, terrorism-expression and nascent online controls on top of the already expanded 1986 public-order framework.
+The restrictive architecture of the period is defined by the addition of online communications offences and terrorism-related expression controls on top of the retained 1986 public-order framework. Negative-Only Weighting records the further cumulative reduction.
 
-**Key Shift:** Layering of communications, terrorism-expression, and early online controls onto the 1986 statutory framework, producing a further durable reduction in the autonomy baseline.
+**Key Shift:** Addition of the Communications Act online offences and terrorism-related expression restrictions to the existing Public Order Act baseline.
 
 ### Why this produces a final score of 62
 
-The cumulative addition of the new layers produces a further drop from 68 to 62 under Negative-Only Weighting. Each major instrument (Communications Act provisions, terrorism-expression rules, and the retained Public Order Act) contributes direct restrictive weight. The score reflects the denser environment for voluntary expression that characterised the post-2001 period relative to the 1980s and 1990s.
+The addition of Section 127 and terrorism-related expression controls produces a further downward movement from 68 to 62 under Negative-Only Weighting. The score reflects the denser practical environment for both offline and online expression.
 
 ---
 
-## **2016–2019: Pre-COVID Enforcement Plateau – Base Score: 60**
+## **2016–2019: Elevated Enforcement Plateau – Base Score: 60**
 
-The years immediately before COVID were marked less by major new primary legislation than by sustained high enforcement intensity of the existing speech and public-order toolkit, together with the growth of non-crime hate incident recording practices. The cumulative effect was a modest further downward adjustment.
+The period was characterised less by major new primary legislation than by sustained high enforcement intensity of the existing speech and public-order toolkit, together with the growth of non-crime hate-incident recording practices. Enforcement intensity of Section 5, the stirring-up offences and Section 127 remained high. Police recording of non-crime hate incidents expanded, creating an administrative overlay that, while not itself a criminal restriction, formed part of the broader climate surrounding expression.
 
 ### Core 1A Relevant Restrictions / Elements – Expanded Analysis
 
-* Sustained and in some domains intensified application of Section 5, communications offences, and hate-speech provisions.
-* Growth of non-crime hate incident recording by police. While administrative rather than criminal, these practices formed part of the broader restrictive climate surrounding expression and are noted for context (the underlying speech offences remain the scored restrictions).
-* Continued operation of the full post-1986 and post-2003 statutory architecture.
-* Absence of the later Online Safety Act platform duties.
-* No major liberalising repeals of existing speech offences.
+* Sustained high enforcement intensity of Section 5 Public Order Act, Part III stirring-up offences and Section 127 Communications Act.
+* Expansion of non-crime hate-incident recording practices creating an administrative overlay on expression.
+* Retention of the full pre-2016 statutory architecture.
+* No major new primary legislation of Online Safety Act scale.
+* Core protective criminal prohibitions remained in place.
+* The cumulative effect was a modest further downward adjustment from the preceding level.
 
-The era represents a plateau of elevated enforcement rather than a new legislative rupture, but the intensity of application is sufficient to justify a small further reduction in the Base Score.
+The restrictive profile is defined by a plateau of elevated enforcement rather than a new legislative rupture. The practical environment for voluntary expression remained constrained by the dense statutory toolkit and the administrative overlay of non-crime recording. Negative-Only Weighting records the modest further downward movement.
 
-**Key Shift:** Intensification of enforcement and administrative practice around the existing speech-restriction toolkit, without major new primary legislation of Online Safety Act scale.
+**Key Shift:** Sustained high enforcement intensity of the existing speech and public-order toolkit, accompanied by the growth of non-crime hate-incident recording.
 
 ### Why this produces a final score of 60
 
-Modest further downward adjustment from the 2001–2015 level of 62, driven by enforcement intensity rather than new statutes. Negative-Only Weighting continues to apply; no upward credit is available for the absence of still-further expansions.
+Sustained high enforcement intensity and the expansion of non-crime recording produce a modest further downward adjustment from 62 to 60 under Negative-Only Weighting. The score remains in the lower mid-range of the post-1945 British series.
 
 ---
 
 ## **2020–early 2022: COVID Restrictions Block – Base Score: 38**
 
-Treated as a single block per the established COVID protocol used in the France and Germany documents. Nationwide lockdowns, stay-at-home orders, gathering bans, business and school closures, and related mandates constituted a severe multi-domain restriction of personal autonomy.
+Nationwide lockdowns, stay-at-home orders and gathering bans imposed direct restrictions on movement and association. Related public-health mandates conditioned participation in ordinary economic and social life. Single-block treatment is applied consistently with the protocol used for other countries.
 
 ### Core 1A Relevant Restrictions / Elements – Expanded Analysis
 
 * Nationwide lockdowns and stay-at-home orders imposing direct restrictions on movement.
-* Broad bans on gatherings and association.
-* Business and school closures that restricted ordinary association and activity.
-* Related medical and behavioural mandates that conditioned access to normal life.
-* Temporary character of the measures provides only modest mitigation under the protocol.
-* The block is scored as a single cumulative weight rather than as a series of micro-eras.
+* Gathering bans and limits on association.
+* Related public-health mandates conditioning access to work, education and ordinary activities.
+* Temporary character of the measures provides only modest mitigation under the established protocol.
+* Core protective criminal prohibitions remained in place.
+* The cumulative multi-domain weight produced the lowest score in the post-1945 British series.
 
-The restrictive profile is defined by the simultaneous imposition of severe controls across movement, association, education, work and related domains of voluntary action.
+The restrictive architecture of the COVID period is defined by the simultaneous imposition of severe controls across movement, association and related domains of voluntary action. Single-block scoring is applied for consistency with the France, Germany and USA documents. Negative-Only Weighting records the full weight of the restrictions while they were in force.
 
 **Key Shift:** Temporary but extreme multi-domain restriction of movement, association and daily autonomy on a nationwide scale.
 
@@ -133,26 +134,26 @@ Single-block scoring of the cumulative COVID restrictions yields a Base Score of
 
 ---
 
-## **Mid-2022 onward: Online Safety Act and Persistent Framework – Base Score: 58**
+## **Mid-2022 onward: Post-COVID Recovery with Online Safety Act – Base Score: 58**
 
-Implementation of the Online Safety Act 2023 together with the retained public-order and communications architecture produces a partial recovery from COVID that remains well below pre-2016 levels. The new platform duties constitute a significant additional layer of restriction on the online expression environment.
+Lifting of the most sweeping COVID measures produced substantial recovery. The Online Safety Act 2023 imposes statutory duties on user-to-user and search services to prevent individuals from encountering priority illegal content and to mitigate risks of the service being used for priority offences. Providers of pornographic content must implement highly effective age assurance. The long-standing Public Order Act, Communications Act and hate-speech provisions remain fully in force.
 
 ### Core 1A Relevant Restrictions / Elements – Expanded Analysis
 
-* Online Safety Act 2023: statutory duties on platforms regarding illegal content, child-protection duties, and related harms, including age-assurance and content-moderation obligations. These are direct regulatory restrictions that shape the availability and visibility of voluntary online expression.
-* Retention of the full Public Order Act 1986 architecture (including Section 5).
-* Retention of Communications Act and Malicious Communications Act offences.
-* Retention of hate-speech and stirring-up provisions.
-* Ongoing debates and enforcement practice around non-crime hate incidents and speech offences.
-* No wholesale repeal of any major pre-COVID speech restriction.
+* Termination of the most sweeping COVID movement, gathering and medical mandates, raising the score by reducing negative weight.
+* Online Safety Act 2023 duties on platforms regarding illegal content, children’s risk assessments, and highly effective age assurance for pornographic content.
+* Retention of the full Public Order Act 1986, Communications Act 2003 Section 127, and related hate-speech provisions.
+* Continued enforcement practice under the pre-existing speech and public-order toolkit.
+* Core protective criminal prohibitions remained in place.
+* Recovery from COVID is partial; the new platform-duty layer adds further downward weight.
 
-The restrictive profile is defined by the addition of a comprehensive online regulatory layer while the long-standing statutory speech controls remain fully in force.
+The restrictive architecture of the post-COVID period is defined by the removal of the temporary pandemic superstructure while the denser statutory speech baseline and the new Online Safety Act platform duties remain in force. Negative-Only Weighting records the liberalisation of COVID measures as a reduction in negative weight and the retention plus expansion of the speech and platform framework as continued negative weight.
 
-**Key Shift:** Addition of a comprehensive online regulatory layer (Online Safety Act) while the pre-COVID speech baseline remains intact, producing only partial recovery from the COVID low.
+**Key Shift:** Removal of the temporary COVID layer combined with the addition of the Online Safety Act platform-duty regime.
 
 ### Why this produces a final score of 58
 
-Recovery from COVID is real but limited by the new Online Safety Act weight plus the long-standing statutory speech controls. Under Negative-Only Weighting the net Base Score is 58 — substantially above the COVID low of 38, yet still well below the 1986–2000 level of 68 and far below the post-war common-law baseline of 78. The placement reflects the cumulative restrictive architecture documented across the preceding eras.
+Strong upward movement from the elimination of COVID restrictions is partially offset by the persistent weight of the Public Order Act, Communications Act and the new Online Safety Act duties. Under Negative-Only Weighting the net Base Score is 58 — a clear recovery from the COVID low of 40, yet still below the 2016–2019 level of 60 and well below the 1945–1985 baseline of 78.
 
 ---
 
