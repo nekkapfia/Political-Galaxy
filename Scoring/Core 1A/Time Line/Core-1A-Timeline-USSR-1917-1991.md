@@ -40,7 +40,7 @@ Immediate multi-domain coercive controls produce low scores. The Xenos different
 
 ---
 
-## **1929–1953: Stalinist Peak – Endos 6 / Xenos 3**
+## **1929–1953: Stalinist Peak – Endos 6 / Xenos 4**
 
 The Stalin period produced the most intensive phase of multi-domain restriction in Soviet history. Forced collectivisation, the Great Terror, the expansion of the Gulag, total ideological monopoly over speech and culture, and mass operations against designated ethnic and social categories defined the era. Independent political expression was eliminated; almost any deviation from the current Party line could be treated as counter-revolutionary crime.
 
@@ -53,13 +53,13 @@ The Stalin period produced the most intensive phase of multi-domain restriction 
 * Comprehensive restrictions on movement, residence and association through internal passports, propiska and administrative exile.
 * Formal legal norms were subordinated to political campaign justice and NKVD operations.
 
-The restrictive profile is defined by the near-total dominance of coercive political, ideological and administrative controls across every major domain of personal autonomy. Scores reach the extreme low end of the Core 1A scale. Negative-Only Weighting and the Score 4 Floor are both relevant.
+The restrictive profile is defined by the near-total dominance of coercive political, ideological and administrative controls across every major domain of personal autonomy. Under the rule that Endos and Xenos use identical criteria and the Score 4 Floor, the Xenos score is held at the practical floor of 4 rather than pushed lower. The clear differential in treatment (mass operations and deportations against designated ethnic and social categories) continues to justify the application of the split.
 
 **Key Shift:** Descent into the most intensive phase of Soviet restriction through mass terror, the Gulag, and total ideological monopoly.
 
-### Why this produces Endos 6 / Xenos 3
+### Why this produces Endos 6 / Xenos 4
 
-Maximum cumulative weight of multi-domain coercion produces scores at the extreme low end of the Core 1A scale. The Xenos differential reflects the additional lethality directed at designated ethnic, class and political categories. The Score 4 Floor is relevant; the period approaches the practical minimum.
+Maximum cumulative weight of multi-domain coercion produces an Endos score of 6. The Xenos score is set at the Score 4 Floor in accordance with the identical-criteria rule. The split remains justified by the clear, stable differential created by the national operations and the targeting of designated class and ethnic categories. Negative-Only Weighting applies.
 
 ---
 
