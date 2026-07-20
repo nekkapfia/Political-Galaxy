@@ -61,7 +61,7 @@ Maximum intensity of multi-domain and group-targeted coercion produces scores at
 
 ---
 
-## **1939–1945: Wartime and Genocide – Endos 8 / Xenos 2**
+## **1939–1945: Wartime and Genocide – Endos 8 / Xenos 4**
 
 Total war mobilisation, Night and Fog decrees, and the implementation of the Final Solution produced the most extreme phase of multi-domain and group-targeted restriction. Ordinary protective criminal law continued to operate in limited non-political domains but was irrelevant to the central restrictive reality of total mobilisation and genocidal policy.
 
@@ -72,15 +72,15 @@ Total war mobilisation, Night and Fog decrees, and the implementation of the Fin
 * Genocide of the Jews and mass murder of other designated groups as the ultimate differential restriction on personal autonomy.
 * Total mobilisation of society under Party and SS control, eliminating residual private spheres.
 * Ordinary protective criminal law retained only marginal relevance.
-* Scores reach the extreme low end of the Core 1A scale for both the general population and, far more severely, for the targeted out-groups.
+* The Endos population remained under extreme wartime coercion; the designated out-groups (Jews and others targeted for destruction) faced additional systematic extermination.
 
-The restrictive profile is defined by total mobilisation combined with open genocidal policy against designated out-groups. The cumulative multi-domain and group-targeted coercion produces scores at the extreme low end of the scale. Negative-Only Weighting and the Score 4 Floor are both relevant.
+The restrictive profile is defined by total mobilisation combined with open genocidal policy against designated out-groups. Under the rule that Endos and Xenos use identical criteria and the Score 4 Floor, the Xenos score is held at the practical floor of 4 rather than pushed lower. The clear differential in treatment (genocide versus extreme wartime coercion) continues to justify the application of the split.
 
 **Key Shift:** Transition to open genocidal policy and total war mobilisation, producing the maximum intensity of multi-domain and group-targeted coercion.
 
-### Why this produces Endos 8 / Xenos 2
+### Why this produces Endos 8 / Xenos 4
 
-Maximum intensity of multi-domain and group-targeted coercion produces scores at the extreme low end of the scale. The Xenos score approaches the practical floor. Negative-Only Weighting and the Score 4 Floor apply.
+Maximum intensity of multi-domain coercion produces an Endos score of 8. The Xenos score is set at the Score 4 Floor in accordance with the identical-criteria rule. The split remains justified by the clear, stable, and extreme differential between the general wartime population and the groups targeted for systematic extermination. Negative-Only Weighting applies.
 
 ---
 
