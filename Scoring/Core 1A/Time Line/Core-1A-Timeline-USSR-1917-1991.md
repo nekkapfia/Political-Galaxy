@@ -2,16 +2,14 @@
 
 ## Introductory Overview
 
-The Soviet trajectory is one of extreme multi-domain restriction from the earliest years of the regime, with internal variation between the revolutionary and Civil War period, the Stalinist peak of terror and total control, the post-Stalin partial normalisation, and the late Gorbachev opening. Scores remain very low until the final years. Endos/Xenos differentials are pronounced for designated class, ethnic, religious and political out-groups throughout most of the period. The overall arc moves from revolutionary seizure and Civil War coercion, through the most intensive phase of totalitarian control under Stalin, to a stabilised but still extremely restrictive post-Stalin system, and finally to a rapid though incomplete liberalisation under glasnost and perestroika.
-
-No period before the late 1980s approaches high-autonomy comparative baselines. The decisive upward movement occurs only in the final six years of the regime’s existence.
+The Soviet trajectory is one of extreme multi-domain restriction from the earliest years of the regime, with internal variation between the revolutionary and Civil War period, the Stalinist peak of terror and total control, the post-Stalin partial normalisation, and the late Gorbachev opening. Scores remain very low until the final years. Endos/Xenos differentials are pronounced for designated class, ethnic, religious and political out-groups throughout most of the period. Under the identical-criteria rule, Xenos scores are held at the practical floor of 4 where previously lower numbers had been used. The overall arc moves from revolutionary seizure and Civil War coercion, through the most intensive phase of totalitarian control under Stalin, to a stabilised but still extremely restrictive post-Stalin system, and finally to a rapid though incomplete liberalisation under glasnost and perestroika.
 
 ## Converted Final Scores
 
 | Era | Period        | Endos Score | Xenos Score | Key Drivers |
 |-----|---------------|-------------|-------------|-------------|
 | 1   | 1917–1928     | 15          | 8           | Revolutionary and Civil War controls; early Red Terror |
-| 2   | 1929–1953     | 6           | 3           | Stalinist peak: terror, Gulag, total ideological control |
+| 2   | 1929–1953     | 6           | 4           | Stalinist peak: terror, Gulag, total ideological control |
 | 3   | 1953–1985     | 20          | 12          | Post-Stalin stabilisation with continued comprehensive controls |
 | 4   | 1985–1991     | 45          | 35          | Glasnost and perestroika liberalisation |
 
