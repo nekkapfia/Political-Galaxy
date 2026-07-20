@@ -2,43 +2,66 @@
 
 ## Introductory Overview
 
-The United States maintains a structurally higher Core 1A baseline than most European systems because of the First Amendment’s robust protection of speech and association. From 1945 the trajectory is one of gradual expansion of administrative, institutional, and later platform-mediated controls rather than the dense statutory hate-speech codes characteristic of the United Kingdom or France. The Warren and early Burger Court eras reinforced constitutional speech protections and limited the scope of government content regulation. Later decades saw the rise of campus speech codes, workplace harassment doctrines, and, after approximately 2010, intense social and political pressure for platform content moderation. COVID produced a temporary multi-domain restriction of movement, association and bodily autonomy. The post-2020 period features polarisation over the scope of private and administrative speech controls, but the constitutional floor keeps overall scores higher than in comparator democracies. No system-wide Endos/Xenos split of the French laïcité type is scored; differentials appear mainly in institutional enforcement intensity rather than in formal dual legal systems.
-
-The long-term pattern is therefore one of a high constitutional baseline subjected to progressive accretion of non-statutory and quasi-private restrictions on expression in key institutional and online settings, interrupted by a severe but temporary COVID collapse. The principal contest remains over the expansion or contraction of administrative, campus, workplace and platform controls rather than over the core criminal speech offences.
+The United States maintains a structurally higher Core 1A baseline than most European or authoritarian systems because of the First Amendment’s robust protection of speech and association. From 1945 the trajectory is one of gradual expansion of administrative, institutional, and later platform-mediated controls rather than the dense statutory hate-speech codes characteristic of the United Kingdom or France. The period 1945–1965 requires an Endos/Xenos split because the formal Jim Crow legal system imposed a stable, racially targeted dual structure of restrictions on movement, association, public accommodation and related domains. After the Civil Rights Act 1964 and Voting Rights Act 1965 dismantled that formal dual system, scoring returns to a single Base Score. Later decades saw the rise of campus speech codes, workplace harassment doctrines under Title VII, and, after approximately 2010, intense social and political pressure for platform content moderation. COVID produced a temporary multi-domain restriction of movement, association and bodily autonomy. The post-2020 period features polarisation over the scope of private and administrative speech controls, but the constitutional floor keeps overall scores higher than in comparator democracies.
 
 ## Converted Final Scores
 
-| Era | Period              | Base Score | Xenos Score | Key Drivers |
-|-----|---------------------|------------|-------------|-------------|
-| 1   | 1945–1969           | 85         | N/A         | Strong First Amendment baseline; limited statutory overlays |
-| 2   | 1970–1990           | 80         | N/A         | Expansion of workplace and campus speech norms |
-| 3   | 1991–2010           | 76         | N/A         | Continued institutional codes; early internet regulation debates |
-| 4   | 2011–2019           | 70         | N/A         | Platform content-moderation pressure intensifies |
-| 5   | 2020–early 2022     | 45         | N/A         | COVID restrictions block |
-| 6   | Mid-2022 onward     | 72         | N/A         | Partial recovery; ongoing platform and institutional contestation |
+| Era | Period              | Endos / Base Score | Xenos Score | Key Drivers |
+|-----|---------------------|--------------------|-------------|-------------|
+| 1   | 1945–1965           | 85                 | 55          | Strong First Amendment baseline + formal Jim Crow dual system |
+| 2   | 1965–1969           | 84                 | N/A         | Formal Jim Crow ended; residual Red Scare constraints |
+| 3   | 1970–1990           | 80                 | N/A         | Expansion of campus speech codes and Title VII hostile-environment doctrine |
+| 4   | 1991–2010           | 76                 | N/A         | Consolidation of institutional codes; early internet regulation largely constrained by courts |
+| 5   | 2011–2019           | 70                 | N/A         | Platform content-moderation pressure intensifies |
+| 6   | 2020–early 2022     | 45                 | N/A         | COVID restrictions block |
+| 7   | Mid-2022 onward     | 72                 | N/A         | Partial recovery; ongoing platform and institutional contestation |
 
 ---
 
-## **1945–1969: High Constitutional Baseline – Base Score: 85**
+## **1945–1965: High Constitutional Baseline with Jim Crow Dual System – Endos 85 / Xenos 55**
 
-The post-war decades were characterised by a robust First Amendment regime with relatively few content-based statutory restrictions on adult speech. The dominant legal and political self-understanding treated government restrictions on political and public expression as exceptional and subject to exacting judicial scrutiny. While residual McCarthy-era loyalty and association pressures existed, they were progressively constrained by judicial decisions and did not crystallise into a permanent dense statutory speech code of the later European type.
+The post-war decades featured a robust First Amendment regime for the core population, tempered by the practical effects of the Second Red Scare. At the same time, the formal Jim Crow legal system remained operative in large parts of the country, imposing a stable, racially targeted set of restrictions on movement, association, public accommodation, education and related domains for Black Americans. This creates a clear Endos/Xenos divergence.
 
 ### Core 1A Relevant Restrictions / Elements – Expanded Analysis
 
-* Narrow categories of unprotected speech under then-prevailing First Amendment doctrine (true threats, incitement to imminent lawless action, obscenity under the standards of the period). These form a limited protective baseline rather than a broad content-control regime.
-* Core criminal prohibitions on violence and direct physical harm.
-* Limited federal administrative speech controls compared with later institutional expansions.
-* McCarthy-era loyalty programmes and association pressures existed, particularly in the early part of the period, but were partially reined in by judicial decisions (for example, later Warren Court rulings) and did not evolve into a comprehensive permanent statutory system.
-* Absence of modern campus speech codes, workplace hostile-environment doctrines in their later expansive form, and any equivalent of European-style statutory hate-speech codes.
-* The practical environment for voluntary political and public expression remained comparatively open by both contemporary international and later domestic standards.
+* Strong First Amendment baseline and narrow categories of unprotected speech for the Endos population.
+* Smith Act prosecutions, loyalty programmes and institutional blacklisting creating practical constraints on left-wing political speech and association.
+* Formal Jim Crow statutes and ordinances enforcing racial segregation in public facilities, transportation, education, housing and marriage (Xenos).
+* State and local enforcement of segregation through police, courts and public institutions.
+* Core criminal prohibitions on violence and direct harm applied across the population, but within a dual legal framework.
+* Progressive judicial and legislative pressure on Jim Crow culminating in the Civil Rights Act 1964 and Voting Rights Act 1965.
 
-The restrictive architecture is dominated by a high constitutional floor with only modest statutory and administrative overlays. The period therefore sits near the top of the post-1945 American range.
+The restrictive architecture is defined by a high constitutional floor for the core population coexisting with a formal, racially defined dual legal system. The divergence is significant, consistent and observable, satisfying the conditions for an Endos/Xenos split.
 
-**Key Shift:** Continuity and judicial reinforcement of the high First Amendment floor after 1945, with only limited and partially constrained exceptions.
+**Key Shift:** Continuation of the post-war constitutional baseline alongside the still-operative Jim Crow dual legal system.
 
-### Why this produces a final score of 85
+### Why this produces Endos 85 / Xenos 55
 
-Negative-Only Weighting applied to the strong constitutional baseline and the relatively narrow set of contemporaneous restrictions yields a Base Score of 85. The score reflects a system in which government content regulation of adult speech remained exceptional. No Endos/Xenos split is warranted. Inheritance from high-autonomy constitutional baselines supports the placement.
+Endos reflects the high First Amendment baseline tempered by Red Scare constraints. Xenos reflects the additional, systematic restrictions imposed by Jim Crow on movement, association, public accommodation and related domains. The split is required by the significant and consistent observable divergence.
+
+---
+
+## **1965–1969: Post-Civil Rights Transition – Base Score: 84**
+
+(No Endos/Xenos split)
+
+The major civil-rights statutes of 1964–1965 and their immediate enforcement ended the formal Jim Crow dual legal system. The high constitutional baseline continued, still tempered by the residual effects of the Red Scare architecture and the final years before *Brandenburg* (1969). With the formal racial dual system dismantled, the justification for a system-wide Endos/Xenos split on Jim Crow grounds ends.
+
+### Core 1A Relevant Restrictions / Elements – Expanded Analysis
+
+* Termination of the formal Jim Crow legal structure through the Civil Rights Act 1964, Voting Rights Act 1965 and related enforcement.
+* Continued First Amendment baseline with residual Smith Act / loyalty-era constraints declining in practical force.
+* Core criminal prohibitions on violence and direct harm.
+* Absence of the later campus speech-code and Title VII hostile-environment layers.
+* No new system-wide dual legal structure replacing Jim Crow.
+
+The restrictive architecture is defined by the removal of the formal racial dual system while the high constitutional floor remains in place. Because the significant, consistent, legally structured divergence has ended, the optional split is not applied.
+
+**Key Shift:** Formal dismantling of the Jim Crow dual legal system and return to a single scoring framework.
+
+### Why this produces a Base Score of 84
+
+Removal of the Jim Crow dual structure raises the practical autonomy floor for the former Xenos population. The residual Red Scare constraints prevent a full return to the absolute peak of the constitutional baseline. Single Base Score: 84.
 
 ---
 
