@@ -19,7 +19,7 @@ No period before the late 1980s approaches high-autonomy comparative baselines. 
 
 ## **1917–1928: Revolutionary Foundations – Endos 15 / Xenos 8**
 
-The Bolshevik seizure of power and the subsequent Civil War established the basic instruments of one-party control over speech, association, movement and political organisation. The Cheka, suppression of the non-Bolshevik press, the banning of opposition parties, and the early use of concentration camps and hostage-taking created a multi-domain restrictive environment from the first months of the regime.
+The Bolshevik seizure of power in October 1917 and the subsequent Civil War destroyed the residual multi-party and independent-press environment of the Provisional Government period. Non-Bolshevik newspapers were closed, printing presses seized, and opposition parties banned or driven underground. The Cheka conducted the Red Terror, employing summary executions, hostage-taking and early concentration camps against class enemies, political opponents and suspected saboteurs.
 
 ### Core 1A Relevant Restrictions / Elements – Expanded Analysis
 
@@ -30,7 +30,7 @@ The Bolshevik seizure of power and the subsequent Civil War established the basi
 * The New Economic Policy period after 1921 brought limited economic relaxation but did not restore independent political speech or association.
 * Core protective prohibitions on ordinary private violence existed but were overshadowed by political and class-based coercion.
 
-The restrictive architecture is defined by the destruction of the residual Imperial and Provisional Government legal order and the construction of a Party monopoly enforced by revolutionary violence and administrative coercion.
+The restrictive architecture is defined by the destruction of the residual Imperial and Provisional Government legal order and the construction of the early Soviet one-party restrictive system enforced by revolutionary violence and administrative coercion. Negative-Only Weighting records the immediate multi-domain coercive controls.
 
 **Key Shift:** Destruction of the residual multi-party and independent-press environment and construction of the early Soviet one-party restrictive system.
 
@@ -42,18 +42,18 @@ Immediate multi-domain coercive controls produce low scores. The Xenos different
 
 ## **1929–1953: Stalinist Peak – Endos 6 / Xenos 3**
 
-The Stalin period produced the most intensive phase of multi-domain restriction in Soviet history. Forced collectivisation, the Great Terror, the expansion of the Gulag, total ideological monopoly over speech and culture, and mass operations against designated ethnic and social categories defined the era.
+The Stalin period produced the most intensive phase of multi-domain restriction in Soviet history. Forced collectivisation, the Great Terror, the expansion of the Gulag, total ideological monopoly over speech and culture, and mass operations against designated ethnic and social categories defined the era. Independent political expression was eliminated; almost any deviation from the current Party line could be treated as counter-revolutionary crime.
 
 ### Core 1A Relevant Restrictions / Elements – Expanded Analysis
 
 * Near-total control of all media, publishing, education and public speech; independent political expression was eliminated.
 * Mass terror, show trials, and the Gulag system as instruments of enforced conformity and elimination of perceived enemies.
-* Forced collectivisation and dekulakisation that destroyed rural autonomy and produced mass famine and repression.
+* Forced collectivisation and dekulakisation that destroyed rural autonomy and produced mass famine, deportation and execution of designated class enemies.
 * National operations and deportations targeting specific ethnic groups, creating extreme differential intensity.
 * Comprehensive restrictions on movement, residence and association through internal passports, propiska and administrative exile.
 * Formal legal norms were subordinated to political campaign justice and NKVD operations.
 
-The restrictive profile is defined by the near-total dominance of coercive political, ideological and administrative controls across every major domain of personal autonomy.
+The restrictive profile is defined by the near-total dominance of coercive political, ideological and administrative controls across every major domain of personal autonomy. Scores reach the extreme low end of the Core 1A scale. Negative-Only Weighting and the Score 4 Floor are both relevant.
 
 **Key Shift:** Descent into the most intensive phase of Soviet restriction through mass terror, the Gulag, and total ideological monopoly.
 
@@ -69,14 +69,14 @@ The death of Stalin and the subsequent stabilisation ended the most chaotic mass
 
 ### Core 1A Relevant Restrictions / Elements – Expanded Analysis
 
-* Continued formal and informal censorship of media, literature and public speech; the Party retained monopoly control over legitimate expression.
-* Psychiatric hospitalisation and other administrative measures used against dissidents.
-* Strict exit-visa and travel controls that severely restricted external movement.
+* Continued formal and informal censorship of media, literature and public speech under Glavlit and Party oversight; the Party retained monopoly control over legitimate expression.
+* Psychiatric hospitalisation and other administrative measures used against dissidents, with diagnoses such as “sluggish schizophrenia” applied to healthy individuals whose political views were judged pathological.
+* Strict exit-visa and travel controls that severely restricted external movement; unauthorised departure treated as a serious offence.
 * Ongoing repression of unapproved religious practice, nationalist expression and independent civil-society initiative.
 * Differential intensity continued against political dissidents, certain ethnic nationalists, and religious believers.
 * The abandonment of continuous mass terror and the partial regularisation of the legal system produced a modest upward movement relative to the Stalinist floor.
 
-The restrictive profile is characterised by stabilisation at a still extremely low level of personal autonomy after the removal of the most chaotic terror instruments.
+The restrictive profile is characterised by stabilisation at a still extremely low level of personal autonomy after the removal of the most chaotic terror instruments. Negative-Only Weighting records the modest upward movement from the Stalinist floor while the core architecture of censorship, movement controls and targeted repression remained intact.
 
 **Key Shift:** Stabilisation of the restrictive system after the end of continuous mass terror, with retention of comprehensive controls over speech, association, movement and belief.
 
@@ -88,25 +88,24 @@ Modest upward movement from the Stalinist floor under Negative-Only Weighting, r
 
 ## **1985–1991: Late Opening – Endos 45 / Xenos 35**
 
-Glasnost and perestroika produced the first sustained expansion of speech and association rights in Soviet history. Censorship was dramatically reduced, independent associations and media emerged, and public political debate became possible on a scale not seen since 1917. Residual restrictions remained until the final collapse of the regime.
+Glasnost and perestroika produced the first sustained expansion of speech and association rights in Soviet history. Formal and informal censorship was dramatically reduced; previously banned books, films and historical topics entered public circulation. Independent informal associations, popular fronts and eventually opposition political movements emerged. Critical and non-Party media appeared and circulated widely. Residual restrictions remained until the final collapse of the regime.
 
 ### Core 1A Relevant Restrictions / Elements – Expanded Analysis
 
-* Dramatic reduction in formal and informal censorship; previously banned topics and authors entered public circulation.
+* Dramatic reduction in formal and informal censorship; previously banned topics, authors and historical subjects entered public circulation.
 * Emergence of independent informal associations, popular fronts, and eventually opposition political movements.
 * Expansion of press freedom and the appearance of critical and non-Party media.
 * Residual restrictions on certain forms of expression and organisation persisted, and the security services retained significant capacity.
 * Differential intensity against some nationalist and radical opposition groups continued but at lower overall levels than in previous eras.
 * The changes were driven by deliberate political decisions at the top of the Party rather than by a complete dismantling of the underlying legal architecture.
 
-The restrictive profile is defined by the rapid though incomplete relaxation of the multi-domain control system in the final years of the regime.
+The restrictive profile is defined by the rapid though incomplete relaxation of the multi-domain control system in the final years of the regime. The result was the largest upward movement in Soviet Core 1A scores. Negative-Only Weighting records the substantial reduction in censorship and association controls while acknowledging the incomplete nature of the liberalisation.
 
 **Key Shift:** Deliberate political decision to relax the multi-domain control system through glasnost and perestroika, producing the largest upward movement in Soviet history.
 
 ### Why this produces Endos 45 / Xenos 35
 
 Largest upward movement in the Soviet period under Negative-Only Weighting, driven by the substantial reduction in censorship and association controls. Residual restrictions and the incomplete nature of the liberalisation prevent a higher score. The Xenos differential narrows but does not disappear entirely. The placement reflects a system in rapid transition rather than a fully high-autonomy order.
-
 ---
 
 **End of Core 1A: Eras of Personal Autonomy in the USSR (1917–1991)**
