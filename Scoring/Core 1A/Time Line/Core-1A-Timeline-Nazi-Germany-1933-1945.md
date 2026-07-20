@@ -2,7 +2,7 @@
 
 ## Introductory Overview
 
-Nazi Germany produced one of the most rapid and comprehensive collapses of personal autonomy in modern history. Within months of the seizure of power the regime dismantled residual Weimar protections and constructed a totalitarian system of speech, association, religious, movement and bodily controls. Designated Xenos groups (Jews, political opponents, Roma, homosexuals, Jehovah’s Witnesses, the disabled and others) faced intensifying differential treatment culminating in genocide. The Base/Endos score falls to the extreme low single digits; the Xenos score approaches the floor of the scale. The trajectory is one of accelerating multi-domain restriction rather than gradual densification.
+Nazi Germany produced one of the most rapid and comprehensive collapses of personal autonomy in modern history. Within months of the seizure of power the regime dismantled residual Weimar protections and constructed a totalitarian system of speech, association, religious, movement and bodily controls. Designated Xenos groups (Jews, political opponents, Roma, homosexuals, Jehovah’s Witnesses, the disabled and others) faced intensifying differential treatment culminating in genocide. Under the authoritative band language and the identical-criteria rule for Endos and Xenos, the final wartime Xenos score is held at the floor of 4. The Base/Endos score falls to the extreme low single digits. The trajectory is one of accelerating multi-domain restriction rather than gradual densification.
 
 ## Converted Final Scores
 
@@ -10,7 +10,7 @@ Nazi Germany produced one of the most rapid and comprehensive collapses of perso
 |-----|-------------|-------------|-------------|-------------|
 | 1   | 1933–1934   | 25          | 12          | Seizure of power, Enabling Act, early coordination |
 | 2   | 1935–1939   | 15          | 5           | Nuremberg Laws, full Gleichschaltung, pre-war intensification |
-| 3   | 1939–1945   | 8           | 2           | Wartime total mobilisation and genocide |
+| 3   | 1939–1945   | 8           | 4           | Wartime total mobilisation and genocide |
 
 ---
 
@@ -68,19 +68,18 @@ Total war mobilisation, Night and Fog decrees, and the implementation of the Fin
 ### Core 1A Relevant Restrictions / Elements – Expanded Analysis
 
 * Extreme wartime controls on speech, movement, labour and association for the entire population.
-* Night and Fog and related measures against political and resistance activity in occupied territories and at home.
-* Genocide of the Jews and mass murder of other designated groups as the ultimate differential restriction on personal autonomy.
-* Total mobilisation of society under Party and SS control, eliminating residual private spheres.
+* Night and Fog and related measures against political and resistance activity.
+* Genocide of the Jews and mass murder of other designated groups (band 5 language – systematic extermination).
+* Total mobilisation of society under Party and SS control.
 * Ordinary protective criminal law retained only marginal relevance.
-* The Endos population remained under extreme wartime coercion; the designated out-groups (Jews and others targeted for destruction) faced additional systematic extermination.
 
-The restrictive profile is defined by total mobilisation combined with open genocidal policy against designated out-groups. Under the rule that Endos and Xenos use identical criteria and the Score 4 Floor, the Xenos score is held at the practical floor of 4 rather than pushed lower. The clear differential in treatment (genocide versus extreme wartime coercion) continues to justify the application of the split.
+The restrictive profile is defined by total mobilisation combined with open genocidal policy against designated out-groups. Under the rule that Endos and Xenos use identical criteria, the Xenos score is held at the floor consistent with the authoritative band language (4) rather than pushed lower. The clear differential (genocide versus extreme wartime coercion) continues to justify the split.
 
-**Key Shift:** Transition to open genocidal policy and total war mobilisation, producing the maximum intensity of multi-domain and group-targeted coercion.
+**Key Shift:** Transition to open genocidal policy and total war mobilisation.
 
 ### Why this produces Endos 8 / Xenos 4
 
-Maximum intensity of multi-domain coercion produces an Endos score of 8. The Xenos score is set at the Score 4 Floor in accordance with the identical-criteria rule. The split remains justified by the clear, stable, and extreme differential between the general wartime population and the groups targeted for systematic extermination. Negative-Only Weighting applies.
+Maximum intensity of multi-domain coercion produces an Endos score of 8. The Xenos score is set at 4 in accordance with the identical-criteria rule and the authoritative band definitions. The split remains justified by the clear, stable differential between the general wartime population and the groups targeted for systematic extermination.
 
 ---
 
