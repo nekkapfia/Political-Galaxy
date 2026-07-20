@@ -19,24 +19,24 @@ The long-term pattern within this window is therefore one of consolidation and m
 
 ## **1998–2015: Post-Reunification Framework – Base Score: 58**
 
-The period opens with the consolidated legal order of the reunified Federal Republic. The dominant features relevant to Core 1A are the long-standing criminal prohibition of Volksverhetzung, related public-order powers, and the constitutional emphasis on human dignity that structures the outer limits of permissible expression. No major new primary legislation of Online Safety Act or NetzDG scale was enacted in these years, but the existing architecture was actively enforced and formed a dense baseline.
+The period opens with the consolidated legal order of the reunified Federal Republic. The dominant features relevant to Core 1A are the long-standing criminal prohibition of Volksverhetzung, related public-order powers, and the constitutional emphasis on human dignity that structures the outer limits of permissible expression. No major new primary legislation of NetzDG scale was enacted in these years, but the existing architecture was actively enforced and formed a dense baseline.
 
 ### Core 1A Relevant Restrictions / Elements – Expanded Analysis
 
-* Criminal offence of Volksverhetzung (Section 130 StGB) prohibiting incitement to hatred against segments of the population, calls for violence or arbitrary measures, and assaults on human dignity through insult or malicious disparagement. This is a direct content-based restriction on voluntary expression and sits well below high-autonomy bands.
+* Criminal offence of Volksverhetzung (Section 130 StGB) prohibiting incitement to hatred against segments of the population, calls for violence or arbitrary measures, and assaults on human dignity through insult or malicious disparagement.
 * Related public-order and assembly provisions that can restrict gatherings and expression on the basis of content or anticipated disruption.
 * Constitutional dignity framework (Article 1 Basic Law) that informs both legislation and judicial interpretation of speech limits.
 * Absence of the later NetzDG-style statutory platform liability regime.
 * Retention of core criminal prohibitions on violence and direct harm as the protective baseline.
-* Enforcement practice that treated certain forms of historical revisionism, racist expression and related speech as criminal, creating a durable restrictive overlay on political and public discourse.
+* Enforcement practice that treated certain forms of historical revisionism, racist expression and related speech as criminal.
 
-The restrictive architecture of the era is defined by the mature post-reunification combination of criminal hate-speech law, public-order powers and dignity-based constitutional limits. The practical environment for voluntary expression was already significantly constrained relative to high-autonomy common-law or First Amendment baselines.
+The restrictive architecture of the era is defined by the mature post-reunification combination of criminal hate-speech law, public-order powers and dignity-based constitutional limits. The practical environment for voluntary expression was already significantly constrained relative to high-autonomy common-law or First Amendment baselines. Content-based criminal restrictions on expression formed a core and durable feature of the legal order. Negative-Only Weighting records the cumulative weight of these long-standing instruments.
 
 **Key Shift:** Continuity and active enforcement of the established post-reunification restrictive baseline into the digital era, without major new primary legislation of platform-liability scale.
 
 ### Why this produces a final score of 58
 
-Negative-Only Weighting applied to the cumulative weight of Volksverhetzung, public-order powers and the dignity-informed constitutional framework yields a Base Score of 58. The score reflects a system in which content-based criminal restrictions on expression form a core and durable feature of the legal order. Inheritance from equivalent European hate-speech and public-order elements supports the placement. No system-wide Endos/Xenos split is applied.
+Negative-Only Weighting applied to the cumulative weight of Volksverhetzung, public-order powers and the dignity-informed constitutional framework yields a Base Score of 58. The score reflects a system in which content-based criminal restrictions on expression form a core and durable feature of the legal order. No system-wide Endos/Xenos split is applied.
 
 ---
 
@@ -46,13 +46,13 @@ The Network Enforcement Act (NetzDG) of 2017 introduced statutory duties on larg
 
 ### Core 1A Relevant Restrictions / Elements – Expanded Analysis
 
-* NetzDG duties requiring platforms to remove “clearly illegal” content (including hate-speech offences) within 24 hours of complaint and other illegal content within seven days, backed by substantial fines. These are direct regulatory restrictions that shape the availability of voluntary online expression.
-* Continued and in some domains intensified enforcement of Section 130 StGB and related speech offences.
+* NetzDG duties requiring platforms to remove “clearly illegal” content (including hate-speech offences under §130 StGB and related provisions) within 24 hours of complaint and other illegal content within seven days, backed by substantial fines.
+* Continued and in some domains intensified enforcement of Section 130 StGB and related speech offences, including police actions against individuals for online insults, threats and hate speech.
 * Expansion of the practical reach of content-based restrictions into the dominant online platforms used for political and public discourse.
 * Retention of the full pre-2016 criminal and public-order baseline.
 * No liberalising repeal of core speech offences; the movement is additive.
 
-The era is defined by the addition of a comprehensive online intermediary liability regime on top of the already dense statutory speech controls.
+The era is defined by the addition of a comprehensive online intermediary liability regime on top of the already dense statutory speech controls. Platforms expanded content-moderation capacity in response, increasing the practical density of restriction on voluntary online expression. The new layer increased the cumulative weight of direct restrictions on the visibility and circulation of expression without removing any prior restrictions. Negative-Only Weighting records the addition of the platform-liability duties as further negative weight.
 
 **Key Shift:** Introduction of statutory platform liability for illegal content (NetzDG), permanently expanding the restrictive architecture into the online domain.
 
@@ -75,36 +75,36 @@ Treated as a single block per the established COVID protocol. Nationwide and Lan
 * Temporary character of the measures provides only modest mitigation under the protocol.
 * Variation across Länder existed, but the national cumulative weight justifies single-block treatment.
 
-The restrictive profile is defined by the simultaneous imposition of severe controls across movement, association and related domains of voluntary action.
+The restrictive profile is defined by the simultaneous imposition of severe controls across movement, association and related domains of voluntary action. The cumulative weight of these temporary measures produced the lowest score in the 1998–2026 German series. Single-block scoring is applied for consistency with the France, UK and USA documents. Negative-Only Weighting records the full weight of the restrictions while they were in force.
 
 **Key Shift:** Temporary multi-domain emergency restrictions on a nationwide scale.
 
 ### Why this produces a final score of 40
 
-Single-block scoring of the cumulative COVID restrictions yields a Base Score of 40, the lowest era score in the 1998–2026 German series. Negative-Only Weighting and the established COVID protocol are applied consistently with the France, UK and USA documents. The temporary nature of the measures is acknowledged but does not prevent the large downward movement while the restrictions were in force.
+Single-block scoring of the cumulative COVID restrictions yields a Base Score of 40, the lowest era score in the 1998–2026 German series. Negative-Only Weighting and the established COVID protocol are applied. The temporary nature of the measures is acknowledged but does not prevent the large downward movement while the restrictions were in force.
 
 ---
 
 ## **Mid-2022 onward: Post-COVID Continuity – Base Score: 56**
 
-Lifting of the most sweeping COVID measures produced a substantial recovery. The recovery is incomplete because the pre-existing speech, public-order and online-liability architecture remained fully in force. Subsequent adjustments to the online regime (including successor rules to NetzDG) did not reverse the restrictive baseline.
+Lifting of the most sweeping COVID measures produced a substantial recovery. The recovery is incomplete because the pre-existing speech, public-order and online-liability architecture remained fully in force. Subsequent adjustments to the online regime (including successor rules to NetzDG under the Digital Services Act) did not reverse the restrictive baseline.
 
 ### Core 1A Relevant Restrictions / Elements – Expanded Analysis
 
 * Termination of lockdowns, contact restrictions and the most sweeping gathering bans. These removals raise the score by reducing negative weight.
 * Retention of the full Volksverhetzung and related criminal speech framework.
-* Continued operation of platform liability rules (NetzDG and successor instruments).
+* Continued operation of platform liability rules (NetzDG and successor instruments under the Digital Services Act).
 * Retention of public-order and assembly powers.
 * No wholesale repeal or material narrowing of the core content-based speech offences.
 * Ongoing enforcement practice that treats certain forms of political and identity-related expression as criminal or subject to rapid platform removal.
 
-The restrictive profile is defined by the removal of the temporary COVID superstructure while the denser post-2017 speech and online architecture remains intact.
+The restrictive profile is defined by the removal of the temporary COVID superstructure while the denser post-2017 speech and online architecture remains intact. The net result is a clear recovery from the COVID low that remains constrained by the cumulative weight of the pre-existing baseline. Negative-Only Weighting records the liberalisation of COVID measures as a reduction in negative weight and the retention of the speech and platform framework as continued negative weight.
 
 **Key Shift:** Removal of the temporary COVID layer while the pre-existing criminal speech and platform-liability baseline continues without material liberalisation.
 
 ### Why this produces a final score of 56
 
-Strong upward movement from the elimination of COVID restrictions is partially offset by the persistent weight of Volksverhetzung, public-order powers and platform liability rules. Under Negative-Only Weighting the net Base Score is 56 — a clear recovery from the COVID low of 40, yet still below the 1998–2015 level of 58 and well below high-autonomy comparative baselines. The placement reflects the cumulative restrictive architecture documented across the preceding eras.
+Strong upward movement from the elimination of COVID restrictions is partially offset by the persistent weight of Volksverhetzung, public-order powers and platform liability rules. Under Negative-Only Weighting the net Base Score is 56 — a clear recovery from the COVID low of 40, yet still below the 1998–2015 level of 58.
 
 ---
 
