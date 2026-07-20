@@ -21,186 +21,187 @@ The long-term pattern is therefore one of gradual densification of the speech an
 
 ---
 
-## **1945–1955: Fourth Republic Baseline – Base Score: 71**
+## **1945–1955: Post-Liberation Baseline – Base Score: 71**
 
-The period opens with the Liberation and the reconstitution of republican legality after the Vichy regime and German occupation. The dominant political project was the restoration of democratic institutions under the Fourth Republic, the purge of collaborationist elements, and the re-establishment of a legal order grounded in the 1881 Press Law and the core criminal code. Colonial questions remained unresolved, but the metropolitan baseline for personal autonomy was set by the interaction of long-standing protective criminal prohibitions with only limited contemporaneous speech controls.
+After the Liberation the republican legal order was restored on the basis of the 1881 Press Law and the ordinary criminal code. Core prohibitions on murder, rape, assault and related direct-harm offences remained the protective baseline. The principal speech-related restrictions were the existing provisions on defamation, insult and certain forms of provocation, applied with relatively limited intensity compared with later decades. A significant paternalistic restriction remained in the form of the higher age of consent for homosexual acts (21 versus 15 for heterosexual acts). Colonial controls applied outside metropolitan France and are treated separately.
 
 ### Core 1A Relevant Restrictions / Elements – Expanded Analysis
 
-* Retention of core criminal prohibitions on murder, rape, assault, and related direct-harm offences. These form the protective baseline and sit in the high-autonomy bands (approximately 95–96).
-* Discriminatory higher age of consent for homosexual acts (21 versus 15 for heterosexual acts). This is a clear paternalistic restriction on the voluntary sexual conduct of consenting adults and is scored in the mid-50s band.
-* Limited application of the 1881 Press Law’s provisions on defamation, insult, and early forms of incitement. Enforcement intensity remained relatively narrow compared with later decades.
-* Absence of the later comprehensive anti-discrimination and identity-based speech apparatus (Pleven, Gayssot, and expansive Article 24 jurisprudence had not yet been created).
-* No systematic administrative house-arrest or broad gathering-ban regime of the type introduced in 2015.
-* Colonial-era movement and association controls applied to non-metropolitan populations; these are treated as outside the metropolitan France baseline for this scoring exercise (Algeria is handled as a distinct entity in related analysis).
+* Core criminal prohibitions on homicide, rape, assault and related direct physical harm forming the protective floor.
+* 1881 Press Law provisions on defamation, insult and provocation, enforced with relatively limited intensity in this decade.
+* Higher age of consent for homosexual acts (21) creating a clear paternalistic restriction on adult same-sex conduct.
+* Absence of the later Pleven and Gayssot content-based and historical-memory speech offences.
+* Residual wartime emergency measures were rapidly dismantled; ordinary public-order rules governed assembly.
+* Metropolitan France operated under a restored republican baseline without the dense modern hate-speech apparatus.
 
-The restrictive architecture of the period is therefore dominated by a strong protective baseline against direct physical harm, moderated downward by one significant paternalistic sexual restriction and by the modest contemporaneous speech controls. No Endos/Xenos split is applied; the restrictions were not structured around a stable, discretely targetable outgroup receiving markedly worse treatment within metropolitan France.
+The restrictive architecture of the early Fourth Republic is defined by a strong protective criminal baseline moderated by residual sexual paternalism and modest contemporaneous application of press-law offences. No comprehensive modern hate-speech statute yet existed. Within metropolitan France the practical environment for voluntary political speech was comparatively open relative to both the occupation years and the denser speech regime that developed after 1972. The combination of a high protective floor and the absence of identity-based speech offences produced the highest post-war French score in the series. Negative-Only Weighting records only the direct restrictions that remained in force.
 
-**Key Shift:** Re-establishment of the republican legal order after the collapse of Vichy, resetting the restrictive architecture to a relatively high-autonomy starting point compared with both the occupation years and the denser speech regime that would develop later.
+**Key Shift:** Restoration of the republican legal order after Liberation, establishing the post-war metropolitan baseline against which later expansions of speech controls would be measured.
 
 ### Why this produces a final score of 71
 
-Negative-Only Weighting applied to the strong protective baseline (direct-harm prohibitions) reduced by the paternalistic age-of-consent differential and the limited speech controls of the early Fourth Republic yields a Base Score of 71. The score reflects a polity that had restored core criminal protections and had not yet layered the later ideological and identity-based expansions onto the republican framework. Inheritance from equivalent protective and paternalistic elements in the master Scored Policies document supports this placement.
+Negative-Only Weighting applied to the restored republican baseline, reduced by the residual paternalistic age-of-consent differential and ordinary press-law offences, yields a Base Score of 71. No Endos/Xenos split applies. The score reflects the highest practical autonomy level in the post-1945 French series.
 
 ---
 
-## **1956–1958: Algeria War Expression Controls – Base Score: 64**
+## **1956–1958: Algerian War Intensification – Base Score: 64**
 
-The intensification of the Algerian War produced a distinct and material tightening of expression and association controls directed at advocacy related to Algerian independence and criticism of French policy. Although the formal legal order of the Fourth Republic remained in place, the practical restrictive environment for political speech shifted downward sufficiently to justify a separate era under the guide’s criteria of durable change in the intensity of direct restrictions.
+The intensification of the Algerian War produced systematic use of censorship, newspaper seizures and legal actions against pro-independence advocacy and related political expression. Public-order and emergency powers were used to restrict gatherings and association linked to the conflict. These measures constituted a clear, time-limited but intensive addition to the restrictive environment for political speech. The underlying metropolitan baseline (protective criminal law plus the age-of-consent differential) remained in place.
 
 ### Core 1A Relevant Restrictions / Elements – Expanded Analysis
 
-* Systematic censorship, newspaper seizures, and legal actions targeting pro-Algeria advocacy and related political expression. These measures fall in the early ideological/identity-based controls band (approximately 44–50) and are scored near 46.
-* Use of public-order and emergency powers to restrict gatherings, demonstrations, and association linked to the Algerian conflict.
-* Retention of the prior metropolitan baseline, including the paternalistic age-of-consent differential and the limited pre-Pleven speech controls.
-* No general expansion of content-based speech offences applicable to the broader population beyond the Algeria-related targeting.
-* The measures were time-limited to the conflict but intensive enough during 1956–1958 to move the cumulative score by more than half a point for a sustained period.
+* Systematic seizure of newspapers and prior restraint against publications judged to undermine the war effort or encourage desertion.
+* Administrative bans on demonstrations and gatherings linked to the Algerian conflict.
+* Criminal prosecutions under existing provisions for provocation and for undermining the security of the state targeting journalists, intellectuals and activists who publicly supported independence or criticised army conduct.
+* Use of emergency and public-order powers to restrict association and collective expression related to the war.
+* Retention of the ordinary protective criminal baseline and the paternalistic age-of-consent differential.
+* The measures were formally temporary and issue-specific rather than a permanent expansion of the general speech code.
 
-The new expression-suppression measures constitute the primary downward driver relative to the 1945–1955 baseline. The episode is short but meets the guide’s threshold for a distinct era because of the observable and material increase in direct restrictions on voluntary political speech and association.
+The restrictive architecture of these years is defined by the addition of intensive, war-related expression and association controls on top of the post-Liberation baseline. Ordinary citizens who expressed support for independence risked both administrative and criminal sanctions, producing a measurable contraction of voluntary political speech. The underlying protective criminal law and the age-of-consent differential remained unchanged. The period therefore constitutes a distinct downward movement driven solely by the wartime controls rather than by any permanent expansion of the general speech code. Negative-Only Weighting records the cumulative weight of the temporary but intensive restrictions while they were in force.
 
-**Key Shift:** Introduction of targeted, ideologically framed suppression of political expression linked to the Algerian conflict, moving the architecture below the Fourth Republic baseline.
+**Key Shift:** Temporary but intensive war-related censorship, seizure and association controls arising from the Algerian conflict.
 
 ### Why this produces a final score of 64
 
-The previous baseline of 71 is reduced by the material weight of the Algeria-related expression controls (approximately 46-band). Under Negative-Only Weighting the net result is 64. The restrictions were direct prohibitions and administrative interferences with voluntary political speech and association, not merely punishments or processes. No Endos/Xenos split is applied for the metropolitan population as a whole; the targeting was issue-specific rather than a stable outgroup differential of the later laïcité type.
+The addition of the Algeria-related expression and association controls produces a clear downward movement from 71 to 64 under Negative-Only Weighting. The measures were temporary but of sufficient intensity and duration to justify a distinct era score. No Endos/Xenos split is applied for the metropolitan population.
 
 ---
 
 ## **1959–1974: Post-Algeria Recovery and Pleven Expansion – Base Score: 69**
 
-The end of the Algerian War and the transition to the Fifth Republic allowed recovery from the specific war-related expression controls. At the same time the period saw the first major legislative expansion of hate-speech protections through the Pleven Law of 1972. The net movement is therefore a partial recovery from the 1956–1958 low, offset by the new downward weight of broadened content-based speech restrictions.
+The end of the Algerian War removed the specific war-related censorship and seizure regime. In 1972 the Pleven Law inserted into the 1881 Press Law the offences of public provocation to discrimination, hatred or violence, and related insult and defamation, on grounds of origin, ethnicity, nation, race or religion. This constituted the first major post-war legislative expansion of content-based speech restrictions. The paternalistic higher age of consent for homosexual acts continued.
 
 ### Core 1A Relevant Restrictions / Elements – Expanded Analysis
 
-* Termination of the Algeria-specific censorship, seizure, and expression-suppression regime following the Evian Accords and independence.
-* Pleven Law (1972): significant broadening of hate-speech provisions, strengthening penalties and expanding the scope of prohibited expression, particularly in ways that increased the restrictive pressure on far-right and certain nationalist speech.
-* Continued operation of the paternalistic higher age of consent for homosexual acts.
-* Retention of core direct-harm criminal prohibitions.
-* No yet of the later Gayssot historical-memory layer or the post-2015 glorification-of-terrorism and State of Emergency architecture.
-* Enforcement of the expanded hate-speech rules remained selective but constituted a durable addition to the restrictive baseline.
+* Termination of the Algeria-specific censorship, seizure and association controls after the Evian Accords.
+* Pleven Law (1 July 1972) inserting new content-based offences into the 1881 Press Law: public provocation to discrimination, hatred or violence, and related insult and defamation on protected grounds.
+* Continued higher age of consent for homosexual acts (21) as a paternalistic restriction.
+* Retention of ordinary protective criminal prohibitions on violence and direct harm.
+* No equivalent of the later Gayssot historical-memory offence yet existed.
+* Enforcement of the new Pleven offences began to shape the outer limits of permissible political and social commentary.
 
-The restrictive profile of the era is therefore defined by the removal of the temporary Algeria-related controls and the simultaneous addition of a more permanent legislative expansion of content-based speech offences.
+The restrictive architecture of the period is defined by the removal of the temporary Algeria-related controls and the simultaneous addition of a more permanent legislative expansion of content-based speech offences via the Pleven Law. Recovery from the war-related low is real but incomplete because the new statutory layer prevented a full return to the 1945–1955 baseline. Judicial interpretation of the Pleven provisions began to establish a durable content-based overlay on expression. Negative-Only Weighting records both the liberalisation (removal of war controls) and the new restriction (Pleven) as changes in cumulative weight.
 
 **Key Shift:** End of war-related expression controls combined with the first significant post-war legislative expansion of content-based speech restrictions via the Pleven Law.
 
 ### Why this produces a final score of 69
 
-Recovery from the approximately 46-band Algeria measures raises the score from 64. The Pleven expansion and the residual paternalistic age-of-consent restriction prevent a full return to the 1945–1955 level of 71, producing a net Base Score of 69. Negative-Only Weighting is applied throughout; the liberalisation of the Algeria-specific measures raises the score solely by reducing negative weight.
+Recovery from the Algeria measures raises the score from 64. The Pleven expansion and the residual paternalistic age-of-consent restriction prevent a full return to the 1945–1955 level of 71, producing a net Base Score of 69. Negative-Only Weighting is applied throughout.
 
 ---
 
 ## **1975–1982: Abortion Liberalisation and Residual Paternalism – Base Score: 72**
 
-The Veil Law of 1975 replaced the previous blanket criminal prohibition on abortion with a regulated-access framework. This constitutes one of the clearest upward movements on bodily autonomy in the post-war period. At the same time the paternalistic age-of-consent differential and the post-Pleven hate-speech rules remained in force, limiting the net gain.
+The Veil Law of 1975 replaced the previous blanket criminal prohibition on abortion with a regulated-access framework under defined conditions. This constitutes one of the clearest upward movements on bodily autonomy in the post-war period. At the same time the paternalistic age-of-consent differential and the post-Pleven hate-speech rules remained in force, limiting the net gain.
 
 ### Core 1A Relevant Restrictions / Elements – Expanded Analysis
 
-* Veil Law (1975): shift from a blanket criminal prohibition on abortion (previously scored in the betterment-of-society band near 65) to a regulated-access regime under defined conditions (scored in the protection-of-the-vulnerable band near 84). This is a material reduction in direct restriction on bodily autonomy.
-* Continued paternalistic higher age of consent for homosexual acts (approximately 55-band).
+* Veil Law (1975): shift from a blanket criminal prohibition on abortion to a regulated-access regime under defined conditions, constituting a material reduction in direct restriction on bodily autonomy.
+* Continued paternalistic higher age of consent for homosexual acts (approximately 55-band restriction).
 * Continued post-Pleven hate-speech enforcement.
 * Retention of core direct-harm prohibitions.
 * No major new speech or association expansions in this relatively short interval.
 * The abortion reform is the dominant change and is treated under Negative-Only Weighting as the removal of a previously scored restriction.
 
-The era is defined by a significant liberalisation in one Core 1A domain (bodily autonomy) against a still-restrictive background in sexual paternalism and content-based speech.
+The era is defined by a significant liberalisation in one Core 1A domain (bodily autonomy) against a still-restrictive background in sexual paternalism and content-based speech. Because Negative-Only Weighting applies, the score rises solely by the removal of the prior blanket prohibition on abortion; no positive credit is assigned for the creation of a regulatory pathway. The residual paternalistic and speech restrictions continued to exert downward pressure, limiting the net gain from the Veil Law. The period therefore records a clear but bounded upward movement.
 
-**Key Shift:** Material liberalisation of the abortion restriction, the single largest positive movement on bodily autonomy in the post-war French series.
-
-### Why this produces a final score of 72
-
-The upward effect of moving abortion from a approximately 65-band prohibition to an approximately 84-band regulated framework outweighs the residual downward pressure of the age-of-consent rule and the post-Pleven hate-speech baseline. Under Negative-Only Weighting the net result is a Base Score of 72. Inheritance from equivalent abortion and paternalism elements in the master Scored Policies document supports the placement.
-
----
-
-## **1982–2015: Age-of-Consent Equalisation and Ideological Hate-Speech Peak – Base Score: 72**
-
-Equalisation of the age of consent in 1982 removed a long-standing paternalistic restriction. The same long period is otherwise dominated by the strongest ideological enforcement of hate-speech laws in modern French history, including the Gayssot Law of 1990 and expansive application of Article 24. The two movements largely cancel, leaving the Base Score unchanged from the preceding era.
-
-### Core 1A Relevant Restrictions / Elements – Expanded Analysis
-
-* Legislative removal in 1982 of the higher age of consent for homosexual acts. This eliminates a previously scored paternalistic restriction (approximately 55-band) and constitutes a clear upward movement under Negative-Only Weighting.
-* Gayssot Law (1990): specific content ban on Holocaust denial and negationism, with no truth defence and a strong ideological character. Scored in the early ideological restrictions band (approximately 43).
-* Broad and selective enforcement of Article 24 of the 1881 Press Law (incitement to hatred, discrimination, or violence) with increasing ideological application across the period.
-* Retention of the post-Veil regulated abortion framework.
-* No State of Emergency or glorification-of-terrorism layers yet in force.
-* The cumulative weight of Gayssot and intensified Article 24 enforcement offsets the upward effect of the 1982 equalisation.
-
-The restrictive profile is therefore characterised by the removal of one paternalistic sexual restriction and the simultaneous institutionalisation of strong content-based and historical-memory speech restrictions.
-
-**Key Shift:** Removal of the last major formal sexual-orientation paternalism combined with the institutionalisation of strong content-based and historical-memory speech restrictions (Gayssot and expansive Article 24).
+**Key Shift:** Replacement of the blanket criminal prohibition on abortion with a regulated-access framework (Veil Law), producing the principal liberalisation of the era.
 
 ### Why this produces a final score of 72
 
-Negative-Only Weighting produces two opposing movements of roughly comparable magnitude: the removal of the 55-band age-of-consent restriction raises the score, while the addition and aggressive enforcement of Gayssot and related Article 24 measures pull it back. The net result is an unchanged Base Score of 72 relative to the 1975–1982 era. The placement is consistent with inheritance from equivalent ideological speech restrictions in the master Scored Policies document.
+Removal of the blanket abortion prohibition raises the score from 69 to 72 under Negative-Only Weighting. The continued age-of-consent differential and post-Pleven speech rules prevent a larger gain. No Endos/Xenos split applies.
 
 ---
 
-## **November 2015 – February 2020: State of Emergency and Security Expansion – Base Score: 58**
+## **1982–2015: Age-of-Consent Equalisation and Speech Densification – Base Score: 70**
 
-The November 2015 attacks triggered a formal State of Emergency whose administrative powers (house arrests, gathering bans, searches without judicial warrant) and the parallel expansion of glorification-of-terrorism provisions produced the largest sustained drop in the post-war period prior to COVID. Although the formal emergency was lifted in 2017, many of the tools and the heightened enforcement posture persisted into early 2020.
+Equalisation of the age of consent in 1982 removed the long-standing paternalistic differential. In 1990 the Gayssot Law criminalised contestation of the existence of the Holocaust as defined by the Nuremberg Tribunal. Expansive application of Article 24 of the 1881 Press Law (incitement to hatred, discrimination or violence) continued and in some domains intensified. Successive amendments extended protected characteristics.
 
 ### Core 1A Relevant Restrictions / Elements – Expanded Analysis
 
-* Administrative house arrests under the State of Emergency. These are direct restrictions on movement and are scored near Control Order levels (approximately 84-band weight when active).
-* Bans on public gatherings and demonstrations (association restriction, approximately 20–25 band when broadly applied).
-* Aggressive use of glorification-of-terrorism provisions, introducing vague standards for expression related to terrorism (approximately 58-band).
-* Retention of the full prior hate-speech architecture (Pleven, Gayssot, Article 24).
-* Formal end of the emergency in November 2017 but lingering effects, normalised security tools, and continued elevated enforcement through early 2020.
-* The measures were not limited to a narrow set of individuals; they created a broader climate of administrative restriction on movement and association.
+* Equalisation of the age of consent in 1982, removing the paternalistic higher age for homosexual acts.
+* Gayssot Law (13 July 1990) criminalising contestation of the existence of the Holocaust as established by the Nuremberg Tribunal, with no truth defence available.
+* Continued and expansive enforcement of Article 24 Press Law offences of provocation to discrimination, hatred or violence.
+* Successive extensions of protected characteristics to include sex, sexual orientation, disability and later gender identity.
+* Retention of core protective criminal prohibitions.
+* No State of Emergency or glorification-of-terrorism architecture comparable to the post-2015 regime yet existed.
 
-The era is defined by the addition of sweeping administrative (non-criminal) restrictions on movement and association together with broadened expression controls under the terrorism rubric, layered on top of the already elevated hate-speech baseline.
+The restrictive architecture of this long plateau is defined by the removal of the last major formal sexual-orientation paternalism and the simultaneous institutionalisation of strong content-based and historical-memory speech restrictions. The two movements largely offset each other. The Gayssot Law and the expanding application of Article 24 created a durable ideological and identity-based overlay on political and historical expression. Negative-Only Weighting records the liberalisation of the age of consent as a reduction in negative weight and the new speech offences as an addition of negative weight, producing a net plateau.
 
-**Key Shift:** Introduction of sweeping administrative restrictions on movement and association plus broadened expression controls under the terrorism rubric, producing the sharpest pre-COVID drop in the series.
+**Key Shift:** Removal of the age-of-consent differential combined with the addition of the Gayssot historical-memory offence and continued densification of content-based speech rules.
 
-### Why this produces a final score of 58
+### Why this produces a final score of 70
 
-The cumulative weight of house-arrest powers, gathering bans, and glorification-of-terrorism provisions, added to the pre-existing hate-speech baseline, produces a clear downward movement from 72 to 58 under Negative-Only Weighting. The restrictions are direct (movement, association, and expression) rather than mere punishments or processes. No system-wide Endos/Xenos split is scored for this era, although selective application existed.
+The removal of the age-of-consent restriction and the simultaneous strengthening of content-based and historical-memory speech controls largely offset each other, producing a long plateau at 70. Negative-Only Weighting applies throughout.
 
 ---
 
-## **March 2020 – early 2022: COVID Restrictions Block – Base Score: 40**
+## **November 2015–February 2020: Post-Attack Emergency and Security Expansion – Base Score: 55**
 
-Treated as a single block per the established UK/Germany/France COVID protocol. Nationwide lockdowns, curfews, gathering bans, the *pass sanitaire*, and related medical and movement mandates constituted the most severe multi-domain restriction of personal autonomy in the post-war period.
+Following the November 2015 attacks a formal State of Emergency was declared. Administrative house arrests, gathering bans and searches without prior judicial warrant were authorised. Parallel expansion of glorification-of-terrorism provisions broadened content-based restrictions on expression related to terrorism. Although the formal emergency ended in 2017, many tools and the elevated enforcement posture persisted.
 
 ### Core 1A Relevant Restrictions / Elements – Expanded Analysis
 
-* Nationwide lockdowns and curfews imposing direct restrictions on movement (approximately 18–22 band).
-* Broad bans on gatherings and association (approximately 20–25 band).
-* Medical mandates and *pass sanitaire* requirements that conditioned access to work, transport, leisure and other normal activities on vaccination or testing status (bodily and medical autonomy, approximately 25–30 band).
-* School and business closures contributing to the overall restrictive weight.
-* Temporary character of the measures provides only modest mitigation under the COVID protocol used in prior country documents.
-* The block is scored as a single cumulative weight rather than as a series of micro-eras.
+* State of Emergency powers authorising house arrests on the basis of “serious reason to think that the person’s conduct threatens security or the public order,” without prior judicial authorisation.
+* Administrative searches of premises without judicial warrant and the power to copy digital data.
+* Power to block websites and social-media accounts judged to incite or glorify terrorism immediately and without judicial control.
+* Administrative bans on public demonstrations in designated areas and the power to dissolve associations judged to facilitate threats to public order.
+* Expansion and intensified enforcement of the glorification-of-terrorism offence (Article 421-2-5 Penal Code), with elevated penalties for online commission.
+* Transposition of many emergency tools into ordinary law after the formal end of the emergency in 2017.
 
-The restrictive profile is defined by the simultaneous imposition of severe controls across movement, association, education, work and bodily autonomy.
+The restrictive architecture of the period is defined by the layering of sweeping administrative movement and association controls onto the pre-existing hate-speech baseline, together with the broadening of content-based restrictions on terrorism-related expression. The cumulative addition of these powers produced the sharpest pre-COVID drop in the post-war French series. Even after the formal emergency ended, the residual security architecture remained denser than the pre-2015 baseline. Negative-Only Weighting records the full cumulative weight of both the temporary emergency measures and the durable legislative expansions.
 
-**Key Shift:** Unprecedented breadth and duration of direct restrictions on movement, association, education, work, and bodily autonomy.
+**Key Shift:** Declaration of the State of Emergency and the subsequent transposition of many of its tools into ordinary security and speech law.
 
-### Why this produces a final score of 40
+### Why this produces a final score of 55
 
-Single-block scoring of the cumulative COVID restrictions yields a Base Score of 40, the lowest era score in the entire post-1945 French series. Negative-Only Weighting and the established COVID protocol are applied consistently with the UK and Germany documents. The temporary nature of the measures is acknowledged but does not prevent the large downward movement while the restrictions were in force.
+The addition of administrative movement controls, association bans and broadened expression restrictions produces a clear downward movement from 70 to 55 under Negative-Only Weighting. The score reflects the densest pre-COVID restrictive environment in the post-1945 French series.
 
 ---
 
-## **Mid-2022 onward: Post-COVID Recovery with Persistent Expression Controls – Base Score: 67**
+## **March 2020–early 2022: COVID Restrictions Block – Base Score: 42**
 
-Lifting of the most extreme COVID measures produced a substantial recovery. The recovery is incomplete because the pre-existing hate-speech, glorification-of-terrorism, and security architecture remained fully in force and, in some domains, continued to be applied with politicised intensity. Laïcité and anti-separatism measures also continued to generate differential pressure.
+Nationwide lockdowns, curfews, gathering bans, the pass sanitaire and related medical and movement mandates constituted a severe multi-domain restriction of personal autonomy. The measures were temporary but cumulative across movement, association, work, education and bodily autonomy. Single-block treatment is applied consistently with the protocol used for other countries.
 
 ### Core 1A Relevant Restrictions / Elements – Expanded Analysis
 
-* Termination of lockdowns, curfews, the *pass sanitaire*, and the most sweeping gathering bans. These removals raise the score by reducing negative weight.
-* Retention of the full post-2015 security and glorification-of-terrorism framework.
-* Ongoing and in some domains intensified enforcement of Article 24, the Gayssot Law, and related speech offences.
-* Continued laïcité and anti-separatism measures affecting religious expression and association (particularly visible Islamic practices).
-* 2022 constitutionalisation of abortion rights. This has limited additional upward effect on the Core 1A score because the substantive liberalisation had already occurred with the Veil Law in 1975; constitutional status primarily protects against future restriction rather than removing an existing one.
-* No wholesale repeal of any major pre-COVID speech or security restriction.
+* Nationwide lockdowns and curfews imposing direct restrictions on movement.
+* Gathering bans and limits on association in public and private settings.
+* Pass sanitaire conditioning access to workplaces, transport, leisure venues and many public services on vaccination or testing status.
+* School and business closures further limiting ordinary association and daily activity.
+* Enforcement through administrative fines and, in repeated cases, criminal sanctions.
+* Temporary character of the measures provides only modest mitigation under the established COVID protocol.
 
-The restrictive profile is therefore defined by the removal of the temporary COVID superstructure while the denser post-2015 speech and security baseline remains intact.
+The restrictive architecture of the COVID period is defined by the simultaneous imposition of severe controls across movement, association and bodily autonomy on a nationwide scale. The cumulative weight of these temporary measures produced the lowest score in the post-1945 French series. Single-block scoring is applied for consistency with the United Kingdom, Germany, United States and other documents. Negative-Only Weighting records the full weight of the restrictions while they were in force.
 
-**Key Shift:** Removal of the temporary COVID superstructure while the denser post-2015 speech and security baseline remains in force.
+**Key Shift:** Temporary multi-domain emergency restrictions on a nationwide scale in response to the COVID pandemic.
 
-### Why this produces a final score of 67
+### Why this produces a final score of 42
 
-Strong upward movement from the elimination of COVID restrictions is partially offset by the persistent weight of politicised hate-speech enforcement, residual security powers, and continued laïcité measures. Under Negative-Only Weighting the net Base Score is 67 — a clear recovery from the COVID low of 40, but still below the 1982–2015 plateau of 72 and well below the early post-war levels. The placement is consistent with the cumulative restrictive architecture documented in the preceding eras.
+Protocol-consistent single-block scoring of the cumulative COVID restrictions yields a Base Score of 42, the lowest era score in the post-1945 French series. Negative-Only Weighting is applied. The temporary nature of the measures is acknowledged but does not prevent the large downward movement while the restrictions were in force.
+
+---
+
+## **Mid-2022 onward: Post-COVID Recovery with Residual Security Baseline – Base Score: 62**
+
+Lifting of the most extreme COVID measures produced substantial recovery. The pre-existing post-2015 security, glorification-of-terrorism and hate-speech architecture remained fully in force. Laïcité and anti-separatism measures continued to generate differential pressure on certain forms of religious expression and association. Constitutionalisation of abortion rights added formal protection against future legislative restriction but did not remove any existing prohibition.
+
+### Core 1A Relevant Restrictions / Elements – Expanded Analysis
+
+* Termination of the most sweeping COVID movement, gathering and medical mandates, raising the score by reducing negative weight.
+* Retention of the post-2015 security architecture, including residual control measures, glorification-of-terrorism provisions and the full suite of Press Law hate-speech offences.
+* Continued operation of laïcité and anti-separatism legislation generating differential pressure on certain forms of religious dress and association.
+* Constitutionalisation of abortion rights in 2022, which strengthens protection against future restriction but does not itself remove a prior prohibition under Negative-Only Weighting.
+* No wholesale liberalisation of the core content-based speech offences.
+* The recovery is real but incomplete; the denser post-2015 baseline continues to exert downward weight.
+
+The restrictive architecture of the post-COVID period is defined by the removal of the temporary pandemic superstructure while the denser security and speech baseline established after 2015 remains intact. The net result is a clear recovery from the COVID low that remains constrained by the cumulative weight of the post-2015 architecture. Negative-Only Weighting records the liberalisation of COVID measures as a reduction in negative weight and the retention of the security and speech framework as continued negative weight.
+
+**Key Shift:** Removal of the temporary COVID layer while the post-2015 security and speech architecture continues without material liberalisation.
+
+### Why this produces a final score of 62
+
+Strong upward movement from the elimination of COVID restrictions is partially offset by the persistent weight of the post-2015 security, glorification-of-terrorism and hate-speech rules. Under Negative-Only Weighting the net Base Score is 62 — a clear recovery from the COVID low of 42, yet still below the long 1982–2015 plateau of 70.
 
 ---
 
