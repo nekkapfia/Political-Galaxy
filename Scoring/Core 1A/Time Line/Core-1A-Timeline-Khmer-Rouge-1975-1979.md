@@ -12,9 +12,9 @@ The Khmer Rouge regime produced one of the most extreme collapses of personal au
 
 ---
 
-## **1975–1979: Democratic Kampuchea – Endos 4 / Xenos 2**
+## **1975–1979: Democratic Kampuchea – Combined Score: 4**
 
-The Khmer Rouge took Phnom Penh on 17 April 1975 and within days ordered the complete evacuation of the cities. The entire urban population was driven into the countryside under armed guard, abolishing urban life and imposing total control over residence and movement. Money, markets and private exchange were abolished. Religion was comprehensively suppressed. Family authority was subordinated to the organisation. Labour was totally controlled through forced collectivisation. Designated categories faced systematic execution, starvation and overwork.
+The Khmer Rouge took Phnom Penh on 17 April 1975 and within days ordered the complete evacuation of the cities. The entire urban population was driven into the countryside under armed guard, abolishing urban life and imposing total control over residence and movement. Money, markets and private exchange were abolished. Religion was comprehensively suppressed. Family authority was subordinated to the organisation. Labour was totally controlled through forced collectivisation. Designated categories faced systematic execution, starvation and overwork. The restrictive architecture was imposed almost instantaneously and applied system-wide.
 
 ### Core 1A Relevant Restrictions / Elements – Expanded Analysis
 
@@ -27,13 +27,14 @@ The Khmer Rouge took Phnom Penh on 17 April 1975 and within days ordered the com
 * Complete suppression of voluntary political expression, association and independent communication.
 * Ordinary protective criminal law against private violence was irrelevant; the central reality was political and administrative coercion on a total scale.
 
-The restrictive architecture is defined by the near-instantaneous replacement of the prior social and legal order with a system of total movement, labour, association, expression and bodily control, combined with mass killing of out-groups. Expression, association and movement were reduced to the minimum compatible with the regime’s production and security goals. Scores reach the practical floor of the Core 1A scale. Negative-Only Weighting and the Score 4 Floor both apply; no residual protective or liberalising elements offset the multi-domain coercion.
+The restrictive architecture is defined by the near-instantaneous replacement of the prior social and legal order with a system of total movement, labour, association, expression and bodily control, combined with mass killing. Because the extreme coercive system was applied broadly across the population, with additional intensity against certain categories that does not, under identical criteria, justify a separate Xenos number below the practical floor, the Endos/Xenos split is not applied. A single combined score at the Score 4 Floor is used.
 
 **Key Shift:** Instantaneous replacement of the residual Cambodian state and social order with the most radical agrarian-totalitarian project of the twentieth century.
 
-### Why this produces Endos 4 / Xenos 2
+### Why this produces a combined score of 4
 
-The cumulative weight of total movement, labour, association, expression and bodily controls, combined with mass killing of designated categories, reaches the practical floor of the Core 1A scale. The Score 4 Floor is applied. The Xenos score of 2 reflects the additional intensity and lethality directed at urbanites, intellectuals, ethnic minorities and former regime personnel. Negative-Only Weighting applies throughout.
+The cumulative weight of total movement, labour, association, expression and bodily controls, combined with mass killing, reaches the practical floor of the Core 1A scale. Under the rule that Endos and Xenos use identical criteria and the Score 4 Floor, and given that both the general population and the most targeted categories sit at that floor, the optional split is not applied. Combined score: 4.
+
 ---
 
 **End of Core 1A: Eras of Personal Autonomy under the Khmer Rouge (1975–1979)**
