@@ -38,26 +38,26 @@ Immediate multi-domain collapse produces low scores. The Xenos differential refl
 
 ---
 
-## **1939–1945: Wartime and Genocide – Endos 8 / Xenos 2**
+## **1935–1939: Full System – Endos 15 / Xenos 5**
 
-Total war mobilisation, Night and Fog decrees, and the implementation of the Final Solution produced the most extreme phase of multi-domain and group-targeted restriction. Ordinary protective criminal law continued to operate in limited non-political domains but was irrelevant to the central restrictive reality of total mobilisation and genocidal policy.
+The Nuremberg Laws, completion of Gleichschaltung, and intensification of racial and political controls consolidated the regime’s restrictive architecture. Independent institutional life was eliminated and differential treatment of designated groups was codified.
 
 ### Core 1A Relevant Restrictions / Elements – Expanded Analysis
 
-* Extreme wartime controls on speech, movement, labour and association for the entire population.
-* Night and Fog and related measures against political and resistance activity in occupied territories and at home.
-* Genocide of the Jews and mass murder of other designated groups as the ultimate differential restriction on personal autonomy.
-* Total mobilisation of society under Party and SS control, eliminating residual private spheres.
-* Ordinary protective criminal law retained only marginal relevance.
-* Scores reach the extreme low end of the Core 1A scale for both the general population and, far more severely, for the targeted out-groups.
+* Nuremberg Laws stripping Jews of citizenship and prohibiting intermarriage and sexual relations, creating a formal dual legal status.
+* Complete coordination of media, culture, education and association under Party control.
+* Expansion of the concentration-camp system and the apparatus of political policing.
+* Escalating exclusion, expropriation and violence against Jews and other designated groups.
+* Comprehensive controls on political and public expression; independent opposition was impossible.
+* The regime retained ordinary criminal law for non-political matters while subordinating all significant domains of autonomy to political criteria.
 
-The restrictive profile is defined by total mobilisation combined with open genocidal policy against designated out-groups. The cumulative multi-domain and group-targeted coercion produces scores at the extreme low end of the scale. Negative-Only Weighting and the Score 4 Floor are both relevant.
+The restrictive profile is defined by the codification of the racial state and the completion of institutional coordination.
 
-**Key Shift:** Transition to open genocidal policy and total war mobilisation, producing the maximum intensity of multi-domain and group-targeted coercion.
+**Key Shift:** Codification of the racial state through the Nuremberg Laws and completion of Gleichschaltung across institutional life.
 
-### Why this produces Endos 8 / Xenos 2
+### Why this produces Endos 15 / Xenos 5
 
-Maximum intensity of multi-domain and group-targeted coercion produces scores at the extreme low end of the scale. The Xenos score approaches the practical floor. Negative-Only Weighting and the Score 4 Floor apply.
+Further densification and radicalisation of the restrictive system produce lower scores. The Xenos differential widens dramatically with the formal racial legislation and intensifying persecution.
 
 ---
 
