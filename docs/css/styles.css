@@ -1,0 +1,171 @@
+/* Political Galaxy custom styles */
+
+.nav-btn {
+  color: #94a3b8;
+}
+.nav-btn:hover {
+  color: #e2e8f0;
+  background: #1e293b;
+}
+.nav-btn.active {
+  background: #4f46e5;
+  color: white;
+}
+
+.section {
+  animation: fadeIn 0.25s ease;
+}
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: none; }
+}
+
+/* Slider styles */
+.slider-group {
+  background: #0f172a;
+  border: 1px solid #334155;
+  border-radius: 0.75rem;
+  padding: 1rem 1.25rem;
+}
+.slider-group h3 {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #64748b;
+  margin-bottom: 0.75rem;
+}
+.slider-row {
+  display: grid;
+  grid-template-columns: 140px 1fr 48px;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 0.6rem;
+}
+.slider-row label {
+  font-size: 0.8rem;
+  color: #cbd5e1;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.slider-row input[type=range] {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 6px;
+  background: #334155;
+  border-radius: 3px;
+  outline: none;
+}
+.slider-row input[type=range]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #6366f1;
+  cursor: pointer;
+  border: 2px solid #e0e7ff;
+}
+.slider-value {
+  font-family: ui-monospace, monospace;
+  font-size: 0.8rem;
+  text-align: right;
+  color: #a5b4fc;
+}
+
+/* Match cards */
+.match-card {
+  background: #1e293b;
+  border: 1px solid #334155;
+  border-radius: 0.5rem;
+  padding: 0.75rem;
+  cursor: pointer;
+  transition: border-color 0.15s;
+}
+.match-card:hover {
+  border-color: #6366f1;
+}
+.match-score {
+  font-size: 0.7rem;
+  color: #94a3b8;
+}
+
+/* Entity list */
+.entity-item {
+  padding: 0.65rem 0.9rem;
+  cursor: pointer;
+  transition: background 0.1s;
+}
+.entity-item:hover, .entity-item.active {
+  background: #1e293b;
+}
+.entity-item.active {
+  border-left: 3px solid #6366f1;
+}
+
+/* Galaxy specific */
+#galaxy-canvas svg {
+  cursor: grab;
+}
+#galaxy-canvas svg:active {
+  cursor: grabbing;
+}
+.cluster-label {
+  font-size: 13px;
+  font-weight: 600;
+  fill: #e2e8f0;
+  pointer-events: none;
+  text-shadow: 0 1px 3px #000;
+}
+.entity-dot {
+  cursor: pointer;
+  transition: r 0.15s;
+}
+.entity-dot:hover {
+  stroke: #fff;
+  stroke-width: 2px;
+}
+.cluster-bg {
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+.cluster-bg:hover {
+  opacity: 0.85;
+}
+
+/* Markdown content in detail */
+.prose h1, .prose h2, .prose h3 {
+  color: #e2e8f0;
+  margin-top: 1.25em;
+  margin-bottom: 0.5em;
+}
+.prose p, .prose li {
+  color: #cbd5e1;
+  line-height: 1.6;
+}
+.prose table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.85rem;
+  margin: 1em 0;
+}
+.prose th, .prose td {
+  border: 1px solid #334155;
+  padding: 0.4rem 0.6rem;
+  text-align: left;
+}
+.prose th {
+  background: #1e293b;
+  color: #a5b4fc;
+}
+.prose code {
+  background: #1e293b;
+  padding: 0.1em 0.3em;
+  border-radius: 3px;
+  font-size: 0.85em;
+}
+.prose pre {
+  background: #020617;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  overflow-x: auto;
+}
