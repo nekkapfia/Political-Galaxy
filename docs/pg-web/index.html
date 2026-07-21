@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Political Galaxy – Empirical Political Slider System</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <link rel="stylesheet" href="css/styles.css" />
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            galaxy: {
+              50: '#f0f4ff',
+              100: '#dbe4ff',
+              200: '#bac8ff',
+              300: '#91a7ff',
+              400: '#748ffc',
+              500: '#5c7cfa',
+              600: '#4c6ef5',
+              700: '#4263eb',
+              800: '#3b5bdb',
+              900: '#364fc7',
+              950: '#1e3a8a'
+            }
+          }
+        }
+      }
+    }
+  </script>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen">
+  <!-- Navigation -->
+  <nav class="fixed top-0 left-0 right-0 z-50 bg-slate-900/95 backdrop-blur border-b border-slate-700">
+    <div class="max-w-7xl mx-auto px-4">
+      <div class="flex items-center justify-between h-14">
+        <div class="flex items-center gap-3">
+          <div class="w-8 h-8 rounded-full bg-gradient-to-br from-indigo-500 to-purple-600 flex items-center justify-center text-sm font-bold">PG</div>
+          <span class="font-semibold text-lg tracking-tight">Political Galaxy</span>
+        </div>
+        <div class="flex gap-1">
+          <button data-section="index" class="nav-btn px-4 py-2 rounded-md text-sm font-medium transition-colors">Index</button>
+          <button data-section="sliders" class="nav-btn px-4 py-2 rounded-md text-sm font-medium transition-colors">Sliders</button>
+          <button data-section="detail" class="nav-btn px-4 py-2 rounded-md text-sm font-medium transition-colors">Detail</button>
+          <button data-section="galaxy" class="nav-btn px-4 py-2 rounded-md text-sm font-medium transition-colors bg-indigo-600 text-white">Galaxy</button>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <main class="pt-16 pb-12">
+    <!-- INDEX SECTION -->
+    <section id="section-index" class="section hidden max-w-7xl mx-auto px-4 py-8">
+      <h1 class="text-3xl font-bold mb-2">Document Index</h1>
+      <p class="text-slate-400 mb-6">All source documents for the Empirical Political Slider System. Interactive scores are loaded live from the <code class="text-indigo-300">Index/</code> folder of the <a href="https://github.com/nekkapfia/Political-Galaxy" target="_blank" class="text-indigo-400 hover:underline">nekkapfia/Political-Galaxy</a> repository (Time Line + Political Parties JSONs). Browse the structure or open key files below.</p>
+      
+      <div class="grid md:grid-cols-3 gap-6">
+        <div class="bg-slate-900 rounded-xl border border-slate-700 p-5">
+          <h2 class="font-semibold text-lg mb-3 text-indigo-300">Core Framework</h2>
+          <ul class="space-y-2 text-sm" id="index-core"></ul>
+        </div>
+        <div class="bg-slate-900 rounded-xl border border-slate-700 p-5">
+          <h2 class="font-semibold text-lg mb-3 text-indigo-300">Individual Sliders</h2>
+          <ul class="space-y-2 text-sm" id="index-sliders"></ul>
+        </div>
+        <div class="bg-slate-900 rounded-xl border border-slate-700 p-5">
+          <h2 class="font-semibold text-lg mb-3 text-indigo-300">Scoring & Applications</h2>
+          <ul class="space-y-2 text-sm" id="index-scoring"></ul>
+        </div>
+      </div>
+
+      <div class="mt-8 bg-slate-900 rounded-xl border border-slate-700 p-5">
+        <h2 class="font-semibold text-lg mb-3">Full Repository Structure</h2>
+        <p class="text-slate-400 text-sm mb-4">The complete source lives on GitHub. The website pulls its scoring data directly from the live <code class="text-indigo-300">Index/</code> folder. Key folders:</p>
+        <pre class="text-xs bg-slate-950 p-4 rounded-lg overflow-x-auto text-slate-300" id="repo-tree"></pre>
+        <a href="https://github.com/nekkapfia/Political-Galaxy/tree/main/Index" target="_blank" class="inline-block mt-4 text-indigo-400 hover:underline text-sm mr-4">Open Index/ on GitHub →</a>
+        <a href="https://github.com/nekkapfia/Political-Galaxy" target="_blank" class="inline-block mt-4 text-indigo-400 hover:underline text-sm">Open full repository →</a>
+      </div>
+    </section>
+
+    <!-- SLIDERS SECTION -->
+    <section id="section-sliders" class="section hidden max-w-7xl mx-auto px-4 py-8">
+      <h1 class="text-3xl font-bold mb-2">Interactive Sliders</h1>
+      <p class="text-slate-400 mb-6">Adjust the 14 axes. The system finds the closest matching scored entities based on available data (partial matching supported where scores exist).</p>
+      
+      <div class="grid lg:grid-cols-3 gap-6">
+        <div class="lg:col-span-2 space-y-4" id="slider-container">
+          <!-- Sliders injected by JS -->
+        </div>
+        <div class="space-y-4">
+          <div class="bg-slate-900 rounded-xl border border-slate-700 p-5 sticky top-20">
+            <h2 class="font-semibold mb-3">Closest Matches</h2>
+            <div id="match-results" class="space-y-3 text-sm">
+              <p class="text-slate-500">Move the sliders to see matches…</p>
+            </div>
+            <button id="reset-sliders" class="mt-4 w-full py-2 bg-slate-800 hover:bg-slate-700 rounded-lg text-sm">Reset to Neutral (50)</button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- DETAIL SECTION -->
+    <section id="section-detail" class="section hidden max-w-7xl mx-auto px-4 py-8">
+      <h1 class="text-3xl font-bold mb-2">Country + Year Detail</h1>
+      <p class="text-slate-400 mb-6">
+        Choose a country and a year. The system looks up each of the 14 sliders independently
+        using that slider’s own era boundaries, then shows the score and a direct link to the
+        source document section that justifies it.
+      </p>
+      
+      <div class="flex flex-col md:flex-row gap-6">
+        <div class="w-full md:w-72 shrink-0">
+          <div id="entity-list" class="bg-slate-900 rounded-xl border border-slate-700 max-h-[70vh] overflow-y-auto"></div>
+        </div>
+        <div class="flex-1 bg-slate-900 rounded-xl border border-slate-700 p-6 min-h-[60vh]" id="entity-detail">
+          <p class="text-slate-500">Select a country and year, then click “Show scores”.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- GALAXY SECTION -->
+    <section id="section-galaxy" class="section max-w-full px-0 py-0">
+      <div class="relative w-full h-[calc(100vh-3.5rem)] bg-slate-950 overflow-hidden">
+        <!-- Toolbar -->
+        <div class="absolute top-4 left-4 z-20 flex gap-2">
+          <button id="galaxy-reset" class="px-3 py-1.5 bg-slate-800/90 hover:bg-slate-700 rounded-lg text-sm border border-slate-600">Reset View</button>
+          <button id="galaxy-zoom-out" class="px-3 py-1.5 bg-slate-800/90 hover:bg-slate-700 rounded-lg text-sm border border-slate-600">Zoom Out</button>
+          <span id="galaxy-breadcrumb" class="px-3 py-1.5 bg-slate-900/90 rounded-lg text-sm border border-slate-700 text-slate-300"></span>
+        </div>
+        <div class="absolute top-4 right-4 z-20 text-xs text-slate-500 bg-slate-900/80 px-3 py-1.5 rounded-lg border border-slate-700">
+          Click clusters to zoom in · Drag to pan · Scroll to zoom
+        </div>
+        
+        <!-- Canvas / SVG container -->
+        <div id="galaxy-canvas" class="w-full h-full"></div>
+        
+        <!-- Side panel for selected -->
+        <div id="galaxy-panel" class="absolute top-16 right-4 w-80 bg-slate-900/95 backdrop-blur border border-slate-700 rounded-xl p-4 shadow-2xl hidden max-h-[70vh] overflow-y-auto z-20">
+          <button id="close-panel" class="absolute top-2 right-2 text-slate-400 hover:text-white">✕</button>
+          <div id="panel-content"></div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script src="js/data.js"></script>
+  <script src="js/sliders.js"></script>
+  <script src="js/galaxy.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
