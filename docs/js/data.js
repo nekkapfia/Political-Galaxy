@@ -30,6 +30,30 @@ let DATA_LOAD_PROMISE = null;
 // ------------------------------------------------------------
 // Load Index JSON files
 // ------------------------------------------------------------
+// Map both the live Index style (core1a / cultural1a) and the internal style (1A / C1A)
+const SLIDER_KEY_MAP = {
+  // live Index style → internal
+  "core1a": "1A", "core1b": "1B", "core2a": "2A", "core2b": "2B",
+  "cultural1a": "C1A", "cultural1b": "C1B", "cultural2a": "C2A", "cultural2b": "C2B",
+  "cultural3a": "C3A", "cultural3b": "C3B", "cultural4a": "C4A", "cultural4b": "C4B",
+  "cultural5a": "C5A", "cultural5b": "C5B",
+  // already-internal style (pass-through)
+  "1A": "1A", "1B": "1B", "2A": "2A", "2B": "2B",
+  "C1A": "C1A", "C1B": "C1B", "C2A": "C2A", "C2B": "C2B",
+  "C3A": "C3A", "C3B": "C3B", "C4A": "C4A", "C4B": "C4B",
+  "C5A": "C5A", "C5B": "C5B"
+};
+
+function normalizeSliderKey(key) {
+  if (!key) return null;
+  const k = String(key).toLowerCase().replace(/[^a-z0-9]/g, "");
+  // try exact lowercased match first
+  for (const [from, to] of Object.entries(SLIDER_KEY_MAP)) {
+    if (from.toLowerCase().replace(/[^a-z0-9]/g, "") === k) return to;
+  }
+  return SLIDER_KEY_MAP[key] || null;
+}
+
 async function loadIndexData() {
   if (DATA_LOAD_PROMISE) return DATA_LOAD_PROMISE;
 
@@ -73,15 +97,19 @@ async function loadIndexData() {
       if (!timeline) throw new Error("Timeline JSON could not be loaded from remote Index or local data/");
       if (!parties)  throw new Error("Parties JSON could not be loaded from remote Index or local data/");
 
-      // Convert Timeline Index → SCORE_DATA shape
-      // Expected: SCORE_DATA[country][sliderId] = [{start, end, score, source, section, notes}]
+      // Convert Timeline Index → SCORE_DATA shape (normalise keys)
       const country = timeline.country || "United Kingdom";
       SCORE_DATA[country] = {};
 
-      for (const [sliderId, eras] of Object.entries(timeline.sliders || {})) {
+      for (const [rawKey, eras] of Object.entries(timeline.sliders || {})) {
+        const sliderId = normalizeSliderKey(rawKey);
+        if (!sliderId) {
+          console.warn("[Political Galaxy] Unknown timeline slider key:", rawKey);
+          continue;
+        }
         SCORE_DATA[country][sliderId] = (eras || []).map(e => ({
           start:   e.start == null ? 0 : e.start,
-          end:     e.end == null ? 9999 : e.end,
+          end:     (e.end == null || e.end === 9999) ? 9999 : e.end,
           score:   e.score,
           source:  e.source || "",
           section: e.section || e.era || "",
@@ -90,14 +118,25 @@ async function loadIndexData() {
         }));
       }
 
-      // Convert Parties Index → PARTY_DATA shape
-      PARTY_DATA[country] = parties.parties || {};
+      // Convert Parties Index → PARTY_DATA shape (normalise keys)
+      const rawParties = parties.parties || {};
+      const normalizedParties = {};
+      for (const [partyName, rawScores] of Object.entries(rawParties)) {
+        const scores = {};
+        for (const [rawKey, value] of Object.entries(rawScores || {})) {
+          const sliderId = normalizeSliderKey(rawKey);
+          if (sliderId) scores[sliderId] = value;
+        }
+        normalizedParties[partyName] = scores;
+      }
+      PARTY_DATA[country] = normalizedParties;
 
       // Build ENTITIES array + attach to galaxy hierarchy for visualisation / matching
       buildEntitiesFromParties();
 
       DATA_READY = true;
       console.log(`[Political Galaxy] Index data loaded for ${country} from ${source} – ${ENTITIES.length} entities`);
+      console.log("[Political Galaxy] Timeline sliders available:", Object.keys(SCORE_DATA[country] || {}));
       // Optional UI status (if element exists)
       const statusEl = document.getElementById("data-source-status");
       if (statusEl) statusEl.textContent = `Data: ${source}`;
