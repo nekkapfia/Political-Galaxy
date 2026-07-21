@@ -1,0 +1,150 @@
+### 1. Timeline Index  
+**Recommended path:** `Index/Time Line/United_Kingdom.json`
+
+```json
+{
+  "country": "United Kingdom",
+  "sliders": {
+    "core1a": [
+      { "era": "Post-War Common-Law Baseline", "start": 1945, "end": 1985, "score": 78, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Core%201A/Time%20Line/Core-1A-Timeline-UK-1945-Present.md" },
+      { "era": "Public Order Act Densification", "start": 1986, "end": 2000, "score": 68, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Core%201A/Time%20Line/Core-1A-Timeline-UK-1945-Present.md" },
+      { "era": "Communications Act and Terrorism Expression Controls", "start": 2001, "end": 2015, "score": 62, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Core%201A/Time%20Line/Core-1A-Timeline-UK-1945-Present.md" },
+      { "era": "Elevated Enforcement Plateau", "start": 2016, "end": 2019, "score": 60, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Core%201A/Time%20Line/Core-1A-Timeline-UK-1945-Present.md" },
+      { "era": "COVID Restrictions Block", "start": 2020, "end": 2022, "score": 38, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Core%201A/Time%20Line/Core-1A-Timeline-UK-1945-Present.md" },
+      { "era": "Post-COVID Recovery with Online Safety Act", "start": 2022, "end": null, "score": 58, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Core%201A/Time%20Line/Core-1A-Timeline-UK-1945-Present.md" }
+    ],
+    "core1b": [
+      { "era": "Day Zero: Post-War Consensus", "start": null, "end": 1978, "score": 53, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Core%201B/Britain_Core_1B_Scoring_Document_Complete.md" },
+      { "era": "Thatcher Liberalisation", "start": 1979, "end": 1990, "score": 64, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Core%201B/Britain_Core_1B_Scoring_Document_Complete.md" },
+      { "era": "Market Consolidation", "start": 1991, "end": 2007, "score": 61, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Core%201B/Britain_Core_1B_Scoring_Document_Complete.md" },
+      { "era": "Financial Crisis & Austerity", "start": 2008, "end": 2016, "score": 59, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Core%201B/Britain_Core_1B_Scoring_Document_Complete.md" },
+      { "era": "Brexit Uncertainty", "start": 2017, "end": 2020, "score": 59, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Core%201B/Britain_Core_1B_Scoring_Document_Complete.md" },
+      { "era": "COVID Restrictions", "start": 2020, "end": 2022, "score": 40, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Core%201B/Britain_Core_1B_Scoring_Document_Complete.md" },
+      { "era": "Post-COVID & Energy", "start": 2022, "end": 2024, "score": 57, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Core%201B/Britain_Core_1B_Scoring_Document_Complete.md" },
+      { "era": "Current Government Reforms", "start": 2024, "end": null, "score": 55, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Core%201B/Britain_Core_1B_Scoring_Document_Complete.md" }
+    ],
+    "core2a": [
+      { "era": "Pre-EEC Membership", "start": null, "end": 1972, "score": 92, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Core%202A/Britain%20Core%202A%20Scoring.md" },
+      { "era": "Early EEC Membership", "start": 1973, "end": 1992, "score": 45, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Core%202A/Britain%20Core%202A%20Scoring.md" },
+      { "era": "Deep EU Integration", "start": 1993, "end": 2020, "score": 34, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Core%202A/Britain%20Core%202A%20Scoring.md" },
+      { "era": "Covid Suppression of Settlers", "start": 2020, "end": 2022, "score": 43, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Core%202A/Britain%20Core%202A%20Scoring.md" },
+      { "era": "Large Scale Illegal Settlement Era", "start": 2022, "end": null, "score": 28, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Core%202A/Britain%20Core%202A%20Scoring.md" }
+    ],
+    "core2b": [
+      { "era": "Rhodesia Crisis", "start": 1979, "end": 1980, "score": 61, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Core%202B/Britain%20Core%202B%20Scoring.md" },
+      { "era": "Thatcher/Major Restraint", "start": 1980, "end": 1997, "score": 68, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Core%202B/Britain%20Core%202B%20Scoring.md" },
+      { "era": "Early Liberal Interventionism", "start": 1997, "end": 2001, "score": 56, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Core%202B/Britain%20Core%202B%20Scoring.md" },
+      { "era": "Offensive Wars Peak", "start": 2001, "end": 2011, "score": 23, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Core%202B/Britain%20Core%202B%20Scoring.md" },
+      { "era": "Selective & Declining Intervention", "start": 2011, "end": 2016, "score": 42, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Core%202B/Britain%20Core%202B%20Scoring.md" },
+      { "era": "Sanctions & Proxy Support", "start": 2016, "end": null, "score": 48, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Core%202B/Britain%20Core%202B%20Scoring.md" }
+    ],
+    "cultural1a": [
+      { "era": "Post-War Moral Settlement", "start": 1945, "end": 1951, "score": 66, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Cultural%201A/Time%20Line/Cultural-1A-Timeline-UK-1945-2026.md" },
+      { "era": "Post-War Pragmatic Consensus", "start": 1951, "end": 1964, "score": 26, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Cultural%201A/Time%20Line/Cultural-1A-Timeline-UK-1945-2026.md" },
+      { "era": "Social Liberalisation", "start": 1964, "end": 1970, "score": 17, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Cultural%201A/Time%20Line/Cultural-1A-Timeline-UK-1945-2026.md" },
+      { "era": "Economic Crisis and Political Strain", "start": 1970, "end": 1974, "score": 10, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Cultural%201A/Time%20Line/Cultural-1A-Timeline-UK-1945-2026.md" },
+      { "era": "Crisis of the Post-War Settlement", "start": 1974, "end": 1979, "score": 10, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Cultural%201A/Time%20Line/Cultural-1A-Timeline-UK-1945-2026.md" },
+      { "era": "Early Thatcher Revolution", "start": 1979, "end": 1983, "score": 5, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Cultural%201A/Time%20Line/Cultural-1A-Timeline-UK-1945-2026.md" },
+      { "era": "Thatcher Consolidation", "start": 1983, "end": 1990, "score": 7, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Cultural%201A/Time%20Line/Cultural-1A-Timeline-UK-1945-2026.md" },
+      { "era": "Post-Thatcher Consolidation", "start": 1990, "end": 1997, "score": 12, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Cultural%201A/Time%20Line/Cultural-1A-Timeline-UK-1945-2026.md" },
+      { "era": "New Labour Modernisation", "start": 1997, "end": 2010, "score": 24, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Cultural%201A/Time%20Line/Cultural-1A-Timeline-UK-1945-2026.md" },
+      { "era": "Austerity and Pragmatic Conservatism", "start": 2010, "end": 2016, "score": 8, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Cultural%201A/Time%20Line/Cultural-1A-Timeline-UK-1945-2026.md" },
+      { "era": "Brexit Sovereignty Era", "start": 2016, "end": 2024, "score": 4, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Cultural%201A/Time%20Line/Cultural-1A-Timeline-UK-1945-2026.md" },
+      { "era": "Post-Brexit Technocratic Turn", "start": 2024, "end": null, "score": 9, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Cultural%201A/Time%20Line/Cultural-1A-Timeline-UK-1945-2026.md" }
+    ],
+    "cultural1b": [
+      { "era": "Post-War Reconstruction", "start": 1945, "end": 1951, "score": 70, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Cultural%201B/Britain%20Cultural%201B.md" },
+      { "era": "Butskellite Consensus", "start": 1951, "end": 1959, "score": 70, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Cultural%201B/Britain%20Cultural%201B.md" },
+      { "era": "Social Liberalization & Identity Tensions", "start": 1959, "end": 1968, "score": 68, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Cultural%201B/Britain%20Cultural%201B.md" },
+      { "era": "Powell Shock to Winter of Discontent", "start": 1968, "end": 1979, "score": 66, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Cultural%201B/Britain%20Cultural%201B.md" },
+      { "era": "Thatcher Ascendancy & High Thatcherism", "start": 1979, "end": 1990, "score": 73, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Cultural%201B/Britain%20Cultural%201B.md" },
+      { "era": "Major Government & Fractures", "start": 1990, "end": 1997, "score": 69, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Cultural%201B/Britain%20Cultural%201B.md" },
+      { "era": "New Labour Progressive Era", "start": 1997, "end": 2010, "score": 79, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Cultural%201B/Britain%20Cultural%201B.md" },
+      { "era": "Austerity & Rising Contestation", "start": 2010, "end": 2016, "score": 76, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Cultural%201B/Britain%20Cultural%201B.md" },
+      { "era": "Brexit Shock & May Negotiations", "start": 2016, "end": 2019, "score": 76, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Cultural%201B/Britain%20Cultural%201B.md" },
+      { "era": "Johnson Delivery, COVID, Instability & Starmer", "start": 2019, "end": null, "score": 76, "source": "https://github.com/nekkapfia/Political-Galaxy/blob/main/Scoring/Cultural%201B/Britain%20Cultural%201B.md" }
+    ],
+    "cultural2a": [
+      { "era": "Post-War Class-Based Allocation", "start": 1945, "end": 1955, "score": 78, "source": "User-provided summary table" },
+      { "era": "Early Commonwealth Immigration", "start": 1955, "end": 1965, "score": 74, "source": "User-provided summary table" },
+      { "era": "Race Relations Legislation", "start": 1965, "end": 1975, "score": 61, "source": "User-provided summary table" },
+      { "era": "Sex Discrimination Extension", "start": 1975, "end": 1979, "score": 57, "source": "User-provided summary table" },
+      { "era": "Thatcher Era", "start": 1979, "end": 1990, "score": 66, "source": "User-provided summary table" },
+      { "era": "Major Government", "start": 1990, "end": 1997, "score": 62, "source": "User-provided summary table" },
+      { "era": "New Labour Expansion", "start": 1997, "end": 2005, "score": 47, "source": "User-provided summary table" },
+      { "era": "New Labour Peak", "start": 2005, "end": 2010, "score": 42, "source": "User-provided summary table" },
+      { "era": "Conservative Contestation", "start": 2010, "end": 2019, "score": 49, "source": "User-provided summary table" },
+      { "era": "Heightened Contestation", "start": 2019, "end": 2024, "score": 52, "source": "User-provided summary table" },
+      { "era": "Starmer Government (Provisional)", "start": 2024, "end": null, "score": 50, "source": "User-provided summary table" }
+    ],
+    "cultural2b": [
+      { "era": "Post-War Victory and Institutional Confidence", "start": 1945, "end": 1955, "score": 70, "source": "User-provided summary table" },
+      { "era": "Suez, Decolonisation and Emerging Malaise", "start": 1955, "end": 1964, "score": 62, "source": "User-provided summary table" },
+      { "era": "Cultural Liberalisation and National Malaise", "start": 1964, "end": 1979, "score": 42, "source": "User-provided summary table" },
+      { "era": "Thatcherite Reassertion of National Pride", "start": 1979, "end": 1990, "score": 74, "source": "User-provided summary table" },
+      { "era": "Major Years – Defensive Patriotism and Division", "start": 1990, "end": 1997, "score": 65, "source": "User-provided summary table" },
+      { "era": "Early New Labour Cosmopolitanism", "start": 1997, "end": 2005, "score": 50, "source": "User-provided summary table" },
+      { "era": "Late New Labour – Strained Cosmopolitanism", "start": 2005, "end": 2010, "score": 46, "source": "User-provided summary table" },
+      { "era": "Contested Austerity and Identity", "start": 2010, "end": 2016, "score": 55, "source": "User-provided summary table" },
+      { "era": "Brexit Polarisation and Reassertion", "start": 2016, "end": null, "score": 60, "source": "User-provided summary table" }
+    ],
+    "cultural3a": [
+      { "era": "Post-War Imperial Citizenship", "start": 1945, "end": 1961, "score": 0, "source": "User-provided summary table" },
+      { "era": "Early Commonwealth Controls", "start": 1962, "end": 1970, "score": 0, "source": "User-provided summary table" },
+      { "era": "Patriality and Immigration Act", "start": 1971, "end": 1982, "score": 0, "source": "User-provided summary table" },
+      { "era": "1981 Nationality Reform", "start": 1983, "end": 2001, "score": 0, "source": "User-provided summary table" },
+      { "era": "Formal Integration Framework", "start": 2002, "end": 2009, "score": 0, "source": "User-provided summary table" },
+      { "era": "Consolidation", "start": 2010, "end": null, "score": 0, "source": "User-provided summary table" }
+    ],
+    "cultural3b": [
+      { "era": "Post-War Imperial Citizenship", "start": 1945, "end": 1961, "score": 5, "source": "User-provided summary table" },
+      { "era": "Early Commonwealth Controls", "start": 1962, "end": 1970, "score": 5, "source": "User-provided summary table" },
+      { "era": "Patriality and Immigration Act", "start": 1971, "end": 1982, "score": 5, "source": "User-provided summary table" },
+      { "era": "1981 Nationality Reform", "start": 1983, "end": 2001, "score": 8, "source": "User-provided summary table" },
+      { "era": "Formal Integration Framework", "start": 2002, "end": 2009, "score": 22, "source": "User-provided summary table" },
+      { "era": "Consolidation", "start": 2010, "end": null, "score": 25, "source": "User-provided summary table" }
+    ],
+    "cultural4a": [
+      { "era": "Post-War Tripartite System", "start": 1945, "end": 1964, "score": 68, "source": "User-provided summary table" },
+      { "era": "Comprehensive Reforms", "start": 1964, "end": 1979, "score": 52, "source": "User-provided summary table" },
+      { "era": "Market Reforms & Selective Decline", "start": 1979, "end": 1997, "score": 48, "source": "User-provided summary table" },
+      { "era": "Widening Participation", "start": 1997, "end": 2010, "score": 35, "source": "User-provided summary table" },
+      { "era": "Austerity & Academies", "start": 2010, "end": 2016, "score": 31, "source": "User-provided summary table" },
+      { "era": "Post-Brexit Stratification", "start": 2016, "end": 2024, "score": 27, "source": "User-provided summary table" },
+      { "era": "Current Trajectory", "start": 2024, "end": null, "score": 25, "source": "User-provided summary table" }
+    ],
+    "cultural4b": [
+      { "era": "Post-War Welfare State and Limited Anti-Discrimination", "start": 1945, "end": 1964, "score": 18, "source": "User-provided summary table" },
+      { "era": "First Wave of Race and Sex Discrimination Legislation", "start": 1965, "end": 1975, "score": 35, "source": "User-provided summary table" },
+      { "era": "Strengthened Commissions and Indirect Discrimination Focus", "start": 1976, "end": 1998, "score": 42, "source": "User-provided summary table" },
+      { "era": "Macpherson Report and Institutional Racism Era", "start": 1999, "end": 2009, "score": 62, "source": "User-provided summary table" },
+      { "era": "Equality Act 2010 and Public Sector Equality Duty Implementation", "start": 2010, "end": 2015, "score": 68, "source": "User-provided summary table" },
+      { "era": "Peak Institutional DEI and Equity Push", "start": 2016, "end": 2020, "score": 71, "source": "User-provided summary table" },
+      { "era": "Sewell Report and Visible Contestation", "start": 2021, "end": 2023, "score": 58, "source": "User-provided summary table" },
+      { "era": "Continuity and Ongoing Tension under Current Government", "start": 2024, "end": null, "score": 56, "source": "User-provided summary table" }
+    ],
+    "cultural5a": [
+      { "era": "Post-War Consensus & Traditional Continuity", "start": 1945, "end": 1959, "score": 72, "source": "User-provided summary table" },
+      { "era": "Social Liberalisation & Cultural Modernisation", "start": 1960, "end": 1973, "score": 48, "source": "User-provided summary table" },
+      { "era": "Crisis, Contestation & Norm Erosion", "start": 1974, "end": 1979, "score": 42, "source": "User-provided summary table" },
+      { "era": "Thatcherite Modernisation with Traditionalist Elements", "start": 1979, "end": 1990, "score": 51, "source": "User-provided summary table" },
+      { "era": "Major Transition & Early Blair Pressures", "start": 1990, "end": 1997, "score": 44, "source": "User-provided summary table" },
+      { "era": "New Labour Progressive Transformation", "start": 1997, "end": 2010, "score": 32, "source": "User-provided summary table" },
+      { "era": "Coalition Austerity & Cultural Contestation", "start": 2010, "end": 2016, "score": 41, "source": "User-provided summary table" },
+      { "era": "Brexit, Sovereignty Reassertion & Institutional Inertia", "start": 2016, "end": 2024, "score": 46, "source": "User-provided summary table" },
+      { "era": "Starmer Era: Progressive Continuity with Heritage Adaptation", "start": 2024, "end": null, "score": 48, "source": "User-provided summary table" }
+    ],
+    "cultural5b": [
+      { "era": "Post-War Attlee Transformation", "start": 1945, "end": 1951, "score": 78, "source": "User-provided summary table" },
+      { "era": "Conservative Gradualism", "start": 1951, "end": 1964, "score": 28, "source": "User-provided summary table" },
+      { "era": "Wilson–Heath–Callaghan Mixed Pace", "start": 1964, "end": 1979, "score": 52, "source": "User-provided summary table" },
+      { "era": "Thatcher Radical Acceleration", "start": 1979, "end": 1990, "score": 85, "source": "User-provided summary table" },
+      { "era": "Major Continuity and Stabilisation", "start": 1990, "end": 1997, "score": 35, "source": "User-provided summary table" },
+      { "era": "New Labour Compressed Modernisation", "start": 1997, "end": 2010, "score": 82, "source": "User-provided summary table" },
+      { "era": "Coalition Austerity and Incrementalism", "start": 2010, "end": 2016, "score": 48, "source": "User-provided summary table" },
+      { "era": "Brexit Paralysis and Delay", "start": 2016, "end": 2019, "score": 25, "source": "User-provided summary table" },
+      { "era": "Johnson–Truss–Sunak Accelerated Delivery", "start": 2019, "end": 2024, "score": 68, "source": "User-provided summary table" },
+      { "era": "Starmer Early Mixed Signals", "start": 2024, "end": null, "score": 55, "source": "User-provided summary table" }
+    ]
+  }
+}
