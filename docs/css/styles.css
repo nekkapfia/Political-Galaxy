@@ -293,3 +293,95 @@
   background: #4f46e5;
   color: white;
 }
+
+/* ========== Burnished gold + parchment sliders (Sliders page only) ========== */
+#section-sliders .slider-group {
+  background: linear-gradient(165deg, #1a1520 0%, #0f0c14 100%);
+  border: 1.5px solid #c9a227;
+  border-radius: 0.55rem;
+  padding: 0.8rem 1rem;
+  box-shadow:
+    0 0 0 1px rgba(201, 162, 39, 0.28),
+    inset 0 0 14px rgba(201, 162, 39, 0.05),
+    0 4px 16px rgba(0, 0, 0, 0.5);
+  position: relative;
+}
+
+#section-sliders .slider-group::before,
+#section-sliders .slider-group::after {
+  content: "";
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  border-color: #d4af37;
+  border-style: solid;
+  opacity: 0.75;
+  pointer-events: none;
+}
+#section-sliders .slider-group::before {
+  top: 4px; left: 4px;
+  border-width: 1.5px 0 0 1.5px;
+}
+#section-sliders .slider-group::after {
+  bottom: 4px; right: 4px;
+  border-width: 0 1.5px 1.5px 0;
+}
+
+#section-sliders .slider-group h3 {
+  color: #d4af37;
+  font-size: 0.65rem;
+  letter-spacing: 0.07em;
+  margin-bottom: 0.55rem;
+  text-shadow: 0 0 6px rgba(212, 175, 55, 0.3);
+}
+
+#section-sliders .slider-row label {
+  color: #e8d5a3;
+  font-size: 0.76rem;
+}
+
+#section-sliders .slider-value {
+  color: #f0e0b0;
+  font-family: ui-monospace, monospace;
+  font-size: 0.78rem;
+}
+
+/* Parchment / scroll coloured track + thumb */
+#section-sliders .slider-row input[type=range] {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 7px;
+  background: linear-gradient(90deg, #3d3220 0%, #5c4a2e 45%, #7a6340 100%);
+  border-radius: 4px;
+  border: 1px solid #8b7355;
+  outline: none;
+  box-shadow: inset 0 1px 3px rgba(0,0,0,0.45);
+}
+
+#section-sliders .slider-row input[type=range]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background: radial-gradient(circle at 35% 35%, #f5e6c8, #c4a35a 55%, #8b6914);
+  cursor: pointer;
+  border: 1.5px solid #e8d48b;
+  box-shadow: 0 0 5px rgba(212, 175, 55, 0.5), inset 0 1px 1px rgba(255,255,255,0.25);
+}
+
+#section-sliders .slider-row input[type=range]::-moz-range-thumb {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background: radial-gradient(circle at 35% 35%, #f5e6c8, #c4a35a 55%, #8b6914);
+  cursor: pointer;
+  border: 1.5px solid #e8d48b;
+  box-shadow: 0 0 5px rgba(212, 175, 55, 0.5);
+}
+
+#section-sliders .slider-row input[type=range]::-moz-range-track {
+  height: 7px;
+  background: linear-gradient(90deg, #3d3220 0%, #5c4a2e 45%, #7a6340 100%);
+  border-radius: 4px;
+  border: 1px solid #8b7355;
+}
