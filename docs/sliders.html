@@ -26,11 +26,11 @@
     </div>
   </nav>
 
-  <main class="pt-16 pb-10 max-w-7xl mx-auto px-4 py-6">
-    <div class="flex flex-wrap items-center justify-between gap-3 mb-4">
+  <main class="pt-16 pb-8 max-w-7xl mx-auto px-3 py-5">
+    <div class="flex flex-wrap items-center justify-between gap-3 mb-3">
       <div>
         <h1 class="text-2xl font-bold">Sliders Explorer</h1>
-        <p class="text-slate-400 text-sm">Interactive axes. Data drawn live from the repository Index.</p>
+        <p class="text-slate-400 text-sm">Interactive axes arranged around the centre. Data from the repository Index.</p>
       </div>
       <div class="flex gap-1 bg-slate-900 rounded-lg p-1 border border-slate-700" id="mode-toggle">
         <button data-mode="modern" class="mode-btn px-3 py-1.5 rounded-md text-sm font-medium bg-indigo-600 text-white">Modern</button>
@@ -39,15 +39,13 @@
       </div>
     </div>
 
-    <!-- Orbital area: centre panel + surrounding slider groups -->
-    <div class="relative bg-slate-900/50 border border-slate-700 rounded-2xl p-4" style="min-height: 580px;">
-      <!-- Centre -->
-      <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 z-20 w-64" id="center-panel"></div>
+    <!-- Orbital container -->
+    <div id="orbital" class="relative mx-auto bg-slate-900/40 border border-slate-700 rounded-2xl overflow-hidden" style="width:100%; max-width:980px; height:640px;">
+      <!-- Centre panel (mode controls / nearest matches) -->
+      <div id="center-panel" class="absolute z-30" style="top:50%; left:50%; transform:translate(-50%,-50%); width:240px;"></div>
 
-      <!-- Slider groups will be injected in a responsive grid that visually surrounds the centre -->
-      <div id="slider-container" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 pt-2 pb-2">
-        <!-- filled by JS -->
-      </div>
+      <!-- 14 slider groups will be absolutely positioned by JS around the centre -->
+      <div id="slider-container" class="absolute inset-0"></div>
     </div>
   </main>
 
