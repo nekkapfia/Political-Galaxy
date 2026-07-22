@@ -1,26 +1,28 @@
-/* Sliders page – compact gold cards + stacked centre locks */
+/* Sliders page – compact gold cards, fully contained content */
 
 .slider-group {
   background: linear-gradient(165deg, #1a1520 0%, #0f0c14 100%);
   border: 1.5px solid #c9a227;
   border-radius: 0.5rem;
-  padding: 0.55rem 0.75rem 0.6rem;
+  padding: 0.5rem 0.65rem 0.55rem;
   box-shadow:
-    0 0 0 1px rgba(201, 162, 39, 0.3),
-    inset 0 0 10px rgba(201, 162, 39, 0.04),
-    0 3px 12px rgba(0, 0, 0, 0.5);
+    0 0 0 1px rgba(201, 162, 39, 0.28),
+    inset 0 0 8px rgba(201, 162, 39, 0.04),
+    0 3px 10px rgba(0, 0, 0, 0.45);
   position: relative;
+  box-sizing: border-box;
+  overflow: hidden;          /* keep everything inside the gold box */
 }
 
 .slider-group::before,
 .slider-group::after {
   content: "";
   position: absolute;
-  width: 10px;
-  height: 10px;
+  width: 9px;
+  height: 9px;
   border-color: #d4af37;
   border-style: solid;
-  opacity: 0.7;
+  opacity: 0.65;
   pointer-events: none;
 }
 .slider-group::before {
@@ -32,68 +34,77 @@
   border-width: 0 1.5px 1.5px 0;
 }
 
+/* Optional tiny group label – only for Cultural pairs */
 .slider-group h3 {
   color: #d4af37;
-  font-size: 0.58rem;
-  letter-spacing: 0.06em;
-  margin: 0 0 0.4rem 0;
-  text-shadow: 0 0 5px rgba(212, 175, 55, 0.25);
+  font-size: 0.55rem;
+  letter-spacing: 0.05em;
+  margin: 0 0 0.35rem 0;
   text-transform: uppercase;
-}
-
-.slider-row {
-  display: grid;
-  grid-template-columns: 92px 1fr 32px;
-  align-items: center;
-  gap: 0.35rem;
-  margin-bottom: 0.3rem;
-}
-.slider-row:last-child { margin-bottom: 0; }
-
-.slider-row label {
-  color: #e8d5a3;
-  font-size: 0.72rem;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
 }
 
+.slider-row {
+  display: grid;
+  grid-template-columns: minmax(70px, 90px) 1fr 28px;
+  align-items: center;
+  gap: 0.3rem;
+  margin-bottom: 0.28rem;
+  min-width: 0;              /* allow grid children to shrink */
+}
+.slider-row:last-child { margin-bottom: 0; }
+
+.slider-row label {
+  color: #e8d5a3;
+  font-size: 0.7rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  min-width: 0;
+}
+
 .slider-value {
   color: #f0e0b0;
   font-family: ui-monospace, monospace;
-  font-size: 0.72rem;
+  font-size: 0.7rem;
   text-align: right;
+  min-width: 0;
 }
 
-/* Parchment track + gold thumb */
+/* Track + thumb fully inside the row */
 .slider-row input[type=range] {
   -webkit-appearance: none;
   appearance: none;
+  width: 100%;
   height: 5px;
+  min-width: 0;
   background: linear-gradient(90deg, #3d3220 0%, #5c4a2e 45%, #7a6340 100%);
   border-radius: 3px;
   border: 1px solid #8b7355;
   outline: none;
   box-shadow: inset 0 1px 2px rgba(0,0,0,0.4);
+  box-sizing: border-box;
 }
 .slider-row input[type=range]::-webkit-slider-thumb {
   -webkit-appearance: none;
-  width: 13px;
-  height: 13px;
+  width: 12px;
+  height: 12px;
   border-radius: 50%;
   background: radial-gradient(circle at 35% 35%, #f5e6c8, #c4a35a 55%, #8b6914);
   cursor: pointer;
   border: 1.5px solid #e8d48b;
-  box-shadow: 0 0 4px rgba(212, 175, 55, 0.5);
+  box-shadow: 0 0 4px rgba(212, 175, 55, 0.45);
 }
 .slider-row input[type=range]::-moz-range-thumb {
-  width: 13px;
-  height: 13px;
+  width: 12px;
+  height: 12px;
   border-radius: 50%;
   background: radial-gradient(circle at 35% 35%, #f5e6c8, #c4a35a 55%, #8b6914);
   cursor: pointer;
   border: 1.5px solid #e8d48b;
-  box-shadow: 0 0 4px rgba(212, 175, 55, 0.5);
+  box-shadow: 0 0 4px rgba(212, 175, 55, 0.45);
 }
 .slider-row input[type=range]::-moz-range-track {
   height: 5px;
@@ -106,13 +117,14 @@
 #center-panel {
   background: #0f172a;
   border: 1px solid #475569;
-  border-radius: 0.6rem;
-  padding: 0.7rem 0.8rem;
-  box-shadow: 0 8px 24px rgba(0,0,0,0.55);
+  border-radius: 0.55rem;
+  padding: 0.65rem 0.75rem;
+  box-shadow: 0 8px 22px rgba(0,0,0,0.5);
+  box-sizing: border-box;
 }
 #center-panel label {
   display: block;
-  font-size: 0.58rem;
+  font-size: 0.55rem;
   text-transform: uppercase;
   letter-spacing: 0.05em;
   color: #64748b;
@@ -123,42 +135,43 @@
   width: 100%;
   background: #1e293b;
   border: 1px solid #475569;
-  border-radius: 0.3rem;
-  padding: 0.28rem 0.4rem;
-  font-size: 0.75rem;
+  border-radius: 0.25rem;
+  padding: 0.25rem 0.35rem;
+  font-size: 0.72rem;
   color: #e2e8f0;
-  margin-bottom: 0.4rem;
+  margin-bottom: 0.35rem;
+  box-sizing: border-box;
 }
 
-/* Stacked locked dropdown match slot (matches the Paint mock-up) */
+/* Stacked locked dropdowns */
 .match-slot {
   background: #1e293b;
   border: 1px solid #334155;
-  border-radius: 0.4rem;
-  padding: 0.4rem 0.5rem;
-  margin-bottom: 0.35rem;
-  position: relative;
+  border-radius: 0.35rem;
+  padding: 0.35rem 0.45rem;
+  margin-bottom: 0.3rem;
+  box-sizing: border-box;
 }
 .match-slot.locked { border-color: #6366f1; }
 .match-slot .slot-title {
-  font-size: 0.55rem;
+  font-size: 0.52rem;
   text-transform: uppercase;
   color: #64748b;
   letter-spacing: 0.04em;
-  margin-bottom: 0.25rem;
+  margin-bottom: 0.2rem;
 }
 .match-slot .lock-row {
   display: flex;
   align-items: center;
-  gap: 0.3rem;
-  margin-bottom: 0.25rem;
+  gap: 0.25rem;
+  margin-bottom: 0.2rem;
 }
 .match-slot .lock-row:last-child { margin-bottom: 0; }
 .match-slot .lock-btn {
   background: none;
   border: none;
   cursor: pointer;
-  font-size: 0.75rem;
+  font-size: 0.7rem;
   opacity: 0.8;
   padding: 0;
   line-height: 1;
@@ -167,23 +180,25 @@
 .match-slot .lock-btn:hover { opacity: 1; }
 .match-slot select {
   flex: 1;
+  min-width: 0;
   background: #0f172a;
   border: 1px solid #475569;
-  border-radius: 0.25rem;
-  padding: 0.2rem 0.3rem;
-  font-size: 0.7rem;
+  border-radius: 0.2rem;
+  padding: 0.15rem 0.25rem;
+  font-size: 0.68rem;
   color: #e2e8f0;
   margin: 0;
+  box-sizing: border-box;
 }
 .match-slot .slot-value {
-  font-size: 0.7rem;
+  flex: 1;
+  min-width: 0;
+  font-size: 0.68rem;
   color: #c7d2fe;
-  margin-top: 0.2rem;
   line-height: 1.2;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
-.mode-btn.active,
-.mode-btn.bg-indigo-600 {
-  background: #4f46e5;
-  color: white;
-}
+.mode-btn.bg-indigo-600 { background: #4f46e5; color: white; }

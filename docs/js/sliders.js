@@ -57,7 +57,6 @@ function buildOrbit() {
     const m = SLIDER_META.find(s => s.id === p.id) || { short: p.id, desc: "" };
     const st = Object.entries(p).filter(([k]) => k !== "id").map(([k,v]) => k+":"+v).join(";");
     h += `<div class="slider-group absolute z-10" style="${st};width:168px;">
-      <h3>Core ${p.id}</h3>
       <div class="slider-row" title="${m.desc}">
         <label for="slider-${p.id}">${m.short}</label>
         <input type="range" id="slider-${p.id}" min="0" max="100" value="50" data-id="${p.id}" />
