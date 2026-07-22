@@ -145,16 +145,17 @@ function renderCenter() {
 
 function slotHTML(key, label) {
   const s = slots[key];
-  return `<div class="match-slot ${s.countryLock?"locked":""}" style="padding:0.35rem;">
-    <div class="flex justify-between items-center mb-0.5">
-      <span class="slot-title">${label}</span>
-      <span>
-        <button id="${key}-clock" class="lock-btn" title="Country lock">${s.countryLock?"🔒":"🔓"}</button>
-        <button id="${key}-elock" class="lock-btn" title="Entity lock">${s.entityLock?"🔒":"🔓"}</button>
-      </span>
+  const isParty = key.startsWith("p");
+  return `<div class="match-slot ${s.countryLock ? "locked" : ""}">
+    <div class="slot-title">${label}</div>
+    <div class="lock-row">
+      <button id="${key}-clock" class="lock-btn" title="Lock country scope">${s.countryLock ? "🔒" : "🔓"}</button>
+      <select id="${key}-country"></select>
     </div>
-    <select id="${key}-country" class="w-full bg-slate-800 border border-slate-600 rounded text-[11px] py-0.5 mb-0.5"></select>
-    <div class="slot-value" id="${key}-val">—</div>
+    <div class="lock-row">
+      <button id="${key}-elock" class="lock-btn" title="Pin this match">${s.entityLock ? "🔒" : "🔓"}</button>
+      <div class="slot-value" id="${key}-val" style="flex:1;">—</div>
+    </div>
   </div>`;
 }
 
