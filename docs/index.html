@@ -3,37 +3,11 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Political Galaxy – Empirical Political Slider System</title>
+  <title>Political Galaxy – Index</title>
   <script src="https://cdn.tailwindcss.com"></script>
-  <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
-  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-  <link rel="stylesheet" href="css/styles.css" />
-  <script>
-    tailwind.config = {
-      theme: {
-        extend: {
-          colors: {
-            galaxy: {
-              50: '#f0f4ff',
-              100: '#dbe4ff',
-              200: '#bac8ff',
-              300: '#91a7ff',
-              400: '#748ffc',
-              500: '#5c7cfa',
-              600: '#4c6ef5',
-              700: '#4263eb',
-              800: '#3b5bdb',
-              900: '#364fc7',
-              950: '#1e3a8a'
-            }
-          }
-        }
-      }
-    }
-  </script>
+  <link rel="stylesheet" href="css/shared.css" />
 </head>
 <body class="bg-slate-950 text-slate-100 min-h-screen">
-  <!-- Navigation -->
   <nav class="fixed top-0 left-0 right-0 z-50 bg-slate-900/95 backdrop-blur border-b border-slate-700">
     <div class="max-w-7xl mx-auto px-4">
       <div class="flex items-center justify-between h-14">
@@ -42,177 +16,44 @@
           <span class="font-semibold text-lg tracking-tight">Political Galaxy</span>
         </div>
         <div class="flex gap-1">
-          <button data-section="index" class="nav-btn px-4 py-2 rounded-md text-sm font-medium transition-colors">Index</button>
-          <button data-section="sliders" class="nav-btn px-4 py-2 rounded-md text-sm font-medium transition-colors">Sliders</button>
-          <button data-section="detail" class="nav-btn px-4 py-2 rounded-md text-sm font-medium transition-colors">Detail</button>
-          <button data-section="galaxy" class="nav-btn px-4 py-2 rounded-md text-sm font-medium transition-colors bg-indigo-600 text-white">Galaxy</button>
+          <a href="index.html" class="nav-btn px-4 py-2 rounded-md text-sm font-medium bg-indigo-600 text-white">Index</a>
+          <a href="sliders.html" class="nav-btn px-4 py-2 rounded-md text-sm font-medium">Sliders</a>
+          <a href="detail.html" class="nav-btn px-4 py-2 rounded-md text-sm font-medium">Detail</a>
+          <a href="galaxy.html" class="nav-btn px-4 py-2 rounded-md text-sm font-medium">Galaxy</a>
         </div>
       </div>
     </div>
   </nav>
 
-  <main class="pt-16 pb-12">
-    <!-- INDEX SECTION -->
-    <section id="section-index" class="section hidden max-w-7xl mx-auto px-4 py-8">
-      <h1 class="text-3xl font-bold mb-2">Document Index</h1>
-      <p class="text-slate-400 mb-6">All source documents for the Empirical Political Slider System. Interactive scores are loaded live from the <code class="text-indigo-300">Index/</code> folder of the <a href="https://github.com/nekkapfia/Political-Galaxy" target="_blank" class="text-indigo-400 hover:underline">nekkapfia/Political-Galaxy</a> repository (Time Line + Political Parties JSONs). Browse the structure or open key files below.</p>
-      
-      <div class="grid md:grid-cols-3 gap-6">
-        <div class="bg-slate-900 rounded-xl border border-slate-700 p-5">
-          <h2 class="font-semibold text-lg mb-3 text-indigo-300">Core Framework</h2>
-          <ul class="space-y-2 text-sm" id="index-core"></ul>
-        </div>
-        <div class="bg-slate-900 rounded-xl border border-slate-700 p-5">
-          <h2 class="font-semibold text-lg mb-3 text-indigo-300">Individual Sliders</h2>
-          <ul class="space-y-2 text-sm" id="index-sliders"></ul>
-        </div>
-        <div class="bg-slate-900 rounded-xl border border-slate-700 p-5">
-          <h2 class="font-semibold text-lg mb-3 text-indigo-300">Scoring & Applications</h2>
-          <ul class="space-y-2 text-sm" id="index-scoring"></ul>
-        </div>
-      </div>
+  <main class="pt-16 pb-12 max-w-7xl mx-auto px-4 py-8">
+    <h1 class="text-3xl font-bold mb-2">Document Index</h1>
+    <p class="text-slate-400 mb-6">
+      Hub for the Empirical Political Slider System. Interactive scores are loaded live from the
+      <code class="text-indigo-300">Index/</code> folder of the
+      <a href="https://github.com/nekkapfia/Political-Galaxy" target="_blank" class="text-indigo-400 hover:underline">nekkapfia/Political-Galaxy</a> repository.
+    </p>
 
-      <div class="mt-8 bg-slate-900 rounded-xl border border-slate-700 p-5">
-        <h2 class="font-semibold text-lg mb-3">Full Repository Structure</h2>
-        <p class="text-slate-400 text-sm mb-4">The complete source lives on GitHub. The website pulls its scoring data directly from the live <code class="text-indigo-300">Index/</code> folder. Key folders:</p>
-        <pre class="text-xs bg-slate-950 p-4 rounded-lg overflow-x-auto text-slate-300" id="repo-tree"></pre>
-        <a href="https://github.com/nekkapfia/Political-Galaxy/tree/main/Index" target="_blank" class="inline-block mt-4 text-indigo-400 hover:underline text-sm mr-4">Open Index/ on GitHub →</a>
-        <a href="https://github.com/nekkapfia/Political-Galaxy" target="_blank" class="inline-block mt-4 text-indigo-400 hover:underline text-sm">Open full repository →</a>
-      </div>
-    </section>
+    <div class="grid md:grid-cols-3 gap-6 mb-8">
+      <a href="sliders.html" class="bg-slate-900 rounded-xl border border-slate-700 p-5 hover:border-indigo-500 transition">
+        <h2 class="font-semibold text-lg mb-2 text-indigo-300">Sliders Explorer</h2>
+        <p class="text-sm text-slate-400">Concentric / orbital interactive axes with Modern, Historical and All modes.</p>
+      </a>
+      <a href="detail.html" class="bg-slate-900 rounded-xl border border-slate-700 p-5 hover:border-indigo-500 transition">
+        <h2 class="font-semibold text-lg mb-2 text-indigo-300">Country + Year Detail</h2>
+        <p class="text-sm text-slate-400">Look up the full 14-axis vector for any country and year with source links.</p>
+      </a>
+      <a href="galaxy.html" class="bg-slate-900 rounded-xl border border-slate-700 p-5 hover:border-indigo-500 transition">
+        <h2 class="font-semibold text-lg mb-2 text-indigo-300">Galaxy View</h2>
+        <p class="text-sm text-slate-400">Hierarchical visual exploration of political space.</p>
+      </a>
+    </div>
 
-    <!-- SLIDERS SECTION – Concentric Explorer -->
-    <section id="section-sliders" class="section hidden max-w-7xl mx-auto px-4 py-6">
-      <div class="flex flex-wrap items-center justify-between gap-4 mb-4">
-        <div>
-          <h1 class="text-2xl font-bold">Sliders Explorer</h1>
-          <p class="text-slate-400 text-sm">Concentric view of the 14 axes. Data drawn live from the repository Index.</p>
-        </div>
-        <div class="flex gap-1 bg-slate-900 rounded-lg p-1 border border-slate-700" id="mode-toggle">
-          <button data-mode="modern" class="mode-btn px-4 py-1.5 rounded-md text-sm font-medium bg-indigo-600 text-white">Modern</button>
-          <button data-mode="historical" class="mode-btn px-4 py-1.5 rounded-md text-sm font-medium text-slate-400 hover:text-white">Historical</button>
-          <button data-mode="all" class="mode-btn px-4 py-1.5 rounded-md text-sm font-medium text-slate-400 hover:text-white">All</button>
-        </div>
-      </div>
-
-      <!-- Concentric layout -->
-      <div class="relative bg-slate-900/60 border border-slate-700 rounded-2xl overflow-hidden" style="min-height: 640px;">
-        
-        <!-- Outer Cultural ring labels -->
-        <div class="absolute inset-0 pointer-events-none" id="cultural-ring">
-          <div class="axis-label cultural" style="top: 4%; left: 50%; transform: translateX(-50%);" data-pair="C1">Cultural Pair 1</div>
-          <div class="axis-label cultural" style="top: 28%; left: 6%;" data-pair="C2">Cultural 2</div>
-          <div class="axis-label cultural" style="top: 28%; right: 6%;" data-pair="C3">Cultural 3</div>
-          <div class="axis-label cultural" style="bottom: 18%; left: 12%;" data-pair="C4">Cultural 4</div>
-          <div class="axis-label cultural" style="bottom: 18%; right: 12%;" data-pair="C5">Cultural 5</div>
-        </div>
-
-        <!-- Inner Core ring -->
-        <div class="absolute inset-0 pointer-events-none" id="core-ring">
-          <div class="axis-card core" style="top: 22%; left: 32%;" data-id="1A">
-            <div class="axis-name">Core 1A</div>
-            <div class="axis-score" id="score-1A">—</div>
-          </div>
-          <div class="axis-card core" style="top: 22%; right: 32%;" data-id="1B">
-            <div class="axis-name">Core 1B</div>
-            <div class="axis-score" id="score-1B">—</div>
-          </div>
-          <div class="axis-card core" style="bottom: 28%; left: 32%;" data-id="2A">
-            <div class="axis-name">Core 2A</div>
-            <div class="axis-score" id="score-2A">—</div>
-          </div>
-          <div class="axis-card core" style="bottom: 28%; right: 32%;" data-id="2B">
-            <div class="axis-name">Core 2B</div>
-            <div class="axis-score" id="score-2B">—</div>
-          </div>
-        </div>
-
-        <!-- Cultural pair score cards (A/B) -->
-        <div class="absolute inset-0 pointer-events-none" id="cultural-scores">
-          <div class="axis-card pair" style="top: 9%; left: 50%; transform: translateX(-50%);" data-pair="C1">
-            <span id="score-C1A">—</span> / <span id="score-C1B">—</span>
-          </div>
-          <div class="axis-card pair" style="top: 36%; left: 4%;" data-pair="C2">
-            <span id="score-C2A">—</span> / <span id="score-C2B">—</span>
-          </div>
-          <div class="axis-card pair" style="top: 36%; right: 4%;" data-pair="C3">
-            <span id="score-C3A">—</span> / <span id="score-C3B">—</span>
-          </div>
-          <div class="axis-card pair" style="bottom: 12%; left: 10%;" data-pair="C4">
-            <span id="score-C4A">—</span> / <span id="score-C4B">—</span>
-          </div>
-          <div class="axis-card pair" style="bottom: 12%; right: 10%;" data-pair="C5">
-            <span id="score-C5A">—</span> / <span id="score-C5B">—</span>
-          </div>
-        </div>
-
-        <!-- CENTER CONTROLS (mode-dependent) -->
-        <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 z-10 w-72" id="center-panel">
-          <!-- content injected by JS according to mode -->
-        </div>
-
-        <!-- Decorative rings -->
-        <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[78%] h-[78%] border border-slate-600/40 rounded-full pointer-events-none"></div>
-        <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[48%] h-[48%] border border-indigo-500/30 rounded-full pointer-events-none"></div>
-      </div>
-
-      <!-- Interactive sliders (visible in Modern + All modes) -->
-      <div id="interactive-sliders" class="mt-6 hidden">
-        <div class="flex items-center justify-between mb-3">
-          <h2 class="font-semibold text-sm text-slate-300">Adjust axes (live nearest-match)</h2>
-          <button id="reset-sliders" class="text-xs px-3 py-1 bg-slate-800 hover:bg-slate-700 rounded">Reset to 50</button>
-        </div>
-        <div id="slider-container" class="grid md:grid-cols-2 lg:grid-cols-3 gap-3"></div>
-      </div>
-    </section>
-
-    <!-- DETAIL SECTION -->
-    <section id="section-detail" class="section hidden max-w-7xl mx-auto px-4 py-8">
-      <h1 class="text-3xl font-bold mb-2">Country + Year Detail</h1>
-      <p class="text-slate-400 mb-6">
-        Choose a country and a year. The system looks up each of the 14 sliders independently
-        using that slider’s own era boundaries, then shows the score and a direct link to the
-        source document section that justifies it.
-      </p>
-      
-      <div class="flex flex-col md:flex-row gap-6">
-        <div class="w-full md:w-72 shrink-0">
-          <div id="entity-list" class="bg-slate-900 rounded-xl border border-slate-700 max-h-[70vh] overflow-y-auto"></div>
-        </div>
-        <div class="flex-1 bg-slate-900 rounded-xl border border-slate-700 p-6 min-h-[60vh]" id="entity-detail">
-          <p class="text-slate-500">Select a country and year, then click “Show scores”.</p>
-        </div>
-      </div>
-    </section>
-
-    <!-- GALAXY SECTION -->
-    <section id="section-galaxy" class="section max-w-full px-0 py-0">
-      <div class="relative w-full h-[calc(100vh-3.5rem)] bg-slate-950 overflow-hidden">
-        <!-- Toolbar -->
-        <div class="absolute top-4 left-4 z-20 flex gap-2">
-          <button id="galaxy-reset" class="px-3 py-1.5 bg-slate-800/90 hover:bg-slate-700 rounded-lg text-sm border border-slate-600">Reset View</button>
-          <button id="galaxy-zoom-out" class="px-3 py-1.5 bg-slate-800/90 hover:bg-slate-700 rounded-lg text-sm border border-slate-600">Zoom Out</button>
-          <span id="galaxy-breadcrumb" class="px-3 py-1.5 bg-slate-900/90 rounded-lg text-sm border border-slate-700 text-slate-300"></span>
-        </div>
-        <div class="absolute top-4 right-4 z-20 text-xs text-slate-500 bg-slate-900/80 px-3 py-1.5 rounded-lg border border-slate-700">
-          Click clusters to zoom in · Drag to pan · Scroll to zoom
-        </div>
-        
-        <!-- Canvas / SVG container -->
-        <div id="galaxy-canvas" class="w-full h-full"></div>
-        
-        <!-- Side panel for selected -->
-        <div id="galaxy-panel" class="absolute top-16 right-4 w-80 bg-slate-900/95 backdrop-blur border border-slate-700 rounded-xl p-4 shadow-2xl hidden max-h-[70vh] overflow-y-auto z-20">
-          <button id="close-panel" class="absolute top-2 right-2 text-slate-400 hover:text-white">✕</button>
-          <div id="panel-content"></div>
-        </div>
-      </div>
-    </section>
+    <div class="bg-slate-900 rounded-xl border border-slate-700 p-5">
+      <h2 class="font-semibold text-lg mb-3">Repository</h2>
+      <p class="text-slate-400 text-sm mb-4">Source documents and the live Index data live on GitHub.</p>
+      <a href="https://github.com/nekkapfia/Political-Galaxy/tree/main/Index" target="_blank" class="text-indigo-400 hover:underline text-sm mr-4">Open Index/ on GitHub →</a>
+      <a href="https://github.com/nekkapfia/Political-Galaxy" target="_blank" class="text-indigo-400 hover:underline text-sm">Open full repository →</a>
+    </div>
   </main>
-
-  <script src="js/data.js"></script>
-  <script src="js/sliders.js"></script>
-  <script src="js/galaxy.js"></script>
-  <script src="js/app.js"></script>
 </body>
 </html>

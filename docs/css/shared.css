@@ -1,0 +1,10 @@
+/* Shared base styles for Political Galaxy */
+body { margin: 0; font-family: system-ui, -apple-system, sans-serif; }
+.nav-btn { color: #94a3b8; }
+.nav-btn:hover { color: #e2e8f0; background: #1e293b; }
+.nav-btn.active { background: #4f46e5; color: white; }
+.section { animation: fadeIn 0.25s ease; }
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: none; }
+}

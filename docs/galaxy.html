@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Political Galaxy – Galaxy View</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+  <link rel="stylesheet" href="css/shared.css" />
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen">
+  <nav class="fixed top-0 left-0 right-0 z-50 bg-slate-900/95 backdrop-blur border-b border-slate-700">
+    <div class="max-w-7xl mx-auto px-4">
+      <div class="flex items-center justify-between h-14">
+        <div class="flex items-center gap-3">
+          <div class="w-8 h-8 rounded-full bg-gradient-to-br from-indigo-500 to-purple-600 flex items-center justify-center text-sm font-bold">PG</div>
+          <span class="font-semibold text-lg tracking-tight">Political Galaxy</span>
+        </div>
+        <div class="flex gap-1">
+          <a href="index.html" class="nav-btn px-4 py-2 rounded-md text-sm font-medium">Index</a>
+          <a href="sliders.html" class="nav-btn px-4 py-2 rounded-md text-sm font-medium">Sliders</a>
+          <a href="detail.html" class="nav-btn px-4 py-2 rounded-md text-sm font-medium">Detail</a>
+          <a href="galaxy.html" class="nav-btn px-4 py-2 rounded-md text-sm font-medium bg-indigo-600 text-white">Galaxy</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <main class="pt-14">
+    <div class="relative w-full h-[calc(100vh-3.5rem)] bg-slate-950 overflow-hidden">
+      <div class="absolute top-4 left-4 z-20 flex gap-2">
+        <button id="galaxy-reset" class="px-3 py-1.5 bg-slate-800/90 hover:bg-slate-700 rounded-lg text-sm border border-slate-600">Reset View</button>
+        <button id="galaxy-zoom-out" class="px-3 py-1.5 bg-slate-800/90 hover:bg-slate-700 rounded-lg text-sm border border-slate-600">Zoom Out</button>
+        <span id="galaxy-breadcrumb" class="px-3 py-1.5 bg-slate-900/90 rounded-lg text-sm border border-slate-700 text-slate-300"></span>
+      </div>
+      <div class="absolute top-4 right-4 z-20 text-xs text-slate-500 bg-slate-900/80 px-3 py-1.5 rounded-lg border border-slate-700">
+        Click clusters to zoom in · Drag to pan · Scroll to zoom
+      </div>
+      <div id="galaxy-canvas" class="w-full h-full"></div>
+      <div id="galaxy-panel" class="absolute top-16 right-4 w-80 bg-slate-900/95 backdrop-blur border border-slate-700 rounded-xl p-4 shadow-2xl hidden max-h-[70vh] overflow-y-auto z-20">
+        <button id="close-panel" class="absolute top-2 right-2 text-slate-400 hover:text-white">✕</button>
+        <div id="panel-content"></div>
+      </div>
+    </div>
+  </main>
+
+  <script src="js/data.js"></script>
+  <script src="js/galaxy.js"></script>
+  <script>
+    document.addEventListener("DOMContentLoaded", async () => {
+      if (typeof loadIndexData === "function") await loadIndexData();
+      if (typeof initGalaxy === "function") setTimeout(initGalaxy, 50);
+    });
+  </script>
+</body>
+</html>
