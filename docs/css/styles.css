@@ -169,3 +169,127 @@
   border-radius: 0.5rem;
   overflow-x: auto;
 }
+
+/* ========== Concentric Sliders Explorer ========== */
+.axis-label {
+  position: absolute;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #64748b;
+  font-weight: 600;
+  pointer-events: none;
+}
+.axis-label.cultural {
+  color: #94a3b8;
+}
+
+.axis-card {
+  position: absolute;
+  background: #1e293b;
+  border: 1px solid #334155;
+  border-radius: 0.5rem;
+  padding: 0.4rem 0.7rem;
+  text-align: center;
+  min-width: 70px;
+  pointer-events: auto;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+.axis-card:hover {
+  border-color: #6366f1;
+  box-shadow: 0 0 0 1px #6366f1;
+}
+.axis-card.core .axis-name {
+  font-size: 0.65rem;
+  color: #94a3b8;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.axis-card.core .axis-score {
+  font-family: ui-monospace, monospace;
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: #a5b4fc;
+  margin-top: 0.1rem;
+}
+.axis-card.pair {
+  font-family: ui-monospace, monospace;
+  font-size: 0.85rem;
+  color: #c7d2fe;
+  min-width: 80px;
+}
+
+/* Center panel */
+#center-panel {
+  background: #0f172a;
+  border: 1px solid #475569;
+  border-radius: 0.75rem;
+  padding: 0.9rem 1rem;
+  box-shadow: 0 8px 30px rgba(0,0,0,0.45);
+}
+#center-panel label {
+  display: block;
+  font-size: 0.65rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #64748b;
+  margin-bottom: 0.2rem;
+}
+#center-panel select,
+#center-panel input[type=number] {
+  width: 100%;
+  background: #1e293b;
+  border: 1px solid #475569;
+  border-radius: 0.35rem;
+  padding: 0.35rem 0.5rem;
+  font-size: 0.8rem;
+  color: #e2e8f0;
+  margin-bottom: 0.6rem;
+}
+#center-panel select:focus,
+#center-panel input:focus {
+  outline: none;
+  border-color: #6366f1;
+}
+
+/* All-mode 2x2 match slots */
+.match-slot {
+  background: #1e293b;
+  border: 1px solid #334155;
+  border-radius: 0.4rem;
+  padding: 0.45rem 0.55rem;
+  font-size: 0.75rem;
+  position: relative;
+}
+.match-slot .slot-title {
+  font-size: 0.6rem;
+  text-transform: uppercase;
+  color: #64748b;
+  letter-spacing: 0.04em;
+}
+.match-slot .slot-value {
+  font-weight: 500;
+  color: #e2e8f0;
+  margin-top: 0.15rem;
+  line-height: 1.25;
+}
+.match-slot .lock-btn {
+  position: absolute;
+  top: 0.3rem;
+  right: 0.3rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 0.85rem;
+  opacity: 0.7;
+  padding: 0;
+  line-height: 1;
+}
+.match-slot .lock-btn:hover { opacity: 1; }
+.match-slot.locked { border-color: #6366f1; }
+
+/* Mode buttons */
+.mode-btn.active {
+  background: #4f46e5;
+  color: white;
+}

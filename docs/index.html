@@ -81,24 +81,88 @@
       </div>
     </section>
 
-    <!-- SLIDERS SECTION -->
-    <section id="section-sliders" class="section hidden max-w-7xl mx-auto px-4 py-8">
-      <h1 class="text-3xl font-bold mb-2">Interactive Sliders</h1>
-      <p class="text-slate-400 mb-6">Adjust the 14 axes. The system finds the closest matching scored entities based on available data (partial matching supported where scores exist).</p>
-      
-      <div class="grid lg:grid-cols-3 gap-6">
-        <div class="lg:col-span-2 space-y-4" id="slider-container">
-          <!-- Sliders injected by JS -->
+    <!-- SLIDERS SECTION – Concentric Explorer -->
+    <section id="section-sliders" class="section hidden max-w-7xl mx-auto px-4 py-6">
+      <div class="flex flex-wrap items-center justify-between gap-4 mb-4">
+        <div>
+          <h1 class="text-2xl font-bold">Sliders Explorer</h1>
+          <p class="text-slate-400 text-sm">Concentric view of the 14 axes. Data drawn live from the repository Index.</p>
         </div>
-        <div class="space-y-4">
-          <div class="bg-slate-900 rounded-xl border border-slate-700 p-5 sticky top-20">
-            <h2 class="font-semibold mb-3">Closest Matches</h2>
-            <div id="match-results" class="space-y-3 text-sm">
-              <p class="text-slate-500">Move the sliders to see matches…</p>
-            </div>
-            <button id="reset-sliders" class="mt-4 w-full py-2 bg-slate-800 hover:bg-slate-700 rounded-lg text-sm">Reset to Neutral (50)</button>
+        <div class="flex gap-1 bg-slate-900 rounded-lg p-1 border border-slate-700" id="mode-toggle">
+          <button data-mode="modern" class="mode-btn px-4 py-1.5 rounded-md text-sm font-medium bg-indigo-600 text-white">Modern</button>
+          <button data-mode="historical" class="mode-btn px-4 py-1.5 rounded-md text-sm font-medium text-slate-400 hover:text-white">Historical</button>
+          <button data-mode="all" class="mode-btn px-4 py-1.5 rounded-md text-sm font-medium text-slate-400 hover:text-white">All</button>
+        </div>
+      </div>
+
+      <!-- Concentric layout -->
+      <div class="relative bg-slate-900/60 border border-slate-700 rounded-2xl overflow-hidden" style="min-height: 640px;">
+        
+        <!-- Outer Cultural ring labels -->
+        <div class="absolute inset-0 pointer-events-none" id="cultural-ring">
+          <div class="axis-label cultural" style="top: 4%; left: 50%; transform: translateX(-50%);" data-pair="C1">Cultural Pair 1</div>
+          <div class="axis-label cultural" style="top: 28%; left: 6%;" data-pair="C2">Cultural 2</div>
+          <div class="axis-label cultural" style="top: 28%; right: 6%;" data-pair="C3">Cultural 3</div>
+          <div class="axis-label cultural" style="bottom: 18%; left: 12%;" data-pair="C4">Cultural 4</div>
+          <div class="axis-label cultural" style="bottom: 18%; right: 12%;" data-pair="C5">Cultural 5</div>
+        </div>
+
+        <!-- Inner Core ring -->
+        <div class="absolute inset-0 pointer-events-none" id="core-ring">
+          <div class="axis-card core" style="top: 22%; left: 32%;" data-id="1A">
+            <div class="axis-name">Core 1A</div>
+            <div class="axis-score" id="score-1A">—</div>
+          </div>
+          <div class="axis-card core" style="top: 22%; right: 32%;" data-id="1B">
+            <div class="axis-name">Core 1B</div>
+            <div class="axis-score" id="score-1B">—</div>
+          </div>
+          <div class="axis-card core" style="bottom: 28%; left: 32%;" data-id="2A">
+            <div class="axis-name">Core 2A</div>
+            <div class="axis-score" id="score-2A">—</div>
+          </div>
+          <div class="axis-card core" style="bottom: 28%; right: 32%;" data-id="2B">
+            <div class="axis-name">Core 2B</div>
+            <div class="axis-score" id="score-2B">—</div>
           </div>
         </div>
+
+        <!-- Cultural pair score cards (A/B) -->
+        <div class="absolute inset-0 pointer-events-none" id="cultural-scores">
+          <div class="axis-card pair" style="top: 9%; left: 50%; transform: translateX(-50%);" data-pair="C1">
+            <span id="score-C1A">—</span> / <span id="score-C1B">—</span>
+          </div>
+          <div class="axis-card pair" style="top: 36%; left: 4%;" data-pair="C2">
+            <span id="score-C2A">—</span> / <span id="score-C2B">—</span>
+          </div>
+          <div class="axis-card pair" style="top: 36%; right: 4%;" data-pair="C3">
+            <span id="score-C3A">—</span> / <span id="score-C3B">—</span>
+          </div>
+          <div class="axis-card pair" style="bottom: 12%; left: 10%;" data-pair="C4">
+            <span id="score-C4A">—</span> / <span id="score-C4B">—</span>
+          </div>
+          <div class="axis-card pair" style="bottom: 12%; right: 10%;" data-pair="C5">
+            <span id="score-C5A">—</span> / <span id="score-C5B">—</span>
+          </div>
+        </div>
+
+        <!-- CENTER CONTROLS (mode-dependent) -->
+        <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 z-10 w-72" id="center-panel">
+          <!-- content injected by JS according to mode -->
+        </div>
+
+        <!-- Decorative rings -->
+        <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[78%] h-[78%] border border-slate-600/40 rounded-full pointer-events-none"></div>
+        <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[48%] h-[48%] border border-indigo-500/30 rounded-full pointer-events-none"></div>
+      </div>
+
+      <!-- Interactive sliders (visible in Modern + All modes) -->
+      <div id="interactive-sliders" class="mt-6 hidden">
+        <div class="flex items-center justify-between mb-3">
+          <h2 class="font-semibold text-sm text-slate-300">Adjust axes (live nearest-match)</h2>
+          <button id="reset-sliders" class="text-xs px-3 py-1 bg-slate-800 hover:bg-slate-700 rounded">Reset to 50</button>
+        </div>
+        <div id="slider-container" class="grid md:grid-cols-2 lg:grid-cols-3 gap-3"></div>
       </div>
     </section>
 
