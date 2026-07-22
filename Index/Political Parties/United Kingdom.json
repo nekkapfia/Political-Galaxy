@@ -18,7 +18,7 @@
       "cultural5b": 62
     },
     "Labour Party": {
-      "core1a": 52,
+      "core1a": 52,48,
       "core1b": 59,
       "core2a": 45,
       "core2b": 48,
@@ -50,7 +50,7 @@
       "cultural5b": 42
     },
     "Green Party": {
-      "core1a": 48,
+      "core1a": 48,42,
       "core1b": 48,
       "core2a": 33,
       "core2b": 48,
