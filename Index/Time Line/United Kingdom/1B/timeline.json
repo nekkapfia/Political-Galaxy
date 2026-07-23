@@ -1,10 +1,10 @@
 [
   {
     "name": "Day Zero: Post-War Consensus",
-    "start": null,
+    "start": 1945,
     "end": 1978,
     "score": 53,
-    "doc": "eras/start-1978.md"
+    "doc": "eras/pre-1979.md"
   },
   {
     "name": "Thatcher Liberalisation",
@@ -51,7 +51,7 @@
   {
     "name": "Current Government Reforms",
     "start": 2024,
-    "end": null,
+    "end": 2026,
     "score": 55,
     "doc": "eras/2024-present.md"
   }

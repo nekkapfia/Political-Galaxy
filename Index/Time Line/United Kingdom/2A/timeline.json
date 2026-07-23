@@ -1,10 +1,10 @@
 [
   {
     "name": "Pre-EEC Membership",
-    "start": null,
+    "start": 1945,
     "end": 1972,
     "score": 92,
-    "doc": "eras/start-1972.md"
+    "doc": "eras/pre-1973.md"
   },
   {
     "name": "Early EEC Membership",
@@ -30,7 +30,7 @@
   {
     "name": "Large Scale Illegal Settlement Era",
     "start": 2022,
-    "end": null,
+    "end": 2026,
     "score": 28,
     "doc": "eras/2022-present.md"
   }
