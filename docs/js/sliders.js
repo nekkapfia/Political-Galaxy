@@ -15,18 +15,18 @@ const slots = {
 
 // Individual Core positions (inner orbit)
 const CORE_POS = [
-  { id: "1A", top: "22%", left: "28%" },
-  { id: "1B", top: "22%", right: "28%" },
-  { id: "2A", bottom: "26%", left: "28%" },
-  { id: "2B", bottom: "26%", right: "28%" }
+  { id: "1A", top: "20%", left: "22%" },
+  { id: "1B", top: "20%", right: "22%" },
+  { id: "2A", bottom: "22%", left: "22%" },
+  { id: "2B", bottom: "22%", right: "22%" }
 ];
 // Cultural pairs further out
 const CULT_POS = [
-  { ids: ["C1A","C1B"], title: "Cultural 1 – Foundation", top: "2%", left: "50%", transform: "translateX(-50%)" },
-  { ids: ["C2A","C2B"], title: "Cultural 2 – Identity", top: "38%", left: "1%" },
-  { ids: ["C3A","C3B"], title: "Cultural 3 – Boundaries", top: "38%", right: "1%" },
-  { ids: ["C4A","C4B"], title: "Cultural 4 – Structure", bottom: "6%", left: "8%" },
-  { ids: ["C5A","C5B"], title: "Cultural 5 – Change", bottom: "6%", right: "8%" }
+  { ids: ["C1A","C1B"], title: "Cultural 1 – Foundation", top: "1.5%", left: "50%", transform: "translateX(-50%)" },
+  { ids: ["C2A","C2B"], title: "Cultural 2 – Identity", top: "36%", left: "0.5%" },
+  { ids: ["C3A","C3B"], title: "Cultural 3 – Boundaries", top: "36%", right: "0.5%" },
+  { ids: ["C4A","C4B"], title: "Cultural 4 – Structure", bottom: "4%", left: "6%" },
+  { ids: ["C5A","C5B"], title: "Cultural 5 – Change", bottom: "4%", right: "6%" }
 ];
 
 function initSliders() {
@@ -56,9 +56,10 @@ function buildOrbit() {
   CORE_POS.forEach(p => {
     const m = SLIDER_META.find(s => s.id === p.id) || { short: p.id, desc: "" };
     const st = Object.entries(p).filter(([k]) => k !== "id").map(([k,v]) => k+":"+v).join(";");
-    h += `<div class="slider-group absolute z-10" style="${st};width:168px;">
+    const fullName = {"1A":"Personal Autonomy","1B":"Economic Autonomy","2A":"National Sovereignty","2B":"International Sovereignty"}[p.id] || m.short;
+    h += `<div class="slider-group core absolute z-10" style="${st};width:210px;">
       <div class="slider-row" title="${m.desc}">
-        <label for="slider-${p.id}">${m.short}</label>
+        <label for="slider-${p.id}">${fullName}</label>
         <input type="range" id="slider-${p.id}" min="0" max="100" value="50" data-id="${p.id}" />
         <span class="slider-value" id="val-${p.id}">50</span>
       </div></div>`;
@@ -66,7 +67,7 @@ function buildOrbit() {
   // Cultural pairs further out
   CULT_POS.forEach(g => {
     const st = Object.entries(g).filter(([k]) => !["ids","title"].includes(k)).map(([k,v]) => k+":"+v).join(";");
-    h += `<div class="slider-group absolute z-10" style="${st};width:190px;"><h3>${g.title}</h3>`;
+    h += `<div class="slider-group cultural absolute z-10" style="${st};width:175px;"><h3>${g.title}</h3>`;
     g.ids.forEach(id => {
       const m = SLIDER_META.find(s => s.id === id) || { short: id, desc: "" };
       h += `<div class="slider-row" title="${m.desc}">
