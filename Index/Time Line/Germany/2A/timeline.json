@@ -1,0 +1,7 @@
+[
+  {"name": "Schröder Era", "start": 1998, "end": 2005, "score": 53, "doc": "eras/1998-2005.md"},
+  {"name": "Merkel Early", "start": 2005, "end": 2010, "score": 52, "doc": "eras/2005-2010.md"},
+  {"name": "Eurozone Crisis", "start": 2010, "end": 2015, "score": 49, "doc": "eras/2010-2015.md"},
+  {"name": "Migration & Stability", "start": 2015, "end": 2022, "score": 41, "doc": "eras/2015-2022.md"},
+  {"name": "Current", "start": 2022, "end": 2026, "score": 45, "doc": "eras/2022-present.md"}
+]
