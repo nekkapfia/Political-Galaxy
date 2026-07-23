@@ -1,0 +1,89 @@
+{
+  "country": "Germany",
+  "parties": {
+    "CDU/CSU": {
+      "1B": 53,
+      "2A": 50,
+      "2B": null,
+      "C1B": null,
+      "C2A": null,
+      "C2B": null,
+      "C3A": null,
+      "C3B": null,
+      "C4A": null,
+      "C4B": null,
+      "C5A": null,
+      "C5B": null
+    },
+    "SPD": {
+      "1B": 44,
+      "2A": 48,
+      "2B": null,
+      "C1B": null,
+      "C2A": null,
+      "C2B": null,
+      "C3A": null,
+      "C3B": null,
+      "C4A": null,
+      "C4B": null,
+      "C5A": null,
+      "C5B": null
+    },
+    "Bündnis 90/Die Grünen": {
+      "1B": 40,
+      "2A": 41,
+      "2B": null,
+      "C1B": null,
+      "C2A": null,
+      "C2B": null,
+      "C3A": null,
+      "C3B": null,
+      "C4A": null,
+      "C4B": null,
+      "C5A": null,
+      "C5B": null
+    },
+    "FDP": {
+      "1B": 57,
+      "2A": 52,
+      "2B": null,
+      "C1B": null,
+      "C2A": null,
+      "C2B": null,
+      "C3A": null,
+      "C3B": null,
+      "C4A": null,
+      "C4B": null,
+      "C5A": null,
+      "C5B": null
+    },
+    "AfD": {
+      "1B": 60,
+      "2A": 49,
+      "2B": null,
+      "C1B": null,
+      "C2A": null,
+      "C2B": null,
+      "C3A": null,
+      "C3B": null,
+      "C4A": null,
+      "C4B": null,
+      "C5A": null,
+      "C5B": null
+    },
+    "Die Linke": {
+      "1B": 38,
+      "2A": 47,
+      "2B": null,
+      "C1B": null,
+      "C2A": null,
+      "C2B": null,
+      "C3A": null,
+      "C3B": null,
+      "C4A": null,
+      "C4B": null,
+      "C5A": null,
+      "C5B": null
+    }
+  }
+}
