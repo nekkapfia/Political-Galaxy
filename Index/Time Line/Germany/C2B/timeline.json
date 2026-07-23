@@ -1,0 +1,10 @@
+{
+  "slider": "C2B",
+  "country": "Germany",
+  "eras": [
+    "1998-2005.md",
+    "2005-2015.md",
+    "2015-2021.md",
+    "2021-Present.md"
+  ]
+}
