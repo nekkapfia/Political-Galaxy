@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Pre-EEC Membership",
+    "start": null,
+    "end": 1972,
+    "score": 92,
+    "doc": "eras/start-1972.md"
+  },
+  {
+    "name": "Early EEC Membership",
+    "start": 1973,
+    "end": 1992,
+    "score": 45,
+    "doc": "eras/1973-1992.md"
+  },
+  {
+    "name": "Deep EU Integration",
+    "start": 1993,
+    "end": 2020,
+    "score": 34,
+    "doc": "eras/1993-2020.md"
+  },
+  {
+    "name": "Covid Suppression of Settlers",
+    "start": 2020,
+    "end": 2022,
+    "score": 43,
+    "doc": "eras/2020-2022.md"
+  },
+  {
+    "name": "Large Scale Illegal Settlement Era",
+    "start": 2022,
+    "end": null,
+    "score": 28,
+    "doc": "eras/2022-present.md"
+  }
+]

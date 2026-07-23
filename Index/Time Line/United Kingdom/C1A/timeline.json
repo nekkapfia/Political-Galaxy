@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Post-War Moral Settlement",
+    "start": 1945,
+    "end": 1951,
+    "score": 66,
+    "doc": "eras/1945-1951.md"
+  },
+  {
+    "name": "Post-War Pragmatic Consensus",
+    "start": 1951,
+    "end": 1964,
+    "score": 26,
+    "doc": "eras/1951-1964.md"
+  },
+  {
+    "name": "Social Liberalisation",
+    "start": 1964,
+    "end": 1970,
+    "score": 17,
+    "doc": "eras/1964-1970.md"
+  },
+  {
+    "name": "Economic Crisis and Political Strain",
+    "start": 1970,
+    "end": 1974,
+    "score": 10,
+    "doc": "eras/1970-1974.md"
+  },
+  {
+    "name": "Crisis of the Post-War Settlement",
+    "start": 1974,
+    "end": 1979,
+    "score": 10,
+    "doc": "eras/1974-1979.md"
+  },
+  {
+    "name": "Early Thatcher Revolution",
+    "start": 1979,
+    "end": 1983,
+    "score": 5,
+    "doc": "eras/1979-1983.md"
+  },
+  {
+    "name": "Thatcher Consolidation",
+    "start": 1983,
+    "end": 1990,
+    "score": 7,
+    "doc": "eras/1983-1990.md"
+  },
+  {
+    "name": "Post-Thatcher Consolidation",
+    "start": 1990,
+    "end": 1997,
+    "score": 12,
+    "doc": "eras/1990-1997.md"
+  },
+  {
+    "name": "New Labour Modernisation",
+    "start": 1997,
+    "end": 2010,
+    "score": 24,
+    "doc": "eras/1997-2010.md"
+  },
+  {
+    "name": "Austerity and Pragmatic Conservatism",
+    "start": 2010,
+    "end": 2016,
+    "score": 8,
+    "doc": "eras/2010-2016.md"
+  },
+  {
+    "name": "Brexit Sovereignty Era",
+    "start": 2016,
+    "end": 2024,
+    "score": 4,
+    "doc": "eras/2016-2024.md"
+  },
+  {
+    "name": "Post-Brexit Technocratic Turn",
+    "start": 2024,
+    "end": null,
+    "score": 9,
+    "doc": "eras/2024-present.md"
+  }
+]

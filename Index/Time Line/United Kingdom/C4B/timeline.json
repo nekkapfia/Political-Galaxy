@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Post-War Welfare State and Limited Anti-Discrimination",
+    "start": 1945,
+    "end": 1964,
+    "score": 18,
+    "doc": "eras/1945-1964.md"
+  },
+  {
+    "name": "First Wave of Race and Sex Discrimination Legislation",
+    "start": 1965,
+    "end": 1975,
+    "score": 35,
+    "doc": "eras/1965-1975.md"
+  },
+  {
+    "name": "Strengthened Commissions and Indirect Discrimination Focus",
+    "start": 1976,
+    "end": 1998,
+    "score": 42,
+    "doc": "eras/1976-1998.md"
+  },
+  {
+    "name": "Macpherson Report and Institutional Racism Era",
+    "start": 1999,
+    "end": 2009,
+    "score": 62,
+    "doc": "eras/1999-2009.md"
+  },
+  {
+    "name": "Equality Act 2010 and Public Sector Equality Duty Implementation",
+    "start": 2010,
+    "end": 2015,
+    "score": 68,
+    "doc": "eras/2010-2015.md"
+  },
+  {
+    "name": "Peak Institutional DEI and Equity Push",
+    "start": 2016,
+    "end": 2020,
+    "score": 71,
+    "doc": "eras/2016-2020.md"
+  },
+  {
+    "name": "Sewell Report and Visible Contestation",
+    "start": 2021,
+    "end": 2023,
+    "score": 58,
+    "doc": "eras/2021-2023.md"
+  },
+  {
+    "name": "Continuity and Ongoing Tension under Current Government",
+    "start": 2024,
+    "end": null,
+    "score": 56,
+    "doc": "eras/2024-present.md"
+  }
+]

@@ -1,6 +1,6 @@
 [
   {
-    "name": "Rhodesia Crisis / Lancaster House",
+    "name": "Rhodesia Crisis",
     "start": 1979,
     "end": 1980,
     "score": 61,
@@ -35,10 +35,10 @@
     "doc": "eras/2011-2016.md"
   },
   {
-    "name": "Sanctions & Proxy Support Era",
+    "name": "Sanctions & Proxy Support",
     "start": 2016,
-    "end": 2026,
+    "end": null,
     "score": 48,
-    "doc": "eras/2016-2026.md"
+    "doc": "eras/2016-present.md"
   }
 ]

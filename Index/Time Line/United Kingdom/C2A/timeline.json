@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Post-War Class-Based Allocation",
+    "start": 1945,
+    "end": 1955,
+    "score": 78,
+    "doc": "eras/1945-1955.md"
+  },
+  {
+    "name": "Early Commonwealth Immigration",
+    "start": 1955,
+    "end": 1965,
+    "score": 74,
+    "doc": "eras/1955-1965.md"
+  },
+  {
+    "name": "Race Relations Legislation",
+    "start": 1965,
+    "end": 1975,
+    "score": 61,
+    "doc": "eras/1965-1975.md"
+  },
+  {
+    "name": "Sex Discrimination Extension",
+    "start": 1975,
+    "end": 1979,
+    "score": 57,
+    "doc": "eras/1975-1979.md"
+  },
+  {
+    "name": "Thatcher Era",
+    "start": 1979,
+    "end": 1990,
+    "score": 66,
+    "doc": "eras/1979-1990.md"
+  },
+  {
+    "name": "Major Government",
+    "start": 1990,
+    "end": 1997,
+    "score": 62,
+    "doc": "eras/1990-1997.md"
+  },
+  {
+    "name": "New Labour Expansion",
+    "start": 1997,
+    "end": 2005,
+    "score": 47,
+    "doc": "eras/1997-2005.md"
+  },
+  {
+    "name": "New Labour Peak",
+    "start": 2005,
+    "end": 2010,
+    "score": 42,
+    "doc": "eras/2005-2010.md"
+  },
+  {
+    "name": "Conservative Contestation",
+    "start": 2010,
+    "end": 2019,
+    "score": 49,
+    "doc": "eras/2010-2019.md"
+  },
+  {
+    "name": "Heightened Contestation",
+    "start": 2019,
+    "end": 2024,
+    "score": 52,
+    "doc": "eras/2019-2024.md"
+  },
+  {
+    "name": "Starmer Government (Provisional)",
+    "start": 2024,
+    "end": null,
+    "score": 50,
+    "doc": "eras/2024-present.md"
+  }
+]

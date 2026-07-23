@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Post-War Imperial Citizenship",
+    "start": 1945,
+    "end": 1961,
+    "score": 0,
+    "doc": "eras/1945-1961.md"
+  },
+  {
+    "name": "Early Commonwealth Controls",
+    "start": 1962,
+    "end": 1970,
+    "score": 0,
+    "doc": "eras/1962-1970.md"
+  },
+  {
+    "name": "Patriality and Immigration Act",
+    "start": 1971,
+    "end": 1982,
+    "score": 0,
+    "doc": "eras/1971-1982.md"
+  },
+  {
+    "name": "1981 Nationality Reform",
+    "start": 1983,
+    "end": 2001,
+    "score": 0,
+    "doc": "eras/1983-2001.md"
+  },
+  {
+    "name": "Formal Integration Framework",
+    "start": 2002,
+    "end": 2009,
+    "score": 0,
+    "doc": "eras/2002-2009.md"
+  },
+  {
+    "name": "Consolidation",
+    "start": 2010,
+    "end": null,
+    "score": 0,
+    "doc": "eras/2010-present.md"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Day Zero: Post-War Consensus",
+    "start": null,
+    "end": 1978,
+    "score": 53,
+    "doc": "eras/start-1978.md"
+  },
+  {
+    "name": "Thatcher Liberalisation",
+    "start": 1979,
+    "end": 1990,
+    "score": 64,
+    "doc": "eras/1979-1990.md"
+  },
+  {
+    "name": "Market Consolidation",
+    "start": 1991,
+    "end": 2007,
+    "score": 61,
+    "doc": "eras/1991-2007.md"
+  },
+  {
+    "name": "Financial Crisis & Austerity",
+    "start": 2008,
+    "end": 2016,
+    "score": 59,
+    "doc": "eras/2008-2016.md"
+  },
+  {
+    "name": "Brexit Uncertainty",
+    "start": 2017,
+    "end": 2020,
+    "score": 59,
+    "doc": "eras/2017-2020.md"
+  },
+  {
+    "name": "COVID Restrictions",
+    "start": 2020,
+    "end": 2022,
+    "score": 40,
+    "doc": "eras/2020-2022.md"
+  },
+  {
+    "name": "Post-COVID & Energy",
+    "start": 2022,
+    "end": 2024,
+    "score": 57,
+    "doc": "eras/2022-2024.md"
+  },
+  {
+    "name": "Current Government Reforms",
+    "start": 2024,
+    "end": null,
+    "score": 55,
+    "doc": "eras/2024-present.md"
+  }
+]

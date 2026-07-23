@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Post-War Common-Law Baseline",
+    "start": 1945,
+    "end": 1985,
+    "score": 78,
+    "doc": "eras/1945-1985.md"
+  },
+  {
+    "name": "Public Order Act Densification",
+    "start": 1986,
+    "end": 2000,
+    "score": 68,
+    "doc": "eras/1986-2000.md"
+  },
+  {
+    "name": "Communications Act and Terrorism Expression Controls",
+    "start": 2001,
+    "end": 2015,
+    "score": 62,
+    "doc": "eras/2001-2015.md"
+  },
+  {
+    "name": "Elevated Enforcement Plateau",
+    "start": 2016,
+    "end": 2019,
+    "score": 60,
+    "doc": "eras/2016-2019.md"
+  },
+  {
+    "name": "COVID Restrictions Block",
+    "start": 2020,
+    "end": 2022,
+    "score": 38,
+    "doc": "eras/2020-2022.md"
+  },
+  {
+    "name": "Post-COVID Recovery with Online Safety Act",
+    "start": 2022,
+    "end": null,
+    "score": 58,
+    "doc": "eras/2022-present.md"
+  }
+]

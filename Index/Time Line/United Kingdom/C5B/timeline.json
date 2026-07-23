@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Post-War Attlee Transformation",
+    "start": 1945,
+    "end": 1951,
+    "score": 78,
+    "doc": "eras/1945-1951.md"
+  },
+  {
+    "name": "Conservative Gradualism",
+    "start": 1951,
+    "end": 1964,
+    "score": 28,
+    "doc": "eras/1951-1964.md"
+  },
+  {
+    "name": "Wilson–Heath–Callaghan Mixed Pace",
+    "start": 1964,
+    "end": 1979,
+    "score": 52,
+    "doc": "eras/1964-1979.md"
+  },
+  {
+    "name": "Thatcher Radical Acceleration",
+    "start": 1979,
+    "end": 1990,
+    "score": 85,
+    "doc": "eras/1979-1990.md"
+  },
+  {
+    "name": "Major Continuity and Stabilisation",
+    "start": 1990,
+    "end": 1997,
+    "score": 35,
+    "doc": "eras/1990-1997.md"
+  },
+  {
+    "name": "New Labour Compressed Modernisation",
+    "start": 1997,
+    "end": 2010,
+    "score": 82,
+    "doc": "eras/1997-2010.md"
+  },
+  {
+    "name": "Coalition Austerity and Incrementalism",
+    "start": 2010,
+    "end": 2016,
+    "score": 48,
+    "doc": "eras/2010-2016.md"
+  },
+  {
+    "name": "Brexit Paralysis and Delay",
+    "start": 2016,
+    "end": 2019,
+    "score": 25,
+    "doc": "eras/2016-2019.md"
+  },
+  {
+    "name": "Johnson–Truss–Sunak Accelerated Delivery",
+    "start": 2019,
+    "end": 2024,
+    "score": 68,
+    "doc": "eras/2019-2024.md"
+  },
+  {
+    "name": "Starmer Early Mixed Signals",
+    "start": 2024,
+    "end": null,
+    "score": 55,
+    "doc": "eras/2024-present.md"
+  }
+]

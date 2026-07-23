@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Post-War Tripartite System",
+    "start": 1945,
+    "end": 1964,
+    "score": 68,
+    "doc": "eras/1945-1964.md"
+  },
+  {
+    "name": "Comprehensive Reforms",
+    "start": 1964,
+    "end": 1979,
+    "score": 52,
+    "doc": "eras/1964-1979.md"
+  },
+  {
+    "name": "Market Reforms & Selective Decline",
+    "start": 1979,
+    "end": 1997,
+    "score": 48,
+    "doc": "eras/1979-1997.md"
+  },
+  {
+    "name": "Widening Participation",
+    "start": 1997,
+    "end": 2010,
+    "score": 35,
+    "doc": "eras/1997-2010.md"
+  },
+  {
+    "name": "Austerity & Academies",
+    "start": 2010,
+    "end": 2016,
+    "score": 31,
+    "doc": "eras/2010-2016.md"
+  },
+  {
+    "name": "Post-Brexit Stratification",
+    "start": 2016,
+    "end": 2024,
+    "score": 27,
+    "doc": "eras/2016-2024.md"
+  },
+  {
+    "name": "Current Trajectory",
+    "start": 2024,
+    "end": null,
+    "score": 25,
+    "doc": "eras/2024-present.md"
+  }
+]
