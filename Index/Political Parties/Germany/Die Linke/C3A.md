@@ -1,3 +1,5 @@
-# Die Linke – C3A
+# Die Linke – Cultural 3A (Ethnicity)
 
-**Score: pending full extraction**
+**Score: 0**
+
+Die Linke maintains absolute open access on the ethnic dimension. No ancestral or ethnic criteria are supported.

@@ -1,3 +1,5 @@
-# SPD – C3A
+# SPD – Cultural 3A (Ethnicity)
 
-**Score: pending full extraction**
+**Score: 0**
+
+The SPD maintains absolute open access on the ethnic dimension. No ancestral or ethnic criteria are supported.

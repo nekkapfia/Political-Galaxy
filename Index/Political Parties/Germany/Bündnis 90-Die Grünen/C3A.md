@@ -1,3 +1,5 @@
-# Bündnis 90-Die Grünen – C3A
+# Bündnis 90-Die Grünen – Cultural 3A (Ethnicity)
 
-**Score: pending full extraction**
+**Score: 0**
+
+The Greens maintain absolute open access on the ethnic dimension.

@@ -1,3 +1,5 @@
-# FDP – C3A
+# FDP – Cultural 3A (Ethnicity)
 
-**Score: pending full extraction**
+**Score: 0**
+
+The FDP maintains absolute open access on the ethnic dimension.
