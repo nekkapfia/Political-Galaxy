@@ -220,66 +220,138 @@ async function loadIndexData() {
 async function loadCountry(country) {
   const enc = encodeURIComponent(country);
 
-  // --- Parties (still one JSON per country) ---
-  const partiesUrl = `${REPO_RAW}/Political%20Parties/${enc}.json`;
-  const partiesLocal = `data/${country.toLowerCase().replace(/\s+/g, "_")}_parties.json`;
-  let parties = await tryFetch(partiesUrl, `Parties ${country}`);
-  if (!parties) parties = await tryFetch(partiesLocal, `Local parties ${country}`);
+  // ============================================================
+  // PARTIES – preferred cascade:
+  //   Political Parties/{country}/index.json  → party names
+  //   Political Parties/{country}/{party}/scores.json
+  // Fallback: Political Parties/{country}.json  (legacy bulk file)
+  // ============================================================
+  PARTY_DATA[country] = {};
 
-  if (parties) {
-    const rawParties = parties.parties || parties;
-    const normalized = {};
-    for (const [partyName, rawScores] of Object.entries(rawParties || {})) {
-      if (typeof rawScores !== "object") continue;
-      const scores = {};
-      for (const [rawKey, value] of Object.entries(rawScores)) {
-        const id = normalizeSliderKey(rawKey);
-        if (id) scores[id] = value;
-      }
-      normalized[partyName] = scores;
-    }
-    PARTY_DATA[country] = normalized;
-  } else {
-    PARTY_DATA[country] = {};
+  const partyIndex = await tryFetch(
+    `${REPO_RAW}/Political%20Parties/${enc}/index.json`,
+    `Party index ${country}`
+  );
+
+  let partyNames = [];
+  if (partyIndex) {
+    if (Array.isArray(partyIndex.parties)) partyNames = partyIndex.parties;
+    else if (Array.isArray(partyIndex)) partyNames = partyIndex;
   }
 
-  // --- Timeline: try new per-slider format first, then old flat format ---
+  if (partyNames.length) {
+    for (const partyName of partyNames) {
+      const penc = encodeURIComponent(partyName);
+      // Prefer scores.json beside party.json
+      let scores = await tryFetch(
+        `${REPO_RAW}/Political%20Parties/${enc}/${penc}/scores.json`,
+        `Scores ${country}/${partyName}`
+      );
+      // Optional: party.json may point at a different scores file
+      if (!scores) {
+        const meta = await tryFetch(
+          `${REPO_RAW}/Political%20Parties/${enc}/${penc}/party.json`,
+          `party.json ${country}/${partyName}`
+        );
+        if (meta && meta.scores) {
+          const scoresPath = meta.scores.startsWith("http")
+            ? meta.scores
+            : `${REPO_RAW}/Political%20Parties/${enc}/${penc}/${meta.scores}`;
+          scores = await tryFetch(scoresPath, `Scores via party.json ${partyName}`);
+        }
+      }
+      if (scores) {
+        const normalized = {};
+        // scores may be flat {1A: 60} or nested {scores: {1A: 60}}
+        const raw = scores.scores || scores;
+        for (const [rawKey, value] of Object.entries(raw)) {
+          if (typeof value === "object") continue;
+          const id = normalizeSliderKey(rawKey);
+          if (id) normalized[id] = value;
+        }
+        PARTY_DATA[country][partyName] = normalized;
+      }
+    }
+  } else {
+    // Legacy: single country JSON with all parties
+    const partiesUrl = `${REPO_RAW}/Political%20Parties/${enc}.json`;
+    const partiesLocal = `data/${country.toLowerCase().replace(/\s+/g, "_")}_parties.json`;
+    let parties = await tryFetch(partiesUrl, `Parties bulk ${country}`);
+    if (!parties) parties = await tryFetch(partiesLocal, `Local parties ${country}`);
+    if (parties) {
+      const rawParties = parties.parties || parties;
+      for (const [partyName, rawScores] of Object.entries(rawParties || {})) {
+        if (typeof rawScores !== "object") continue;
+        const scores = {};
+        for (const [rawKey, value] of Object.entries(rawScores)) {
+          const id = normalizeSliderKey(rawKey);
+          if (id) scores[id] = value;
+        }
+        PARTY_DATA[country][partyName] = scores;
+      }
+    }
+  }
+
+  // ============================================================
+  // TIMELINE – preferred:
+  //   Time Line/{country}/index.json → optional list of slider ids
+  //   Time Line/{country}/{sliderId}/timeline.json
+  //     eras: { id, name, start, end, score }  → doc = eras/{id}.md
+  // Fallback: flat Time Line/{country}.json
+  // ============================================================
   SCORE_DATA[country] = {};
 
-  // New format: Index/Time Line/{Country}/{sliderId}/timeline.json
+  let sliderList = SLIDER_IDS.slice();
+  const tlIndex = await tryFetch(
+    `${REPO_RAW}/Time%20Line/${enc}/index.json`,
+    `Timeline index ${country}`
+  );
+  if (tlIndex) {
+    const listed = tlIndex.sliders || tlIndex.axes || tlIndex;
+    if (Array.isArray(listed) && listed.length) {
+      sliderList = listed.map(normalizeSliderKey).filter(Boolean);
+    }
+  }
+
   let loadedAnyNew = false;
-  for (const sliderId of SLIDER_IDS) {
+  for (const sliderId of sliderList) {
     const url = `${REPO_RAW}/Time%20Line/${enc}/${sliderId}/timeline.json`;
     const eras = await tryFetch(url, `Timeline ${country}/${sliderId}`);
     if (Array.isArray(eras) && eras.length) {
-      SCORE_DATA[country][sliderId] = eras.map(e => ({
-        name:    e.name || e.era || "",
-        start:   e.start == null ? 0 : e.start,
-        end:     (e.end == null || e.end === 9999) ? 9999 : e.end,
-        score:   e.score,
-        // Store Index-relative path for the viewer
-        source:  e.doc
-          ? `Time Line/${country}/${sliderId}/${e.doc}`
-          : (e.source || ""),
-        section: e.name || e.era || "",
-        era:     e.name || e.era || ""
-      }));
+      SCORE_DATA[country][sliderId] = eras.map(e => {
+        const id = e.id || null;
+        // Convention: eras/{id}.md  — never requires a doc field in JSON
+        const docPath = id
+          ? `Time Line/${country}/${sliderId}/eras/${id}.md`
+          : (e.doc
+              ? `Time Line/${country}/${sliderId}/${e.doc}`
+              : (e.source || ""));
+        return {
+          id:      id,
+          name:    e.name || e.era || id || "",
+          start:   e.start == null ? 0 : e.start,
+          end:     (e.end == null || e.end === 9999) ? 9999 : e.end,
+          score:   e.score,
+          source:  docPath,
+          section: e.name || e.era || id || "",
+          era:     e.name || e.era || id || ""
+        };
+      });
       loadedAnyNew = true;
     }
   }
 
-  // Fallback: old flat United Kingdom.json style
   if (!loadedAnyNew) {
     const flatUrl = `${REPO_RAW}/Time%20Line/${enc}.json`;
     const localFlat = `data/${country.toLowerCase().replace(/\s+/g, "_")}_timeline.json`;
     let flat = await tryFetch(flatUrl, `Flat timeline ${country}`);
     if (!flat) flat = await tryFetch(localFlat, `Local flat timeline ${country}`);
-
     if (flat && flat.sliders) {
       for (const [rawKey, eras] of Object.entries(flat.sliders)) {
         const sliderId = normalizeSliderKey(rawKey);
         if (!sliderId || !Array.isArray(eras)) continue;
         SCORE_DATA[country][sliderId] = eras.map(e => ({
+          id:      e.id || null,
           name:    e.era || e.name || "",
           start:   e.start == null ? 0 : e.start,
           end:     (e.end == null || e.end === 9999) ? 9999 : e.end,
