@@ -466,3 +466,26 @@ input.track-b::-moz-range-thumb {
 .slider-group.cultural.side-b {
   padding: 0.5rem 0.65rem 0.55rem;
 }
+
+
+/* Force coloured borders on compare centre panels (beats #center-panel ID rules) */
+#center-panel.center-side.side-a,
+#center-wrap #center-panel.center-side.side-a {
+  border: 2px solid var(--accent-a) !important;
+  box-shadow:
+    0 0 0 1px color-mix(in srgb, var(--accent-a) 35%, transparent),
+    0 8px 24px rgba(0,0,0,0.55) !important;
+}
+#center-panel-b.center-side.side-b,
+#center-wrap #center-panel-b.center-side.side-b {
+  border: 2px solid var(--accent-b) !important;
+  box-shadow:
+    0 0 0 1px color-mix(in srgb, var(--accent-b) 35%, transparent),
+    0 8px 24px rgba(0,0,0,0.55) !important;
+}
+#center-panel.center-side.side-a label {
+  color: var(--accent-a-bright);
+}
+#center-panel-b.center-side.side-b label {
+  color: var(--accent-b-bright);
+}
