@@ -105,7 +105,7 @@ function renderCenter() {
     p.innerHTML = `<div class="text-xs text-indigo-300 font-medium mb-2">Modern – Party</div>
       <label>Country</label><select id="m-country"></select>
       <label>Party</label><select id="m-party"></select>
-      <div class="text-xs text-slate-500 mt-1">Sliders find nearest party</div>`;
+      <div class="text-xs text-slate-500 mt-1">Select a party to load its scores</div>`;
     fillCountry("m-country", selectedCountry);
     fillParty("m-party", selectedCountry, selectedParty);
     document.getElementById("m-country").onchange = e => {
@@ -212,15 +212,34 @@ function nearestEras(target, countryFilter, limit) {
   return out.sort((a,b)=>a.dist-b.dist).slice(0,limit);
 }
 
+function applyScoresToSliders(scores) {
+  if (!scores) return;
+  SLIDER_META.forEach(s => {
+    const v = scores[s.id];
+    const inp = document.getElementById("slider-"+s.id);
+    const val = document.getElementById("val-"+s.id);
+    if (inp && v != null && !isNaN(v)) {
+      inp.value = v;
+      if (val) val.textContent = v;
+      currentVector[s.id] = Number(v);
+    }
+  });
+}
+
 function refresh() {
+  if (currentMode === "modern") {
+    // Selecting a party loads its scores onto the sliders
+    if (selectedParty && typeof getPartyVector === "function") {
+      const scores = getPartyVector(selectedCountry, selectedParty);
+      if (scores) applyScoresToSliders(scores);
+    } else if (selectedParty && PARTY_DATA[selectedCountry] && PARTY_DATA[selectedCountry][selectedParty]) {
+      applyScoresToSliders(PARTY_DATA[selectedCountry][selectedParty]);
+    }
+    return;
+  }
   if (currentMode === "historical") {
     const vec = (typeof getVector==="function") ? getVector(selectedCountry, selectedYear) : {scores:{}};
-    SLIDER_META.forEach(s => {
-      const v = vec.scores?.[s.id];
-      const inp = document.getElementById("slider-"+s.id);
-      const val = document.getElementById("val-"+s.id);
-      if (inp && v!=null) { inp.value=v; if(val) val.textContent=v; currentVector[s.id]=v; }
-    });
+    applyScoresToSliders(vec.scores || {});
     return;
   }
   if (currentMode !== "all") return;

@@ -207,8 +207,8 @@
   background: #1e293b;
   border: 1px solid #334155;
   border-radius: 0.35rem;
-  padding: 0.35rem 0.45rem;
-  margin-bottom: 0.3rem;
+  padding: 0.4rem 0.5rem;
+  margin-bottom: 0.35rem;
   box-sizing: border-box;
 }
 .match-slot.locked { border-color: #6366f1; }
@@ -238,8 +238,8 @@
   box-sizing: border-box;
 }
 .match-slot .slot-value {
-  flex: 1; min-width: 0; font-size: 0.68rem; color: #c7d2fe;
-  line-height: 1.2; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  flex: 1; min-width: 0; font-size: 0.72rem; color: #c7d2fe;
+  line-height: 1.25; overflow: hidden; word-break: break-word;
 }
 
 .mode-btn.bg-indigo-600 { background: #4f46e5; color: white; }
