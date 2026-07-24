@@ -355,3 +355,62 @@
   opacity: 0.95;
   cursor: default;
 }
+
+
+/* Compare centre panels – accent only, no Left/Right text */
+.center-side {
+  background: #0f172a;
+  border-radius: 0.55rem;
+  padding: 0.7rem 0.85rem;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.55);
+  box-sizing: border-box;
+}
+.center-side.side-a {
+  border: 1.5px solid #c9a227;
+  box-shadow: 0 0 0 1px rgba(201,162,39,0.3), 0 8px 24px rgba(0,0,0,0.55);
+}
+.center-side.side-b {
+  border: 1.5px solid #38bdf8;
+  box-shadow: 0 0 0 1px rgba(56,189,248,0.3), 0 8px 24px rgba(0,0,0,0.55);
+}
+.center-side label {
+  display: block;
+  font-size: 0.55rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #64748b;
+  margin-bottom: 0.1rem;
+}
+.center-side select,
+.center-side input[type=number] {
+  width: 100%;
+  background: #1e293b;
+  border: 1px solid #475569;
+  border-radius: 0.25rem;
+  padding: 0.28rem 0.4rem;
+  font-size: 0.75rem;
+  color: #e2e8f0;
+  margin-bottom: 0.4rem;
+  box-sizing: border-box;
+}
+
+/* Dual tracks inside a single Core box */
+.slider-group.core .core-slider-row {
+  margin-bottom: 0.4rem;
+}
+.slider-group.core .core-slider-row:last-child {
+  margin-bottom: 0;
+}
+input.track-a::-webkit-slider-thumb {
+  border-color: #fbbf24 !important;
+  box-shadow: 0 0 6px rgba(251, 191, 36, 0.5) !important;
+}
+input.track-b::-webkit-slider-thumb {
+  background: radial-gradient(circle at 35% 35%, #e0f2fe, #38bdf8 55%, #0369a1) !important;
+  border-color: #7dd3fc !important;
+  box-shadow: 0 0 6px rgba(56, 189, 248, 0.5) !important;
+}
+input.track-b::-moz-range-thumb {
+  background: radial-gradient(circle at 35% 35%, #e0f2fe, #38bdf8 55%, #0369a1) !important;
+  border-color: #7dd3fc !important;
+}

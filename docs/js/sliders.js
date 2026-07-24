@@ -66,37 +66,25 @@ function buildOrbit() {
   const compare = currentMode === "compare";
   let h = "";
 
+  // ---- CORES ----
+  // Compare: one box per axis, two tracks inside (A amber, B sky)
+  // Other modes: single track
   CORE_POS.forEach(p => {
+    const st = Object.entries(p).filter(([k]) => k !== "id").map(([k,v]) => k+":"+v).join(";");
     const name = CORE_NAMES[p.id] || p.id;
     if (compare) {
-      // Twin separate boxes – left (A) and right (B) with offset
-      const base = Object.fromEntries(Object.entries(p).filter(([k]) => k !== "id"));
-      // Position pair: shift left card slightly left, right card slightly right of original
-      let leftStyle = "";
-      let rightStyle = "";
-      if (base.left) {
-        leftStyle = `top:${base.top||"auto"};bottom:${base.bottom||"auto"};left:calc(${base.left} - 4%);`;
-        rightStyle = `top:${base.top||"auto"};bottom:${base.bottom||"auto"};left:calc(${base.left} + 14%);`;
-      } else if (base.right) {
-        leftStyle = `top:${base.top||"auto"};bottom:${base.bottom||"auto"};right:calc(${base.right} + 14%);`;
-        rightStyle = `top:${base.top||"auto"};bottom:${base.bottom||"auto"};right:calc(${base.right} - 4%);`;
-      }
-      h += `<div class="slider-group core side-a absolute z-10" style="${leftStyle}width:200px;">
+      h += `<div class="slider-group core absolute z-10" style="${st};width:240px;">
         <div class="core-label">${name}</div>
         <div class="core-slider-row">
-          <input type="range" id="slider-${p.id}-a" min="0" max="100" value="50" data-id="${p.id}" data-side="a" disabled />
+          <input type="range" class="track-a" id="slider-${p.id}-a" min="0" max="100" value="50" data-id="${p.id}" data-side="a" disabled />
           <span class="slider-value side-a" id="val-${p.id}-a">50</span>
         </div>
-      </div>`;
-      h += `<div class="slider-group core side-b absolute z-10" style="${rightStyle}width:200px;">
-        <div class="core-label">${name}</div>
         <div class="core-slider-row">
-          <input type="range" id="slider-${p.id}-b" min="0" max="100" value="50" data-id="${p.id}" data-side="b" disabled />
+          <input type="range" class="track-b" id="slider-${p.id}-b" min="0" max="100" value="50" data-id="${p.id}" data-side="b" disabled />
           <span class="slider-value side-b" id="val-${p.id}-b">50</span>
         </div>
       </div>`;
     } else {
-      const st = Object.entries(p).filter(([k]) => k !== "id").map(([k,v]) => k+":"+v).join(";");
       h += `<div class="slider-group core absolute z-10" style="${st};width:240px;">
         <div class="core-label">${name}</div>
         <div class="core-slider-row">
@@ -107,36 +95,15 @@ function buildOrbit() {
     }
   });
 
+  // ---- CULTURALS ----
+  // Compare layout:
+  //   C1 (top): twin side-by-side
+  //   C2 (left): twin stacked vertically
+  //   C3 (right): twin stacked vertically
+  //   C4 / C5 (bottom): twin side-by-side
   CULT_POS.forEach(g => {
-    if (compare) {
-      // Twin cultural cards
-      const base = { ...g };
-      delete base.ids; delete base.title;
-      let leftStyle = "", rightStyle = "";
-      if (base.left === "50%" || base.transform) {
-        // top centre pair
-        leftStyle = `top:${base.top};left:calc(50% - 175px);`;
-        rightStyle = `top:${base.top};left:calc(50% + 8px);`;
-      } else if (base.left) {
-        leftStyle = `top:${base.top||"auto"};bottom:${base.bottom||"auto"};left:${base.left};`;
-        rightStyle = `top:${base.top||"auto"};bottom:${base.bottom||"auto"};left:calc(${base.left} + 155px);`;
-      } else if (base.right) {
-        leftStyle = `top:${base.top||"auto"};bottom:${base.bottom||"auto"};right:calc(${base.right} + 155px);`;
-        rightStyle = `top:${base.top||"auto"};bottom:${base.bottom||"auto"};right:${base.right};`;
-      }
-      const body = (side) => g.ids.map(id => {
-        const label = SHORT[id] || id;
-        return `<div class="slider-row">
-          <label>${label}</label>
-          <input type="range" id="slider-${id}-${side}" min="0" max="100" value="50" data-id="${id}" data-side="${side}" disabled />
-          <span class="slider-value side-${side}" id="val-${id}-${side}">50</span>
-        </div>`;
-      }).join("");
-      h += `<div class="slider-group cultural side-a absolute z-10" style="${leftStyle}width:148px;">
-        <h3>${g.title}</h3>${body("a")}</div>`;
-      h += `<div class="slider-group cultural side-b absolute z-10" style="${rightStyle}width:148px;">
-        <h3>${g.title}</h3>${body("b")}</div>`;
-    } else {
+    const key = g.ids[0]; // C1A, C2A, ...
+    if (!compare) {
       const st = Object.entries(g).filter(([k]) => !["ids","title"].includes(k)).map(([k,v]) => k+":"+v).join(";");
       h += `<div class="slider-group cultural absolute z-10" style="${st};width:175px;"><h3>${g.title}</h3>`;
       g.ids.forEach(id => {
@@ -148,6 +115,48 @@ function buildOrbit() {
         </div>`;
       });
       h += `</div>`;
+      return;
+    }
+
+    const body = (side) => g.ids.map(id => {
+      const label = SHORT[id] || id;
+      return `<div class="slider-row">
+        <label>${label}</label>
+        <input type="range" class="track-${side}" id="slider-${id}-${side}" min="0" max="100" value="50" data-id="${id}" data-side="${side}" disabled />
+        <span class="slider-value side-${side}" id="val-${id}-${side}">50</span>
+      </div>`;
+    }).join("");
+
+    if (key === "C1A") {
+      // top centre – side by side
+      h += `<div class="slider-group cultural side-a absolute z-10" style="top:1.5%;left:calc(50% - 170px);width:150px;">
+        <h3>${g.title}</h3>${body("a")}</div>`;
+      h += `<div class="slider-group cultural side-b absolute z-10" style="top:1.5%;left:calc(50% + 12px);width:150px;">
+        <h3>${g.title}</h3>${body("b")}</div>`;
+    } else if (key === "C2A") {
+      // left – stacked vertically
+      h += `<div class="slider-group cultural side-a absolute z-10" style="top:28%;left:0.5%;width:150px;">
+        <h3>${g.title}</h3>${body("a")}</div>`;
+      h += `<div class="slider-group cultural side-b absolute z-10" style="top:48%;left:0.5%;width:150px;">
+        <h3>${g.title}</h3>${body("b")}</div>`;
+    } else if (key === "C3A") {
+      // right – stacked vertically
+      h += `<div class="slider-group cultural side-a absolute z-10" style="top:28%;right:0.5%;width:150px;">
+        <h3>${g.title}</h3>${body("a")}</div>`;
+      h += `<div class="slider-group cultural side-b absolute z-10" style="top:48%;right:0.5%;width:150px;">
+        <h3>${g.title}</h3>${body("b")}</div>`;
+    } else if (key === "C4A") {
+      // bottom left – side by side
+      h += `<div class="slider-group cultural side-a absolute z-10" style="bottom:3%;left:4%;width:150px;">
+        <h3>${g.title}</h3>${body("a")}</div>`;
+      h += `<div class="slider-group cultural side-b absolute z-10" style="bottom:3%;left:calc(4% + 158px);width:150px;">
+        <h3>${g.title}</h3>${body("b")}</div>`;
+    } else if (key === "C5A") {
+      // bottom right – side by side
+      h += `<div class="slider-group cultural side-a absolute z-10" style="bottom:3%;right:calc(4% + 158px);width:150px;">
+        <h3>${g.title}</h3>${body("a")}</div>`;
+      h += `<div class="slider-group cultural side-b absolute z-10" style="bottom:3%;right:4%;width:150px;">
+        <h3>${g.title}</h3>${body("b")}</div>`;
     }
   });
 
@@ -168,9 +177,6 @@ function buildOrbit() {
 function sidePanelHTML(sideKey, side) {
   const isEra = side.mode === "era";
   return `
-    <div class="text-xs font-medium mb-2 ${sideKey === "a" ? "text-amber-300" : "text-sky-300"}">
-      ${sideKey === "a" ? "Left" : "Right"}
-    </div>
     <label>Country</label>
     <select id="${sideKey}-country"></select>
     <label>Mode</label>
@@ -229,9 +235,9 @@ function renderCenter() {
     if (pB) {
       pB.style.display = "block";
       pB.style.width = "200px";
-      pB.className = "bg-slate-900 border border-slate-600 rounded-lg p-3";
+      pB.className = "center-side side-b";
     }
-    p.className = "bg-slate-900 border border-slate-600 rounded-lg p-3";
+    p.className = "center-side side-a";
     p.innerHTML = sidePanelHTML("a", sideA);
     if (pB) pB.innerHTML = sidePanelHTML("b", sideB);
     wireSide("a", sideA);
