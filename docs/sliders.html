@@ -29,16 +29,19 @@
     <div class="flex flex-wrap items-center justify-between gap-3 mb-3">
       <div>
         <h1 class="text-2xl font-bold">Sliders Explorer</h1>
-        <p class="text-slate-400 text-sm">Cores individual · Culturals outer · Centre 8-slot matches</p>
+        <p class="text-slate-400 text-sm">Cores individual · Culturals outer · Modern / Historical / Compare</p>
       </div>
       <div class="flex gap-1 bg-slate-900 rounded-lg p-1 border border-slate-700" id="mode-toggle">
         <button data-mode="modern" class="mode-btn px-3 py-1.5 rounded-md text-sm font-medium bg-indigo-600 text-white">Modern</button>
         <button data-mode="historical" class="mode-btn px-3 py-1.5 rounded-md text-sm font-medium text-slate-400">Historical</button>
-        <button data-mode="all" class="mode-btn px-3 py-1.5 rounded-md text-sm font-medium text-slate-400">All</button>
+        <button data-mode="compare" class="mode-btn px-3 py-1.5 rounded-md text-sm font-medium text-slate-400">Compare</button>
       </div>
     </div>
     <div id="orbital" class="relative mx-auto bg-slate-900/40 border border-slate-700 rounded-2xl overflow-hidden" style="width:100%;max-width:1020px;height:680px;">
-      <div id="center-panel" class="absolute z-30" style="top:50%;left:50%;transform:translate(-50%,-50%);width:360px;"></div>
+      <div id="center-wrap" class="absolute z-30 flex gap-3" style="top:50%;left:50%;transform:translate(-50%,-50%);">
+        <div id="center-panel" style="width:200px;"></div>
+        <div id="center-panel-b" style="width:200px;display:none;"></div>
+      </div>
       <div id="slider-container" class="absolute inset-0"></div>
     </div>
   </main>

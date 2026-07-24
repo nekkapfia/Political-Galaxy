@@ -1,26 +1,24 @@
-// Sliders Explorer – individual Cores, outer Culturals, 8-slot centre
+// Sliders Explorer – Modern / Historical / Compare
+// Compare: two independent sides (each Era or Party), dual tracks on every axis
+
 let currentMode = "modern";
 let currentVector = {};
 let selectedCountry = "United Kingdom";
 let selectedParty = null;
 let selectedYear = 2024;
 
-// 8-slot state: 2 parties + 2 eras, each with countryLock + entityLock
-const slots = {
-  p1: { country: "United Kingdom", countryLock: true, entity: null, entityLock: false },
-  p2: { country: "United Kingdom", countryLock: true, entity: null, entityLock: false },
-  e1: { country: "United Kingdom", countryLock: true, entity: null, entityLock: false },
-  e2: { country: "United Kingdom", countryLock: true, entity: null, entityLock: false }
-};
+// Compare sides (A = left, B = right) – each can be era or party
+const sideA = { country: "United Kingdom", mode: "era", year: 2024, party: null };
+const sideB = { country: "United Kingdom", mode: "party", year: 2024, party: null };
+let scoresA = {};
+let scoresB = {};
 
-// Individual Core positions (inner orbit)
 const CORE_POS = [
   { id: "1A", top: "18%", left: "18%" },
   { id: "1B", top: "18%", right: "18%" },
   { id: "2A", bottom: "18%", left: "18%" },
   { id: "2B", bottom: "18%", right: "18%" }
 ];
-// Cultural pairs further out
 const CULT_POS = [
   { ids: ["C1A","C1B"], title: "Cultural 1 – Foundation", top: "1.5%", left: "50%", transform: "translateX(-50%)" },
   { ids: ["C2A","C2B"], title: "Cultural 2 – Identity", top: "36%", left: "0.5%" },
@@ -28,16 +26,30 @@ const CULT_POS = [
   { ids: ["C4A","C4B"], title: "Cultural 4 – Structure", bottom: "4%", left: "6%" },
   { ids: ["C5A","C5B"], title: "Cultural 5 – Change", bottom: "4%", right: "6%" }
 ];
+const SHORT = {
+  "C1A":"Foundation", "C1B":"Dogmatism",
+  "C2A":"Individuality", "C2B":"Pride",
+  "C3A":"Ethnic", "C3B":"Cultural",
+  "C4A":"Determinism", "C4B":"Equity",
+  "C5A":"Tradition", "C5B":"Radicalism"
+};
+const CORE_NAMES = {
+  "1A":"Personal Autonomy", "1B":"Economic Autonomy",
+  "2A":"National Sovereignty", "2B":"International Sovereignty"
+};
 
 function initSliders() {
   document.querySelectorAll(".mode-btn").forEach(btn => {
     btn.addEventListener("click", () => {
       document.querySelectorAll(".mode-btn").forEach(b => {
-        b.classList.remove("bg-indigo-600","text-white"); b.classList.add("text-slate-400");
+        b.classList.remove("bg-indigo-600","text-white");
+        b.classList.add("text-slate-400");
       });
-      btn.classList.add("bg-indigo-600","text-white"); btn.classList.remove("text-slate-400");
+      btn.classList.add("bg-indigo-600","text-white");
+      btn.classList.remove("text-slate-400");
       currentMode = btn.dataset.mode;
       renderCenter();
+      buildOrbit();
       refresh();
     });
   });
@@ -51,56 +63,163 @@ function initSliders() {
 function buildOrbit() {
   const c = document.getElementById("slider-container");
   if (!c) return;
+  const compare = currentMode === "compare";
   let h = "";
-  // Individual Core cards
+
   CORE_POS.forEach(p => {
-    const m = SLIDER_META.find(s => s.id === p.id) || { short: p.id, desc: "" };
     const st = Object.entries(p).filter(([k]) => k !== "id").map(([k,v]) => k+":"+v).join(";");
-    const fullName = {"1A":"Personal Autonomy","1B":"Economic Autonomy","2A":"National Sovereignty","2B":"International Sovereignty"}[p.id] || m.short;
-    h += `<div class="slider-group core absolute z-10" style="${st};width:240px;">
-      <div class="core-label">${fullName}</div>
-      <div class="core-slider-row" title="${m.desc}">
-        <input type="range" id="slider-${p.id}" min="0" max="100" value="50" data-id="${p.id}" />
-        <span class="slider-value" id="val-${p.id}">50</span>
-      </div></div>`;
+    const name = CORE_NAMES[p.id] || p.id;
+    if (compare) {
+      h += `<div class="slider-group core absolute z-10" style="${st};width:250px;">
+        <div class="core-label">${name}</div>
+        <div class="core-slider-row dual" title="">
+          <input type="range" id="slider-${p.id}-a" min="0" max="100" value="50" data-id="${p.id}" data-side="a" disabled />
+          <span class="slider-value side-a" id="val-${p.id}-a">50</span>
+        </div>
+        <div class="core-slider-row dual" title="">
+          <input type="range" id="slider-${p.id}-b" min="0" max="100" value="50" data-id="${p.id}" data-side="b" disabled />
+          <span class="slider-value side-b" id="val-${p.id}-b">50</span>
+        </div>
+      </div>`;
+    } else {
+      h += `<div class="slider-group core absolute z-10" style="${st};width:240px;">
+        <div class="core-label">${name}</div>
+        <div class="core-slider-row" title="">
+          <input type="range" id="slider-${p.id}" min="0" max="100" value="50" data-id="${p.id}" />
+          <span class="slider-value" id="val-${p.id}">50</span>
+        </div>
+      </div>`;
+    }
   });
-  // Cultural pairs further out
+
   CULT_POS.forEach(g => {
     const st = Object.entries(g).filter(([k]) => !["ids","title"].includes(k)).map(([k,v]) => k+":"+v).join(";");
-    h += `<div class="slider-group cultural absolute z-10" style="${st};width:175px;"><h3>${g.title}</h3>`;
-    const shortNames = {
-      "C1A":"Foundation", "C1B":"Dogmatism",
-      "C2A":"Individuality", "C2B":"Pride",
-      "C3A":"Ethnic", "C3B":"Cultural",
-      "C4A":"Determinism", "C4B":"Equity",
-      "C5A":"Tradition", "C5B":"Radicalism"
-    };
-    g.ids.forEach(id => {
-      const m = SLIDER_META.find(s => s.id === id) || { short: id, desc: "" };
-      const label = shortNames[id] || m.short;
-      h += `<div class="slider-row" title="${m.desc}">
-        <label for="slider-${id}">${label}</label>
-        <input type="range" id="slider-${id}" min="0" max="100" value="50" data-id="${id}" />
-        <span class="slider-value" id="val-${id}">50</span>
-      </div>`;
-    });
-    h += `</div>`;
+    if (compare) {
+      // Two compact cards side-by-side feel: still one card with dual rows per axis
+      h += `<div class="slider-group cultural absolute z-10" style="${st};width:168px;"><h3>${g.title}</h3>`;
+      g.ids.forEach(id => {
+        const label = SHORT[id] || id;
+        h += `<div class="slider-row dual-cult" title="">
+          <label>${label}</label>
+          <input type="range" id="slider-${id}-a" min="0" max="100" value="50" data-id="${id}" data-side="a" disabled />
+          <span class="slider-value side-a" id="val-${id}-a">50</span>
+        </div>
+        <div class="slider-row dual-cult" title="">
+          <label class="opacity-40">${label}</label>
+          <input type="range" id="slider-${id}-b" min="0" max="100" value="50" data-id="${id}" data-side="b" disabled />
+          <span class="slider-value side-b" id="val-${id}-b">50</span>
+        </div>`;
+      });
+      h += `</div>`;
+    } else {
+      h += `<div class="slider-group cultural absolute z-10" style="${st};width:175px;"><h3>${g.title}</h3>`;
+      g.ids.forEach(id => {
+        const label = SHORT[id] || id;
+        h += `<div class="slider-row" title="">
+          <label for="slider-${id}">${label}</label>
+          <input type="range" id="slider-${id}" min="0" max="100" value="50" data-id="${id}" />
+          <span class="slider-value" id="val-${id}">50</span>
+        </div>`;
+      });
+      h += `</div>`;
+    }
   });
+
   c.innerHTML = h;
-  c.querySelectorAll("input[type=range]").forEach(inp => {
-    inp.addEventListener("input", () => {
-      const id = inp.dataset.id;
-      const el = document.getElementById("val-"+id);
-      if (el) el.textContent = inp.value;
-      currentVector[id] = parseInt(inp.value, 10);
-      refresh();
+
+  // Interactive only in Modern (user can still drag; Historical/Compare are display)
+  if (currentMode === "modern") {
+    c.querySelectorAll("input[type=range]").forEach(inp => {
+      inp.addEventListener("input", () => {
+        const id = inp.dataset.id;
+        const valEl = document.getElementById("val-"+id);
+        if (valEl) valEl.textContent = inp.value;
+        currentVector[id] = parseInt(inp.value, 10);
+      });
     });
-  });
+  }
+}
+
+function sidePanelHTML(sideKey, side) {
+  const isEra = side.mode === "era";
+  return `
+    <div class="text-xs font-medium mb-2 ${sideKey === "a" ? "text-amber-300" : "text-sky-300"}">
+      ${sideKey === "a" ? "Left" : "Right"}
+    </div>
+    <label>Country</label>
+    <select id="${sideKey}-country"></select>
+    <label>Mode</label>
+    <select id="${sideKey}-mode">
+      <option value="era" ${isEra ? "selected" : ""}>Era (Timeline)</option>
+      <option value="party" ${!isEra ? "selected" : ""}>Political Party</option>
+    </select>
+    <div id="${sideKey}-select-wrap"></div>
+  `;
+}
+
+function fillSideSelect(sideKey, side) {
+  const wrap = document.getElementById(sideKey + "-select-wrap");
+  if (!wrap) return;
+  if (side.mode === "era") {
+    wrap.innerHTML = `<label>Year</label>
+      <input type="number" id="${sideKey}-year" value="${side.year}" min="1945" max="2030" />`;
+    document.getElementById(sideKey + "-year").oninput = e => {
+      side.year = parseInt(e.target.value, 10) || 2024;
+      refresh();
+    };
+  } else {
+    wrap.innerHTML = `<label>Political Party</label>
+      <select id="${sideKey}-party"></select>`;
+    fillParty(sideKey + "-party", side.country, side.party);
+    document.getElementById(sideKey + "-party").onchange = e => {
+      side.party = e.target.value || null;
+      refresh();
+    };
+  }
+}
+
+function wireSide(sideKey, side) {
+  fillCountry(sideKey + "-country", side.country);
+  document.getElementById(sideKey + "-country").onchange = e => {
+    side.country = e.target.value;
+    side.party = null;
+    fillSideSelect(sideKey, side);
+    refresh();
+  };
+  document.getElementById(sideKey + "-mode").onchange = e => {
+    side.mode = e.target.value;
+    fillSideSelect(sideKey, side);
+    refresh();
+  };
+  fillSideSelect(sideKey, side);
 }
 
 function renderCenter() {
   const p = document.getElementById("center-panel");
+  const pB = document.getElementById("center-panel-b");
   if (!p) return;
+
+  if (currentMode === "compare") {
+    p.style.width = "200px";
+    if (pB) {
+      pB.style.display = "block";
+      pB.style.width = "200px";
+      pB.className = "bg-slate-900 border border-slate-600 rounded-lg p-3";
+    }
+    p.className = "bg-slate-900 border border-slate-600 rounded-lg p-3";
+    p.innerHTML = sidePanelHTML("a", sideA);
+    if (pB) pB.innerHTML = sidePanelHTML("b", sideB);
+    wireSide("a", sideA);
+    if (pB) wireSide("b", sideB);
+    return;
+  }
+
+  // Single panel modes
+  if (pB) pB.style.display = "none";
+  p.style.width = "220px";
+  p.className = "";
+  p.removeAttribute("class");
+
   if (currentMode === "modern") {
     p.innerHTML = `<div class="text-xs text-indigo-300 font-medium mb-2">Modern – Party</div>
       <label>Country</label><select id="m-country"></select>
@@ -109,115 +228,65 @@ function renderCenter() {
     fillCountry("m-country", selectedCountry);
     fillParty("m-party", selectedCountry, selectedParty);
     document.getElementById("m-country").onchange = e => {
-      selectedCountry = e.target.value; fillParty("m-party", selectedCountry, null); selectedParty = null; refresh();
+      selectedCountry = e.target.value;
+      fillParty("m-party", selectedCountry, null);
+      selectedParty = null;
+      refresh();
     };
-    document.getElementById("m-party").onchange = e => { selectedParty = e.target.value || null; refresh(); };
-  } else if (currentMode === "historical") {
+    document.getElementById("m-party").onchange = e => {
+      selectedParty = e.target.value || null;
+      refresh();
+    };
+  } else {
     p.innerHTML = `<div class="text-xs text-indigo-300 font-medium mb-2">Historical – Year</div>
       <label>Country</label><select id="h-country"></select>
       <label>Year</label><input type="number" id="h-year" value="${selectedYear}" min="1945" max="2030" />
       <div class="text-xs text-slate-500 mt-1">Scores update live</div>`;
     fillCountry("h-country", selectedCountry);
-    document.getElementById("h-country").onchange = e => { selectedCountry = e.target.value; refresh(); };
-    document.getElementById("h-year").oninput = e => { selectedYear = parseInt(e.target.value,10)||2024; refresh(); };
-  } else {
-    // 8-slot All mode
-    p.innerHTML = `<div class="text-xs text-indigo-300 font-medium mb-1.5">All – Nearest Matches</div>
-      <div class="grid grid-cols-2 gap-1.5 text-xs">
-        ${slotHTML("p1","1st Party")}
-        ${slotHTML("p2","2nd Party")}
-        ${slotHTML("e1","1st Era")}
-        ${slotHTML("e2","2nd Era")}
-      </div>
-      <div class="text-[10px] text-slate-500 mt-1.5">🔒 country = scope · 🔒 entity = pin match</div>`;
-    ["p1","p2","e1","e2"].forEach(k => {
-      const s = slots[k];
-      const cSel = document.getElementById(k+"-country");
-      if (cSel) {
-        fillCountry(k+"-country", s.country);
-        cSel.onchange = e => { s.country = e.target.value; refresh(); };
-      }
-      document.getElementById(k+"-clock")?.addEventListener("click", () => {
-        s.countryLock = !s.countryLock;
-        document.getElementById(k+"-clock").textContent = s.countryLock ? "🔒" : "🔓";
-        refresh();
-      });
-      document.getElementById(k+"-elock")?.addEventListener("click", () => {
-        s.entityLock = !s.entityLock;
-        document.getElementById(k+"-elock").textContent = s.entityLock ? "🔒" : "🔓";
-        refresh();
-      });
-    });
+    document.getElementById("h-country").onchange = e => {
+      selectedCountry = e.target.value;
+      refresh();
+    };
+    document.getElementById("h-year").oninput = e => {
+      selectedYear = parseInt(e.target.value, 10) || 2024;
+      refresh();
+    };
   }
-}
-
-function slotHTML(key, label) {
-  const s = slots[key];
-  const isParty = key.startsWith("p");
-  return `<div class="match-slot ${s.countryLock ? "locked" : ""}">
-    <div class="slot-title">${label}</div>
-    <div class="lock-row">
-      <button id="${key}-clock" class="lock-btn" title="Lock country scope">${s.countryLock ? "🔒" : "🔓"}</button>
-      <select id="${key}-country"></select>
-    </div>
-    <div class="lock-row">
-      <button id="${key}-elock" class="lock-btn" title="Pin this match">${s.entityLock ? "🔒" : "🔓"}</button>
-      <div class="slot-value" id="${key}-val" style="flex:1;">—</div>
-    </div>
-  </div>`;
 }
 
 function fillCountry(id, cur) {
   const el = document.getElementById(id);
   if (!el) return;
-  const list = (typeof getAvailableCountries==="function") ? getAvailableCountries() : ["United Kingdom"];
+  const list = (typeof getAvailableCountries === "function") ? getAvailableCountries() : ["United Kingdom"];
   el.innerHTML = list.map(c => `<option value="${c}" ${c===cur?"selected":""}>${c}</option>`).join("");
 }
 function fillParty(id, country, cur) {
   const el = document.getElementById(id);
   if (!el) return;
   const parties = (PARTY_DATA[country] && Object.keys(PARTY_DATA[country])) || [];
-  el.innerHTML = `<option value="">— select —</option>` + parties.map(p => `<option value="${p}" ${p===cur?"selected":""}>${p}</option>`).join("");
+  el.innerHTML = `<option value="">— select party —</option>` +
+    parties.map(p => `<option value="${p}" ${p===cur?"selected":""}>${p}</option>`).join("");
 }
 
-function dist(a,b) {
-  let s=0,n=0;
-  for (const id of Object.keys(a)) {
-    if (b[id]!=null && !isNaN(b[id])) { const d=a[id]-b[id]; s+=d*d; n++; }
-  }
-  return n===0 ? Infinity : Math.sqrt(s/n) + (14-n)*0.8;
-}
-
-function nearestParties(target, countryFilter, limit) {
-  const list = (window.ENTITIES||ENTITIES||[]).filter(e => e.type==="party");
-  const f = countryFilter ? list.filter(e => e.country===countryFilter) : list;
-  return f.map(e => ({entity:e, dist:dist(target,e.scores)})).filter(r=>r.dist<Infinity)
-    .sort((a,b)=>a.dist-b.dist).slice(0,limit);
-}
-
-function nearestEras(target, countryFilter, limit) {
-  const out = [];
-  const countries = countryFilter ? [countryFilter] : Object.keys(SCORE_DATA||{});
-  for (const country of countries) {
-    const range = (typeof getYearRange==="function") ? getYearRange(country) : {min:1945,max:2026};
-    const years = new Set([range.min,range.max,1950,1960,1970,1980,1990,2000,2010,2016,2020,2022,2024,2026]);
-    for (let y=range.min; y<=range.max; y+=5) years.add(y);
-    for (const year of years) {
-      const vec = (typeof getVector==="function") ? getVector(country, year) : null;
-      if (!vec?.scores) continue;
-      const d = dist(target, vec.scores);
-      if (d < Infinity) out.push({country, year, dist:d});
+function resolveSideScores(side) {
+  if (side.mode === "party") {
+    if (!side.party) return {};
+    if (typeof getPartyVector === "function") {
+      return getPartyVector(side.country, side.party) || {};
     }
+    return (PARTY_DATA[side.country] && PARTY_DATA[side.country][side.party]) || {};
   }
-  return out.sort((a,b)=>a.dist-b.dist).slice(0,limit);
+  // era
+  const vec = (typeof getVector === "function") ? getVector(side.country, side.year) : { scores: {} };
+  return vec.scores || {};
 }
 
 function applyScoresToSliders(scores) {
   if (!scores) return;
   SLIDER_META.forEach(s => {
     const v = scores[s.id];
-    const inp = document.getElementById("slider-"+s.id);
-    const val = document.getElementById("val-"+s.id);
+    const inp = document.getElementById("slider-" + s.id);
+    const val = document.getElementById("val-" + s.id);
     if (inp && v != null && !isNaN(v)) {
       inp.value = v;
       if (val) val.textContent = v;
@@ -226,57 +295,43 @@ function applyScoresToSliders(scores) {
   });
 }
 
+function applyDualScores(scoresLeft, scoresRight) {
+  SLIDER_META.forEach(s => {
+    const va = scoresLeft[s.id];
+    const vb = scoresRight[s.id];
+    const inpA = document.getElementById("slider-" + s.id + "-a");
+    const inpB = document.getElementById("slider-" + s.id + "-b");
+    const valA = document.getElementById("val-" + s.id + "-a");
+    const valB = document.getElementById("val-" + s.id + "-b");
+    if (inpA) {
+      inpA.value = (va != null && !isNaN(va)) ? va : 50;
+      if (valA) valA.textContent = (va != null && !isNaN(va)) ? va : "—";
+    }
+    if (inpB) {
+      inpB.value = (vb != null && !isNaN(vb)) ? vb : 50;
+      if (valB) valB.textContent = (vb != null && !isNaN(vb)) ? vb : "—";
+    }
+  });
+}
+
 function refresh() {
   if (currentMode === "modern") {
-    // Selecting a party loads its scores onto the sliders
-    if (selectedParty && typeof getPartyVector === "function") {
-      const scores = getPartyVector(selectedCountry, selectedParty);
+    if (selectedParty) {
+      const scores = (typeof getPartyVector === "function")
+        ? getPartyVector(selectedCountry, selectedParty)
+        : (PARTY_DATA[selectedCountry] && PARTY_DATA[selectedCountry][selectedParty]);
       if (scores) applyScoresToSliders(scores);
-    } else if (selectedParty && PARTY_DATA[selectedCountry] && PARTY_DATA[selectedCountry][selectedParty]) {
-      applyScoresToSliders(PARTY_DATA[selectedCountry][selectedParty]);
     }
     return;
   }
   if (currentMode === "historical") {
-    const vec = (typeof getVector==="function") ? getVector(selectedCountry, selectedYear) : {scores:{}};
+    const vec = (typeof getVector === "function") ? getVector(selectedCountry, selectedYear) : { scores: {} };
     applyScoresToSliders(vec.scores || {});
     return;
   }
-  if (currentMode !== "all") return;
-
-  // Parties
-  [["p1",0],["p2",1]].forEach(([key, idx]) => {
-    const s = slots[key];
-    if (s.entityLock && s.entity) {
-      document.getElementById(key+"-val").textContent = s.entity;
-      return;
-    }
-    const filter = s.countryLock ? s.country : null;
-    const list = nearestParties(currentVector, filter, 3);
-    const hit = list[idx];
-    if (hit) {
-      s.entity = `${hit.entity.name} (${hit.dist.toFixed(1)})`;
-      document.getElementById(key+"-val").textContent = s.entity;
-    } else {
-      document.getElementById(key+"-val").textContent = "—";
-    }
-  });
-
-  // Eras
-  [["e1",0],["e2",1]].forEach(([key, idx]) => {
-    const s = slots[key];
-    if (s.entityLock && s.entity) {
-      document.getElementById(key+"-val").textContent = s.entity;
-      return;
-    }
-    const filter = s.countryLock ? s.country : null;
-    const list = nearestEras(currentVector, filter, 3);
-    const hit = list[idx];
-    if (hit) {
-      s.entity = `${hit.country} ${hit.year} (${hit.dist.toFixed(1)})`;
-      document.getElementById(key+"-val").textContent = s.entity;
-    } else {
-      document.getElementById(key+"-val").textContent = "—";
-    }
-  });
+  if (currentMode === "compare") {
+    scoresA = resolveSideScores(sideA);
+    scoresB = resolveSideScores(sideB);
+    applyDualScores(scoresA, scoresB);
+  }
 }
