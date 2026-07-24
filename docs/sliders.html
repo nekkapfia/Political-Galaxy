@@ -31,10 +31,17 @@
         <h1 class="text-2xl font-bold">Sliders Explorer</h1>
         <p class="text-slate-400 text-sm">Cores individual · Culturals outer · Modern / Historical / Compare</p>
       </div>
-      <div class="flex gap-1 bg-slate-900 rounded-lg p-1 border border-slate-700" id="mode-toggle">
-        <button data-mode="modern" class="mode-btn px-3 py-1.5 rounded-md text-sm font-medium bg-indigo-600 text-white">Modern</button>
-        <button data-mode="historical" class="mode-btn px-3 py-1.5 rounded-md text-sm font-medium text-slate-400">Historical</button>
-        <button data-mode="compare" class="mode-btn px-3 py-1.5 rounded-md text-sm font-medium text-slate-400">Compare</button>
+      <div class="flex items-center gap-2">
+        <div class="flex gap-1 bg-slate-900 rounded-lg p-1 border border-slate-700" id="mode-toggle">
+          <button data-mode="modern" class="mode-btn px-3 py-1.5 rounded-md text-sm font-medium bg-indigo-600 text-white">Modern</button>
+          <button data-mode="historical" class="mode-btn px-3 py-1.5 rounded-md text-sm font-medium text-slate-400">Historical</button>
+          <button data-mode="compare" class="mode-btn px-3 py-1.5 rounded-md text-sm font-medium text-slate-400">Compare</button>
+        </div>
+        <button id="accent-btn" title="Change compare accent colours" class="px-2.5 py-1.5 text-xs rounded-md bg-slate-900 border border-slate-600 text-slate-300 hover:border-slate-400">accents</button>
+        <div id="accent-menu" class="hidden absolute right-4 top-28 z-50 bg-slate-900 border border-slate-600 rounded-lg p-3 shadow-xl text-xs w-52">
+          <div class="text-slate-400 mb-2 uppercase tracking-wide">Compare accents</div>
+          <div class="space-y-2" id="accent-options"></div>
+        </div>
       </div>
     </div>
     <div id="orbital" class="relative mx-auto bg-slate-900/40 border border-slate-700 rounded-2xl overflow-hidden" style="width:100%;max-width:1020px;height:680px;">

@@ -33,6 +33,58 @@ const SHORT = {
   "C4A":"Determinism", "C4B":"Equity",
   "C5A":"Tradition", "C5B":"Radicalism"
 };
+const ACCENT_THEMES = [
+  { id: "gold-sky", label: "Gold / Sky", a: "#c9a227", aBright: "#fbbf24", b: "#38bdf8", bBright: "#7dd3fc" },
+  { id: "rose-teal", label: "Rose / Teal", a: "#e11d48", aBright: "#fb7185", b: "#14b8a6", bBright: "#5eead4" },
+  { id: "violet-lime", label: "Violet / Lime", a: "#8b5cf6", aBright: "#c4b5fd", b: "#84cc16", bBright: "#bef264" },
+  { id: "orange-indigo", label: "Orange / Indigo", a: "#f97316", aBright: "#fdba74", b: "#6366f1", bBright: "#a5b4fc" }
+];
+let currentAccent = ACCENT_THEMES[0];
+
+function applyAccentTheme(theme) {
+  currentAccent = theme;
+  const r = document.documentElement;
+  r.style.setProperty("--accent-a", theme.a);
+  r.style.setProperty("--accent-a-bright", theme.aBright);
+  r.style.setProperty("--accent-b", theme.b);
+  r.style.setProperty("--accent-b-bright", theme.bBright);
+  try { localStorage.setItem("pg-accent", theme.id); } catch(e) {}
+}
+
+function initAccentControl() {
+  const btn = document.getElementById("accent-btn");
+  const menu = document.getElementById("accent-menu");
+  const opts = document.getElementById("accent-options");
+  if (!btn || !menu || !opts) return;
+
+  // restore
+  let saved = null;
+  try { saved = localStorage.getItem("pg-accent"); } catch(e) {}
+  const theme = ACCENT_THEMES.find(t => t.id === saved) || ACCENT_THEMES[0];
+  applyAccentTheme(theme);
+
+  opts.innerHTML = ACCENT_THEMES.map(th => `
+    <button data-accent="${th.id}" class="w-full flex items-center gap-2 px-2 py-1.5 rounded hover:bg-slate-800 text-left">
+      <span class="w-3 h-3 rounded-full" style="background:${th.a}"></span>
+      <span class="w-3 h-3 rounded-full" style="background:${th.b}"></span>
+      <span class="text-slate-300">${th.label}</span>
+    </button>`).join("");
+
+  btn.addEventListener("click", (e) => {
+    e.stopPropagation();
+    menu.classList.toggle("hidden");
+  });
+  document.addEventListener("click", () => menu.classList.add("hidden"));
+  menu.addEventListener("click", e => e.stopPropagation());
+  opts.querySelectorAll("[data-accent]").forEach(b => {
+    b.addEventListener("click", () => {
+      const th = ACCENT_THEMES.find(x => x.id === b.dataset.accent);
+      if (th) applyAccentTheme(th);
+      menu.classList.add("hidden");
+    });
+  });
+}
+
 const CORE_NAMES = {
   "1A":"Personal Autonomy", "1B":"Economic Autonomy",
   "2A":"National Sovereignty", "2B":"International Sovereignty"
@@ -53,6 +105,7 @@ function initSliders() {
       refresh();
     });
   });
+  initAccentControl();
   buildOrbit();
   SLIDER_META.forEach(s => currentVector[s.id] = 50);
   renderCenter();
@@ -128,34 +181,34 @@ function buildOrbit() {
     }).join("");
 
     if (key === "C1A") {
-      // top centre – side by side
-      h += `<div class="slider-group cultural side-a absolute z-10" style="top:1.5%;left:calc(50% - 170px);width:150px;">
+      // top – wider twins side by side
+      h += `<div class="slider-group cultural side-a absolute z-10" style="top:1%;left:calc(50% - 200px);width:186px;">
         <h3>${g.title}</h3>${body("a")}</div>`;
-      h += `<div class="slider-group cultural side-b absolute z-10" style="top:1.5%;left:calc(50% + 12px);width:150px;">
+      h += `<div class="slider-group cultural side-b absolute z-10" style="top:1%;left:calc(50% + 8px);width:186px;">
         <h3>${g.title}</h3>${body("b")}</div>`;
     } else if (key === "C2A") {
-      // left – stacked vertically
-      h += `<div class="slider-group cultural side-a absolute z-10" style="top:28%;left:0.5%;width:150px;">
+      // left – stacked tightly, shifted toward centre
+      h += `<div class="slider-group cultural side-a absolute z-10" style="top:26%;left:8%;width:168px;">
         <h3>${g.title}</h3>${body("a")}</div>`;
-      h += `<div class="slider-group cultural side-b absolute z-10" style="top:48%;left:0.5%;width:150px;">
+      h += `<div class="slider-group cultural side-b absolute z-10" style="top:44%;left:8%;width:168px;">
         <h3>${g.title}</h3>${body("b")}</div>`;
     } else if (key === "C3A") {
-      // right – stacked vertically
-      h += `<div class="slider-group cultural side-a absolute z-10" style="top:28%;right:0.5%;width:150px;">
+      // right – stacked tightly, shifted toward centre
+      h += `<div class="slider-group cultural side-a absolute z-10" style="top:26%;right:8%;width:168px;">
         <h3>${g.title}</h3>${body("a")}</div>`;
-      h += `<div class="slider-group cultural side-b absolute z-10" style="top:48%;right:0.5%;width:150px;">
+      h += `<div class="slider-group cultural side-b absolute z-10" style="top:44%;right:8%;width:168px;">
         <h3>${g.title}</h3>${body("b")}</div>`;
     } else if (key === "C4A") {
-      // bottom left – side by side
-      h += `<div class="slider-group cultural side-a absolute z-10" style="bottom:3%;left:4%;width:150px;">
+      // bottom left – wider twins
+      h += `<div class="slider-group cultural side-a absolute z-10" style="bottom:2%;left:3%;width:186px;">
         <h3>${g.title}</h3>${body("a")}</div>`;
-      h += `<div class="slider-group cultural side-b absolute z-10" style="bottom:3%;left:calc(4% + 158px);width:150px;">
+      h += `<div class="slider-group cultural side-b absolute z-10" style="bottom:2%;left:calc(3% + 196px);width:186px;">
         <h3>${g.title}</h3>${body("b")}</div>`;
     } else if (key === "C5A") {
-      // bottom right – side by side
-      h += `<div class="slider-group cultural side-a absolute z-10" style="bottom:3%;right:calc(4% + 158px);width:150px;">
+      // bottom right – wider twins
+      h += `<div class="slider-group cultural side-a absolute z-10" style="bottom:2%;right:calc(3% + 196px);width:186px;">
         <h3>${g.title}</h3>${body("a")}</div>`;
-      h += `<div class="slider-group cultural side-b absolute z-10" style="bottom:3%;right:4%;width:150px;">
+      h += `<div class="slider-group cultural side-b absolute z-10" style="bottom:2%;right:3%;width:186px;">
         <h3>${g.title}</h3>${body("b")}</div>`;
     }
   });
