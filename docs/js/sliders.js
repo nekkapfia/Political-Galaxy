@@ -67,24 +67,39 @@ function buildOrbit() {
   let h = "";
 
   CORE_POS.forEach(p => {
-    const st = Object.entries(p).filter(([k]) => k !== "id").map(([k,v]) => k+":"+v).join(";");
     const name = CORE_NAMES[p.id] || p.id;
     if (compare) {
-      h += `<div class="slider-group core absolute z-10" style="${st};width:250px;">
+      // Twin separate boxes – left (A) and right (B) with offset
+      const base = Object.fromEntries(Object.entries(p).filter(([k]) => k !== "id"));
+      // Position pair: shift left card slightly left, right card slightly right of original
+      let leftStyle = "";
+      let rightStyle = "";
+      if (base.left) {
+        leftStyle = `top:${base.top||"auto"};bottom:${base.bottom||"auto"};left:calc(${base.left} - 4%);`;
+        rightStyle = `top:${base.top||"auto"};bottom:${base.bottom||"auto"};left:calc(${base.left} + 14%);`;
+      } else if (base.right) {
+        leftStyle = `top:${base.top||"auto"};bottom:${base.bottom||"auto"};right:calc(${base.right} + 14%);`;
+        rightStyle = `top:${base.top||"auto"};bottom:${base.bottom||"auto"};right:calc(${base.right} - 4%);`;
+      }
+      h += `<div class="slider-group core side-a absolute z-10" style="${leftStyle}width:200px;">
         <div class="core-label">${name}</div>
-        <div class="core-slider-row dual" title="">
+        <div class="core-slider-row">
           <input type="range" id="slider-${p.id}-a" min="0" max="100" value="50" data-id="${p.id}" data-side="a" disabled />
           <span class="slider-value side-a" id="val-${p.id}-a">50</span>
         </div>
-        <div class="core-slider-row dual" title="">
+      </div>`;
+      h += `<div class="slider-group core side-b absolute z-10" style="${rightStyle}width:200px;">
+        <div class="core-label">${name}</div>
+        <div class="core-slider-row">
           <input type="range" id="slider-${p.id}-b" min="0" max="100" value="50" data-id="${p.id}" data-side="b" disabled />
           <span class="slider-value side-b" id="val-${p.id}-b">50</span>
         </div>
       </div>`;
     } else {
+      const st = Object.entries(p).filter(([k]) => k !== "id").map(([k,v]) => k+":"+v).join(";");
       h += `<div class="slider-group core absolute z-10" style="${st};width:240px;">
         <div class="core-label">${name}</div>
-        <div class="core-slider-row" title="">
+        <div class="core-slider-row">
           <input type="range" id="slider-${p.id}" min="0" max="100" value="50" data-id="${p.id}" />
           <span class="slider-value" id="val-${p.id}">50</span>
         </div>
@@ -93,29 +108,40 @@ function buildOrbit() {
   });
 
   CULT_POS.forEach(g => {
-    const st = Object.entries(g).filter(([k]) => !["ids","title"].includes(k)).map(([k,v]) => k+":"+v).join(";");
     if (compare) {
-      // Two compact cards side-by-side feel: still one card with dual rows per axis
-      h += `<div class="slider-group cultural absolute z-10" style="${st};width:168px;"><h3>${g.title}</h3>`;
-      g.ids.forEach(id => {
+      // Twin cultural cards
+      const base = { ...g };
+      delete base.ids; delete base.title;
+      let leftStyle = "", rightStyle = "";
+      if (base.left === "50%" || base.transform) {
+        // top centre pair
+        leftStyle = `top:${base.top};left:calc(50% - 175px);`;
+        rightStyle = `top:${base.top};left:calc(50% + 8px);`;
+      } else if (base.left) {
+        leftStyle = `top:${base.top||"auto"};bottom:${base.bottom||"auto"};left:${base.left};`;
+        rightStyle = `top:${base.top||"auto"};bottom:${base.bottom||"auto"};left:calc(${base.left} + 155px);`;
+      } else if (base.right) {
+        leftStyle = `top:${base.top||"auto"};bottom:${base.bottom||"auto"};right:calc(${base.right} + 155px);`;
+        rightStyle = `top:${base.top||"auto"};bottom:${base.bottom||"auto"};right:${base.right};`;
+      }
+      const body = (side) => g.ids.map(id => {
         const label = SHORT[id] || id;
-        h += `<div class="slider-row dual-cult" title="">
+        return `<div class="slider-row">
           <label>${label}</label>
-          <input type="range" id="slider-${id}-a" min="0" max="100" value="50" data-id="${id}" data-side="a" disabled />
-          <span class="slider-value side-a" id="val-${id}-a">50</span>
-        </div>
-        <div class="slider-row dual-cult" title="">
-          <label class="opacity-40">${label}</label>
-          <input type="range" id="slider-${id}-b" min="0" max="100" value="50" data-id="${id}" data-side="b" disabled />
-          <span class="slider-value side-b" id="val-${id}-b">50</span>
+          <input type="range" id="slider-${id}-${side}" min="0" max="100" value="50" data-id="${id}" data-side="${side}" disabled />
+          <span class="slider-value side-${side}" id="val-${id}-${side}">50</span>
         </div>`;
-      });
-      h += `</div>`;
+      }).join("");
+      h += `<div class="slider-group cultural side-a absolute z-10" style="${leftStyle}width:148px;">
+        <h3>${g.title}</h3>${body("a")}</div>`;
+      h += `<div class="slider-group cultural side-b absolute z-10" style="${rightStyle}width:148px;">
+        <h3>${g.title}</h3>${body("b")}</div>`;
     } else {
+      const st = Object.entries(g).filter(([k]) => !["ids","title"].includes(k)).map(([k,v]) => k+":"+v).join(";");
       h += `<div class="slider-group cultural absolute z-10" style="${st};width:175px;"><h3>${g.title}</h3>`;
       g.ids.forEach(id => {
         const label = SHORT[id] || id;
-        h += `<div class="slider-row" title="">
+        h += `<div class="slider-row">
           <label for="slider-${id}">${label}</label>
           <input type="range" id="slider-${id}" min="0" max="100" value="50" data-id="${id}" />
           <span class="slider-value" id="val-${id}">50</span>
@@ -127,7 +153,6 @@ function buildOrbit() {
 
   c.innerHTML = h;
 
-  // Interactive only in Modern (user can still drag; Historical/Compare are display)
   if (currentMode === "modern") {
     c.querySelectorAll("input[type=range]").forEach(inp => {
       inp.addEventListener("input", () => {
