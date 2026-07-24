@@ -1,6 +1,6 @@
 // ============================================================
 // Political Galaxy – Data Layer
-// Discovers countries from Index/manifest.json
+// Auto-discovers countries from Index folders (GitHub API) + optional manifest.json
 // Loads per-slider timeline.json + party scores
 // Source links go to internal viewer.html (never GitHub)
 // ============================================================
@@ -108,27 +108,107 @@ function makeSourceUrl(sourcePath, sectionTitle) {
 // ------------------------------------------------------------
 // Load manifest + all country data
 // ------------------------------------------------------------
+/** List directory names under an Index path via GitHub Contents API */
+async function listIndexDirs(subPath) {
+  // subPath e.g. "Time Line" or "Political Parties"
+  const url = `https://api.github.com/repos/nekkapfia/Political-Galaxy/contents/Index/${encodeURIComponent(subPath).replace(/%20/g, "%20")}`;
+  try {
+    const res = await fetch(url, {
+      cache: "no-cache",
+      headers: { "Accept": "application/vnd.github+json" }
+    });
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    const items = await res.json();
+    if (!Array.isArray(items)) return [];
+    return items
+      .filter(it => it.type === "dir")
+      .map(it => it.name)
+      .filter(name => name && !name.startsWith("."));
+  } catch (e) {
+    console.warn(`[Political Galaxy] Could not list Index/${subPath}:`, e.message);
+    return [];
+  }
+}
+
+/** Also pick up country-level JSON files (e.g. United Kingdom.json) as country names */
+async function listIndexCountryJson(subPath) {
+  const url = `https://api.github.com/repos/nekkapfia/Political-Galaxy/contents/Index/${encodeURIComponent(subPath)}`;
+  try {
+    const res = await fetch(url, {
+      cache: "no-cache",
+      headers: { "Accept": "application/vnd.github+json" }
+    });
+    if (!res.ok) return [];
+    const items = await res.json();
+    if (!Array.isArray(items)) return [];
+    return items
+      .filter(it => it.type === "file" && /\.json$/i.test(it.name))
+      .map(it => it.name.replace(/\.json$/i, ""))
+      .filter(name => name.toLowerCase() !== "manifest");
+  } catch {
+    return [];
+  }
+}
+
+async function discoverCountries() {
+  const found = new Set();
+
+  // 1) Optional manifest (still supported, never required)
+  const manifest = await tryFetch(`${REPO_RAW}/manifest.json`, "Index/manifest.json");
+  if (manifest && Array.isArray(manifest.countries)) {
+    manifest.countries.forEach(c => found.add(c));
+  }
+
+  // 2) Scan Time Line/ folders + any country JSON files
+  const tlDirs = await listIndexDirs("Time Line");
+  const tlJson = await listIndexCountryJson("Time Line");
+  tlDirs.forEach(c => found.add(c));
+  tlJson.forEach(c => found.add(c));
+
+  // 3) Scan Political Parties/ folders + country JSON files
+  const ppDirs = await listIndexDirs("Political Parties");
+  const ppJson = await listIndexCountryJson("Political Parties");
+  ppDirs.forEach(c => found.add(c));
+  ppJson.forEach(c => found.add(c));
+
+  // Remove non-country noise if any
+  found.delete("manifest");
+  found.delete("README");
+  found.delete("readme");
+
+  let countries = [...found].sort((a, b) => a.localeCompare(b));
+
+  // Prefer United Kingdom first if present
+  if (countries.includes("United Kingdom")) {
+    countries = ["United Kingdom", ...countries.filter(c => c !== "United Kingdom")];
+  }
+
+  if (countries.length === 0) {
+    console.warn("[Political Galaxy] No countries discovered – falling back to United Kingdom");
+    countries = ["United Kingdom"];
+  }
+
+  return {
+    countries,
+    updated: (manifest && manifest.updated) || new Date().toISOString().slice(0, 10),
+    source: found.size ? "auto-scan + manifest" : "fallback"
+  };
+}
+
 async function loadIndexData() {
   if (DATA_LOAD_PROMISE) return DATA_LOAD_PROMISE;
 
   DATA_LOAD_PROMISE = (async () => {
-    // 1. Manifest – list of countries (the only hard discovery point)
-    let manifest = await tryFetch(`${REPO_RAW}/manifest.json`, "Index/manifest.json");
-    if (!manifest || !Array.isArray(manifest.countries) || manifest.countries.length === 0) {
-      // Fallback: assume United Kingdom only
-      console.warn("[Political Galaxy] manifest.json missing or empty – falling back to United Kingdom");
-      manifest = { countries: ["United Kingdom"], updated: null };
-    }
-    MANIFEST = manifest;
+    // Auto-discover countries from Index/Time Line and Index/Political Parties
+    MANIFEST = await discoverCountries();
 
-    // 2. Load each country
     for (const country of MANIFEST.countries) {
       await loadCountry(country);
     }
 
     buildEntitiesFromParties();
     DATA_READY = true;
-    console.log(`[Political Galaxy] Loaded ${MANIFEST.countries.length} countries from manifest:`, MANIFEST.countries);
+    console.log(`[Political Galaxy] Loaded ${MANIFEST.countries.length} countries (${MANIFEST.source}):`, MANIFEST.countries);
     const statusEl = document.getElementById("data-source-status");
     if (statusEl) statusEl.textContent = `Countries: ${MANIFEST.countries.join(", ")}`;
     return true;
