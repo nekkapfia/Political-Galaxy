@@ -88,7 +88,7 @@ function runLookup() {
     title = country;
     const range = (typeof getYearRange === "function") ? getYearRange(country) : { min: 1945, max: 2026 };
     subtitle = `Year <span class="text-indigo-300 font-mono">${year}</span> · Data range ${range.min} – ${range.max}`;
-    extraNote = "Each slider uses its own era boundaries. Source links open the justifying document section.";
+    extraNote = "Each slider uses its own era boundaries. Source links open the document in the internal viewer.";
   }
 
   let rows = "";
@@ -98,7 +98,7 @@ function runLookup() {
 
     if (mode === "era" && d) {
       const link = d.url
-        ? `<a href="${d.url}" target="_blank" class="text-indigo-400 hover:underline text-xs">Source ↗</a>`
+        ? `<a href="${d.url}" class="text-indigo-400 hover:underline text-xs">Source →</a>`
         : `<span class="text-slate-600 text-xs">No link</span>`;
       rows += `
         <tr class="border-b border-slate-800">

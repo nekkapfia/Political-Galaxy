@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Document Viewer – Political Galaxy</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <link rel="stylesheet" href="css/shared.css" />
+  <style>
+    .md-body h1 { font-size: 1.6rem; font-weight: 700; margin: 1.4rem 0 0.6rem; color: #e2e8f0; }
+    .md-body h2 { font-size: 1.25rem; font-weight: 600; margin: 1.2rem 0 0.5rem; color: #c7d2fe; }
+    .md-body h3 { font-size: 1.05rem; font-weight: 600; margin: 1rem 0 0.4rem; color: #a5b4fc; }
+    .md-body p  { margin: 0.55rem 0; line-height: 1.65; color: #cbd5e1; }
+    .md-body ul, .md-body ol { margin: 0.5rem 0 0.5rem 1.4rem; color: #cbd5e1; }
+    .md-body li { margin: 0.25rem 0; line-height: 1.55; }
+    .md-body strong { color: #e2e8f0; }
+    .md-body table { width: 100%; border-collapse: collapse; margin: 0.8rem 0; font-size: 0.9rem; }
+    .md-body th, .md-body td { border: 1px solid #334155; padding: 0.4rem 0.6rem; text-align: left; }
+    .md-body th { background: #1e293b; color: #94a3b8; }
+    .md-body code { background: #1e293b; padding: 0.1rem 0.35rem; border-radius: 0.25rem; font-size: 0.85em; }
+    .md-body blockquote { border-left: 3px solid #6366f1; margin: 0.8rem 0; padding: 0.4rem 0.8rem; color: #94a3b8; }
+    .md-body hr { border: none; border-top: 1px solid #334155; margin: 1.2rem 0; }
+  </style>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen">
+  <nav class="fixed top-0 left-0 right-0 z-50 bg-slate-900/95 backdrop-blur border-b border-slate-700">
+    <div class="max-w-4xl mx-auto px-4">
+      <div class="flex items-center justify-between h-14">
+        <div class="flex items-center gap-3">
+          <a href="index.html" class="w-8 h-8 rounded-full bg-gradient-to-br from-indigo-500 to-purple-600 flex items-center justify-center text-sm font-bold">PG</a>
+          <span class="font-semibold text-lg tracking-tight">Document Viewer</span>
+        </div>
+        <div class="flex gap-2 items-center">
+          <button id="btn-back" class="px-3 py-1.5 text-sm rounded-md bg-slate-800 hover:bg-slate-700 border border-slate-600">← Back</button>
+          <a href="index.html" class="nav-btn px-3 py-1.5 rounded-md text-sm">Index</a>
+          <a href="sliders.html" class="nav-btn px-3 py-1.5 rounded-md text-sm">Sliders</a>
+          <a href="detail.html" class="nav-btn px-3 py-1.5 rounded-md text-sm">Detail</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <main class="pt-20 pb-16 max-w-4xl mx-auto px-4">
+    <div id="viewer-status" class="text-sm text-slate-500 mb-4">Loading…</div>
+    <article id="viewer-content" class="md-body bg-slate-900/60 border border-slate-700 rounded-xl p-6 min-h-[50vh]">
+      <p class="text-slate-500">Loading document…</p>
+    </article>
+  </main>
+
+  <script>
+    const RAW_BASE = "https://raw.githubusercontent.com/nekkapfia/Political-Galaxy/main/Index/";
+
+    function getPath() {
+      const params = new URLSearchParams(window.location.search);
+      return params.get("path") || "";
+    }
+
+    function safeTitle(path) {
+      const parts = path.split("/").filter(Boolean);
+      return parts[parts.length - 1] || "Document";
+    }
+
+    async function loadDocument() {
+      const status = document.getElementById("viewer-status");
+      const content = document.getElementById("viewer-content");
+      const path = getPath();
+
+      if (!path) {
+        status.textContent = "No document specified.";
+        content.innerHTML = `<p class="text-slate-400">Open a document from the Detail or Sliders page using a Source link.</p>`;
+        return;
+      }
+
+      // Prevent path traversal
+      if (path.includes("..") || path.startsWith("/") || path.startsWith("http")) {
+        status.textContent = "Invalid path.";
+        content.innerHTML = `<p class="text-red-400">Invalid document path.</p>`;
+        return;
+      }
+
+      status.textContent = path;
+      document.title = safeTitle(path) + " – Political Galaxy";
+
+      const url = RAW_BASE + path.split("/").map(encodeURIComponent).join("/");
+
+      try {
+        const res = await fetch(url, { cache: "no-cache" });
+        if (!res.ok) throw new Error("HTTP " + res.status);
+        const text = await res.text();
+
+        // Render Markdown
+        if (typeof marked !== "undefined") {
+          content.innerHTML = marked.parse(text);
+        } else {
+          content.innerHTML = `<pre class="whitespace-pre-wrap text-sm text-slate-300">${text.replace(/</g,"&lt;")}</pre>`;
+        }
+      } catch (err) {
+        status.textContent = "Failed to load";
+        content.innerHTML = `
+          <p class="text-red-400 mb-2">Could not load document.</p>
+          <p class="text-slate-500 text-sm">${err.message}</p>
+          <p class="text-slate-600 text-xs mt-3">Path: ${path}</p>`;
+      }
+    }
+
+    document.getElementById("btn-back").addEventListener("click", () => {
+      if (history.length > 1) history.back();
+      else location.href = "detail.html";
+    });
+
+    loadDocument();
+  </script>
+</body>
+</html>

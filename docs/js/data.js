@@ -1,6 +1,8 @@
 // ============================================================
 // Political Galaxy – Data Layer
-// Loads Index JSON files and exposes Country + Year lookups
+// Discovers countries from Index/manifest.json
+// Loads per-slider timeline.json + party scores
+// Source links go to internal viewer.html (never GitHub)
 // ============================================================
 
 const SLIDER_META = [
@@ -20,24 +22,25 @@ const SLIDER_META = [
   { id: "C5B", group: "Cultural 5 – Change",  name: "Gradualism vs Radicalism",  short: "Radicalism",     desc: "Pace of change: incremental vs rapid/disruptive." }
 ];
 
-// Runtime data stores (filled after JSON load)
+const SLIDER_IDS = SLIDER_META.map(s => s.id);
+
+// Runtime stores
+let MANIFEST = { countries: [], updated: null };
 let SCORE_DATA = {};          // country → sliderId → eras[]
 let PARTY_DATA = {};          // country → partyName → { sliderId: score }
-let ENTITIES = [];            // flat list of scored entities (parties etc.) for matching + galaxy
+let ENTITIES = [];
 let DATA_READY = false;
 let DATA_LOAD_PROMISE = null;
 
-// ------------------------------------------------------------
-// Load Index JSON files
-// ------------------------------------------------------------
-// Map both the live Index style (core1a / cultural1a) and the internal style (1A / C1A)
+const REPO_RAW = "https://raw.githubusercontent.com/nekkapfia/Political-Galaxy/main/Index";
+const REPO_RAW_ROOT = "https://raw.githubusercontent.com/nekkapfia/Political-Galaxy/main";
+
+// Key normalisation (old Index style → internal)
 const SLIDER_KEY_MAP = {
-  // live Index style → internal
   "core1a": "1A", "core1b": "1B", "core2a": "2A", "core2b": "2B",
   "cultural1a": "C1A", "cultural1b": "C1B", "cultural2a": "C2A", "cultural2b": "C2B",
   "cultural3a": "C3A", "cultural3b": "C3B", "cultural4a": "C4A", "cultural4b": "C4B",
   "cultural5a": "C5A", "cultural5b": "C5B",
-  // already-internal style (pass-through)
   "1A": "1A", "1B": "1B", "2A": "2A", "2B": "2B",
   "C1A": "C1A", "C1B": "C1B", "C2A": "C2A", "C2B": "C2B",
   "C3A": "C3A", "C3B": "C3B", "C4A": "C4A", "C4B": "C4B",
@@ -46,172 +49,197 @@ const SLIDER_KEY_MAP = {
 
 function normalizeSliderKey(key) {
   if (!key) return null;
+  if (SLIDER_KEY_MAP[key]) return SLIDER_KEY_MAP[key];
   const k = String(key).toLowerCase().replace(/[^a-z0-9]/g, "");
-  // try exact lowercased match first
   for (const [from, to] of Object.entries(SLIDER_KEY_MAP)) {
     if (from.toLowerCase().replace(/[^a-z0-9]/g, "") === k) return to;
   }
-  return SLIDER_KEY_MAP[key] || null;
+  return null;
 }
 
+async function tryFetch(url, label) {
+  try {
+    const res = await fetch(url, { cache: "no-cache" });
+    if (!res.ok) throw new Error(`${label} HTTP ${res.status}`);
+    return await res.json();
+  } catch (e) {
+    console.warn(`[Political Galaxy] ${label} failed:`, e.message);
+    return null;
+  }
+}
+
+async function tryFetchText(url) {
+  try {
+    const res = await fetch(url, { cache: "no-cache" });
+    if (!res.ok) return null;
+    return await res.text();
+  } catch {
+    return null;
+  }
+}
+
+// ------------------------------------------------------------
+// Source links → internal viewer (never GitHub)
+// ------------------------------------------------------------
+/**
+ * Build an internal viewer URL for any Index-relative path.
+ * path examples:
+ *   "Time Line/United Kingdom/2B/eras/1997-2001.md"
+ *   "Political Parties/United Kingdom/Conservative Party/C4B.md"
+ */
+function makeViewerUrl(indexPath) {
+  if (!indexPath) return null;
+  // Strip any accidental leading "Index/"
+  let p = indexPath.replace(/^Index\//, "");
+  // If someone passed a full GitHub URL, try to extract the path after /Index/
+  if (p.startsWith("http")) {
+    const m = p.match(/\/Index\/(.+?)(?:#|$)/);
+    if (m) p = decodeURIComponent(m[1]);
+    else return null; // external URL we refuse to surface
+  }
+  return "viewer.html?path=" + encodeURIComponent(p);
+}
+
+/** @deprecated – kept for compatibility; now returns viewer URL */
+function makeSourceUrl(sourcePath, sectionTitle) {
+  return makeViewerUrl(sourcePath);
+}
+
+// ------------------------------------------------------------
+// Load manifest + all country data
+// ------------------------------------------------------------
 async function loadIndexData() {
   if (DATA_LOAD_PROMISE) return DATA_LOAD_PROMISE;
 
   DATA_LOAD_PROMISE = (async () => {
-    // Canonical source: live Index section of the Political-Galaxy repo
-    // https://github.com/nekkapfia/Political-Galaxy/tree/main/Index
-    const REMOTE_TIMELINE = "https://raw.githubusercontent.com/nekkapfia/Political-Galaxy/main/Index/Time%20Line/United%20Kingdom.json";
-    const REMOTE_PARTIES  = "https://raw.githubusercontent.com/nekkapfia/Political-Galaxy/main/Index/Political%20Parties/United%20Kingdom.json";
-    // Local fallback (bundled copies for offline / GitHub Pages edge cases)
-    const LOCAL_TIMELINE  = "data/united_kingdom_timeline.json";
-    const LOCAL_PARTIES   = "data/united_kingdom_parties.json";
+    // 1. Manifest – list of countries (the only hard discovery point)
+    let manifest = await tryFetch(`${REPO_RAW}/manifest.json`, "Index/manifest.json");
+    if (!manifest || !Array.isArray(manifest.countries) || manifest.countries.length === 0) {
+      // Fallback: assume United Kingdom only
+      console.warn("[Political Galaxy] manifest.json missing or empty – falling back to United Kingdom");
+      manifest = { countries: ["United Kingdom"], updated: null };
+    }
+    MANIFEST = manifest;
 
-    async function tryFetch(url, label) {
-      try {
-        const res = await fetch(url, { cache: "no-cache" });
-        if (!res.ok) throw new Error(`${label} HTTP ${res.status}`);
-        return await res.json();
-      } catch (e) {
-        console.warn(`[Political Galaxy] ${label} failed:`, e.message);
-        return null;
-      }
+    // 2. Load each country
+    for (const country of MANIFEST.countries) {
+      await loadCountry(country);
     }
 
-    try {
-      // Prefer live Index/ from the GitHub repo
-      let timeline = await tryFetch(REMOTE_TIMELINE, "Remote Timeline (Index/Time Line)");
-      let parties  = await tryFetch(REMOTE_PARTIES,  "Remote Parties (Index/Political Parties)");
-      let source   = "GitHub Index (live)";
-
-      // Fallback to local bundled copies if remote unavailable
-      if (!timeline) {
-        timeline = await tryFetch(LOCAL_TIMELINE, "Local Timeline fallback");
-        source = "local fallback";
-      }
-      if (!parties) {
-        parties = await tryFetch(LOCAL_PARTIES, "Local Parties fallback");
-        if (source === "GitHub Index (live)") source = "mixed (remote + local)";
-        else source = "local fallback";
-      }
-
-      if (!timeline) throw new Error("Timeline JSON could not be loaded from remote Index or local data/");
-      if (!parties)  throw new Error("Parties JSON could not be loaded from remote Index or local data/");
-
-      // Convert Timeline Index → SCORE_DATA shape (normalise keys)
-      const country = timeline.country || "United Kingdom";
-      SCORE_DATA[country] = {};
-
-      for (const [rawKey, eras] of Object.entries(timeline.sliders || {})) {
-        const sliderId = normalizeSliderKey(rawKey);
-        if (!sliderId) {
-          console.warn("[Political Galaxy] Unknown timeline slider key:", rawKey);
-          continue;
-        }
-        SCORE_DATA[country][sliderId] = (eras || []).map(e => ({
-          start:   e.start == null ? 0 : e.start,
-          end:     (e.end == null || e.end === 9999) ? 9999 : e.end,
-          score:   e.score,
-          source:  e.source || "",
-          section: e.section || e.era || "",
-          notes:   e.era || "",
-          era:     e.era || ""
-        }));
-      }
-
-      // Convert Parties Index → PARTY_DATA shape (normalise keys)
-      const rawParties = parties.parties || {};
-      const normalizedParties = {};
-      for (const [partyName, rawScores] of Object.entries(rawParties)) {
-        const scores = {};
-        for (const [rawKey, value] of Object.entries(rawScores || {})) {
-          const sliderId = normalizeSliderKey(rawKey);
-          if (sliderId) scores[sliderId] = value;
-        }
-        normalizedParties[partyName] = scores;
-      }
-      PARTY_DATA[country] = normalizedParties;
-
-      // Build ENTITIES array + attach to galaxy hierarchy for visualisation / matching
-      buildEntitiesFromParties();
-
-      DATA_READY = true;
-      console.log(`[Political Galaxy] Index data loaded for ${country} from ${source} – ${ENTITIES.length} entities`);
-      console.log("[Political Galaxy] Timeline sliders available:", Object.keys(SCORE_DATA[country] || {}));
-      // Optional UI status (if element exists)
-      const statusEl = document.getElementById("data-source-status");
-      if (statusEl) statusEl.textContent = `Data: ${source}`;
-      return true;
-    } catch (err) {
-      console.error("[Political Galaxy] Failed to load Index JSON:", err);
-      DATA_READY = false;
-      return false;
-    }
+    buildEntitiesFromParties();
+    DATA_READY = true;
+    console.log(`[Political Galaxy] Loaded ${MANIFEST.countries.length} countries from manifest:`, MANIFEST.countries);
+    const statusEl = document.getElementById("data-source-status");
+    if (statusEl) statusEl.textContent = `Countries: ${MANIFEST.countries.join(", ")}`;
+    return true;
   })();
 
   return DATA_LOAD_PROMISE;
 }
 
-// Kick off load immediately
+async function loadCountry(country) {
+  const enc = encodeURIComponent(country);
+
+  // --- Parties (still one JSON per country) ---
+  const partiesUrl = `${REPO_RAW}/Political%20Parties/${enc}.json`;
+  const partiesLocal = `data/${country.toLowerCase().replace(/\s+/g, "_")}_parties.json`;
+  let parties = await tryFetch(partiesUrl, `Parties ${country}`);
+  if (!parties) parties = await tryFetch(partiesLocal, `Local parties ${country}`);
+
+  if (parties) {
+    const rawParties = parties.parties || parties;
+    const normalized = {};
+    for (const [partyName, rawScores] of Object.entries(rawParties || {})) {
+      if (typeof rawScores !== "object") continue;
+      const scores = {};
+      for (const [rawKey, value] of Object.entries(rawScores)) {
+        const id = normalizeSliderKey(rawKey);
+        if (id) scores[id] = value;
+      }
+      normalized[partyName] = scores;
+    }
+    PARTY_DATA[country] = normalized;
+  } else {
+    PARTY_DATA[country] = {};
+  }
+
+  // --- Timeline: try new per-slider format first, then old flat format ---
+  SCORE_DATA[country] = {};
+
+  // New format: Index/Time Line/{Country}/{sliderId}/timeline.json
+  let loadedAnyNew = false;
+  for (const sliderId of SLIDER_IDS) {
+    const url = `${REPO_RAW}/Time%20Line/${enc}/${sliderId}/timeline.json`;
+    const eras = await tryFetch(url, `Timeline ${country}/${sliderId}`);
+    if (Array.isArray(eras) && eras.length) {
+      SCORE_DATA[country][sliderId] = eras.map(e => ({
+        name:    e.name || e.era || "",
+        start:   e.start == null ? 0 : e.start,
+        end:     (e.end == null || e.end === 9999) ? 9999 : e.end,
+        score:   e.score,
+        // Store Index-relative path for the viewer
+        source:  e.doc
+          ? `Time Line/${country}/${sliderId}/${e.doc}`
+          : (e.source || ""),
+        section: e.name || e.era || "",
+        era:     e.name || e.era || ""
+      }));
+      loadedAnyNew = true;
+    }
+  }
+
+  // Fallback: old flat United Kingdom.json style
+  if (!loadedAnyNew) {
+    const flatUrl = `${REPO_RAW}/Time%20Line/${enc}.json`;
+    const localFlat = `data/${country.toLowerCase().replace(/\s+/g, "_")}_timeline.json`;
+    let flat = await tryFetch(flatUrl, `Flat timeline ${country}`);
+    if (!flat) flat = await tryFetch(localFlat, `Local flat timeline ${country}`);
+
+    if (flat && flat.sliders) {
+      for (const [rawKey, eras] of Object.entries(flat.sliders)) {
+        const sliderId = normalizeSliderKey(rawKey);
+        if (!sliderId || !Array.isArray(eras)) continue;
+        SCORE_DATA[country][sliderId] = eras.map(e => ({
+          name:    e.era || e.name || "",
+          start:   e.start == null ? 0 : e.start,
+          end:     (e.end == null || e.end === 9999) ? 9999 : e.end,
+          score:   e.score,
+          source:  e.source || "",
+          section: e.section || e.era || "",
+          era:     e.era || e.name || ""
+        }));
+      }
+    }
+  }
+}
+
+// Kick off immediately
 loadIndexData();
 
 // ------------------------------------------------------------
-// Helper: build a GitHub URL that tries to land on the section
+// Lookups
 // ------------------------------------------------------------
-function makeSourceUrl(sourcePath, sectionTitle) {
-  if (!sourcePath) return null;
-  // If already a full URL, use as-is
-  if (sourcePath.startsWith("http")) return sourcePath;
-
-  const base = "https://github.com/nekkapfia/Political-Galaxy/blob/main/" + encodeURI(sourcePath);
-  if (!sectionTitle) return base;
-
-  const anchor = sectionTitle
-    .toLowerCase()
-    .replace(/[^\w\s-]/g, "")
-    .trim()
-    .replace(/\s+/g, "-");
-  return base + "#" + anchor;
-}
-
-// ------------------------------------------------------------
-// Core lookup functions (Country + Year model)
-// ------------------------------------------------------------
-
-/**
- * Find the era object that contains the given year for one slider.
- * Returns the full era object or null.
- */
 function getEra(country, year, sliderId) {
   const countryData = SCORE_DATA[country];
   if (!countryData) return null;
   const eras = countryData[sliderId];
   if (!eras || !Array.isArray(eras)) return null;
-
   for (const era of eras) {
     const start = era.start == null ? -Infinity : era.start;
     const end   = era.end == null || era.end === 9999 ? Infinity : era.end;
-    if (year >= start && year <= end) {
-      return era;
-    }
+    if (year >= start && year <= end) return era;
   }
   return null;
 }
 
-/**
- * Get just the numeric score (or null) for country + year + slider.
- */
 function getScore(country, year, sliderId) {
   const era = getEra(country, year, sliderId);
   return era ? era.score : null;
 }
 
-/**
- * Build the full 14-dimensional vector + source info for a country-year.
- */
 function getVector(country, year) {
   const scores = {};
   const details = {};
-
   for (const slider of SLIDER_META) {
     const era = getEra(country, year, slider.id);
     if (era) {
@@ -221,36 +249,30 @@ function getVector(country, year) {
         start:   era.start,
         end:     (era.end === 9999 || era.end == null) ? "present" : era.end,
         source:  era.source,
-        section: era.section || era.era || "",
-        notes:   era.notes || era.era || "",
-        url:     makeSourceUrl(era.source, era.section || era.era)
+        section: era.section || era.name || era.era || "",
+        notes:   era.name || era.era || "",
+        url:     makeViewerUrl(era.source)   // internal viewer, never GitHub
       };
     } else {
       scores[slider.id] = null;
       details[slider.id] = null;
     }
   }
-
   return { country, year, scores, details };
 }
 
-/**
- * List every country that has at least some data.
- */
 function getAvailableCountries() {
+  // Prefer manifest order; fall back to whatever was loaded
+  if (MANIFEST.countries && MANIFEST.countries.length) return [...MANIFEST.countries];
   return Object.keys(SCORE_DATA).sort();
 }
 
-/**
- * For a country, return the overall min/max year that has any score.
- */
 function getYearRange(country) {
   const countryData = SCORE_DATA[country];
   if (!countryData) return { min: 1945, max: 2026 };
-
   let min = 9999, max = 0;
   for (const sliderId of Object.keys(countryData)) {
-    for (const era of countryData[sliderId]) {
+    for (const era of countryData[sliderId] || []) {
       const s = era.start == null ? 1945 : era.start;
       const e = (era.end == null || era.end === 9999) ? 2026 : era.end;
       if (s < min) min = s;
@@ -260,159 +282,56 @@ function getYearRange(country) {
   return { min: min === 9999 ? 1945 : min, max: max === 0 ? 2026 : max };
 }
 
-/**
- * Get party scores for a country (modern snapshot).
- * Returns { partyName: { sliderId: score, ... }, ... }
- */
 function getPartyScores(country) {
   return PARTY_DATA[country] || {};
 }
 
-/**
- * Get a single party's score vector.
- */
 function getPartyVector(country, partyName) {
   const parties = PARTY_DATA[country];
   if (!parties || !parties[partyName]) return null;
   return parties[partyName];
 }
 
-/**
- * Convert loaded PARTY_DATA into the flat ENTITIES list expected by
- * sliders matching and the galaxy visualisation. Also wires entity IDs
- * into the GALAXY_HIERARCHY so the UK leaf renders party dots.
- */
+/** Viewer URL for a party-axis justification document */
+function getPartyDocUrl(country, partyName, sliderId) {
+  const path = `Political Parties/${country}/${partyName}/${sliderId}.md`;
+  return makeViewerUrl(path);
+}
+
 function buildEntitiesFromParties() {
   ENTITIES = [];
-
   for (const [country, parties] of Object.entries(PARTY_DATA)) {
     for (const [name, rawScores] of Object.entries(parties || {})) {
       const id = `party-${country.toLowerCase().replace(/\s+/g, "-")}-${name.toLowerCase().replace(/\s+/g, "-").replace(/[^a-z0-9-]/g, "")}`;
-
       const scores = {};
       for (const s of SLIDER_META) {
         const v = rawScores[s.id];
         scores[s.id] = (v === null || v === undefined || isNaN(v)) ? null : Number(v);
       }
-
-      // Rough ideology label from key scores (heuristic only)
-      let ideology = "";
-      const c1a = scores.C1A, c2a = scores.C2A, c2b = scores.C2B, a1 = scores["1A"];
-      if (c1a != null && c1a >= 60) ideology = "Progressive / Secular";
-      else if (c1a != null && c1a <= 20) ideology = "Traditional / Foundational";
-      if (c2b != null && c2b >= 70) ideology = (ideology ? ideology + " · " : "") + "High National Pride";
-      else if (c2b != null && c2b <= 30) ideology = (ideology ? ideology + " · " : "") + "Low National Pride";
-      if (a1 != null && a1 >= 70) ideology = (ideology ? ideology + " · " : "") + "High Autonomy";
-      else if (a1 != null && a1 <= 40) ideology = (ideology ? ideology + " · " : "") + "Lower Autonomy";
-
       ENTITIES.push({
         id,
         name,
         type: "party",
         country,
-        era: "Contemporary (≈2024–present)",
-        ideology: ideology || "Political party",
-        summary: `Empirical 14-axis scoring snapshot for ${name} (${country}). Partial scores are supported; missing dimensions are ignored in distance calculations.`,
+        era: "Contemporary",
+        ideology: "Political party",
+        summary: `Empirical 14-axis scoring snapshot for ${name} (${country}).`,
         scores
       });
     }
   }
-
-  // Attach entity IDs to the UK node in the hierarchy so galaxy leaf rendering works
-  function findAndAttach(node) {
-    if (node.country === "United Kingdom" || node.id === "uk") {
-      node.entities = ENTITIES.filter(e => e.country === "United Kingdom").map(e => e.id);
-      node.type = node.type || "country";
-      return true;
-    }
-    if (node.children) {
-      for (const child of node.children) {
-        if (findAndAttach(child)) return true;
-      }
-    }
-    return false;
-  }
-  findAndAttach(GALAXY_HIERARCHY);
-
-  // Expose globally for scripts that expect a top-level ENTITIES
   window.ENTITIES = ENTITIES;
 }
 
-// ------------------------------------------------------------
-// Simple hierarchical grouping for the Galaxy
-// ------------------------------------------------------------
-const GALAXY_HIERARCHY = {
-  id: "root",
-  name: "Political Galaxy",
-  description: "Explore political space. Click clusters to zoom; entities appear at leaf levels.",
-  children: [
-    {
-      id: "west",
-      name: "Western Democracies",
-      description: "Liberal democratic systems of Western Europe and the Anglosphere.",
-      color: "#6366f1",
-      children: [
-        {
-          id: "uk",
-          name: "United Kingdom",
-          type: "country",
-          country: "United Kingdom",
-          color: "#818cf8",
-          entities: []   // populated by buildEntitiesFromParties()
-        }
-      ]
-    }
-  ]
-};
-
-// ------------------------------------------------------------
-// Document index (for the Index section of the site)
-// ------------------------------------------------------------
-const DOC_INDEX = {
-  core: [
-    { name: "Complete Authoritative Slider System", url: "https://github.com/nekkapfia/Political-Galaxy/blob/main/system-functionality/Complete%20Authoritative%20Slider%20System.md" },
-    { name: "Empirical Political Slider System (PDF)", url: "https://github.com/nekkapfia/Political-Galaxy/blob/main/docs/Empirical_Political_Slider_System.pdf" }
-  ],
-  sliders: SLIDER_META.map(s => ({ name: s.id + " – " + s.name })),
-  scoring: [
-    { name: "Core 1A – UK Timeline", path: "Scoring/Core 1A/Time Line/Core-1A-Timeline-UK-1945-Present.md" },
-    { name: "Core 1B – Britain", path: "Scoring/Core 1B/Britain_Core_1B_Scoring_Document_Complete.md" },
-    { name: "Core 2A – Britain", path: "Scoring/Core 2A/Britain Core 2A Scoring.md" },
-    { name: "Core 2B – Britain", path: "Scoring/Core 2B/Britain Core 2B Scoring.md" },
-    { name: "Cultural 1A – UK Timeline", path: "Scoring/Cultural 1A/Time Line/Cultural-1A-Timeline-UK-1945-2026.md" },
-    { name: "Cultural 1B – Britain", path: "Scoring/Cultural 1B/Britain Cultural 1B.md" },
-    { name: "Cultural 2A – Britain", path: "Scoring/Cultural 2A/Britain Cultural 2A.md" },
-    { name: "Cultural 2B – Britain", path: "Scoring/Cultural 2B/Britain Cultural 2B.md" },
-    { name: "Cultural 3A+3B – Britain", path: "Scoring/Cultural Pair 3/Britain 3A+3B.md" },
-    { name: "Cultural 4A – Britain", path: "Scoring/Cultural 4A/Britain Cultural 4A.md" },
-    { name: "Cultural 4B – Britain", path: "Scoring/Cultural 4B/Britain Cultural 4B.md" },
-    { name: "Cultural 5A – Britain", path: "Scoring/Cultural 5A/Britain-Cultural-5A-.md" },
-    { name: "Cultural 5B – UK Timeline", path: "Scoring/Cultural 5B/UK_Cultural_5B_Timeline_1945_Present.md" }
-  ]
-};
-
-const REPO_TREE_SUMMARY = `
-Scoring/
-├── Core 1A/ … Time Line/ + Modern Politics/
-├── Core 1B/
-├── Core 2A/
-├── Core 2B/
-├── Cultural 1A/ … Time Line/ + Modern Politics/
-├── Cultural 1B/
-├── Cultural 2A/
-├── Cultural 2B/
-├── Cultural Pair 3/
-├── Cultural 4A/
-├── Cultural 4B/
-├── Cultural 5A/
-└── Cultural 5B/
-
-Index/   ← LIVE data source for this website (fetched at runtime)
-├── Time Line/United Kingdom.json
-└── Political Parties/United Kingdom.json
-
-The website explicitly pulls the two Index JSON files from the
-canonical GitHub repo (raw.githubusercontent.com/nekkapfia/Political-Galaxy)
-so scores stay in sync with the authoritative Index section.
-Local data/ copies are kept only as offline fallback.
-`;
+// Expose for other pages
+window.SLIDER_META = SLIDER_META;
+window.loadIndexData = loadIndexData;
+window.getAvailableCountries = getAvailableCountries;
+window.getVector = getVector;
+window.getYearRange = getYearRange;
+window.getPartyScores = getPartyScores;
+window.getPartyVector = getPartyVector;
+window.getPartyDocUrl = getPartyDocUrl;
+window.makeViewerUrl = makeViewerUrl;
+window.SCORE_DATA = SCORE_DATA;
+window.PARTY_DATA = PARTY_DATA;
