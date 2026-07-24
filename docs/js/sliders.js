@@ -34,10 +34,16 @@ const SHORT = {
   "C5A":"Tradition", "C5B":"Radicalism"
 };
 const ACCENT_THEMES = [
+  // Default – gold / sky (good general contrast; weaker for blue-blind)
   { id: "gold-sky", label: "Gold / Sky", a: "#c9a227", aBright: "#fbbf24", b: "#38bdf8", bBright: "#7dd3fc" },
-  { id: "rose-teal", label: "Rose / Teal", a: "#e11d48", aBright: "#fb7185", b: "#14b8a6", bBright: "#5eead4" },
-  { id: "violet-lime", label: "Violet / Lime", a: "#8b5cf6", aBright: "#c4b5fd", b: "#84cc16", bBright: "#bef264" },
-  { id: "orange-indigo", label: "Orange / Indigo", a: "#f97316", aBright: "#fdba74", b: "#6366f1", bBright: "#a5b4fc" }
+  // Strong for red-green colour blindness (protanopia / deuteranopia): blue vs orange
+  { id: "blue-orange", label: "Blue / Orange (red–green safe)", a: "#0077bb", aBright: "#33aaff", b: "#ee7733", bBright: "#ffaa66" },
+  // Another red-green safe pair: blue vs vermillion (Wong palette)
+  { id: "blue-vermillion", label: "Blue / Vermillion (red–green safe)", a: "#0072B2", aBright: "#56B4E9", b: "#D55E00", bBright: "#E69F00" },
+  // Strong luminance difference – works across most deficiencies
+  { id: "yellow-purple", label: "Yellow / Purple (high contrast)", a: "#E69F00", aBright: "#F0E442", b: "#CC79A7", bBright: "#E8A8C8" },
+  // Blue-blind (tritanopia) friendly: red vs green with different brightness
+  { id: "red-green", label: "Red / Green (blue-blind safe)", a: "#D55E00", aBright: "#E69F00", b: "#009E73", bBright: "#66C5A0" }
 ];
 let currentAccent = ACCENT_THEMES[0];
 
