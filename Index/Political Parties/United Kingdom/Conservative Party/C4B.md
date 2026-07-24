@@ -1,10 +1,5 @@
-# Conservative Party – Cultural 4B (Equity Lens)
+## Conservative Party — Equity Lens (C4B)
 
-**Score: 48**
+**Brief Overview**
 
-### Conservative Party
-**Brief Overview**  
-The Conservative Party has historically combined support for anti-discrimination law with strong emphasis on individual merit, personal responsibility, and market mechanisms. Recent leadership under Kemi Badenoch has articulated explicit opposition to expansive equity frameworks.
-
-**Why This Produces a Final Score of 48**  
-The Conservative score sits in the low-mid contested band because, while the party maintains core legal equality protections and has implemented PSED and transparency tools in government, its platforms and recent leadership consistently prioritise individual merit, personal responsibility, and critique of expansive equity mechanisms.
+Edit this file in place when the justification changes. `scores.json` holds the number; this file holds the prose.
