@@ -444,3 +444,25 @@ input.track-b::-moz-range-thumb {
   border-color: var(--accent-b-bright) !important;
   box-shadow: 0 0 6px color-mix(in srgb, var(--accent-b) 50%, transparent) !important;
 }
+
+
+/* Score numbers always match side accent */
+.slider-value.side-a {
+  color: var(--accent-a-bright) !important;
+  font-weight: 600;
+}
+.slider-value.side-b {
+  color: var(--accent-b-bright) !important;
+  font-weight: 600;
+}
+
+/* Cultural compare rows – longer tracks */
+.slider-group.cultural.side-a .slider-row,
+.slider-group.cultural.side-b .slider-row {
+  grid-template-columns: minmax(52px, 70px) 1fr 30px;
+  gap: 0.3rem;
+}
+.slider-group.cultural.side-a,
+.slider-group.cultural.side-b {
+  padding: 0.5rem 0.65rem 0.55rem;
+}

@@ -181,34 +181,34 @@ function buildOrbit() {
     }).join("");
 
     if (key === "C1A") {
-      // top – wider twins side by side
-      h += `<div class="slider-group cultural side-a absolute z-10" style="top:1%;left:calc(50% - 200px);width:186px;">
+      // top – wide twins
+      h += `<div class="slider-group cultural side-a absolute z-10" style="top:0.8%;left:calc(50% - 210px);width:200px;">
         <h3>${g.title}</h3>${body("a")}</div>`;
-      h += `<div class="slider-group cultural side-b absolute z-10" style="top:1%;left:calc(50% + 8px);width:186px;">
+      h += `<div class="slider-group cultural side-b absolute z-10" style="top:0.8%;left:calc(50% + 10px);width:200px;">
         <h3>${g.title}</h3>${body("b")}</div>`;
     } else if (key === "C2A") {
-      // left – stacked tightly, shifted toward centre
-      h += `<div class="slider-group cultural side-a absolute z-10" style="top:26%;left:8%;width:168px;">
+      // left – stacked with minimal gap, outer edge for longer sliders
+      h += `<div class="slider-group cultural side-a absolute z-10" style="top:24%;left:1.5%;width:188px;">
         <h3>${g.title}</h3>${body("a")}</div>`;
-      h += `<div class="slider-group cultural side-b absolute z-10" style="top:44%;left:8%;width:168px;">
+      h += `<div class="slider-group cultural side-b absolute z-10" style="top:39%;left:1.5%;width:188px;">
         <h3>${g.title}</h3>${body("b")}</div>`;
     } else if (key === "C3A") {
-      // right – stacked tightly, shifted toward centre
-      h += `<div class="slider-group cultural side-a absolute z-10" style="top:26%;right:8%;width:168px;">
+      // right – stacked with minimal gap, aligned to centre panels
+      h += `<div class="slider-group cultural side-a absolute z-10" style="top:24%;right:1.5%;width:188px;">
         <h3>${g.title}</h3>${body("a")}</div>`;
-      h += `<div class="slider-group cultural side-b absolute z-10" style="top:44%;right:8%;width:168px;">
+      h += `<div class="slider-group cultural side-b absolute z-10" style="top:39%;right:1.5%;width:188px;">
         <h3>${g.title}</h3>${body("b")}</div>`;
     } else if (key === "C4A") {
-      // bottom left – wider twins
-      h += `<div class="slider-group cultural side-a absolute z-10" style="bottom:2%;left:3%;width:186px;">
+      // bottom left – expanded for longer tracks
+      h += `<div class="slider-group cultural side-a absolute z-10" style="bottom:1.5%;left:2%;width:210px;">
         <h3>${g.title}</h3>${body("a")}</div>`;
-      h += `<div class="slider-group cultural side-b absolute z-10" style="bottom:2%;left:calc(3% + 196px);width:186px;">
+      h += `<div class="slider-group cultural side-b absolute z-10" style="bottom:1.5%;left:calc(2% + 220px);width:210px;">
         <h3>${g.title}</h3>${body("b")}</div>`;
     } else if (key === "C5A") {
-      // bottom right – wider twins
-      h += `<div class="slider-group cultural side-a absolute z-10" style="bottom:2%;right:calc(3% + 196px);width:186px;">
+      // bottom right – expanded for longer tracks
+      h += `<div class="slider-group cultural side-a absolute z-10" style="bottom:1.5%;right:calc(2% + 220px);width:210px;">
         <h3>${g.title}</h3>${body("a")}</div>`;
-      h += `<div class="slider-group cultural side-b absolute z-10" style="bottom:2%;right:3%;width:186px;">
+      h += `<div class="slider-group cultural side-b absolute z-10" style="bottom:1.5%;right:2%;width:210px;">
         <h3>${g.title}</h3>${body("b")}</div>`;
     }
   });
