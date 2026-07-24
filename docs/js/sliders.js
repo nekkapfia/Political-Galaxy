@@ -187,16 +187,16 @@ function buildOrbit() {
       h += `<div class="slider-group cultural side-b absolute z-10" style="top:0.8%;left:calc(50% + 10px);width:200px;">
         <h3>${g.title}</h3>${body("b")}</div>`;
     } else if (key === "C2A") {
-      // left – stacked with minimal gap, outer edge for longer sliders
-      h += `<div class="slider-group cultural side-a absolute z-10" style="top:24%;left:1.5%;width:188px;">
+      // left – stacked lower (beside centre / Nat Sovereignty band), tight gap, outer for long tracks
+      h += `<div class="slider-group cultural side-a absolute z-10" style="top:42%;left:1%;width:196px;">
         <h3>${g.title}</h3>${body("a")}</div>`;
-      h += `<div class="slider-group cultural side-b absolute z-10" style="top:39%;left:1.5%;width:188px;">
+      h += `<div class="slider-group cultural side-b absolute z-10" style="top:56%;left:1%;width:196px;">
         <h3>${g.title}</h3>${body("b")}</div>`;
     } else if (key === "C3A") {
-      // right – stacked with minimal gap, aligned to centre panels
-      h += `<div class="slider-group cultural side-a absolute z-10" style="top:24%;right:1.5%;width:188px;">
+      // right – stacked lower, mirrored
+      h += `<div class="slider-group cultural side-a absolute z-10" style="top:42%;right:1%;width:196px;">
         <h3>${g.title}</h3>${body("a")}</div>`;
-      h += `<div class="slider-group cultural side-b absolute z-10" style="top:39%;right:1.5%;width:188px;">
+      h += `<div class="slider-group cultural side-b absolute z-10" style="top:56%;right:1%;width:196px;">
         <h3>${g.title}</h3>${body("b")}</div>`;
     } else if (key === "C4A") {
       // bottom left – expanded for longer tracks
