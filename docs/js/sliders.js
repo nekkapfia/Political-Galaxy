@@ -193,16 +193,17 @@ function buildOrbit() {
       h += `<div class="slider-group cultural side-b absolute z-10" style="top:0.8%;left:calc(50% + 10px);width:200px;">
         <h3>${g.title}</h3>${body("b")}</div>`;
     } else if (key === "C2A") {
-      // left – stacked beside Personal Autonomy band, tight gap, outer for long tracks
-      h += `<div class="slider-group cultural side-a absolute z-10" style="top:22%;left:1%;width:196px;">
+      // left – pair centred on the horizontal midline of the centre panels
+      // top card just above 50%, bottom card just below 50%
+      h += `<div class="slider-group cultural side-a absolute z-10" style="top:calc(50% - 82px);left:1%;width:196px;">
         <h3>${g.title}</h3>${body("a")}</div>`;
-      h += `<div class="slider-group cultural side-b absolute z-10" style="top:36%;left:1%;width:196px;">
+      h += `<div class="slider-group cultural side-b absolute z-10" style="top:calc(50% + 4px);left:1%;width:196px;">
         <h3>${g.title}</h3>${body("b")}</div>`;
     } else if (key === "C3A") {
-      // right – stacked, mirrored
-      h += `<div class="slider-group cultural side-a absolute z-10" style="top:22%;right:1%;width:196px;">
+      // right – same vertical centring on the centre-panel midline
+      h += `<div class="slider-group cultural side-a absolute z-10" style="top:calc(50% - 82px);right:1%;width:196px;">
         <h3>${g.title}</h3>${body("a")}</div>`;
-      h += `<div class="slider-group cultural side-b absolute z-10" style="top:36%;right:1%;width:196px;">
+      h += `<div class="slider-group cultural side-b absolute z-10" style="top:calc(50% + 4px);right:1%;width:196px;">
         <h3>${g.title}</h3>${body("b")}</div>`;
     } else if (key === "C4A") {
       // bottom left – expanded for longer tracks
