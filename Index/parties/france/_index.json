@@ -1,1 +1,8 @@
-{"country":"France","slider":"1a","parties":["europe-ecologie-les-verts","la-france-insoumise","parti-communiste-francais","parti-socialiste"],"note":"Progressive/left parties pure final-set scores"}
+{
+  "parties": [
+    { "id": "europe-ecologie-les-verts", "name": "Europe Écologie Les Verts" },
+    { "id": "la-france-insoumise", "name": "La France Insoumise" },
+    { "id": "parti-communiste-francais", "name": "Parti Communiste Français" },
+    { "id": "parti-socialiste", "name": "Parti Socialiste" }
+  ]
+}
