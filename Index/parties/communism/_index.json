@@ -1,14 +1,36 @@
 {
-  "country": "Communism",
-  "slider": "1a",
   "parties": [
-    "castroism",
-    "hoxhaism",
-    "juche",
-    "khmer-rouge",
-    "leninism",
-    "maoism",
-    "marxism",
-    "stalinism"
+    {
+      "id": "castroism",
+      "name": "Castroism"
+    },
+    {
+      "id": "hoxhaism",
+      "name": "Hoxhaism"
+    },
+    {
+      "id": "juche",
+      "name": "Juche"
+    },
+    {
+      "id": "khmer-rouge",
+      "name": "Khmer Rouge"
+    },
+    {
+      "id": "leninism",
+      "name": "Leninism"
+    },
+    {
+      "id": "maoism",
+      "name": "Maoism"
+    },
+    {
+      "id": "marxism",
+      "name": "Marxism"
+    },
+    {
+      "id": "stalinism",
+      "name": "Stalinism"
+    }
   ]
 }

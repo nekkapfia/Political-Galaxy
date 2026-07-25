@@ -1,6 +1,7 @@
 {
-  "type": "parties",
   "countries": [
-    "fascism"
+    "united-kingdom",
+    "fascism",
+    "communism"
   ]
 }
