@@ -5,9 +5,19 @@ function initDetail() {
   const btn = document.getElementById("detail-lookup");
   if (!countrySel || !modeSel || !btn) return;
 
-  const countries = (typeof getAvailableCountries === "function")
-    ? getAvailableCountries() : ["United Kingdom"];
-  countrySel.innerHTML = countries.map(c => `<option value="${c}">${c}</option>`).join("");
+  function repopulateCountries() {
+    const countries = (typeof getAvailableCountries === "function")
+      ? getAvailableCountries() : ["United Kingdom"];
+    if (!countries.length) {
+      countrySel.innerHTML = `<option value="">— no countries loaded —</option>`;
+      return;
+    }
+    countrySel.innerHTML = countries.map(c => `<option value="${c}">${c}</option>`).join("");
+  }
+  repopulateCountries();
+  if (typeof loadIndexData === "function") {
+    loadIndexData().then(() => { repopulateCountries(); updateEntitySelect(); });
+  }
 
   countrySel.addEventListener("change", () => {
     updateSelectControl();
@@ -32,7 +42,14 @@ function updateSelectControl() {
 
   if (mode === "party") {
     label.textContent = "Political Party";
-    const parties = (PARTY_DATA[country] && Object.keys(PARTY_DATA[country])) || [];
+    const cid = (typeof resolveCountryId === "function") ? resolveCountryId(country) : country;
+    let parties = [];
+    if (window.PARTY_NAMES && window.PARTY_NAMES[cid]) {
+      parties = Object.values(window.PARTY_NAMES[cid]);
+    } else {
+      const raw = (typeof getPartyScores === "function") ? getPartyScores(country) : (PARTY_DATA[cid] || {});
+      parties = Object.keys(raw).filter(k => !k.includes("-") || !Object.keys(raw).some(o => o !== k && raw[o] === raw[k]));
+    }
     wrap.innerHTML = `
       <select id="detail-party" class="w-full bg-slate-800 border border-slate-600 rounded px-2 py-1.5 text-sm">
         <option value="">— select party —</option>

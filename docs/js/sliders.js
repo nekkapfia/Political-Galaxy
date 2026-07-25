@@ -3,7 +3,7 @@
 
 let currentMode = "modern";
 let currentVector = {};
-let selectedCountry = "United Kingdom";
+let selectedCountry = "United Kingdom"; // display name; resolved to id via resolveCountryId
 let selectedParty = null;
 let selectedYear = 2024;
 
@@ -115,8 +115,19 @@ function initSliders() {
   buildOrbit();
   SLIDER_META.forEach(s => currentVector[s.id] = 50);
   renderCenter();
-  if (typeof loadIndexData === "function") loadIndexData().then(refresh);
-  else refresh();
+  if (typeof loadIndexData === "function") {
+    loadIndexData().then(() => {
+      // Sync default country to first available display name
+      const list = (typeof getAvailableCountries === "function") ? getAvailableCountries() : [];
+      if (list.length) {
+        selectedCountry = list[0];
+        sideA.country = list[0];
+        sideB.country = list[0];
+      }
+      renderCenter();
+      refresh();
+    });
+  } else refresh();
 }
 
 function buildOrbit() {
@@ -349,14 +360,42 @@ function fillCountry(id, cur) {
   const el = document.getElementById(id);
   if (!el) return;
   const list = (typeof getAvailableCountries === "function") ? getAvailableCountries() : ["United Kingdom"];
-  el.innerHTML = list.map(c => `<option value="${c}" ${c===cur?"selected":""}>${c}</option>`).join("");
+  if (!list.length) {
+    el.innerHTML = `<option value="">— no countries loaded —</option>`;
+    return;
+  }
+  // Prefer matching cur by display name or id
+  const curId = (typeof resolveCountryId === "function") ? resolveCountryId(cur) : cur;
+  el.innerHTML = list.map(c => {
+    const cid = (typeof resolveCountryId === "function") ? resolveCountryId(c) : c;
+    const sel = (c === cur || cid === curId || c === curId) ? "selected" : "";
+    return `<option value="${c}" ${sel}>${c}</option>`;
+  }).join("");
+  // If nothing selected, select first
+  if (!el.value && list.length) el.value = list[0];
 }
+
 function fillParty(id, country, cur) {
   const el = document.getElementById(id);
   if (!el) return;
-  const parties = (PARTY_DATA[country] && Object.keys(PARTY_DATA[country])) || [];
+  const cid = (typeof resolveCountryId === "function") ? resolveCountryId(country) : country;
+  // Prefer PARTY_NAMES for clean display list
+  let parties = [];
+  if (window.PARTY_NAMES && window.PARTY_NAMES[cid]) {
+    parties = Object.entries(window.PARTY_NAMES[cid]).map(([pid, name]) => ({ id: pid, name }));
+  } else {
+    const raw = (typeof getPartyScores === "function") ? getPartyScores(country) : (PARTY_DATA[cid] || PARTY_DATA[country] || {});
+    // Deduplicate: skip kebab ids if display name also present
+    const keys = Object.keys(raw);
+    const names = new Set();
+    for (const k of keys) {
+      if (k.includes("-") && keys.some(o => o !== k && raw[o] === raw[k])) continue;
+      names.add(k);
+    }
+    parties = [...names].map(n => ({ id: n, name: n }));
+  }
   el.innerHTML = `<option value="">— select party —</option>` +
-    parties.map(p => `<option value="${p}" ${p===cur?"selected":""}>${p}</option>`).join("");
+    parties.map(p => `<option value="${p.name}" data-id="${p.id}" ${p.name===cur||p.id===cur?"selected":""}>${p.name}</option>`).join("");
 }
 
 function resolveSideScores(side) {
