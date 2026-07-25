@@ -1,4 +1,5 @@
 {
-  "updated": "2026-07-24",
-  "countries": ["United Kingdom"]
+  "countries": [
+    { "id": "united-kingdom", "name": "United Kingdom" }
+  ]
 }

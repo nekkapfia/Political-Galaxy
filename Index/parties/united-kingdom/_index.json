@@ -1,0 +1,6 @@
+{
+  "parties": [
+    { "id": "conservative-party", "name": "Conservative Party" },
+    { "id": "labour-party", "name": "Labour Party" }
+  ]
+}
