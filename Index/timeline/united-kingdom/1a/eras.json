@@ -1,9 +1,24 @@
-[
-  {
-    "id": "placeholder",
-    "name": "Placeholder era",
-    "start": 1945,
-    "end": null,
-    "score": null
-  }
-]
+{
+  "slider": "1a",
+  "country": "United Kingdom",
+  "eras": [
+    {
+      "id": "2016-2019",
+      "file": "2016-2019.md",
+      "score": 60,
+      "xenos": null
+    },
+    {
+      "id": "2020-early-2022",
+      "file": "2020-early-2022.md",
+      "score": 38,
+      "xenos": null
+    },
+    {
+      "id": "mid-2022-onward",
+      "file": "mid-2022-onward.md",
+      "score": 58,
+      "xenos": null
+    }
+  ]
+}

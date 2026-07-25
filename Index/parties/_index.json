@@ -1,3 +1,6 @@
 {
-  "countries": ["united-kingdom"]
+  "type": "parties",
+  "countries": [
+    "united-kingdom"
+  ]
 }

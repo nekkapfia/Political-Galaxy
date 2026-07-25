@@ -1,3 +1,6 @@
 {
-  "countries": ["united-kingdom"]
+  "type": "timeline",
+  "countries": [
+    "united-kingdom"
+  ]
 }

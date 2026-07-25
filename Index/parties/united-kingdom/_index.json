@@ -1,6 +1,18 @@
 {
+  "country": "United Kingdom",
+  "slider": "1a",
   "parties": [
-    { "id": "conservative-party", "name": "Conservative Party" },
-    { "id": "labour-party", "name": "Labour Party" }
+    "alba-party",
+    "conservative-party",
+    "democratic-unionist-party",
+    "green-party",
+    "labour-party",
+    "liberal-democrats",
+    "plaid-cymru",
+    "reform-uk",
+    "restore-britain",
+    "scottish-national-party",
+    "sinn-fein",
+    "workers-party-of-britain"
   ]
 }
