@@ -65,7 +65,13 @@ async function tryFetch(url, label) {
   try {
     const res = await fetch(url, { cache: "no-cache" });
     if (!res.ok) throw new Error(`${label} HTTP ${res.status}`);
-    return await res.json();
+    const text = await res.text();
+    try {
+      return JSON.parse(text);
+    } catch (pe) {
+      console.warn(`[Political Galaxy] ${label} invalid JSON:`, pe.message, url);
+      return null;
+    }
   } catch (e) {
     console.warn(`[Political Galaxy] ${label} failed:`, e.message);
     return null;
@@ -243,12 +249,25 @@ async function loadCountry(countryId, countryName) {
     const normalized = {};
     const raw = scores.scores || scores;
     for (const [rawKey, value] of Object.entries(raw)) {
-      if (value !== null && typeof value === "object") {
-        // skip nested objects (e.g. accidental metadata)
+      const id = normalizeSliderKey(rawKey);
+      if (!id) continue;
+
+      // Plain number (or null)
+      if (value === null || typeof value === "number") {
+        normalized[id] = value;
         continue;
       }
-      const id = normalizeSliderKey(rawKey);
-      if (id) normalized[id] = value;
+      // Dual form: { "endos": 48, "xenos": null } → prefer endos, else xenos
+      if (typeof value === "object") {
+        if (typeof value.endos === "number") normalized[id] = value.endos;
+        else if (typeof value.xenos === "number") normalized[id] = value.xenos;
+        else if (typeof value.score === "number") normalized[id] = value.score;
+        // else leave unset
+        continue;
+      }
+      // Numeric string
+      const n = Number(value);
+      if (!Number.isNaN(n)) normalized[id] = n;
     }
     // Store under display name AND id so UI selects work either way
     PARTY_DATA[countryId][party.name] = normalized;
