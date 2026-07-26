@@ -2,6 +2,7 @@
 // Compare: two independent sides (each Era or Party), dual tracks on every axis
 
 let currentMode = "modern";
+window.scoreLens = window.scoreLens || "endos";
 let currentVector = {};
 let selectedCountry = "United Kingdom"; // display name; resolved to id via resolveCountryId
 let selectedParty = null;
@@ -112,6 +113,23 @@ function initSliders() {
     });
   });
   initAccentControl();
+  // Endos / Xenos lens toggle
+  document.querySelectorAll(".lens-btn").forEach(btn => {
+    btn.addEventListener("click", () => {
+      document.querySelectorAll(".lens-btn").forEach(b => {
+        b.classList.remove("bg-amber-600/90", "bg-sky-600/90", "text-white");
+        b.classList.add("text-slate-400");
+      });
+      window.scoreLens = btn.dataset.lens || "endos";
+      if (window.scoreLens === "xenos") {
+        btn.classList.add("bg-sky-600/90", "text-white");
+      } else {
+        btn.classList.add("bg-amber-600/90", "text-white");
+      }
+      btn.classList.remove("text-slate-400");
+      refresh();
+    });
+  });
   buildOrbit();
   SLIDER_META.forEach(s => currentVector[s.id] = 50);
   renderCenter();
@@ -417,10 +435,29 @@ function applyScoresToSliders(scores) {
     const v = scores[s.id];
     const inp = document.getElementById("slider-" + s.id);
     const val = document.getElementById("val-" + s.id);
-    if (inp && v != null && !isNaN(v)) {
-      inp.value = v;
-      if (val) val.textContent = v;
-      currentVector[s.id] = Number(v);
+    const primary = (typeof scorePrimary === "function") ? scorePrimary(v) : (typeof v === "number" ? v : null);
+    if (inp && primary != null && !isNaN(primary)) {
+      inp.value = primary;
+      currentVector[s.id] = Number(primary);
+    }
+    if (val) {
+      if (typeof v === "object" && v && (v.endos != null || v.xenos != null)) {
+        const lens = window.scoreLens || "endos";
+        const e = v.endos != null ? v.endos : "—";
+        const x = v.xenos != null ? v.xenos : "—";
+        // Active lens in full brightness; other dimmed
+        if (lens === "xenos") {
+          val.innerHTML = `<span class="opacity-40">${e}</span>/<span class="text-sky-300">${x}</span>`;
+        } else {
+          val.innerHTML = `<span class="text-amber-300">${e}</span>/<span class="opacity-40">${x}</span>`;
+        }
+        val.title = "endos / xenos — toggle with Endos/Xenos control";
+        val.style.fontSize = "0.65rem";
+      } else {
+        val.textContent = (typeof scoreDisplay === "function") ? scoreDisplay(v) : (primary != null ? primary : "—");
+        val.title = "";
+        val.style.fontSize = "";
+      }
     }
   });
 }
@@ -433,14 +470,12 @@ function applyDualScores(scoresLeft, scoresRight) {
     const inpB = document.getElementById("slider-" + s.id + "-b");
     const valA = document.getElementById("val-" + s.id + "-a");
     const valB = document.getElementById("val-" + s.id + "-b");
-    if (inpA) {
-      inpA.value = (va != null && !isNaN(va)) ? va : 50;
-      if (valA) valA.textContent = (va != null && !isNaN(va)) ? va : "—";
-    }
-    if (inpB) {
-      inpB.value = (vb != null && !isNaN(vb)) ? vb : 50;
-      if (valB) valB.textContent = (vb != null && !isNaN(vb)) ? vb : "—";
-    }
+    const pa = (typeof scorePrimary === "function") ? scorePrimary(va) : (typeof va === "number" ? va : null);
+    const pb = (typeof scorePrimary === "function") ? scorePrimary(vb) : (typeof vb === "number" ? vb : null);
+    if (inpA) inpA.value = (pa != null && !isNaN(pa)) ? pa : 50;
+    if (inpB) inpB.value = (pb != null && !isNaN(pb)) ? pb : 50;
+    if (valA) valA.textContent = (typeof scoreDisplay === "function") ? scoreDisplay(va) : (pa != null ? pa : "—");
+    if (valB) valB.textContent = (typeof scoreDisplay === "function") ? scoreDisplay(vb) : (pb != null ? pb : "—");
   });
 }
 

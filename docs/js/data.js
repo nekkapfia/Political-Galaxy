@@ -252,20 +252,27 @@ async function loadCountry(countryId, countryName) {
       const id = normalizeSliderKey(rawKey);
       if (!id) continue;
 
-      // Plain number (or null)
+      // Plain number (or null) → single score
       if (value === null || typeof value === "number") {
         normalized[id] = value;
         continue;
       }
-      // Dual form: { "endos": 48, "xenos": null } → prefer endos, else xenos
+      // Dual form: { endos, xenos } — keep both; primary for matching = endos ?? xenos
       if (typeof value === "object") {
-        if (typeof value.endos === "number") normalized[id] = value.endos;
-        else if (typeof value.xenos === "number") normalized[id] = value.xenos;
-        else if (typeof value.score === "number") normalized[id] = value.score;
-        // else leave unset
+        const endos = (typeof value.endos === "number") ? value.endos : null;
+        const xenos = (typeof value.xenos === "number") ? value.xenos : null;
+        if (endos == null && xenos == null && typeof value.score === "number") {
+          normalized[id] = value.score;
+        } else if (endos != null || xenos != null) {
+          normalized[id] = {
+            endos,
+            xenos,
+            // primary used by nearest-match / single-slider position
+            primary: endos != null ? endos : xenos
+          };
+        }
         continue;
       }
-      // Numeric string
       const n = Number(value);
       if (!Number.isNaN(n)) normalized[id] = n;
     }
@@ -330,6 +337,44 @@ loadIndexData();
 // ------------------------------------------------------------
 // Lookups
 // ------------------------------------------------------------
+
+/** Extract a single number for slider position / distance math.
+ *  Honours window.scoreLens ("endos" | "xenos") when dual scores exist.
+ */
+function scorePrimary(v) {
+  if (v == null) return null;
+  if (typeof v === "number") return v;
+  if (typeof v === "object") {
+    const lens = (typeof window !== "undefined" && window.scoreLens) || "endos";
+    if (lens === "xenos") {
+      if (typeof v.xenos === "number") return v.xenos;
+      if (typeof v.endos === "number") return v.endos;
+    } else {
+      if (typeof v.endos === "number") return v.endos;
+      if (typeof v.xenos === "number") return v.xenos;
+    }
+    if (typeof v.primary === "number") return v.primary;
+    if (typeof v.score === "number") return v.score;
+  }
+  const n = Number(v);
+  return Number.isNaN(n) ? null : n;
+}
+
+/** Format score for display: "48" or "48 / 52" (endos / xenos) */
+function scoreDisplay(v) {
+  if (v == null) return "—";
+  if (typeof v === "number") return String(v);
+  if (typeof v === "object") {
+    const e = (typeof v.endos === "number") ? v.endos : null;
+    const x = (typeof v.xenos === "number") ? v.xenos : null;
+    if (e != null && x != null) return e + " / " + x;
+    if (e != null) return String(e);
+    if (x != null) return String(x);
+    if (typeof v.primary === "number") return String(v.primary);
+  }
+  return "—";
+}
+
 function getEra(country, year, sliderId) {
   const countryData = SCORE_DATA[resolveCountryId(country)] || SCORE_DATA[country];
   if (!countryData) return null;
@@ -441,12 +486,16 @@ function getPartyDocUrl(country, partyName, sliderId) {
 function buildEntitiesFromParties() {
   ENTITIES = [];
   for (const [country, parties] of Object.entries(PARTY_DATA)) {
+    const seen = new Set();
     for (const [name, rawScores] of Object.entries(parties || {})) {
+      // Skip duplicate id-key when display-name key already holds same object
+      if (seen.has(rawScores)) continue;
+      seen.add(rawScores);
       const id = `party-${country.toLowerCase().replace(/\s+/g, "-")}-${name.toLowerCase().replace(/\s+/g, "-").replace(/[^a-z0-9-]/g, "")}`;
       const scores = {};
       for (const s of SLIDER_META) {
         const v = rawScores[s.id];
-        scores[s.id] = (v === null || v === undefined || isNaN(v)) ? null : Number(v);
+        scores[s.id] = scorePrimary(v);
       }
       ENTITIES.push({
         id,
@@ -473,6 +522,8 @@ window.getYearRange = getYearRange;
 window.getPartyScores = getPartyScores;
 window.getPartyVector = getPartyVector;
 window.getPartyDocUrl = getPartyDocUrl;
+window.scorePrimary = scorePrimary;
+window.scoreDisplay = scoreDisplay;
 window.makeViewerUrl = makeViewerUrl;
 window.SCORE_DATA = SCORE_DATA;
 window.PARTY_DATA = PARTY_DATA;
