@@ -94,8 +94,8 @@ async function tryFetchText(url) {
 /**
  * Build an internal viewer URL for any Index-relative path.
  * path examples:
- *   "Time Line/United Kingdom/2B/eras/1997-2001.md"
- *   "Political Parties/United Kingdom/Conservative Party/C4B.md"
+ *   "timeline/united-kingdom/2b/early-liberal-interventionism.md"
+ *   "parties/united-kingdom/conservative-party/c4b.md"
  */
 function makeViewerUrl(indexPath) {
   if (!indexPath) return null;
@@ -315,7 +315,7 @@ async function loadCountry(countryId, countryName) {
     SCORE_DATA[countryId][sliderId] = erasArr.map(e => {
       const id = e.id || null;
       const docPath = id
-        ? `timeline/${countryId}/${folder}/docs/${id}.md`
+        ? `timeline/${countryId}/${folder}/${id}.md`
         : "";
       return {
         id,
@@ -479,7 +479,7 @@ function getPartyDocUrl(country, partyName, sliderId) {
   let pid = partyName;
   const names = (window.PARTY_NAMES && window.PARTY_NAMES[cid]) || {};
   for (const [id, name] of Object.entries(names)) { if (name === partyName) pid = id; }
-  const path = `parties/${cid}/${pid}/docs/${folder}.md`;
+  const path = `parties/${cid}/${pid}/${folder}.md`;
   return makeViewerUrl(path);
 }
 
