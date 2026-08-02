@@ -1,0 +1,4 @@
+[submodule "submodules/automated-information-archive-first-draft"]
+	path = submodules/automated-information-archive-first-draft
+	url = https://github.com/nekkapfia/automated-information-archive-first-draft.git
+	branch = main
