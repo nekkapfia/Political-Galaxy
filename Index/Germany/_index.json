@@ -1,0 +1,7 @@
+{
+  "parties": [
+    { "id": "die-gruenen", "name": "Die Grünen" },
+    { "id": "die-linke", "name": "Die Linke" },
+    { "id": "spd", "name": "SPD" }
+  ]
+}
