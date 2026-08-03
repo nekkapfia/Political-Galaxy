@@ -1,0 +1,52 @@
+{
+  "parties": [
+    {
+      "id": "alba-party",
+      "name": "Alba Party"
+    },
+    {
+      "id": "conservative-party",
+      "name": "Conservative Party"
+    },
+    {
+      "id": "democratic-unionist-party",
+      "name": "Democratic Unionist Party"
+    },
+    {
+      "id": "green-party",
+      "name": "Green Party"
+    },
+    {
+      "id": "labour-party",
+      "name": "Labour Party"
+    },
+    {
+      "id": "liberal-democrats",
+      "name": "Liberal Democrats"
+    },
+    {
+      "id": "plaid-cymru",
+      "name": "Plaid Cymru"
+    },
+    {
+      "id": "reform-uk",
+      "name": "Reform UK"
+    },
+    {
+      "id": "restore-britain",
+      "name": "Restore Britain"
+    },
+    {
+      "id": "scottish-national-party",
+      "name": "Scottish National Party"
+    },
+    {
+      "id": "sinn-fein",
+      "name": "Sinn F\u00e9in"
+    },
+    {
+      "id": "workers-party-of-britain",
+      "name": "Workers Party of Britain"
+    }
+  ]
+}

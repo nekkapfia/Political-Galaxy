@@ -1,0 +1,36 @@
+{
+  "parties": [
+    {
+      "id": "fet-y-de-las-jons",
+      "name": "FET y de las JONS"
+    },
+    {
+      "id": "garda-de-fier",
+      "name": "Garda de Fier"
+    },
+    {
+      "id": "nazism",
+      "name": "Nazism"
+    },
+    {
+      "id": "nyilaskeresztes-part",
+      "name": "Nyilaskeresztes P\u00e1rt"
+    },
+    {
+      "id": "partito-nazionale-fascista-early",
+      "name": "Partito Nazionale Fascista (early)"
+    },
+    {
+      "id": "partito-nazionale-fascista-mature",
+      "name": "Partito Nazionale Fascista (mature)"
+    },
+    {
+      "id": "repubblica-sociale-italiana",
+      "name": "Repubblica Sociale Italiana"
+    },
+    {
+      "id": "vaterlandische-front",
+      "name": "Vaterl\u00e4ndische Front"
+    }
+  ]
+}
