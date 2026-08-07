@@ -1,0 +1,2 @@
+### Era 1: Post-Cold War Interventionism & EU Leadership (1999–2010) — Score: 58
+This era marks Germany’s gradual return to a more active international role after reunification. It is defined by the Kosovo intervention (1999) and the early years of the Afghanistan mission, alongside strong German support for EU enlargement and post-conflict stabilisation in South-Eastern Europe. Germany used its influence within the EU primarily to promote stability and democratic reforms in the Balkans. The score reflects moderate outward engagement that remained relatively restrained.

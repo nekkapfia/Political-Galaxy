@@ -1,0 +1,2 @@
+### Era 2: Thatcher/Major Restraint (Mid-1980 – 1997) — Score: 68
+This era was characterised by general restraint. While the Gulf War (1990–1991) was a notable event, it was a short, defensive, and multilateral intervention. Outside of this, the UK maintained selective and low-to-moderate levels of diplomatic and aid activity, primarily focused on post-Cold War transitions in Eastern Europe. The era reflects a predominantly restrained approach to outward engagement.

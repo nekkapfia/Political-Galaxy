@@ -1,0 +1,13 @@
+{
+  "countries": [
+    { "id": "united-kingdom", "name": "United Kingdom" },
+    { "id": "germany", "name": "Germany" },
+    { "id": "france", "name": "France" },
+    { "id": "fascism", "name": "Fascism (historical movements)" },
+    { "id": "communism", "name": "Communism (historical movements)" }
+  ],
+  "sections": {
+    "parties": "parties/_index.json",
+    "timeline": "timeline/_index.json"
+  }
+}

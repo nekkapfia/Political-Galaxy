@@ -1,0 +1,3 @@
+### Pre-EEC Membership Era (Pre-1973) — Score: 92 (90–94 band)
+
+During this period, the United Kingdom retained near-total unilateral authority over its borders, immigration policy, trade regulation, and domestic legislation. No external body held enforceable legal supremacy over UK law, and the state maintained full practical control over entry to and presence on its territory. External obligations were limited to conventional international treaties without mechanisms for direct legal override or ongoing institutional involvement in domestic decision-making. The mechanical effect on national sovereignty was minimal, resulting in a very high score.

@@ -1,0 +1,2 @@
+### Era 1: Rhodesia Crisis (Late 1979 – Early 1980) — Score: 61
+This short era was defined almost entirely by the UK’s diplomatic intervention in the Rhodesian crisis through the Lancaster House negotiations. Activity was narrowly focused on diplomatic pressure and supporting sanctions. There was minimal engagement in Foreign Aid or Culture and Ideology. The score reflects moderate outward interference that was limited in both scope and duration.
