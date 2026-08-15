@@ -1,0 +1,28 @@
+{
+  "parties": [
+    {
+      "id": "fet-y-de-las-jons",
+      "name": "FET y de las JONS"
+    },
+    {
+      "id": "garda-de-fier",
+      "name": "Garda de Fier"
+    },
+    {
+      "id": "nazism",
+      "name": "Nazism"
+    },
+    {
+      "id": "nyilaskeresztes-part",
+      "name": "Nyilaskeresztes Párt"
+    },
+    {
+      "id": "partito-nazionale-fascista",
+      "name": "Partito Nazionale Fascista"
+    },
+    {
+      "id": "vaterlandische-front",
+      "name": "Vaterländische Front"
+    }
+  ]
+}

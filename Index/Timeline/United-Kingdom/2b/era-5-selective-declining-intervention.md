@@ -1,0 +1,2 @@
+### Era 5: Selective & Declining Intervention (2011–2016) — Score: 42
+This era saw a noticeable reduction in the scale and intensity of UK intervention. Key events included the Libya intervention (2011) and limited support for opposition forces in Syria. While activity continued across Diplomacy and Foreign Aid, it was more selective and lower in intensity than in Era 4. The score reflects declining outward engagement.

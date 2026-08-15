@@ -1,0 +1,11 @@
+{
+  "parties": [
+    { "id": "europe-ecologie-les-verts", "name": "Europe Écologie Les Verts" },
+    { "id": "la-france-insoumise", "name": "La France Insoumise" },
+    { "id": "les-republicains", "name": "Les Républicains" },
+    { "id": "parti-communiste-francais", "name": "Parti Communiste Français" },
+    { "id": "parti-socialiste", "name": "Parti Socialiste" },
+    { "id": "rassemblement-national", "name": "Rassemblement National" },
+    { "id": "renaissance", "name": "Renaissance" }
+  ]
+}

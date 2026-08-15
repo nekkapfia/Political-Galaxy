@@ -1,0 +1,19 @@
+# Cultural 2B: Communism – Marxism
+## National Pride Analysis
+**Score: 38**
+
+### Overview
+Classical Marxism subordinates national identity to class analysis and internationalism. National pride is treated as secondary or as a form of false consciousness; the primary loyalty is to class and historical progress. Residual baseline of predominantly critical national framing: traditional pride is limited or heavily qualified; critical and atonement narratives carry substantial institutional weight.
+
+### Relevant Policies / Elements
+* Official ideology prioritises class and internationalism over national continuity.
+* National symbols and history are instrumentalised or criticised according to class criteria.
+* Traditional national identity is not treated as a legitimate primary source of meaning.
+* Cultural policy tends toward critical reframing of national narratives.
+* Residual baseline of predominantly critical national framing: traditional pride is limited or heavily qualified; critical and atonement narratives carry substantial institutional weight.
+
+### Expanded Analysis
+Marxism produces a Negative-band score. National identity is never the organising principle; it is secondary to class and is often treated with suspicion. The result is limited and instrumental rather than affirmative national pride.
+
+### Why this produces a Final Score of 38
+Systematic subordination of national identity to class and internationalist frames places classical Marxism in the Negative band.

@@ -1,0 +1,2 @@
+### Era 4: Offensive Wars Peak (2001–2011) — Score: 23
+This era represents the high point of UK outward interventionism. It was dominated by two large-scale offensive wars in Afghanistan and Iraq involving regime change and prolonged occupation. Foreign Aid was used extensively for political conditionality and institutional reform. The very low score reflects sustained high-intensity interference across military, diplomatic, and aid domains.

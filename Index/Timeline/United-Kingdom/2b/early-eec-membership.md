@@ -1,0 +1,3 @@
+### Early EEC Membership Era (1973–1992) — Score: 45 (41–50 band)
+
+Accession to the European Economic Community in 1973 introduced significant external legal constraints, primarily in the areas of trade, customs, and economic regulation. The UK ceded unilateral decision-making authority to EEC institutions and law in these domains. However, the constraints remained largely confined to economic and regulatory matters. Core sovereign functions such as general border control outside the EEC framework, removal policy, and most areas of domestic legislation remained under national authority. The mechanical impact was substantial but limited in scope and depth compared to later periods, producing a mid-range score.

@@ -1,0 +1,2 @@
+### Era 3: Early Liberal Interventionism (1997–2001) — Score: 56
+This short transitional era saw an increase in the UK’s willingness to intervene, most notably in Kosovo (1999) and Sierra Leone (2000). Diplomatic and aid activity rose, particularly around democracy promotion and civil society support. The score reflects a moderate increase in outward engagement during a brief but significant period.
