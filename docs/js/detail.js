@@ -1,4 +1,6 @@
-// Detail page – Country + Mode (Party/Era) + Selection
+// Detail page – Mode (Party/Era) + Country + Selection
+// Loads party scores via getPartyVector (folder-id keyed PARTY_DATA)
+
 function initDetail() {
   const countrySel = document.getElementById("detail-country");
   const modeSel = document.getElementById("detail-mode");
@@ -7,16 +9,27 @@ function initDetail() {
 
   function repopulateCountries() {
     const countries = (typeof getAvailableCountries === "function")
-      ? getAvailableCountries() : ["United Kingdom"];
+      ? getAvailableCountries()
+      : ["United Kingdom"];
     if (!countries.length) {
       countrySel.innerHTML = `<option value="">— no countries loaded —</option>`;
       return;
     }
-    countrySel.innerHTML = countries.map(c => `<option value="${c}">${c}</option>`).join("");
+    const cur = countrySel.value;
+    countrySel.innerHTML = countries.map(c =>
+      `<option value="${c}" ${c === cur ? "selected" : ""}>${c}</option>`
+    ).join("");
+    if (!countrySel.value && countries.length) countrySel.value = countries[0];
   }
+
   repopulateCountries();
+
   if (typeof loadIndexData === "function") {
-    loadIndexData().then(() => { repopulateCountries(); updateEntitySelect(); });
+    loadIndexData().then(() => {
+      repopulateCountries();
+      updateSelectControl();
+      runLookup();
+    });
   }
 
   countrySel.addEventListener("change", () => {
@@ -29,13 +42,22 @@ function initDetail() {
   });
   btn.addEventListener("click", runLookup);
 
+  // Prefer Political Party as default (Timeline still sparse)
+  if (![...modeSel.options].some(o => o.selected && o.value)) {
+    modeSel.value = "party";
+  }
+  // If HTML still defaults to era, switch to party for better UX
+  if (modeSel.value === "era") {
+    // leave as-is if user already chose; only set once on first load
+  }
+
   updateSelectControl();
   runLookup();
 }
 
 function updateSelectControl() {
-  const mode = document.getElementById("detail-mode")?.value || "era";
-  const country = document.getElementById("detail-country")?.value || "United Kingdom";
+  const mode = document.getElementById("detail-mode")?.value || "party";
+  const country = document.getElementById("detail-country")?.value || "";
   const label = document.getElementById("detail-select-label");
   const wrap = document.getElementById("detail-select-control");
   if (!label || !wrap) return;
@@ -43,27 +65,41 @@ function updateSelectControl() {
   if (mode === "party") {
     label.textContent = "Political Party";
     const cid = (typeof resolveCountryId === "function") ? resolveCountryId(country) : country;
-    let parties = [];
+    const byName = new Map();
     if (window.PARTY_NAMES && window.PARTY_NAMES[cid]) {
-      parties = Object.values(window.PARTY_NAMES[cid]);
-    } else {
-      const raw = (typeof getPartyScores === "function") ? getPartyScores(country) : (PARTY_DATA[cid] || {});
-      parties = Object.keys(raw).filter(k => !k.includes("-") || !Object.keys(raw).some(o => o !== k && raw[o] === raw[k]));
+      for (const [pid, name] of Object.entries(window.PARTY_NAMES[cid])) {
+        if (!byName.has(name)) byName.set(name, pid);
+      }
+    } else if (typeof getPartyScores === "function") {
+      const raw = getPartyScores(country) || {};
+      for (const k of Object.keys(raw)) {
+        if (!byName.has(k)) byName.set(k, k);
+      }
     }
+    const parties = [...byName.entries()]
+      .map(([name, pid]) => ({ name, pid }))
+      .sort((a, b) => a.name.localeCompare(b.name));
+
     wrap.innerHTML = `
       <select id="detail-party" class="w-full bg-slate-800 border border-slate-600 rounded px-2 py-1.5 text-sm">
         <option value="">— select party —</option>
-        ${parties.map(p => `<option value="${p}">${p}</option>`).join("")}
+        ${parties.map(p =>
+          `<option value="${p.name}" data-id="${p.pid}">${p.name}</option>`
+        ).join("")}
       </select>`;
     document.getElementById("detail-party")?.addEventListener("change", runLookup);
   } else {
     label.textContent = "Year";
-    const range = (typeof getYearRange === "function") ? getYearRange(country) : { min: 1945, max: 2026 };
+    const range = (typeof getYearRange === "function")
+      ? getYearRange(country)
+      : { min: 1945, max: 2026 };
     wrap.innerHTML = `
-      <input type="number" id="detail-year" value="2024" min="${range.min}" max="${range.max}"
-             class="w-full bg-slate-800 border border-slate-600 rounded px-2 py-1.5 text-sm" />`;
-    document.getElementById("detail-year")?.addEventListener("input", runLookup);
-    document.getElementById("detail-year")?.addEventListener("keydown", e => {
+      <input type="number" id="detail-year" value="2024"
+        min="${range.min}" max="${range.max}"
+        class="w-full bg-slate-800 border border-slate-600 rounded px-2 py-1.5 text-sm" />`;
+    const yearEl = document.getElementById("detail-year");
+    yearEl?.addEventListener("input", runLookup);
+    yearEl?.addEventListener("keydown", e => {
       if (e.key === "Enter") runLookup();
     });
   }
@@ -71,7 +107,7 @@ function updateSelectControl() {
 
 function runLookup() {
   const country = document.getElementById("detail-country")?.value;
-  const mode = document.getElementById("detail-mode")?.value || "era";
+  const mode = document.getElementById("detail-mode")?.value || "party";
   const detail = document.getElementById("entity-detail");
   if (!detail || !country) return;
 
@@ -87,35 +123,49 @@ function runLookup() {
       detail.innerHTML = `<p class="text-slate-500">Select a political party.</p>`;
       return;
     }
-    const raw = (PARTY_DATA[country] && PARTY_DATA[country][party]) || {};
-    // Normalise keys if needed (already handled in data.js, but safe)
+    // Resolve via getPartyVector (handles display name → folder id)
+    const raw = (typeof getPartyVector === "function")
+      ? (getPartyVector(country, party) || {})
+      : {};
     scores = raw;
     title = party;
     subtitle = `Political party snapshot · ${country}`;
-    extraNote = "Party scores are contemporary snapshots derived from the same empirical methodology as the national timelines.";
+    extraNote = "Party scores are contemporary snapshots from the Index scores.json files.";
   } else {
     const year = parseInt(document.getElementById("detail-year")?.value, 10);
     if (isNaN(year)) {
       detail.innerHTML = `<p class="text-slate-500">Enter a valid year.</p>`;
       return;
     }
-    const vector = (typeof getVector === "function") ? getVector(country, year) : { scores: {}, details: {} };
+    const vector = (typeof getVector === "function")
+      ? getVector(country, year)
+      : { scores: {}, details: {} };
     scores = vector.scores || {};
     details = vector.details || {};
     title = country;
-    const range = (typeof getYearRange === "function") ? getYearRange(country) : { min: 1945, max: 2026 };
+    const range = (typeof getYearRange === "function")
+      ? getYearRange(country)
+      : { min: 1945, max: 2026 };
     subtitle = `Year <span class="text-indigo-300 font-mono">${year}</span> · Data range ${range.min} – ${range.max}`;
-    extraNote = "Each slider uses its own era boundaries. Source links open the document in the internal viewer.";
+    extraNote = "Timeline era data is only shown where eras.json exists for this country. Party mode uses full Index scores.";
   }
 
+  const meta = (typeof SLIDER_META !== "undefined") ? SLIDER_META : [];
   let rows = "";
-  for (const slider of (typeof SLIDER_META !== "undefined" ? SLIDER_META : [])) {
+  let scoredCount = 0;
+
+  for (const slider of meta) {
     const v = scores[slider.id];
     const d = details[slider.id];
+    const primary = (typeof scorePrimary === "function") ? scorePrimary(v) : (typeof v === "number" ? v : null);
+    const display = (typeof scoreDisplay === "function")
+      ? scoreDisplay(v)
+      : (primary != null ? String(primary) : "—");
 
-    if (mode === "era" && d) {
-      const link = d.url
-        ? `<a href="${d.url}" class="text-indigo-400 hover:underline text-xs">Source →</a>`
+    if (mode === "era" && d && d.score != null) {
+      scoredCount++;
+      const link = d.source
+        ? `<a href="${typeof makeViewerUrl === "function" ? makeViewerUrl(d.source) : "#"}" class="text-indigo-400 hover:underline text-xs">Source →</a>`
         : `<span class="text-slate-600 text-xs">No link</span>`;
       rows += `
         <tr class="border-b border-slate-800">
@@ -124,22 +174,20 @@ function runLookup() {
             <div class="text-xs text-slate-500">${slider.group}</div>
           </td>
           <td class="py-2 pr-3 font-mono text-lg text-indigo-300">${d.score}</td>
-          <td class="py-2 pr-3 text-sm text-slate-400">${d.start} – ${d.end}</td>
-          <td class="py-2">
-            <div class="text-xs text-slate-300 mb-0.5">${d.section || ""}</div>
-            ${link}
-          </td>
+          <td class="py-2 pr-3 text-sm text-slate-400">${d.start ?? "—"} – ${d.end === 9999 ? "present" : (d.end ?? "—")}</td>
+          <td class="py-2 text-xs text-slate-400">${d.section || ""} ${link}</td>
         </tr>`;
-    } else if (v != null && !isNaN(v)) {
+    } else if (primary != null || (v != null && typeof v === "object")) {
+      scoredCount++;
       rows += `
         <tr class="border-b border-slate-800">
           <td class="py-2 pr-3">
             <div class="font-medium text-slate-200">${slider.name}</div>
             <div class="text-xs text-slate-500">${slider.group}</div>
           </td>
-          <td class="py-2 pr-3 font-mono text-lg text-indigo-300">${v}</td>
+          <td class="py-2 pr-3 font-mono text-lg text-indigo-300">${display}</td>
           <td class="py-2 pr-3 text-sm text-slate-400">—</td>
-          <td class="py-2 text-xs text-slate-400">Party snapshot</td>
+          <td class="py-2 text-xs text-slate-400">${mode === "party" ? "Party snapshot" : "—"}</td>
         </tr>`;
     } else {
       rows += `
@@ -153,6 +201,10 @@ function runLookup() {
           <td class="py-2 text-xs text-slate-600">Not scored</td>
         </tr>`;
     }
+  }
+
+  if (mode === "party" && scoredCount === 0) {
+    extraNote = "No scores found for this party. Check that Index/Parties scores.json loaded (see browser console).";
   }
 
   detail.innerHTML = `
@@ -175,3 +227,6 @@ function runLookup() {
     </div>
     <p class="mt-4 text-xs text-slate-500">${extraNote}</p>`;
 }
+
+window.initDetail = initDetail;
+window.runLookup = runLookup;
