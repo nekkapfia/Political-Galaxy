@@ -179,6 +179,16 @@ function runLookup() {
         </tr>`;
     } else if (primary != null || (v != null && typeof v === "object")) {
       scoredCount++;
+      let notes = "—";
+      if (mode === "party") {
+        const party = document.getElementById("detail-party")?.value;
+        const docUrl = (typeof getPartyDocUrl === "function" && party)
+          ? getPartyDocUrl(country, party, slider.id)
+          : null;
+        notes = docUrl
+          ? `<a href="${docUrl}" class="text-indigo-400 hover:underline">Source →</a>`
+          : `<span class="text-slate-500">Party snapshot</span>`;
+      }
       rows += `
         <tr class="border-b border-slate-800">
           <td class="py-2 pr-3">
@@ -187,7 +197,7 @@ function runLookup() {
           </td>
           <td class="py-2 pr-3 font-mono text-lg text-indigo-300">${display}</td>
           <td class="py-2 pr-3 text-sm text-slate-400">—</td>
-          <td class="py-2 text-xs text-slate-400">${mode === "party" ? "Party snapshot" : "—"}</td>
+          <td class="py-2 text-xs text-slate-400">${notes}</td>
         </tr>`;
     } else {
       rows += `
