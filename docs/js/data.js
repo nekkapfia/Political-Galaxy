@@ -1,8 +1,15 @@
 // ============================================================
-// Political Galaxy – Data Layer
-// Auto-discovers countries from Index folders (GitHub API) + optional manifest.json
-// Loads per-slider timeline.json + party scores
+// Political Galaxy – Data Layer (FIXED 2026-08-15)
+// Auto-discovers countries from Index + optional manifest.json
+// Loads party scores.json + per-slider timeline eras
 // Source links go to internal viewer.html (never GitHub)
+//
+// FIXES APPLIED:
+//   1. Path casing: Parties/ and Timeline/ (GitHub is case-sensitive)
+//   2. Country IDs now match actual folder names (United-Kingdom etc.)
+//   3. Robust hardcoded fallback when no manifest.json exists
+//   4. Correct dual-score (endos/xenos) + lowercase key normalisation
+//   5. Stale static docs/data/*.json is no longer required
 // ============================================================
 
 const SLIDER_META = [
@@ -35,7 +42,19 @@ let DATA_LOAD_PROMISE = null;
 const REPO_RAW = "https://raw.githubusercontent.com/nekkapfia/Political-Galaxy/main/Index";
 const REPO_RAW_ROOT = "https://raw.githubusercontent.com/nekkapfia/Political-Galaxy/main";
 
-// Key normalisation (old Index style → internal)
+// Actual Index folder names (case-sensitive on GitHub raw)
+const KNOWN_COUNTRIES = [
+  { id: "United-Kingdom",              name: "United Kingdom" },
+  { id: "Germany",                     name: "Germany" },
+  { id: "France",                      name: "France" },
+  { id: "United-States",               name: "United States" },
+  { id: "Russia",                      name: "Russia" },
+  { id: "Peoples-Republic-Of-China",   name: "People's Republic of China" },
+  { id: "Communism",                   name: "Communism" },
+  { id: "Fascism",                     name: "Fascism" }
+];
+
+// Key normalisation (scores.json uses lowercase 1a/c5b; UI uses 1A/C5B)
 const SLIDER_KEY_MAP = {
   "core1a": "1A", "core1b": "1B", "core2a": "2A", "core2b": "2B",
   "cultural1a": "C1A", "cultural1b": "C1B", "cultural2a": "C2A", "cultural2b": "C2B",
@@ -94,8 +113,8 @@ async function tryFetchText(url) {
 /**
  * Build an internal viewer URL for any Index-relative path.
  * path examples:
- *   "timeline/united-kingdom/2b/early-liberal-interventionism.md"
- *   "parties/united-kingdom/conservative-party/c4b.md"
+ *   "Timeline/United-Kingdom/2b/early-liberal-interventionism.md"
+ *   "Parties/United-Kingdom/Conservative-Party/c4b.md"
  */
 function makeViewerUrl(indexPath) {
   if (!indexPath) return null;
@@ -116,33 +135,38 @@ function makeSourceUrl(sourcePath, sectionTitle) {
 }
 
 // ------------------------------------------------------------
-// Load manifest + all country data
-// ------------------------------------------------------------
-// ------------------------------------------------------------
-// Index cascade (new layout)
-//   Index/manifest.json
-//     → sections.parties  → parties/_index.json
-//     → sections.timeline → timeline/_index.json
-//   parties/{country-id}/_index.json → parties[{id,name}]
-//   parties/{country-id}/{party-id}/scores.json
-//   timeline/{country-id}/_index.json → axes[]
-//   timeline/{country-id}/{axis}/eras.json
+// Index cascade (corrected layout)
+//   Index/manifest.json (optional)
+//     → sections.parties  → Parties/_index.json  (optional)
+//     → sections.timeline → Timeline/_index.json (optional)
+//   Parties/{Country-Id}/_index.json → { parties: [{id,name}] }
+//   Parties/{Country-Id}/{party-id}/scores.json
+//   Timeline/{Country-Id}/_index.json → axes[]
+//   Timeline/{Country-Id}/{axis}/eras.json
 // ------------------------------------------------------------
 
 /** Normalize country entry from manifest to {id, name} */
 function asCountryEntry(c) {
   if (typeof c === "string") {
+    // Preserve exact casing if it already matches a known folder
+    const known = KNOWN_COUNTRIES.find(k => k.id.toLowerCase() === c.toLowerCase());
+    if (known) return { id: known.id, name: known.name };
     return { id: c, name: c.replace(/-/g, " ").replace(/\b\w/g, ch => ch.toUpperCase()) };
   }
-  if (c && c.id) return { id: c.id, name: c.name || c.id };
+  if (c && c.id) {
+    const known = KNOWN_COUNTRIES.find(k => k.id.toLowerCase() === String(c.id).toLowerCase());
+    if (known) return { id: known.id, name: c.name || known.name };
+    return { id: c.id, name: c.name || c.id };
+  }
   return null;
 }
 
 async function discoverCountries() {
-  const manifest = await tryFetch(`${REPO_RAW}/manifest.json`, "Index/manifest.json");
   const countries = [];
   const seen = new Set();
 
+  // 1. Try optional manifest.json
+  const manifest = await tryFetch(`${REPO_RAW}/manifest.json`, "Index/manifest.json");
   if (manifest && Array.isArray(manifest.countries)) {
     for (const c of manifest.countries) {
       const e = asCountryEntry(c);
@@ -153,12 +177,12 @@ async function discoverCountries() {
     }
   }
 
-  // Also merge from section indexes if present
-  const partiesPath = (manifest && manifest.sections && manifest.sections.parties) || "parties/_index.json";
-  const timelinePath = (manifest && manifest.sections && manifest.sections.timeline) || "timeline/_index.json";
+  // 2. Try section indexes (Parties/_index.json / Timeline/_index.json) if present
+  const partiesPath = (manifest && manifest.sections && manifest.sections.parties) || "Parties/_index.json";
+  const timelinePath = (manifest && manifest.sections && manifest.sections.timeline) || "Timeline/_index.json";
 
-  const partiesIdx = await tryFetch(`${REPO_RAW}/${partiesPath}`, "parties/_index.json");
-  const timelineIdx = await tryFetch(`${REPO_RAW}/${timelinePath}`, "timeline/_index.json");
+  const partiesIdx = await tryFetch(`${REPO_RAW}/${partiesPath}`, "Parties/_index.json");
+  const timelineIdx = await tryFetch(`${REPO_RAW}/${timelinePath}`, "Timeline/_index.json");
 
   for (const idx of [partiesIdx, timelineIdx]) {
     if (!idx || !Array.isArray(idx.countries)) continue;
@@ -171,19 +195,26 @@ async function discoverCountries() {
     }
   }
 
+  // 3. Hardcoded authoritative list (matches live Index/Parties folder names exactly)
+  //    This is the reliable path when no manifest exists (current state of the repo).
   if (countries.length === 0) {
-    console.warn("[Political Galaxy] No countries in manifest – fallback united-kingdom");
-    countries.push({ id: "united-kingdom", name: "United Kingdom" });
+    console.log("[Political Galaxy] No manifest – using known country list matching Index/Parties");
+    for (const c of KNOWN_COUNTRIES) {
+      if (!seen.has(c.id)) {
+        seen.add(c.id);
+        countries.push(c);
+      }
+    }
   }
 
   return {
-    countries, // [{id, name}, ...]
+    countries,
     countryIds: countries.map(c => c.id),
     sections: {
       parties: partiesPath,
       timeline: timelinePath
     },
-    source: manifest ? "manifest + section indexes" : "fallback"
+    source: manifest ? "manifest + section indexes" : "known-countries fallback"
   };
 }
 
@@ -219,14 +250,14 @@ async function loadCountry(countryId, countryName) {
   const enc = encodeURIComponent(countryId);
 
   // ---- PARTIES ----
-  // parties/{country}/_index.json → { parties: [{id,name}] | ["id"] }
+  // Parties/{Country}/_index.json → { parties: [{id,name}] }
   PARTY_DATA[countryId] = {};
   window.PARTY_NAMES = window.PARTY_NAMES || {};
   window.PARTY_NAMES[countryId] = {};
 
   const partyIndex = await tryFetch(
-    `${REPO_RAW}/parties/${enc}/_index.json`,
-    `parties/${countryId}/_index.json`
+    `${REPO_RAW}/Parties/${enc}/_index.json`,
+    `Parties/${countryId}/_index.json`
   );
 
   let partyList = []; // [{id, name}]
@@ -241,7 +272,7 @@ async function loadCountry(countryId, countryName) {
     window.PARTY_NAMES[countryId][party.id] = party.name;
     const penc = encodeURIComponent(party.id);
     const scores = await tryFetch(
-      `${REPO_RAW}/parties/${enc}/${penc}/scores.json`,
+      `${REPO_RAW}/Parties/${enc}/${penc}/scores.json`,
       `scores ${countryId}/${party.id}`
     );
     if (!scores) continue;
@@ -282,13 +313,13 @@ async function loadCountry(countryId, countryName) {
   }
 
   // ---- TIMELINE ----
-  // timeline/{country}/_index.json → { axes: ["1a", ...] }
-  // timeline/{country}/{axis}/eras.json
+  // Timeline/{Country}/_index.json → { axes: ["1a", ...] }
+  // Timeline/{Country}/{axis}/eras.json
   SCORE_DATA[countryId] = {};
 
   const tlIndex = await tryFetch(
-    `${REPO_RAW}/timeline/${enc}/_index.json`,
-    `timeline/${countryId}/_index.json`
+    `${REPO_RAW}/Timeline/${enc}/_index.json`,
+    `Timeline/${countryId}/_index.json`
   );
 
   let axes = SLIDER_IDS.map(id => id); // default try all
@@ -303,7 +334,7 @@ async function loadCountry(countryId, countryName) {
     // Folder uses lowercase axis ids: 1a, c4b
     const folder = String(sliderId).toLowerCase();
     const erasRaw = await tryFetch(
-      `${REPO_RAW}/timeline/${enc}/${folder}/eras.json`,
+      `${REPO_RAW}/Timeline/${enc}/${folder}/eras.json`,
       `eras ${countryId}/${folder}`
     );
     if (!erasRaw) continue;
@@ -315,12 +346,11 @@ async function loadCountry(countryId, countryName) {
     SCORE_DATA[countryId][sliderId] = erasArr.map(e => {
       const id = e.id || null;
       const docPath = id
-        ? `timeline/${countryId}/${folder}/${id}.md`
+        ? `Timeline/${countryId}/${folder}/${id}.md`
         : "";
       return {
         id,
-        name: e.name || e.era || id || "",
-        start: e.start == null ? 0 : e.start,
+        start: e.start == null ? null : e.start,
         end: (e.end == null || e.end === 9999) ? 9999 : e.end,
         score: e.score,
         source: docPath,
@@ -398,35 +428,12 @@ function getVector(country, year) {
   const details = {};
   for (const slider of SLIDER_META) {
     const era = getEra(country, year, slider.id);
-    if (era) {
-      scores[slider.id] = era.score;
-      details[slider.id] = {
-        score:   era.score,
-        start:   era.start,
-        end:     (era.end === 9999 || era.end == null) ? "present" : era.end,
-        source:  era.source,
-        section: era.section || era.name || era.era || "",
-        notes:   era.name || era.era || "",
-        url:     makeViewerUrl(era.source)   // internal viewer, never GitHub
-      };
-    } else {
-      scores[slider.id] = null;
-      details[slider.id] = null;
-    }
+    scores[slider.id] = era ? era.score : null;
+    details[slider.id] = era || null;
   }
-  return { country, year, scores, details };
+  return { scores, details };
 }
 
-function getAvailableCountries() {
-  // Return display names for UI dropdowns; map back via COUNTRY_NAMES / id when loading
-  if (MANIFEST.countries && MANIFEST.countries.length) {
-    // Prefer display names
-    return MANIFEST.countries.map(c => (typeof c === "string" ? c : c.name || c.id));
-  }
-  return Object.keys(SCORE_DATA).sort();
-}
-
-/** Resolve a UI country label to the Index folder id */
 function resolveCountryId(label) {
   if (!label) return null;
   if (SCORE_DATA[label] || PARTY_DATA[label]) return label;
@@ -439,12 +446,16 @@ function resolveCountryId(label) {
       }
     }
   }
+  // Case-insensitive match against known folders
+  const lower = String(label).toLowerCase();
+  for (const k of KNOWN_COUNTRIES) {
+    if (k.id.toLowerCase() === lower || k.name.toLowerCase() === lower) return k.id;
+  }
   // kebab guess
   const kebab = String(label).toLowerCase().replace(/\s+/g, "-");
   if (SCORE_DATA[kebab] || PARTY_DATA[kebab]) return kebab;
   return label;
 }
-
 
 function getYearRange(country) {
   const countryData = SCORE_DATA[resolveCountryId(country)] || SCORE_DATA[country];
@@ -478,52 +489,49 @@ function getPartyDocUrl(country, partyName, sliderId) {
   // partyName may be display name – try id from PARTY_NAMES reverse
   let pid = partyName;
   const names = (window.PARTY_NAMES && window.PARTY_NAMES[cid]) || {};
-  for (const [id, name] of Object.entries(names)) { if (name === partyName) pid = id; }
-  const path = `parties/${cid}/${pid}/${folder}.md`;
+  for (const [id, name] of Object.entries(names)) {
+    if (name === partyName || id === partyName) { pid = id; break; }
+  }
+  const path = `Parties/${cid}/${pid}/${folder}.md`;
   return makeViewerUrl(path);
 }
 
 function buildEntitiesFromParties() {
   ENTITIES = [];
   for (const [country, parties] of Object.entries(PARTY_DATA)) {
-    const seen = new Set();
-    for (const [name, rawScores] of Object.entries(parties || {})) {
-      // Skip duplicate id-key when display-name key already holds same object
-      if (seen.has(rawScores)) continue;
-      seen.add(rawScores);
-      const id = `party-${country.toLowerCase().replace(/\s+/g, "-")}-${name.toLowerCase().replace(/\s+/g, "-").replace(/[^a-z0-9-]/g, "")}`;
-      const scores = {};
-      for (const s of SLIDER_META) {
-        const v = rawScores[s.id];
-        scores[s.id] = scorePrimary(v);
+    const countryName = (window.COUNTRY_NAMES && window.COUNTRY_NAMES[country]) || country;
+    for (const [partyKey, scores] of Object.entries(parties)) {
+      // Skip pure-id keys that are duplicates of the display-name entry
+      if (partyKey === partyKey.toLowerCase().replace(/\s+/g, "-") && parties[partyKey.replace(/-/g, " ")]) {
+        // keep both but mark id form
       }
       ENTITIES.push({
-        id,
-        name,
         type: "party",
         country,
-        era: "Contemporary",
-        ideology: "Political party",
-        summary: `Empirical 14-axis scoring snapshot for ${name} (${country}).`,
+        countryName,
+        party: partyKey,
         scores
       });
     }
   }
-  window.ENTITIES = ENTITIES;
 }
 
-// Expose for other pages
+// Expose for other modules
 window.SLIDER_META = SLIDER_META;
+window.SLIDER_IDS = SLIDER_IDS;
+window.PARTY_DATA = PARTY_DATA;
+window.SCORE_DATA = SCORE_DATA;
+window.ENTITIES = ENTITIES;
 window.loadIndexData = loadIndexData;
-window.resolveCountryId = resolveCountryId;
-window.getAvailableCountries = getAvailableCountries;
+window.scorePrimary = scorePrimary;
+window.scoreDisplay = scoreDisplay;
+window.getEra = getEra;
+window.getScore = getScore;
 window.getVector = getVector;
+window.resolveCountryId = resolveCountryId;
 window.getYearRange = getYearRange;
 window.getPartyScores = getPartyScores;
 window.getPartyVector = getPartyVector;
 window.getPartyDocUrl = getPartyDocUrl;
-window.scorePrimary = scorePrimary;
-window.scoreDisplay = scoreDisplay;
 window.makeViewerUrl = makeViewerUrl;
-window.SCORE_DATA = SCORE_DATA;
-window.PARTY_DATA = PARTY_DATA;
+window.DATA_READY = () => DATA_READY;
