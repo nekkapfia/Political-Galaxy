@@ -474,8 +474,27 @@ function applyDualScores(scoresLeft, scoresRight) {
     const pb = (typeof scorePrimary === "function") ? scorePrimary(vb) : (typeof vb === "number" ? vb : null);
     if (inpA) inpA.value = (pa != null && !isNaN(pa)) ? pa : 50;
     if (inpB) inpB.value = (pb != null && !isNaN(pb)) ? pb : 50;
-    if (valA) valA.textContent = (typeof scoreDisplay === "function") ? scoreDisplay(va) : (pa != null ? pa : "—");
-    if (valB) valB.textContent = (typeof scoreDisplay === "function") ? scoreDisplay(vb) : (pb != null ? pb : "—");
+    // Compact single-line label: "48" or "48*" (never "48 / 52") so compare cells stay one line
+    const fmt = (v, p) => {
+      if (typeof scoreDisplay === "function") return scoreDisplay(v);
+      return (p != null && !isNaN(p)) ? String(p) : "—";
+    };
+    if (valA) {
+      valA.textContent = fmt(va, pa);
+      valA.style.fontSize = "0.7rem";
+      valA.style.whiteSpace = "nowrap";
+      valA.title = (typeof va === "object" && va && (va.endos != null && va.xenos != null))
+        ? "endos " + va.endos + " / xenos " + va.xenos + " — toggle lens"
+        : "";
+    }
+    if (valB) {
+      valB.textContent = fmt(vb, pb);
+      valB.style.fontSize = "0.7rem";
+      valB.style.whiteSpace = "nowrap";
+      valB.title = (typeof vb === "object" && vb && (vb.endos != null && vb.xenos != null))
+        ? "endos " + vb.endos + " / xenos " + vb.xenos + " — toggle lens"
+        : "";
+    }
   });
 }
 

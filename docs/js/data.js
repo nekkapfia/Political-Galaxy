@@ -491,17 +491,30 @@ function scorePrimary(v) {
   return Number.isNaN(n) ? null : n;
 }
 
-/** Format score for display: "48" or "48 / 52" (endos / xenos) */
+/** Format score for display: single number; append * when an alternative (endos/xenos) exists.
+ *  Respects window.scoreLens ("endos" | "xenos") for which number is shown.
+ *  Examples: "48", "48*", "—"
+ */
 function scoreDisplay(v) {
   if (v == null) return "—";
   if (typeof v === "number") return String(v);
   if (typeof v === "object") {
     const e = (typeof v.endos === "number") ? v.endos : null;
     const x = (typeof v.xenos === "number") ? v.xenos : null;
-    if (e != null && x != null) return e + " / " + x;
-    if (e != null) return String(e);
-    if (x != null) return String(x);
-    if (typeof v.primary === "number") return String(v.primary);
+    const lens = (typeof window !== "undefined" && window.scoreLens) || "endos";
+    let primary = null;
+    let hasAlt = false;
+    if (lens === "xenos") {
+      primary = (x != null) ? x : e;
+      hasAlt = (x != null && e != null);
+    } else {
+      primary = (e != null) ? e : x;
+      hasAlt = (e != null && x != null);
+    }
+    if (primary == null && typeof v.primary === "number") primary = v.primary;
+    if (primary == null && typeof v.score === "number") primary = v.score;
+    if (primary == null) return "—";
+    return hasAlt ? (String(primary) + "*") : String(primary);
   }
   return "—";
 }
