@@ -397,21 +397,20 @@ function fillParty(id, country, cur) {
   const el = document.getElementById(id);
   if (!el) return;
   const cid = (typeof resolveCountryId === "function") ? resolveCountryId(country) : country;
-  // Prefer PARTY_NAMES for clean display list
-  let parties = [];
+  // Build unique list by display name
+  const byName = new Map();
   if (window.PARTY_NAMES && window.PARTY_NAMES[cid]) {
-    parties = Object.entries(window.PARTY_NAMES[cid]).map(([pid, name]) => ({ id: pid, name }));
-  } else {
-    const raw = (typeof getPartyScores === "function") ? getPartyScores(country) : (PARTY_DATA[cid] || PARTY_DATA[country] || {});
-    // Deduplicate: skip kebab ids if display name also present
-    const keys = Object.keys(raw);
-    const names = new Set();
-    for (const k of keys) {
-      if (k.includes("-") && keys.some(o => o !== k && raw[o] === raw[k])) continue;
-      names.add(k);
+    for (const [pid, name] of Object.entries(window.PARTY_NAMES[cid])) {
+      if (!byName.has(name)) byName.set(name, pid);
     }
-    parties = [...names].map(n => ({ id: n, name: n }));
+  } else {
+    const raw = (typeof getPartyScores === "function") ? getPartyScores(country) : ((window.PARTY_DATA && (window.PARTY_DATA[cid] || window.PARTY_DATA[country])) || {});
+    for (const k of Object.keys(raw)) {
+      if (!byName.has(k)) byName.set(k, k);
+    }
   }
+  const parties = [...byName.entries()].map(([name, pid]) => ({ id: pid, name }))
+    .sort((a, b) => a.name.localeCompare(b.name));
   el.innerHTML = `<option value="">— select party —</option>` +
     parties.map(p => `<option value="${p.name}" data-id="${p.id}" ${p.name===cur||p.id===cur?"selected":""}>${p.name}</option>`).join("");
 }

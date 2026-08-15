@@ -347,9 +347,8 @@ async function loadCountry(countryId, countryName) {
   }
 
   for (const party of partyList) {
+    // Single mapping: folder id → display name (do not also key by name — causes duplicate UI entries)
     window.PARTY_NAMES[countryId][party.id] = party.name;
-    // Also store under display name for UI lookups
-    window.PARTY_NAMES[countryId][party.name] = party.name;
 
     // The id in _index.json is usually lowercase kebab, but the real folder
     // on GitHub is Title-Case, acronym, or even contains spaces.
@@ -408,8 +407,7 @@ async function loadCountry(countryId, countryName) {
       const n = Number(value);
       if (!Number.isNaN(n)) normalized[id] = n;
     }
-    // Store under display name AND id so UI selects work either way
-    PARTY_DATA[countryId][party.name] = normalized;
+    // Store once under folder id; display name is looked up via PARTY_NAMES
     PARTY_DATA[countryId][party.id] = normalized;
   }
 
@@ -601,9 +599,18 @@ function getPartyScores(country) {
 }
 
 function getPartyVector(country, partyName) {
-  const parties = PARTY_DATA[resolveCountryId(country)] || PARTY_DATA[country];
-  if (!parties || !parties[partyName]) return null;
-  return parties[partyName];
+  const cid = resolveCountryId(country) || country;
+  const parties = PARTY_DATA[cid] || PARTY_DATA[country];
+  if (!parties) return null;
+  if (parties[partyName]) return parties[partyName];
+  // Resolve display name → folder id via PARTY_NAMES
+  const nameMap = (window.PARTY_NAMES && window.PARTY_NAMES[cid]) || {};
+  for (const [pid, pname] of Object.entries(nameMap)) {
+    if (pname === partyName || pid === partyName) {
+      if (parties[pid]) return parties[pid];
+    }
+  }
+  return null;
 }
 
 /** Viewer URL for a party-axis justification document */
@@ -631,21 +638,30 @@ function getPartyDocUrl(country, partyName, sliderId) {
 
 function buildEntitiesFromParties() {
   ENTITIES = [];
+  const seen = new Set();
   for (const [country, parties] of Object.entries(PARTY_DATA)) {
     const countryName = (window.COUNTRY_NAMES && window.COUNTRY_NAMES[country]) || country;
-    for (const [partyKey, scores] of Object.entries(parties)) {
-      // Skip pure-id keys that are duplicates of the display-name entry
-      if (partyKey === partyKey.toLowerCase().replace(/\s+/g, "-") && parties[partyKey.replace(/-/g, " ")]) {
-        // keep both but mark id form
-      }
+    const nameMap = (window.PARTY_NAMES && window.PARTY_NAMES[country]) || {};
+    for (const [partyId, scores] of Object.entries(parties)) {
+      const name = nameMap[partyId] || partyId;
+      const id = country + "::" + partyId;
+      if (seen.has(id)) continue;
+      seen.add(id);
       ENTITIES.push({
+        id,
+        name,
         type: "party",
         country,
         countryName,
-        party: partyKey,
+        party: partyId,
+        ideology: null,
         scores
       });
     }
+  }
+  window.ENTITIES = ENTITIES;
+  if (typeof buildGalaxyHierarchy === "function") {
+    try { buildGalaxyHierarchy(); } catch (e) { console.warn("galaxy hierarchy rebuild:", e); }
   }
 }
 
