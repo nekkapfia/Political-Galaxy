@@ -1,13 +1,20 @@
-## SPD – Final Score: 48
+# Cultural 2A: Germany – SPD
+## Individuality Analysis
+**Score: 36**
 
-The SPD maintains strong support for the existing group-based equality framework and has generally favoured its expansion.
+### Overview
+The SPD maintains strong support for the existing group-based equality framework and has generally favoured its expansion. Category membership remains a significant factor in institutional allocation. Residual baseline of group unit of measure: significant residual institutional practice organises rights, opportunities or moral standing around group membership rather than the individual alone.
 
-### Allocation Mechanisms – Expanded Analysis
+### Allocation Mechanisms
+* Strong support for the AGG and public-sector equality duties.
+* Backing for corporate gender quotas.
+* Support for the Selbstbestimmungsgesetz and further institutional recognition of identity categories.
+* View of group-based measures as legitimate and necessary instruments in allocation policy.
+* Continued treatment of group membership as a relevant factor in employment, education and representation rules.
+* Residual baseline of group unit of measure: significant residual institutional practice organises rights, opportunities or moral standing around group membership rather than the individual alone.
 
-- Strongly supports the AGG and public sector equality duties.
-- Backed the introduction of corporate gender quotas.
-- Supported reforms moving toward greater self-identification in gender recognition.
-- Views group-based measures as necessary to address structural disadvantage.
-- Continues to treat group membership as a relevant factor in allocation policy.
+### Expanded Analysis
+The party operates comfortably within a system that incorporates group membership as a significant and routine factor. Positive action, quotas, self-ID and related institutional practices keep category identity present in the allocation of rights and opportunities. Individual merit is formally recognised but is regularly balanced against, and often subordinated to, group-conscious rules. The pattern is strong group influence on allocation.
 
-The SPD operates comfortably within a framework that incorporates group membership as a significant factor in allocation. It has consistently supported legislative and institutional measures that allocate opportunities and protections partly on the basis of group identity. Individual merit is recognised but is regularly balanced against group equity considerations. This produces a high 40s score.
+### Why this produces a Final Score of 36
+Routine institutional use of category tools and support for their expansion place the SPD in the strong group-primacy band. Score 36.

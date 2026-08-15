@@ -1,17 +1,22 @@
-## Restore Britain
+# Cultural 4B: United Kingdom – Restore Britain
+## Equity Lens Analysis
+**Score: 20**
 
-**Brief Overview**  
-Restore Britain advocates a return to traditional merit-based and individual-responsibility frameworks, with strong opposition to identity-based equity policies and institutional DEI initiatives.
+### Overview
+Restore Britain treats group outcome gaps as compatible with equal opportunity and individual variance. Systemic-oppression explanations and equity interventions aimed at mandated equal outcomes are rejected in favour of strict equal treatment and personal responsibility. Residual baseline of rejection or absence of progressive equity lens: group outcome gaps are not treated as presumptive evidence of unfair opportunity; essentialist, hierarchical or pure individual-responsibility frames predominate.
 
-**Framework for Explaining and Addressing Group Disparities – Expanded Analysis**
-- Platforms emphasise restoring colour-blind meritocracy, scrapping diversity quotas and targets, and focusing on individual competence and effort.
-- Critique systemic explanations of disparities as divisive and advocate policy based on personal responsibility and equal opportunity.
-- Support basic legal equality protections but oppose expansive equity interventions, unconscious bias training, and outcome engineering.
-- Political positioning highlights backlash against peak equity-era policies and calls for rebalancing toward individual agency.
+### Relevant Policies / Elements
+* Explicit opposition to identity-based equity engineering, DEI programmes and group-preference policies.
+* Emphasis on individual merit, competence and equal treatment under law as the sole legitimate allocation framework.
+* Critique of institutional practices that treat group gaps as proof of unfair process requiring corrective preferences.
+* Support for colour-blind public policy and selection rules.
+* Rejection of soft equity tools (positive action, diversity targets) that move beyond pure non-discrimination.
+* Residual baseline of rejection or absence of progressive equity lens: group outcome gaps are not treated as presumptive evidence of unfair opportunity; essentialist, hierarchical or pure individual-responsibility frames predominate.
 
-This produces a very low score reflecting consistent prioritisation of individual-merit frameworks and active opposition to equity lens mechanisms.
+### Expanded Analysis
+The party sits firmly on the individual-merit side of the opportunity→outcome question. Gaps are not read as diagnostic of systemic unfairness; remedies that adjust selection or status by group identity are opposed. Soft equity infrastructure is to be removed rather than retained. This produces a very low score, slightly above absolute floor only because basic individual anti-discrimination principles remain accepted.
 
-**Why This Produces a Final Score of 25**  
-The Restore Britain score falls in the very low band because its positions consistently reject equity interventions in favour of strict individual merit, personal responsibility, and colour-blind allocation. This matches bands with primary individual frameworks, explicit barriers to group-based corrections, and institutional consequences for equity-style approaches.
+The placement is independent of Cultural 2A (unit of measure) and Cultural 3 (membership gates).
 
----
+### Why this produces a Final Score of 20
+Near-consistent prioritisation of individual merit and equal treatment under law, combined with active rejection of equity diagnostics and all group-preference interventions, matches the very-low equity-lens bands.

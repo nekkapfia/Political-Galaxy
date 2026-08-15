@@ -1,3 +1,10 @@
+# Cultural 1A: United States – Democratic Party
+## Foundation Analysis
+### Overview
+Party-level moral source pattern on this axis; faction scores nested below.
+
+**Score: 49**
+
 ## Democratic Party
 
 | Faction                                              | Final Score | Designation          |
@@ -12,7 +19,7 @@
 
 The Democratic Party positions itself as the defender of fairness, opportunity and inclusive progress within a constitutional framework. Its core aims are reducing inequality, expanding rights and opportunity, and demonstrating competent governance, while managing deep internal tensions between transformative justice currents and more managerial ones.
 
-#### Moral Justification
+#### Expanded Analysis
 * Justice, fairness and the moral imperative to expand opportunity and reduce inequality appear regularly and often function as higher-order moral requirements.
 * Evidence-based policy, economic outcomes, fiscal sustainability and governability remain central to the detailed defence of programmes.
 * Natural-rights and constitutional language is retained but frequently subordinated to progressive fairness and equity claims.
@@ -30,7 +37,7 @@ Both transcendent (justice and fairness as moral goods) and mundane (evidence, o
 
 This current treats systemic justice and the correction of structural inequalities as binding moral requirements. Its aim is transformative change pursued through the Democratic Party rather than pure outsider rupture.
 
-#### Moral Justification
+#### Expanded Analysis
 * Systemic justice and the moral imperative to correct structural inequalities are central.
 * Equity, inclusion and solidarity with marginalised groups are treated as binding moral requirements.
 * Existing economic and political arrangements are frequently criticised in moral terms.
@@ -49,7 +56,7 @@ Transcendent sources (systemic justice and equity as moral imperatives) carry su
 
 This current frames capitalism and concentrated economic power as fundamentally unjust systems requiring structural transformation. Its aim is economic rights, social ownership and solidarity as moral requirements.
 
-#### Moral Justification
+#### Expanded Analysis
 * Capitalism and concentrated economic power are treated as fundamentally unjust systems.
 * Economic rights, social ownership and solidarity are framed as moral requirements rather than policy preferences.
 * Class analysis and systemic critique supply a strong moral framework.
@@ -67,7 +74,7 @@ The transcendent source is stronger than in the broader Progressive Left because
 
 This current emphasises pragmatism, electability and workable governance. Fairness language is retained but tempered by feasibility and broader electoral appeal.
 
-#### Moral Justification
+#### Expanded Analysis
 * Pragmatism, electability and workable governance are central.
 * Fairness and opportunity language is retained but tempered by concerns about feasibility and broader appeal.
 * Evidence, outcomes and institutional stability carry substantial weight.
@@ -85,7 +92,7 @@ Mundane sources (pragmatism, evidence, outcomes, institutional stability) are st
 
 This current prioritises institutional stability, legislative effectiveness and protection of the party’s governing capacity.
 
-#### Moral Justification
+#### Expanded Analysis
 * Institutional stability and legislative effectiveness are central.
 * Moral and justice language is used but frequently subordinated to considerations of what can actually be passed and sustained.
 * Donor, organisational and coalition-management realities shape justificatory emphasis.

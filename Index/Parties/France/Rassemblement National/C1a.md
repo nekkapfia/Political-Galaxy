@@ -1,18 +1,20 @@
-## Rassemblement National
-**Final Score: 15**
+# Cultural 1A: France – Rassemblement National
+## Foundation Analysis
+**Score: 15**
 
-Rassemblement National presents itself as the party of national preference and restored French sovereignty. Its core aims are strict control of immigration, priority to French citizens in welfare, housing and employment, and the defence of French demographic and cultural continuity.
+### Overview
+The Rassemblement National grounds political legitimacy in the concrete interests, security and cultural continuity of the French people as a living demos. Immigration, national priority and institutional critique are justified through popular sovereignty and citizen interest. Transcendent sources are almost entirely absent from its organising moral grammar.
 
-#### Moral Justification
-* Immigration policy is justified by the right of the French people to decide who joins the national community and by the concrete costs imposed on housing, wages, security and services.
-* “Priorité nationale” and reciprocity (“the French first”) function as organising principles.
-* Elite, judicial and European constraints are criticised as overrides of democratic will and national interest.
-* Cultural and civilizational continuity is defended as the inheritance of the living French population rather than as sacred or natural-law authority.
-* Quantifiable benefits to current French citizens are central to justification.
+### Moral Justification – Relevant Elements
+* Immigration and border control justified by the right of the French people to decide who belongs and by protection of housing, wages, safety and services for existing citizens.
+* National identity defended as the living cultural and political inheritance of the French demos, not as sacred blood mystique or divine mission independent of preference.
+* Elite and European constraints criticised as overrides of democratic will and national interest.
+* Order, reciprocity and practical delivery treated as primary mundane obligations of government to citizens.
+* Residual republican and civilisational language appears as colour but does not function as higher law that binds the demos against its clear preference.
+* Electoral mandate and popular will as central legitimating sources.
 
-The language is demos-centred, reciprocal and anti-elite. Virtually every major claim is grounded in the concrete interests and democratic will of living French citizens. Higher-law or sacred claims are almost entirely absent. The party presents itself as the straightforward vehicle for the neglected interests of the French people against institutions that have ceased to prioritise them.
+### Expanded Analysis
+The RN organises justification through popular sovereignty and citizen interest. Hard trade-offs on immigration, identity and European integration are resolved by reference to what living French citizens want and what measurably serves national cohesion and security. Civilisational or republican vocabulary, where present, operates as rhetorical reinforcement of demos claims rather than as transcendent authority independent of consent. There is no organising ecological higher law, religious command, or closed ideological necessity. The pattern is extreme mundane lean, consistent with other European national-populist formations scored on operative sources rather than surface nationalist vocabulary.
 
-#### Why this produces a final score of 15
-The transcendent source is almost entirely absent. Moral authority is derived overwhelmingly from popular sovereignty and the concrete interests of living French citizens, producing an extremely strong mundane lean.
-
----
+### Why this produces a Final Score of 15
+The transcendent source is almost entirely absent. Moral authority derives overwhelmingly from popular sovereignty and the concrete interests of living French citizens. The score is 15.

@@ -1,15 +1,21 @@
-## SPD
-**Final Score: 48**
+# Cultural 1A: Germany – SPD
+## Foundation Analysis
+**Score: 48**
 
-The SPD presents itself as the party of social justice, solidarity and competent welfare-state management. Its core aims are fairness, social protection and stable governance.
+### Overview
+The SPD grounds political legitimacy in social justice, solidarity and competent social-democratic government within the constitutional order. Organising sources are mixed: fairness and solidarity claims carry moral weight alongside strongly mundane emphasis on delivery, institutions and electoral viability. Residual baseline of predominantly mundane justification: demotic, procedural, welfare or pragmatic sources organise legitimacy; transcendent frames are secondary or instrumental.
 
-#### Moral Justification
-* Inequality and social vulnerability are framed as problems of justice that government has a duty to address.
-* Public services and social protection are justified through fairness and practical solidarity.
-* Competence, evidence and coalition governance remain important.
-* Residual social-democratic moral language operates alongside strong managerial elements.
+### Moral Justification – Relevant Elements
+* Social justice and reduction of inequality framed as moral requirements of a decent society.
+* Public services and labour protection justified through solidarity and practical cohesion.
+* Constitutional and institutional continuity as governing framework.
+* Evidence, competence and electoral viability as central mundane sources.
+* Progressive social positions advanced through rights and evolving consensus.
+* No closed systemic higher law that regularly overrides democratic and institutional constraints.
+* Residual baseline of predominantly mundane justification: demotic, procedural, welfare or pragmatic sources organise legitimacy; transcendent frames are secondary or instrumental.
 
-The language is mixed. Justice and solidarity claims are real but operate alongside managerial and institutional constraints. The party presents itself as the responsible centre-left force capable of governing.
+### Expanded Analysis
+The SPD blends moralised solidarity with governing pragmatism. Equality and solidarity claims exceed pure preference yet remain embedded in constitutional social democracy and electoral delivery rather than elevated as closed systemic higher law of the hard-left type. The pattern is mixed, near the centre of the German spectrum.
 
-#### Why this produces a final score of 48
-Both transcendent (justice and solidarity) and mundane (competence, institutional continuity) sources are active, producing a mixed score.
+### Why this produces a Final Score of 48
+Fairness and solidarity provide moderate transcendent colour; competence and institutions keep the profile mixed. The score is 48.

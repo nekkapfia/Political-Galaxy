@@ -1,15 +1,21 @@
-## Liberal Democratic Party (LDPR)
-**Final Score: 19**
+# Cultural 1A: Russia – LDPR
+## Foundation Analysis
+**Score: 19**
 
-The LDPR emphasises nationalist popular sovereignty, great-power interest and defence of the Russian people and Russian world. Its core aims are a strong state, controlled migration, and assertion of Russian interests.
+### Overview
+The LDPR grounds political legitimacy in Russian national interest, strong state power and the concrete preferences of a nationalist demos. Organising sources are strongly mundane: national power, popular nationalism and practical sovereignty. Transcendent sacred or closed ideological higher law does not organise. Residual baseline of strongly mundane justification: legitimacy is organised through demotic procedure, welfare outcomes or pragmatic performance rather than higher-order ideological or sacred sources.
 
-#### Moral Justification
-* Nationalist popular sovereignty and the interests of the Russian people are central.
-* Great-power status and resistance to external weakness are organising themes.
-* Criticism of uncontrolled migration and defence of Russian cultural space appear regularly.
-* Higher civilizational or sacred claims are limited; the emphasis is on power, people and state.
+### Moral Justification – Relevant Elements
+* Russian national interest and great-power status as primary goods for the living state and population.
+* Strong state and order justified by security and cohesion of the living population.
+* Nationalist identity as political community preference rather than sacred blood mystique independent of power politics.
+* Opposition to liberal international constraints as defence of sovereignty and demos will.
+* Electoral and populist mobilisation as legitimating means.
+* No organising divine command, revolutionary historical necessity, or ecological higher law.
+* Residual baseline of strongly mundane justification: legitimacy is organised through demotic procedure, welfare outcomes or pragmatic performance rather than higher-order ideological or sacred sources.
 
-The language is nationalist, popular-sovereignty and state-power oriented. The party presents itself as a more assertive and nationally focused force within the managed system.
+### Expanded Analysis
+The LDPR organises justification through national interest and popular nationalism within a power-political frame. National identity functions as the boundary of the demos whose preference and strength matter, not as transcendent substance that would bind the leadership against pragmatic calculation. Liberal international norms are rejected as constraints on sovereignty and popular will, not as violations of sacred law. The pattern is strong mundane lean, consistent with other nationalist-populist formations scored on operative sources rather than surface nationalist vocabulary.
 
-#### Why this produces a final score of 19
-The transcendent source is limited. Moral authority is derived primarily from nationalist popular sovereignty and great-power interest, producing a strong mundane lean.
+### Why this produces a Final Score of 19
+Mundane national-interest and demos sources organise; transcendent weight is minimal. The score is 19.

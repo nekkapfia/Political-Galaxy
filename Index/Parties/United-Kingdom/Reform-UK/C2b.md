@@ -1,15 +1,20 @@
-## Reform – Final Score: 77
+# Cultural 2B: United Kingdom – Reform UK
+## National Pride Analysis
+**Score: 84**
 
-Reform articulates one of the strongest affirmative positions on British national identity. The party actively resists shame-based narratives and positions national pride as a legitimate and positive force.
+### Overview
+Reform UK treats national pride as the clear default and actively promotes a positive view of British history, continuity and symbols. Systematic shame or guilt frameworks are rejected as the organising public story. Residual baseline of strong national affirmation: symbols, education and commemorations treat national continuity and achievement as the default frame rather than an object of systematic critique.
 
-### Emotional and Cultural Stance – Expanded Analysis
+### Relevant Policies / Elements
+* Explicit rejection of guilt-culture framing of British history.
+* Curriculum and cultural policy positions orient to positive founding narratives and national historical continuity.
+* Defence of traditional national symbols and opposition to their removal or critical reinterpretation.
+* Rhetoric presents the nation as a legitimate source of personal and collective meaning.
+* Criticism of the nation’s past is treated as secondary or as a minority academic posture rather than the institutional default.
+* Residual baseline of strong national affirmation: symbols, education and commemorations treat national continuity and achievement as the default frame rather than an object of systematic critique.
 
-- Clear opposition to guilt-based interpretations of British history and resistance to decolonisation initiatives in education and culture.
-- Strong rhetorical defence of British achievements, symbols, and historical continuity.
-- Local government record of opposing measures that seek to critically reframe or remove national symbols and historical monuments.
-- Explicit framing of national pride as essential to social cohesion and national renewal.
-- Consistent pushback against what the party portrays as elite-driven shame narratives around British history.
+### Expanded Analysis
+Reform UK’s programme would shift education, commemorative practice and public symbolism firmly toward affirmative national continuity. It does not reach the extreme Glorification band because it does not treat all criticism as treason or demand the complete erasure of historical complexity. The score sits solidly in the Pride band: national pride is the clear default and shapes how the nation is presented.
 
-Reform has developed a coherent and unapologetic defence of national pride. Its positions and local record indicate that, if it gained significant power, it would actively promote affirmative narratives of British history and identity while resisting institutional efforts to impose shame or deconstruction.
-
----
+### Why this produces a Final Score of 84
+Locked preference for patriotic curriculum and rejection of organising shame narratives place Reform UK in the Pride band.

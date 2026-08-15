@@ -1,13 +1,20 @@
-## Restore Britain – Final Score: 76
+# Cultural 2A: United Kingdom – Restore Britain
+## Individuality Analysis
+**Score: 76**
 
-Restore Britain takes a strong position against group-based allocation mechanisms in employment, education, and institutional practice, but this is partially offset by its proposal to allocate a fundamental civic right according to ancestry and heritage.
+### Overview
+Restore Britain prioritises individual merit over progressive group-preference mechanisms in employment, education and institutional practice. A countervailing element appears in the use of ancestry and heritage criteria for core political rights, preventing a pure high-individualism placement. Residual baseline of individual unit of measure: rights, opportunities and moral standing are organised primarily around the individual rather than group membership.
 
-### Allocation Mechanisms – Expanded Analysis
+### Allocation Mechanisms
+* Explicit opposition to DEI structures, quotas and positive discrimination in public institutions and employment.
+* Support for removal of self-ID policies and restoration of biological sex as the basis for single-sex provisions.
+* Advocacy for merit-based allocation in hiring, promotion and public appointments.
+* Restriction of voting and candidacy rights so that foreign nationals lose both; framing of British political rights with reference to birth and heritage.
+* Rejection of intersectionality and related category frameworks in publicly funded institutions.
+* Residual baseline of individual unit of measure: rights, opportunities and moral standing are organised primarily around the individual rather than group membership.
 
-- Explicit opposition to DEI structures, quotas, and positive discrimination in public institutions and employment.
-- Support for the removal of self-ID policies and the restoration of biological sex as the basis for single-sex provisions.
-- Advocacy for merit-based allocation in hiring and promotion, rejecting identity-based preferences.
-- Proposal that voting rights should be restricted to “British People by Birth and Heritage,” introducing ancestry as a criterion for access to a core political right.
-- Framing of group-based equity mechanisms as distortions that undermine individual responsibility.
+### Expanded Analysis
+In ordinary domestic allocation domains the party restores the individual as the unit of measure and rejects group-identity preference systems. This produces a clear individualist pattern in employment, education and institutional governance. The introduction of ancestry and heritage as a criterion for political participation, however, reintroduces a group-based allocation rule at the level of the political community itself. The net result is predominantly individualist allocation with a significant, confined exception.
 
-Restore Britain demonstrates a clear preference for individual merit over group membership in the allocation of employment opportunities, institutional access, and legal protections. Its positions on DEI, positive discrimination, and self-ID align closely with an individualist approach to allocation. However, the party’s stated policy on voting rights introduces a significant group-based criterion (ancestry and heritage) for determining who may participate in the political system. While this proposal remains undeveloped in detail, it represents a deliberate departure from purely individualist criteria for the allocation of a fundamental right. The overall pattern is therefore one of strong individualism in most domestic allocation domains, qualified by a notable exception in the area of political participation.
+### Why this produces a Final Score of 76
+Strong dismantling of progressive category tools places the party in the predominantly individualist band; the ancestry/heritage element on political rights prevents entry into the high-individualism range. Score 76.

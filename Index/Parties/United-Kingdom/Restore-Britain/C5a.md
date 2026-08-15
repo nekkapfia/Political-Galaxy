@@ -1,15 +1,20 @@
-### Restore Britain
-**Brief Overview**  
-Restore Britain, associated with Rupert Lowe and the New Covenant framework, positions itself as a defender of earned citizenship, national sovereignty, traditional British identity, and reciprocal obligations between citizen and state. It explicitly advocates national service, cultural continuity, and strong preservation of inherited institutions and norms against progressive modernisation.
+# Cultural 5A: United Kingdom – Restore Britain
+## Tradition vs Progress Analysis
+**Score: 71**
 
-**Observable Patterns of Tradition Preservation versus Modernisation and Replacement – Expanded Analysis**
-- Platform centres on earned suffrage and citizenship through service or allegiance, directly reinforcing traditional reciprocal obligations and national membership transmission.
-- Strong emphasis on national service curriculum and restoration of traditional civic and cultural formation mechanisms.
-- Education and cultural policy proposals prioritise British history, heritage, and continuity over deconstruction or future-oriented reframing.
-- Family, community, and institutional policy supports traditional structures and generational transmission of norms.
-- Explicit critique of progressive institutional capture in media, education, and governance with calls for reversal in favour of unmodified traditional continuity.
+### Overview
+Restore Britain treats national membership, Christian cultural principles and conventional family integrity as requiring active defence against progressive institutional orthodoxy and demographic-cultural transformation.
 
-**Why This Produces a Final Score of 71**  
-Restore Britain produces a high-70s score because its observable platform and positioning systematically prioritise preservation and active restoration of traditional British norms, citizenship transmission, educational content, and institutional continuity. It offers concrete mechanisms (national service, earned citizenship, heritage-focused education) to reverse progressive transformation and frames unmodified traditional continuity as a core positive goal rather than something requiring justification or adaptation.
+### Cultural 5A Relevant Policies / Elements
+* Strict immigration and deportation programme treating national membership and cultural continuity as requiring active enforcement.
+* Restriction of working-age benefits and related entitlements to British citizens as the baseline for reciprocal social membership.
+* Stated aim of restoring Christian principles in public and cultural life alongside opposition to progressive institutional orthodoxy.
+* Family and community policy language prioritises independent family integrity and neighbourhood continuity over state-directed progressive social redesign.
+* Opposition to DEI frameworks in public institutions including the armed forces, and to progressive capture of state-funded cultural and media institutions.
+* Residual progressive settlement in education, family-status and public-sector transmission is targeted for reversal, not accepted as permanent default.
 
----
+### Expanded Analysis
+Restore Britain treats national membership and cultural continuity as enforceable institutional facts: strict immigration and deportation rules, benefits restricted to citizens, Christian principles asserted in public life, family and neighbourhood integrity prioritised over progressive social redesign, and opposition to DEI and progressive capture of state-funded cultural institutions. Domain hierarchy places institutional transmission of membership, family integrity and cultural orthodoxy first. The residual progressive settlement is not conserved—it is the object of systematic challenge. Traditional transmission—who belongs, what the cultural default is, which social forms the state underwrites—is actively reasserted against progressive redesign. Material heritage is secondary to membership, family and institutional orthodoxy.
+
+### Why this produces a Final Score of 71
+Active enforcement of national membership and cultural continuity, Christian principles in public life, conventional family integrity, and opposition to DEI and progressive institutional capture place Restore Britain in the mid-high band (66–79). Residual progressive settlement is challenged as the problem. Contested mid placement would understate the programme's treatment of traditional transmission as requiring active institutional defence in primary domains.

@@ -1,15 +1,19 @@
-## Liberal Democrats – Final Score: 29
+# Cultural 2B: United Kingdom – Liberal Democrats
+## National Pride Analysis
+**Score: 44**
 
-The Liberal Democrats maintain one of the more consistently negative stances toward traditional British national pride. They have shown willingness to constrain public displays of national identity where they have held power.
+### Overview
+The Liberal Democrats treat traditional British national pride as problematic or secondary. Critical and internationalist frames receive stronger institutional support than affirmative national continuity. Residual baseline of predominantly critical national framing: traditional pride is limited or heavily qualified; critical and atonement narratives carry substantial institutional weight.
 
-### Emotional and Cultural Stance – Expanded Analysis
+### Relevant Policies / Elements
+* Education and cultural policy language that prioritises critical engagement with empire and historical injustice.
+* National symbols and rituals given reduced emotional weight relative to cosmopolitan or rights-based frames.
+* Local Liberal Democrat administrations have at times restricted or critically framed displays of national symbols.
+* Pride language, when used, is typically thin, constitutional or European rather than rooted in longer national history.
+* Residual baseline of predominantly critical national framing: traditional pride is limited or heavily qualified; critical and atonement narratives carry substantial institutional weight.
 
-- In areas of local government control, Liberal Democrat administrations have attempted to restrict flag flying and expressed discomfort with prominent displays of the national flag.
-- Rhetoric routinely qualifies national pride with internationalist and critical framing.
-- Support for critical reinterpretation of historical symbols through plaques and contextualisation.
-- Comparative framing that sometimes presents other European countries as more progressive models.
-- Limited enthusiasm for traditional national commemorations as sources of collective pride.
+### Expanded Analysis
+The party’s cultural orientation is more critical than affirmative. Traditional national identity is not celebrated as a primary source of meaning; it is managed, qualified or subordinated to other values. The score sits in the Negative band, reflecting the dominance of critical perspectives and the limited space given to traditional national pride.
 
-The Liberal Democrats treat traditional national pride as something requiring restraint and qualification. Their local government record demonstrates a willingness to use institutional mechanisms to limit everyday expressions of national identity, particularly through restrictions on flag flying. This pattern suggests they would continue to de-centre and constrain traditional national pride if they gained greater power.
-
----
+### Why this produces a Final Score of 44
+Critical and qualified treatment of traditional national identity, with limited affirmative content, places the Liberal Democrats in the Negative band.

@@ -1,17 +1,21 @@
-## FDP
-**Final Score: 29**
+# Cultural 1A: Germany – FDP
+## Foundation Analysis
+**Score: 29**
 
-The FDP centres individual liberty, market mechanisms, fiscal responsibility and civil rights. Its core aim is to maximise personal autonomy and economic dynamism within a liberal constitutional order.
+### Overview
+The FDP grounds political legitimacy in individual liberty, market outcomes, evidence-based policy and limited government. Organising sources are strongly mundane: personal agency, empirical results and procedural rights. Transcendent higher-law claims do not organise hard trade-offs. Residual baseline of strongly mundane justification: legitimacy is organised through demotic procedure, welfare outcomes or pragmatic performance rather than higher-order ideological or sacred sources.
 
-#### Moral Justification
-* Individual liberty and personal autonomy are treated as fundamental.
-* Market outcomes and limited government are justified by both principle and empirical results.
-* Evidence, competence and fiscal responsibility are central.
-* Rights language is operationalised through consent, procedure and non-interference.
+### Moral Justification – Relevant Elements
+* Individual freedom and market competition justified through personal agency and observable prosperity outcomes.
+* Limited government as protection of liberty and practical efficiency.
+* Evidence, competence and fiscal responsibility as central legitimating sources.
+* Rights language primarily procedural and consent-based rather than higher-law natural rights as demos-override.
+* Progressive and conservative cultural projects both resisted where they expand state moral enforcement.
+* Electoral mandate and delivery as constraints.
+* Residual baseline of strongly mundane justification: legitimacy is organised through demotic procedure, welfare outcomes or pragmatic performance rather than higher-order ideological or sacred sources.
 
-The language is individualist, evidence-oriented and anti-statist. The party presents itself as the defender of personal and economic freedom against both progressive moralism and populist majoritarianism.
+### Expanded Analysis
+The FDP organises justification through individual agency, market outcomes and procedural liberalism. Rights are real but operationalised through consent and non-interference rather than as transcendent natural law that could impose comprehensive moral ends on unwilling persons or majorities. Cultural enforcement projects from left or right are resisted on liberty and competence grounds. Hard trade-offs resolve by reference to freedom, evidence and delivery, not by higher-order duties independent of consent. The pattern is clear mundane lean, consistent with classical-liberal parties across the set.
 
-#### Why this produces a final score of 29
-Mundane sources (individual agency, market outcomes, evidence, procedural rights) are primary. Residual rights language does not rise to independent higher-law status.
-
----
+### Why this produces a Final Score of 29
+Mundane sources—agency, outcomes, competence, procedural liberty—organise. Transcendent weight is minimal. The score is 29.

@@ -1,1 +1,7 @@
-
+{
+  "parties": [
+    { "id": "kprf", "name": "KPRF" },
+    { "id": "ldpr", "name": "LDPR" },
+    { "id": "united-russia", "name": "United Russia" }
+  ]
+}

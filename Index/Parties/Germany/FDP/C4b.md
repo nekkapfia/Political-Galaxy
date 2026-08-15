@@ -1,17 +1,19 @@
-## FDP (Free Democratic Party)
+# Cultural 4B: Germany – FDP
+## Equity Lens Analysis
+**Score: 36**
 
-**Brief Overview**  
-The FDP prioritizes individual liberty, merit, and market mechanisms, supporting anti-discrimination law while opposing expansive group-based equity interventions.
+### Overview
+The FDP prioritises individual liberty, merit and equal treatment. Group outcome gaps are treated as compatible with equal opportunity; expansive equity interventions and outcome mandates are opposed.
 
-**Framework for Explaining and Addressing Group Disparities – Expanded Analysis**
-- Advocate color-blind equality before the law, strong property and contract rights, and integration through individual effort and economic opportunity.
-- Support AGG in principle but criticize over-regulation; favor voluntary diversity over quotas where possible.
-- Emphasize skilled migration, education reform, and personal responsibility as primary solutions to outcome gaps.
-- Oppose self-ID expansions and identity-based policies that conflict with liberal individualist principles.
+### Relevant Policies / Elements
+* Support for the AGG in principle as equal-treatment law, while criticising over-regulation and group-preference expansions.
+* Emphasis on individual effort, education reform and market opportunity as primary responses to disparities.
+* Opposition to hard quotas and identity-based preferences that conflict with liberal individualist principles.
+* Preference for voluntary diversity approaches over mandated equity.
+* Colour-blind equality before the law as the baseline.
 
-This produces a low-mid score reflecting consistent merit and individual agency focus with limited support for equity mechanisms beyond basic legal equality.
+### Expanded Analysis
+The party sits on the individual-merit side of the opportunity→outcome question. Soft equity tools are tolerated only in limited form; hard outcome engineering is rejected. Residual acceptance of core anti-discrimination law prevents a lower floor. This placement is independent of Cultural 2A (unit of measure) and Cultural 3 (membership gates).
 
-**Why This Produces a Final Score of 38**  
-The FDP score sits in the low-mid band because the party supports core legal equality (AGG) while prioritising individual liberty, merit, voluntary approaches, and opposition to expansive equity or identity-based interventions. This aligns with bands featuring primary individual frameworks with equity corrections subject to significant constraint or scrutiny.
-
----
+### Why this produces a Final Score of 36
+Primary emphasis on individual merit, equal treatment and voluntary approaches, combined with opposition to expansive equity interventions and hard quotas, produces a low-mid score on the equity lens.

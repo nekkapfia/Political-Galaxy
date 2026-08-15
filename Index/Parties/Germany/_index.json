@@ -1,7 +1,11 @@
 {
   "parties": [
+    { "id": "afd", "name": "AfD" },
+    { "id": "bsw", "name": "BSW" },
+    { "id": "cdu-csu", "name": "CDU/CSU" },
     { "id": "die-gruenen", "name": "Die Grünen" },
     { "id": "die-linke", "name": "Die Linke" },
+    { "id": "fdp", "name": "FDP" },
     { "id": "spd", "name": "SPD" }
   ]
 }

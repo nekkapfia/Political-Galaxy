@@ -1,15 +1,20 @@
-## Restore Britain – Final Score: 84
+# Cultural 2B: United Kingdom – Restore Britain
+## National Pride Analysis
+**Score: 88**
 
-Restore Britain holds the most explicitly affirmative stance on British national identity among the six parties. It treats national pride as legitimate and necessary, and frames the defence of traditional British identity as a central political objective.
+### Overview
+Restore Britain elevates national achievement, continuity and traditional identity as central. Systematic shame frameworks are rejected; national pride is treated as the proper emotional and cultural default. Residual baseline of strong national affirmation: symbols, education and commemorations treat national continuity and achievement as the default frame rather than an object of systematic critique.
 
-### Emotional and Cultural Stance – Expanded Analysis
+### Relevant Policies / Elements
+* Strong affirmative stance toward British history, symbols and founding myths.
+* Curriculum and cultural policy would prioritise continuity and positive national narrative.
+* Rejection of guilt-culture organising frames in education and public life.
+* Defence of traditional national symbols and commemorations without critical overlays as the default.
+* Criticism of the nation’s past is viewed as secondary and, in stronger formulations, as unpatriotic.
+* Residual baseline of strong national affirmation: symbols, education and commemorations treat national continuity and achievement as the default frame rather than an object of systematic critique.
 
-- Explicit rhetorical defence of the right to be proud of being British without apology.
-- Strong emphasis on generational continuity, national stewardship, and the value of traditional British culture and identity.
-- Clear opposition to shame-based and decolonisation approaches in education and public institutions.
-- Active resistance to measures that seek to critically reframe or diminish British history and symbols.
-- Framing of large-scale demographic and cultural change as a threat to national continuity and identity.
+### Expanded Analysis
+Restore Britain sits at the upper end of the Pride band. Its programme treats the nation itself as a primary source of legitimacy and meaning. While it does not reach the absolute Glorification pole (which requires treating any national action as inherently justified), it comes closer than almost any other contemporary British party. The score reflects a coherent and forceful affirmation of traditional national identity.
 
-Restore Britain has developed the clearest and most consistent defence of national pride and historical continuity. Its rhetoric and emerging local activity indicate that, if it gained national power, it would actively promote national pride, protect traditional symbols and historical narratives, and resist institutional shame-oriented policies more robustly than any of the other major parties.
-
----
+### Why this produces a Final Score of 88
+Clear default of national pride, rejection of organising shame narratives, and affirmative treatment of longer national history place Restore Britain high in the Pride band.

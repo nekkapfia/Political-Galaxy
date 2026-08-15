@@ -1,8 +1,11 @@
-# Labour Party
+# Cultural 1A: United Kingdom â€“ Labour Party
+## Foundation Analysis
+**Score: 52**
 
+### Overview
 Labour presents itself as the party of justice, fairness, competence, and national renewal. Its core aims are reducing inequality, delivering effective public services, and restoring trust in government, while managing the tensions between its more radical and more managerial wings.
 
-### Moral Justification
+### Expanded Analysis
 
 * Inequality and poverty are frequently framed as injustices that government has a moral duty to correct.
 * Public services and economic policy are justified both through fairness claims and through the practical capacity to deliver results.
@@ -33,7 +36,7 @@ Labour is shaped by a live contest between its Soft Left (stronger justice langu
 
 The Soft Left treats social justice, fairness, and the reduction of inequality as substantive moral requirements. It seeks transformative but electorally viable change rather than pure managerialism or maximalist rupture.
 
-### Moral Justification
+### Expanded Analysis
 
 * Reducing inequality and expanding fairness are presented as moral duties, not optional policy preferences.
 * Solidarity with the disadvantaged carries independent moral weight.
@@ -51,7 +54,7 @@ Justice-based transcendent claims are organising for this faction, while mundane
 
 This current emphasises competence, delivery, fiscal responsibility, and evidence-based government. Its aim is to prove that Labour can govern effectively and responsibly.
 
-### Moral Justification
+### Expanded Analysis
 
 * Political legitimacy is grounded primarily in the capacity to deliver measurable results and maintain economic stability.
 * Evidence, fiscal limits, and administrative feasibility are treated as hard constraints.
@@ -69,7 +72,7 @@ Mundane sources (competence, evidence, delivery) are stronger than on the partyâ
 
 This current frames capitalism and concentrated economic power as fundamentally unjust. Its aim is structural economic transformation through public ownership, redistribution, and the prioritisation of social need over private profit.
 
-### Moral Justification
+### Expanded Analysis
 
 * The existing economic order is criticised as systemically unjust rather than merely inefficient.
 * Public ownership and radical redistribution are presented as moral requirements of justice.
@@ -87,7 +90,7 @@ The transcendent (systemic justice) source is significantly stronger than in the
 
 Blue Labour combines economic justice concerns with emphasis on community, belonging, work, and the cultural interests of working-class voters. It seeks a Labour politics rooted in particular places and traditions rather than pure universalist progressivism.
 
-### Moral Justification
+### Expanded Analysis
 
 * The cultural and communal attachments of working-class communities are given independent moral weight.
 * Work, contribution, and reciprocity are treated as central goods.

@@ -1,17 +1,20 @@
-## Liberal Democrats
+# Cultural 4B: United Kingdom – Liberal Democrats
+## Equity Lens Analysis
+**Score: 64**
 
-**Brief Overview**  
-The Liberal Democrats have consistently supported strong equality legislation and institutional measures to address disparities while emphasising individual rights and opportunity.
+### Overview
+The Liberal Democrats support the existing Equality Act framework and soft equity tools while maintaining a commitment to individual opportunity and liberal equality principles. Group gaps are acknowledged as partly structural; remedies remain predominantly procedural and positive-action based rather than hard outcome mandates. Residual baseline of mixed or selective equity framing: progressive gap diagnostics coexist with residual individual-responsibility or cultural explanations.
 
-**Framework for Explaining and Addressing Group Disparities – Expanded Analysis**
-- Long-standing support for Equality Act consolidation, PSED, and positive action within legal limits.
-- Advocate enhanced data collection, targets for representation in public life, and measures to address under-representation.
-- Balance systemic analysis with strong commitment to individual liberty and evidence-based policy.
-- Generally favour expanding opportunity and transparency mechanisms over hard outcome mandates.
+### Relevant Policies / Elements
+* Defence of the Equality Act and Public Sector Equality Duty.
+* Support for diversity, positive action and widening participation within liberal constraints.
+* Platform language that combines anti-discrimination commitments with individual rights and opportunity.
+* Opposition to both pure colour-blind denial of group patterns and hard quota systems that override individual assessment.
+* Emphasis on education, skills and equal treatment as primary routes to better outcomes.
+* Residual baseline of mixed or selective equity framing: progressive gap diagnostics coexist with residual individual-responsibility or cultural explanations.
 
-This produces a mid score reflecting solid support for equity mechanisms alongside liberal emphasis on individual agency.
+### Expanded Analysis
+The party occupies a contested mid-high position. It accepts a moderated gap-as-proof reading sufficient to justify soft equity infrastructure, yet retains substantial individual-opportunity and liberal-merit language. Hard binding quotas are not central. Soft mechanisms (due regard, positive action, transparency, diversity goals) predominate. This placement is independent of Cultural 2A (unit of measure) and Cultural 3 (membership gates).
 
-**Why This Produces a Final Score of 62**  
-The Liberal Democrat score sits in the mid contested band because the party supports PSED, transparency tools, and positive action within legal bounds while maintaining a strong liberal commitment to individual rights and evidence-based opportunity expansion. This produces a balanced but contested position with visible equity infrastructure alongside prominent individual-merit and equal-treatment principles.
-
----
+### Why this produces a Final Score of 64
+Support for soft equity tools and a partial structural reading of gaps, combined with continued emphasis on individual opportunity and the absence of hard outcome mandates, places the Liberal Democrats in the mid-high contested band.

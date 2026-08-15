@@ -1,14 +1,20 @@
-## Liberal Democrats – Final Score: 38
+# Cultural 2A: United Kingdom – Liberal Democrats
+## Individuality Analysis
+**Score: 42**
 
-The Liberal Democrats support allocation mechanisms that allow self-identified group membership to determine access to rights and provisions in significant areas of law and policy.
+### Overview
+The Liberal Democrats support mechanisms that allow self-identified group membership to determine access to rights and provisions in significant areas of law and policy, while retaining a broader liberal individual-rights vocabulary. Residual baseline of group unit of measure: significant residual institutional practice organises rights, opportunities or moral standing around group membership rather than the individual alone.
 
-### Allocation Mechanisms – Expanded Analysis
+### Allocation Mechanisms
+* Support for self-identification in gender recognition processes.
+* Preference for self-identified gender over biological sex in access to single-sex spaces and services.
+* Maintenance of frameworks treating protected characteristics as a basis for differential rights and institutional arrangements.
+* Ongoing support for diversity measures that incorporate group identity into institutional decisions.
+* Opposition to reforms that would restrict the role of self-identified gender in legal and institutional allocation.
+* Residual baseline of group unit of measure: significant residual institutional practice organises rights, opportunities or moral standing around group membership rather than the individual alone.
 
-- Support for self-identification in gender recognition processes, enabling self-identified group membership to override biological criteria for access to single-sex spaces and services.
-- Maintenance of frameworks that treat protected characteristics as a basis for differential rights and institutional arrangements.
-- Historical and ongoing support for diversity measures that incorporate group identity into institutional decision-making.
-- Opposition to reforms that would restrict the role of self-identified gender in legal and institutional allocation.
+### Expanded Analysis
+The party creates recurring instances in which group membership functions as the determining factor in allocation. Self-ID policies subordinate individual biological characteristics to self-declared category, while diversity frameworks keep group identity institutionally relevant. Individual rights language remains present, but in the contested domains that define this slider the decisive pattern is the elevation of group identity over pure person-unit criteria. The result is significant group-based allocation.
 
-The Liberal Democrats have consistently supported mechanisms that allocate access to rights, spaces, and legal status according to self-identified group membership rather than individual biological characteristics or merit-based criteria. This approach subordinates individual attributes to group identity in areas such as single-sex provisions and legal recognition. While the party also supports individual rights in other contexts, its positions on gender and identity create clear and recurring instances in which group membership functions as the determining factor in allocation.
-
----
+### Why this produces a Final Score of 42
+Self-ID allocation of access and status, combined with continued institutional use of protected-characteristic frameworks, places the Liberal Democrats in the significant group-based allocation band. Score 42.

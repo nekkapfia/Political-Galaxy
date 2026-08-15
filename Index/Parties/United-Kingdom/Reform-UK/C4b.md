@@ -1,17 +1,21 @@
-## Reform UK
+# Cultural 4B: United Kingdom – Reform UK
+## Equity Lens Analysis
+**Score: 22**
 
-**Brief Overview**  
-Reform UK explicitly rejects expansive equity and DEI frameworks, advocating colour-blind meritocracy, individual responsibility, and reduction of identity-based policies.
+### Overview
+Reform UK rejects the progressive equity lens. Unequal group outcomes are treated as compatible with equal opportunity; gaps are explained by individual, cultural, family and behavioural factors rather than systemic oppression requiring group-outcome engineering. Colour-blind merit and equal treatment are primary.
 
-**Framework for Explaining and Addressing Group Disparities – Expanded Analysis**
-- Platform calls for repeal or major reform of elements of the Equality Act and PSED perceived as promoting division or reverse discrimination.
-- Emphasises that disparities are best addressed through economic growth, education reform, family policy, and strict merit-based selection.
-- Strongly critiques systemic racism narratives and institutional DEI programmes as counterproductive and divisive.
-- Supports basic anti-discrimination law protecting individuals but opposes group-based equity engineering.
+### Relevant Policies / Elements
+* Explicit calls for reform or repeal of elements of the Equality Act and Public Sector Equality Duty perceived as promoting division or reverse discrimination.
+* Platform emphasis on individual responsibility, economic growth, education reform and family policy as the proper responses to outcome disparities.
+* Strong critique of systemic-racism narratives and institutional DEI programmes as counterproductive.
+* Support for basic anti-discrimination law protecting individuals from direct discrimination, while opposing group-based equity preferences and outcome mandates.
+* Advocacy of colour-blind selection in public appointments, education and employment.
 
-This produces a very low score reflecting near-consistent prioritisation of individual-merit and equal-opportunity frameworks with active opposition to equity lens interventions.
+### Expanded Analysis
+The party locks the opposite of the gap-as-proof diagnostic: persistent group differences under formal equality of opportunity are not treated as automatic evidence of unfair process. Hard equity mechanisms are rejected; soft equity infrastructure is to be dismantled or heavily constrained. Individual merit and equal treatment are presented as the legitimate framework.
 
-**Why This Produces a Final Score of 22**  
-The Reform UK score is placed in the very low band because the party’s platform and positions consistently promote individual merit, colour-blind selection, and active dismantling or reform of equity mechanisms in favour of strict equal-treatment and personal responsibility frameworks. This aligns with bands featuring strong enforcement of individual merit with equity corrections subject to prohibition or severe restriction.
+This produces a low score. Residual acceptance of basic individual anti-discrimination protections prevents an absolute floor. The placement is independent of Cultural 2A (unit of measure) and Cultural 3 (membership gates).
 
----
+### Why this produces a Final Score of 22
+Consistent rejection of the systemic gap-as-proof diagnostic, opposition to DEI and identity-based preferences, and prioritisation of colour-blind merit and individual responsibility align with the low equity-lens bands.

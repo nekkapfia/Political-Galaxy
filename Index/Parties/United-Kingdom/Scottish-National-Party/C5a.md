@@ -1,17 +1,21 @@
-### SNP
-**Brief Overview**  
-The Scottish National Party combines strong Scottish national identity and cultural distinctiveness with progressive social and constitutional modernisation. Tradition is selectively preserved when it serves national identity goals and reformed when it conflicts with progressive objectives.
+# Cultural 5A: United Kingdom – Scottish National Party
+## Tradition vs Progress Analysis
+**Score: 35**
 
-**Observable Patterns of Tradition Preservation versus Modernisation and Replacement – Expanded Analysis**
-- Strong emphasis on Scottish historical and cultural heritage as part of national identity project.
-- Education and social policy align with progressive UK-wide trends (gender, family, inclusion).
-- Constitutional project seeks to replace inherited UK structures with new Scottish institutions.
-- Family and welfare policy follows modernised frameworks.
-- Heritage protection operates alongside strong requirements for institutions to adapt to contemporary progressive norms.
+### Overview
+The SNP cultivates Scottish historical and linguistic heritage for the national project while aligning education, family and status rules with progressive UK-wide norms.
 
-**Why This Produces a Final Score of 35**  
-The SNP sits in the mid-30s because it selectively preserves Scottish-specific traditions and heritage for national identity purposes while pursuing systematic progressive modernisation in education, family, gender, and institutional domains. The net effect is a progressive-dominant framework with a national-cultural overlay that does not fundamentally alter the transformation direction.
+### Cultural 5A Relevant Policies / Elements
+* Scottish historical and linguistic heritage used as content for the national project while education, family and status rules align with progressive UK-wide norms.
+* Constitutional replacement of UK structures framed as break with inherited institutional continuity.
+* Progressive positions on gender recognition, family status and education content retained alongside cultural-national distinctiveness.
+* Traditional forms prioritised when they serve national distinctiveness; subordinated when they conflict with progressive gender, family or inclusion frameworks.
+* Residual progressive settlement on family-status and gender frameworks is accepted and extended; continuity is selective and national-project-oriented.
+* Education content combines Scottish narrative emphasis with progressive framing on status and inclusion questions.
 
----
+### Expanded Analysis
+The SNP preserves Scottish historical and linguistic heritage as fuel for the national project while primary transmission domains on family status and gender recognition track progressive UK-wide norms. Constitutional rupture with UK structures is itself a break with inherited institutional continuity. Traditional forms are instrumental to national distinctiveness when useful, dispensable when they conflict with progressive frameworks. The residual progressive settlement on family-status and gender frameworks is accepted and extended rather than reversed. Domain hierarchy shows progressive primacy in family-status and gender rules, selective continuity in Scottish narrative and language, and institutional redesign aimed at constitutional break. Net pattern is progressive-dominant with a national-cultural overlay—not mid-range comprehensive traditional baseline protection.
 
-**End of Cultural 5A Timeline: Britain 1945–2026**
+
+### Why this produces a Final Score of 35
+Scottish heritage cultivated for the national project alongside progressive alignment on gender recognition, family status and education content, plus constitutional break with inherited UK continuity, place the SNP in the low 31–40 band. Progressive trajectory dominates high-weight family and status domains; national-cultural continuity does not outweigh that primacy.

@@ -1,13 +1,19 @@
-## CDU/CSU – Final Score: 58
+# Cultural 2A: Germany – CDU/CSU
+## Individuality Analysis
+**Score: 60**
 
-The CDU/CSU maintains the existing group-based legal framework while showing greater caution toward further expansion, particularly regarding gender self-identification.
+### Overview
+The Union maintains the existing group-based legal framework while showing greater caution toward further expansion, particularly on gender self-identification. Individual merit remains a formal principle but coexists with residual category tools.
 
-### Allocation Mechanisms – Expanded Analysis
+### Allocation Mechanisms
+* Acceptance of the AGG and existing anti-discrimination law as baseline.
+* Acceptance of corporate gender quotas but resistance to their significant expansion.
+* Platform positions favouring revision or restriction of the Selbstbestimmungsgesetz.
+* Emphasis on biological sex in contested areas such as sports and prisons.
+* Preference for individual merit as the primary principle while retaining some group-based protections.
 
-- Supports the continuation of the AGG and existing anti-discrimination law.
-- Has accepted corporate gender quotas but resisted their significant expansion.
-- Opposed full self-ID reforms and emphasised biological sex in areas such as sports and prisons.
-- Generally favours individual merit as the primary principle in employment and education, while accepting some group-based protections.
-- Shows increasing internal debate over the appropriate scope of diversity policies.
+### Expanded Analysis
+The party operates inside the post-2006 equality architecture but has become more resistant to extending group membership as a basis for allocation. Its stance on the self-ID law and reluctance to expand quotas indicate a partial reassertion of individual and biological criteria. Category tools remain in place rather than being eliminated. The overall pattern is moderate individualism with routine residual group-based allocation.
 
-The CDU/CSU operates within the group-based legal architecture established since 2006 but has become more resistant to further expansion of self-identified group membership as a basis for allocation. It continues to support formal equality protections while placing greater emphasis on individual merit and biological criteria in contested areas. This produces a mid-to-high 50s score.
+### Why this produces a Final Score of 60
+Person-default residual combined with retained category tools and only partial rollback of self-ID expansion place the CDU/CSU at the boundary of the moderate and predominantly individualist bands. Score 60.

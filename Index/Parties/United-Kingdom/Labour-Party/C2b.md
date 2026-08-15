@@ -1,15 +1,20 @@
-## Labour – Final Score: 33
+# Cultural 2B: United Kingdom – Labour Party
+## National Pride Analysis
+**Score: 42**
 
-Labour displays a shame-leaning but pragmatically mixed stance toward British national identity. While the current leadership has made efforts to express positive patriotism, the party’s broader record and internal dynamics reveal significant discomfort with traditional expressions of national pride.
+### Overview
+Labour maintains a predominantly critical and qualified stance toward traditional British national identity. Pride is permitted in limited progressive or post-war social achievements but is secondary to narratives of historical injustice and the need for ongoing repair. Residual baseline of predominantly critical national framing: traditional pride is limited or heavily qualified; critical and atonement narratives carry substantial institutional weight.
 
-### Emotional and Cultural Stance – Expanded Analysis
+### Relevant Policies / Elements
+* Education and cultural framing that give substantial weight to empire, slavery and structural injustice.
+* National symbols and history treated with caution; affirmative patriotism often qualified by references to past wrongs.
+* Institutional comfort with critical reinterpretation of statues, place names and commemorations.
+* Rhetoric of patriotism exists but is routinely paired with “but we must acknowledge…” constructions.
+* Local Labour administrations have supported or tolerated critical plaque and renaming initiatives.
+* Residual baseline of predominantly critical national framing: traditional pride is limited or heavily qualified; critical and atonement narratives carry substantial institutional weight.
 
-- Current leadership has made efforts to express pride in British identity and symbols, but these statements are frequently accompanied by qualifying language about historical wrongs.
-- In local government and activist spaces, Labour has often supported critical approaches to statues and historical commemoration.
-- Significant internal pressure within the party continues to favour decolonisation and critical reframing of British history.
-- National government record shows reluctance to strongly champion everyday national pride or to challenge shame-oriented cultural trends.
-- Policy approaches have tended to favour inclusive and internationalist framings over assertive national identity.
+### Expanded Analysis
+Labour does not seek the systematic erasure of national identity, yet it does not treat traditional national pride as the default or as a primary source of collective meaning. Critical perspectives predominate in the institutional and educational domains the party influences. The score therefore sits in the Negative band: pride is limited, heavily qualified and secondary to atonement-oriented narratives.
 
-Labour has struggled to develop a coherent affirmative position on national pride. While it has avoided the most extreme shame-oriented policies, its overall direction and internal dynamics indicate greater comfort with critical and qualified approaches to British history and identity than with confident national affirmation.
-
----
+### Why this produces a Final Score of 42
+Predominance of critical and qualified frames over affirmative traditional national pride places Labour in the Negative band.

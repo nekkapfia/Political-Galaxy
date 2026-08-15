@@ -1,3 +1,10 @@
+# Cultural 1A: United States – Republican Party
+## Foundation Analysis
+### Overview
+Party-level moral source pattern on this axis; faction scores nested below.
+
+**Score: 18**
+
 ## Republican Party
 
 | Faction                                              | Final Score | Designation          |
@@ -13,7 +20,7 @@
 
 The Republican Party emphasises national interest, popular sovereignty, individual responsibility and cultural continuity. Under MAGA primacy its dominant justificatory pattern centres on the democratic will and concrete interests of living American citizens.
 
-#### Moral Justification
+#### Expanded Analysis
 * Popular sovereignty and the interests of living American citizens are treated as primary sources of legitimacy across immigration, trade and many domestic domains.
 * Tradition and established institutions are defended largely as empirically successful arrangements that serve current citizens.
 * Individual responsibility, work and market outcomes feature heavily in economic justification.
@@ -31,7 +38,7 @@ The transcendent source has limited weight in substantive justification. Moral a
 
 This current treats popular sovereignty and the national interest of living American citizens as the decisive sources of legitimacy. Its aim is to restore control of borders, trade and institutions to the American demos.
 
-#### Moral Justification
+#### Expanded Analysis
 * Popular sovereignty is treated as the primary and decisive source of political legitimacy.
 * The national interest of living citizens (immigration, trade, security, industrial capacity) functions as a core moral and political standard.
 * Elite institutions, transnational commitments and abstract universalist claims are frequently criticised as overriding the consent and interests of the demos.
@@ -49,7 +56,7 @@ The transcendent source has very limited organisational weight. Moral authority 
 
 This current treats the nation and its historical continuity as important sources of political meaning and obligation. Order, social cohesion and the common good of the political community are given higher priority than pure procedural or market liberalism.
 
-#### Moral Justification
+#### Expanded Analysis
 * The nation and its historical continuity are treated as important sources of political meaning and obligation.
 * Order, social cohesion and the common good of the political community are prioritised.
 * Popular sovereignty remains central but is interpreted through a more substantive national and cultural lens.
@@ -67,7 +74,7 @@ Mundane sources remain dominant. The stronger emphasis on the nation as a moral 
 
 This current retains emphasis on individual responsibility, free markets, limited government and constitutionalism as valuable inheritances.
 
-#### Moral Justification
+#### Expanded Analysis
 * Individual responsibility, free markets and limited government remain central.
 * Constitutionalism and institutional stability are frequently invoked as valuable inheritances.
 * Social and moral traditionalism is usually framed as the defence of proven social arrangements.
@@ -85,7 +92,7 @@ Mundane sources (individual responsibility, market outcomes, institutional pragm
 
 This current treats Christian moral teaching and religious liberty as fundamental goods that political authority should respect and, in some versions, actively support.
 
-#### Moral Justification
+#### Expanded Analysis
 * Christian moral teaching and religious liberty are treated as fundamental goods.
 * Many social issues are justified by reference to religious and natural-law understandings of human flourishing and moral order.
 * Popular sovereignty and constitutionalism remain important but are often interpreted through a religious-moral lens.
@@ -103,7 +110,7 @@ This faction shows a clear transcendent element because religious and natural-la
 
 This current prioritises individual rights, personal autonomy, consent and non-aggression, with greater scepticism toward both progressive and populist majoritarianism.
 
-#### Moral Justification
+#### Expanded Analysis
 * Individual rights and personal autonomy are central, often framed in natural-rights terms but operationalised through consent and non-aggression.
 * Opposition to state coercion is justified by individual freedom and the practical consequences of intervention.
 * Free markets and voluntary exchange are treated as morally preferable and empirically superior.

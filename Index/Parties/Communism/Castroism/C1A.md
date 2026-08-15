@@ -3,27 +3,19 @@
 **Score: 87**
 
 ### Overview
-
-Castroism grounds political legitimacy in revolutionary Marxism-Leninism treated as historical and moral truth. The revolution, anti-imperialist duty and construction of socialism are framed as binding higher-order obligations that override competing claims of popular preference, short-term material interest or liberal procedural consent. Mundane sources remain secondary and instrumental.
+Castroism grounds political legitimacy in revolutionary socialism, anti-imperialist historical mission, and Party-state authority as guardian of correct direction for the Cuban people. Ideological and anti-imperial transcendent sources organise; mundane performance and national-survival claims operate inside that frame. Residual baseline of transcendent moral justification: higher-order ideological, sacred or civilisational sources organise legitimacy and subordinate pure demotic or welfare claims.
 
 ### Moral Justification – Relevant Elements
-
-* Marxism-Leninism and the Cuban revolutionary tradition presented as scientific-moral truth about history, class and justice, not as provisional policy preferences.
-* Foundational texts (including the Moncada programme / *History Will Absolve Me* lineage) carried into governing ideology as sources of binding purpose.
-* Anti-imperialism and defence of the revolution treated as non-negotiable duties that can override ordinary democratic or market considerations.
-* “Homeland or death” and related formulas binding loyalty to a revolutionary moral community rather than to contingent electoral majorities.
-* Construction of the “new man” and socialist consciousness as ethical projects with claim on education, culture and personal formation.
-* Literacy-campaign pedagogy (1961) linking basic literacy to revolutionary leadership, land reform and political loyalty in teaching materials.
-* José Martí claimed as revolutionary ancestor and re-coded inside a Marxist-Leninist and anti-imperialist frame rather than a liberal-republican frame alone.
-* Dissent framed as counter-revolutionary betrayal of historical obligation, not as legitimate alternative preference within a shared mundane frame.
-* Popular mobilisation and mass organisations used to enact higher revolutionary purposes rather than to aggregate independent citizen interests.
+* Revolutionary socialism and anti-imperialism as historical-moral missions, not optional preferences of a liberal demos.
+* Party and leadership as necessary guardians of correct revolutionary direction.
+* National dignity and resistance framed through anti-imperial higher purpose.
+* Social provision and education presented as achievements of the revolutionary project.
+* Dissent constrained as counter-revolutionary rather than ordinary preference.
+* Performance and survival claims subordinated to ideological continuity.
+* Residual baseline of transcendent moral justification: higher-order ideological, sacred or civilisational sources organise legitimacy and subordinate pure demotic or welfare claims.
 
 ### Expanded Analysis
-
-The operative justificatory grammar is transcendent in the sense used on this axis: revolutionary ideology functions as a higher law that the living demos is not free to set aside. Material improvements, nationalist pride and delivery rhetoric appear continuously in regime language, but when trade-offs appear — economic liberalisation versus political monopoly, emigration versus loyalty, religious or liberal critique versus orthodoxy — the revolutionary-ideological claim prevails as the organising source.
-
-This is revolutionary-ideological transcendence, not classical religious transcendence. The score sits in the strong transcendent band, below the most totalising historical ideological extremes that dissolve all residual mundane calculation, and well above managerial or demos-centred mundane formations.
+Castroism organises justification through revolutionary-ideological and anti-imperial transcendence. The demos is defined inside the revolutionary project rather than authorising it from outside through liberal procedure. Mundane welfare and national-survival language is real but instrumental to the higher mission; it does not license setting aside Party authority or the anti-imperial frame. The pattern is strong-to-extreme transcendent lean, slightly below peak totalising variants where national-survival pragmatism remains more visible.
 
 ### Why this produces a Final Score of 87
-
-Revolutionary Marxism-Leninism as binding historical-moral truth, anti-imperialist duty, “new man” formation, and systematic subordination of mundane preference to revolutionary obligation place Castroism at 87.
+Revolutionary and anti-imperial higher-order sources organise, subordinating independent demos justification. The score is 87.

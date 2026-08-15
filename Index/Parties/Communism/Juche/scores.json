@@ -1,16 +1,19 @@
 {
-  "1a": null,
-  "1b": null,
-  "2a": null,
-  "2b": null,
-  "c1a": null,
-  "c1b": null,
-  "c2a": null,
-  "c2b": null,
-  "c3a": null,
-  "c3b": null,
-  "c4a": null,
-  "c4b": null,
-  "c5a": null,
-  "c5b": null
+  "1a": {
+    "endos": 7,
+    "xenos": 4
+  },
+  "1b": 18,
+  "2a": 88,
+  "2b": 54,
+  "c1a": 91,
+  "c1b": 96,
+  "c2a": 20,
+  "c2b": 80,
+  "c3a": 0,
+  "c3b": 80,
+  "c4a": 62,
+  "c4b": 62,
+  "c5a": 11,
+  "c5b": 70
 }

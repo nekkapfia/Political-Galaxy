@@ -1,13 +1,19 @@
-## FDP – Final Score: 62
+# Cultural 2A: Germany – FDP
+## Individuality Analysis
+**Score: 76**
 
-The FDP places greater emphasis on individual merit and formal equality while accepting some group-based protections.
+### Overview
+The FDP places individual merit and formal equality at the centre of allocation while accepting only limited residual group-based protections. Category-preference expansion is resisted.
 
-### Allocation Mechanisms – Expanded Analysis
+### Allocation Mechanisms
+* Support for the core anti-discrimination framework of the AGG as equal-treatment baseline.
+* General opposition to strong positive action and quotas beyond limited, confined cases.
+* Critical stance toward expansive self-ID policies.
+* Preference for individual merit and performance as the primary basis for allocation in employment and education.
+* Emphasis on formal equality of opportunity over group-preference measures.
 
-- Supports the core anti-discrimination framework of the AGG.
-- Generally opposes strong positive action and quotas beyond limited cases.
-- Has been critical of expansive self-ID policies and emphasises individual rights.
-- Favours individual merit and performance as the primary basis for allocation in employment and education.
-- Supports formal equality of opportunity more than group-based equity measures.
+### Expanded Analysis
+The party maintains a consistent individualist orientation. While it accepts the existing legal minimum of non-discrimination protections, it argues against expanding quotas or self-ID frameworks that would elevate group membership as an allocation unit. Core domains are treated as properly governed by individual characteristics. The result is predominantly individualist allocation with only narrow residual category tools.
 
-The FDP maintains a more individualist orientation than most other parties while accepting the existing legal minimum of group-based protections. It consistently argues for allocation based on individual merit rather than group membership in most domains. This produces a low-to-mid 60s score.
+### Why this produces a Final Score of 76
+Person-unit default in core domains, resistance to quota and self-ID expansion, and formal equality emphasis place the FDP in the predominantly individualist band. Score 76.

@@ -1,26 +1,21 @@
 # Cultural 5A: Communism – Castroism
 ## Tradition vs Progress Analysis
-**Score: 26**
+**Score: 12**
 
 ### Overview
+Castroism subordinated inherited family, religious and national-continuity transmission to party and state institutional control, with residual progressive/transformative redesign of education and family forms under socialist framing.
 
-Castroism is a transformative project: it treats large parts of pre-revolutionary Cuban social structure, property relations, church influence and elite culture as requiring replacement by socialist institutions, new educational content and a revolutionary moral culture. Residual nationalism and selective cultural preservation do not restore tradition as the default enforced baseline.
-
-### Relevant Policies / Elements
-
-* Rapid dismantling of pre-1959 property, political and much of the institutional order (1959–68 nationalisation sequence culminating in the Revolutionary Offensive).
-* Education reformed around revolutionary history, Marxism-Leninism and the “new man,” not continuity with republican or colonial curricula as baseline; 1961 literacy pedagogy explicitly political.
-* 1961 public affirmation of the socialist character of the revolution as institutional break with liberal-republican constitutionality.
-* Church and religious institutions subordinated; early phases of active constraint on religious authority as competing traditional power; later partial accommodation of worship under state limits without restoring church primacy.
-* Family and social policy oriented toward socialist mobilisation rather than preservation of traditional patriarchal or elite transmission structures (Family Code reforms as progressive instruments relative to traditional models).
-* Cultural policy promoting revolutionary art, literacy and mass culture while limiting independent traditional elite culture.
-* José Martí and independence heroes retained and re-coded inside the revolutionary narrative rather than as carriers of an unbroken pre-revolutionary tradition.
-* Post-1959 monument and public-memory practice oriented to revolutionary rupture and achievement.
+### Cultural 5A Relevant Policies / Elements
+* Education content reorganised under socialist and Party direction; confessional and pre-revolutionary curricula displaced as public baseline.
+* Family law and social policy redesigned under socialist frameworks; conventional confessional family authority subordinated to state regulation.
+* Religious institutions restricted in public role; atheist and socialist education campaigns in schools and mass organisations.
+* Cultural transmission channelled through Party, CDR neighbourhood committees and state organisations rather than independent customary or confessional pathways.
+* Pre-revolutionary traditional and liberal-republican residual treated as material for socialist redesign, not as protected continuity default.
+* Selective national-cultural content retained under Party framing; not restored as autonomous traditional baseline independent of socialist modernisation.
+* Domain hierarchy: education and family-status under Party/state direction primary.
 
 ### Expanded Analysis
+Castroism reorganises primary transmission domains under Party and state control. Education displaces confessional and pre-revolutionary curricula as the public baseline; family law operates under socialist frameworks; religious public authority is restricted. Cultural transmission runs through Party and mass organisations rather than independent customary or confessional pathways. The residual pre-revolutionary order is material for redesign, not a protected continuity default. Selective national-cultural content appears under Party framing but does not restore autonomous traditional authority. Domain hierarchy places education and family-status first—both progressive/transformative relative to inherited confessional and customary baselines, under authoritarian socialist control.
 
-Primary domains — education content, institutional design, family and property transmission — are organised around transformative replacement. Material heritage and selective patriotic symbols are secondary and do not outweigh progressive primacy. The score sits in the strong progressive-transformation band, above theoretical floors that prohibit all continuity, and well below systems that treat inherited tradition as the default to be protected.
-
-### Why this produces a Final Score of 26
-
-Revolutionary replacement of pre-1959 institutional, educational and moral transmission structures as the dominant pattern places Castroism at 26.
+### Why this produces a Final Score of 12
+Party/state control of education and family transmission, restricted religious public role, and treatment of pre-revolutionary residual as redesign material place Castroism in the low 11–20 band. Higher placement would require durable institutional protection of inherited traditional baselines; the locked analysis shows socialist redesign of primary domains.

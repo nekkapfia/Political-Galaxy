@@ -1,13 +1,22 @@
-## Die Linke – Final Score: 71
+# Cultural 1B: Germany – Die Linke
+## Dogmatism Analysis
+**Score: 71**
 
-Die Linke maintains moderate Orthodoxy and Tribalism, with a focus on traditional left-wing positions.
+**Orthodoxy: 70, Tribalism: 72**
 
-### Mechanisms of Protection and Rejection – Expanded Analysis
-- Internal divisions between reformist and radical wings have reduced discipline.
-- The party maintains clear opposition to NATO, militarisation, and neoliberal economics.
-- It rejects cooperation with the AfD.
-- It promotes a strongly internationalist and anti-nationalist position.
+### Overview
+Die Linke retains residual left-socialist and anti-capitalist orthodoxy with real internal factional contest (including the Wagenknecht split that produced BSW), while rejecting AfD and competing with progressive and social-democratic alternatives. Orthodoxy is moderated by factionalism; Tribalism is elevated against AfD, producing a Moderate-to-Strong band score.
 
-Die Linke shows moderate Orthodoxy due to internal divisions. Its Tribalism is focused on rejecting neoliberalism, militarism, and nationalism, while maintaining distance from the AfD.
+### Relevant Policies / Elements
+* Residual left-socialist and anti-capitalist foundations as core identity.
+* Real internal factional contest and the Wagenknecht split lowering pure orthodoxy.
+* Firm rejection of AfD as illegitimate.
+* Alignment with progressive social and peace-oriented norms.
+* Electoral and coalition pragmatism creating revision space.
+* Residual baseline of left-pluralist practice that prevents extreme internal closure.
 
----
+### Expanded Analysis
+Orthodoxy is moderate-high: left-socialist foundations exist, but real internal factional contest (culminating in the BSW split) and electoral pragmatism open revision space relative to more monolithic parties. Tribalism is high against AfD through rejection as illegitimate; progressive and social-democratic frameworks remain rivals within normal competition. Alignment with progressive social and peace-oriented norms raises effective closure on certain files. The institutional pattern is high-mid dogmatism with lower orthodoxy than Greens or AfD, calibrated at 71.
+
+### Why this produces a Final Score of 71
+Residual left-socialist foundations combined with real factional contest, firm rejection of AfD, and progressive alignment produce moderate-high Orthodoxy with elevated Tribalism. The formula yields 71.

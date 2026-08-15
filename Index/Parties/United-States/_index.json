@@ -1,1 +1,8 @@
-
+{
+  "parties": [
+    { "id": "democratic-party", "name": "Democratic Party" },
+    { "id": "green-party", "name": "Green Party" },
+    { "id": "libertarian-party", "name": "Libertarian Party" },
+    { "id": "republican-party", "name": "Republican Party" }
+  ]
+}

@@ -1,17 +1,20 @@
-## SPD (Social Democratic Party)
+# Cultural 4B: Germany – SPD
+## Equity Lens Analysis
+**Score: 64**
 
-**Brief Overview**  
-The SPD has historically driven equality and integration legislation and maintains support for anti-discrimination frameworks alongside social and labor market integration measures.
+### Overview
+The SPD supports equality infrastructure and treats persistent group disparities as partly structural. Soft equity tools and limited hard mechanisms (gender quotas) coexist with strong emphasis on individual integration effort, vocational training and economic opportunity. Residual baseline of mixed or selective equity framing: progressive gap diagnostics coexist with residual individual-responsibility or cultural explanations.
 
-**Framework for Explaining and Addressing Group Disparities – Expanded Analysis**
-- Strong record on AGG, integration laws, and labor market activation for migrants; supports gender quotas and diversity in public life.
-- Current platform balances recognition of structural barriers with emphasis on education, vocational training, and individual effort.
-- Advocates expanded recognition of foreign qualifications, anti-discrimination enforcement, and targeted supports for disadvantaged groups.
-- In government has sustained core equity infrastructure while pursuing skilled migration and integration performance goals.
+### Relevant Policies / Elements
+* Historical and ongoing support for the AGG and gender board quotas.
+* Platform recognition of structural barriers alongside education, training and labour-market activation as primary remedies.
+* Support for diversity in public life and targeted supports without a primary hard-quota programme across all domains.
+* Integration policy that pairs support with individual performance conditions (language, employment, values).
+* Soft-to-mid mechanisms predominate.
+* Residual baseline of mixed or selective equity framing: progressive gap diagnostics coexist with residual individual-responsibility or cultural explanations.
 
-This produces a mid-high score reflecting institutional support for equity mechanisms combined with significant emphasis on individual opportunity and integration.
+### Expanded Analysis
+The party locks a moderated gap-as-proof diagnostic sufficient to justify soft equity infrastructure and limited hard quotas. Individual-opportunity and integration-performance language remains substantial, producing institutional tension characteristic of the mid-high contested band. This placement is independent of Cultural 2A (unit of measure) and Cultural 3 (membership gates).
 
-**Why This Produces a Final Score of 58**  
-The SPD score is placed in the mid-high contested band because the party has driven and sustains AGG, gender quotas, and integration supports while balancing with strong emphasis on individual effort, vocational training, and economic integration. This produces active equity infrastructure alongside substantial individual-merit and responsibility elements.
-
----
+### Why this produces a Final Score of 64
+Support for soft equity tools and limited hard mechanisms, combined with continued emphasis on individual effort and integration performance, produces a mid-high contested score aligned with earlier mechanism-weighted assessments.

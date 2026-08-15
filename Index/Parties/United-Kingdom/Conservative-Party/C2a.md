@@ -1,15 +1,19 @@
-## Conservatives – Final Score: 73
+# Cultural 2A: United Kingdom – Conservative Party
+## Individuality Analysis
+**Score: 68**
 
-The Conservative Party has taken steps to reduce the role of group membership in the allocation of opportunities and protections, but continues to operate within a legal framework that permits group-based considerations in several areas.
+### Overview
+The Conservatives have committed to significant reductions in category-based allocation inside the public sector while retaining the broader Equality Act framework. Individual merit is restored as the default in key institutional settings, but residual group-preference tools remain available.
 
-### Allocation Mechanisms – Expanded Analysis
+### Allocation Mechanisms
+* Explicit 2026 commitment to repeal the Public Sector Equality Duty in its entirety.
+* Pledge to ban the use of protected characteristics as criteria for public-sector hiring, promotion, admissions or procurement.
+* Clarification that “sex” in the Equality Act means biological sex, limiting self-ID allocation of single-sex provisions.
+* Retention of the Equality Act itself, including limited positive-action provisions.
+* Emphasis on equality of opportunity rather than equality of outcome in recent policy direction.
 
-- Proposals to abolish the Public Sector Equality Duty on the grounds that it leads to preferential treatment for certain groups over others.
-- Commitment to clarify that “sex” in the Equality Act refers to biological sex, thereby limiting the allocation of single-sex provisions according to self-identified gender.
-- Criticism of DEI initiatives that treat group identity as a relevant factor in public sector hiring and decision-making.
-- Retention of the broader Equality Act framework, including provisions that allow limited positive action on the basis of protected characteristics.
-- Emphasis on equality of opportunity rather than group-based equity outcomes in recent policy direction.
+### Expanded Analysis
+The party’s direction constrains the institutional weight given to group membership by removing the Public Sector Equality Duty and identity-based decision criteria in public bodies. Biological-sex clarification further limits self-identified category allocation. At the same time the decision to keep the Equality Act and its residual positive-action architecture means category tools are confined rather than eliminated. Individual treatment becomes the primary principle, with group-based mechanisms kept secondary and restricted.
 
-The Conservatives have moved to constrain group-based allocation in institutional practice, particularly through proposed reforms to the Public Sector Equality Duty and the definition of sex. These positions reflect an attempt to restore individual merit and conduct as the primary basis for allocating opportunities and protections. However, the party has not proposed the complete removal of group-based mechanisms within the existing equality framework. As a result, individualist principles remain dominant in most areas but continue to coexist with institutionalised exceptions that allow group membership to influence outcomes in specific contexts. The overall allocation pattern is therefore predominantly individualist with meaningful but incomplete constraints on group-based differentiation.
-
----
+### Why this produces a Final Score of 68
+Repeal of the PSED and restrictions on identity criteria push the score into the predominantly individualist band; retention of the wider Equality Act framework keeps it below the high-individualism range. Score 68.

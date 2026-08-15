@@ -1,15 +1,20 @@
-## Conservatives – Final Score: 52
+# Cultural 2B: United Kingdom – Conservative Party
+## National Pride Analysis
+**Score: 68**
 
-The Conservative Party maintains a mixed and defensive stance toward British national identity. While it has generally sought to protect traditional symbols, its approach has often been reactive rather than affirmatively confident.
+### Overview
+The Conservative Party maintains a broadly positive national self-image and defends traditional symbols and continuity, while still operating inside a cultural environment that contains substantial critical content. Pride is real but not authoritarian or totalising. Residual baseline of positive national framing: traditional symbols and continuity retain institutional space, while critical content is present but secondary.
 
-### Emotional and Cultural Stance – Expanded Analysis
+### Relevant Policies / Elements
+* Defence of traditional national symbols, the monarchy and core commemorations.
+* Education and cultural rhetoric that still give space to national achievements and continuity alongside critical material.
+* Opposition to large-scale statue removal and aggressive renaming campaigns.
+* Rhetoric of patriotism is frequent, though often paired with democratic and liberal qualifications.
+* Does not treat criticism of the nation’s past as treason or impose institutional costs for it.
+* Residual baseline of positive national framing: traditional symbols and continuity retain institutional space, while critical content is present but secondary.
 
-- When in national government, Conservatives largely maintained existing national symbols and resisted the most radical forms of statue removal or historical reframing.
-- Rhetoric has frequently combined expressions of pride in British history with shame-introducing caveats about empire, slavery, and other “difficult parts” of the national past.
-- Local government record shows limited enthusiasm for actively promoting everyday national pride outside official or sporting contexts.
-- The party has opposed some decolonisation initiatives in education but has not developed a coherent positive curriculum or cultural policy around national identity.
-- Post-2016, some elements have adopted stronger language in defence of Britishness, but this has remained uneven across the party.
+### Expanded Analysis
+Conservatives affirm national continuity and resist the more aggressive de-nationalising projects of the progressive left. They do not, however, seek to make national pride the sole organising principle of education and culture, nor do they treat historical criticism as disloyalty. The result is a solid Admiration-band score: strongly positive self-image with critical perspectives still present and tolerated.
 
-The Conservatives have functioned more as defenders of an existing, somewhat qualified national identity than as active promoters of confident national pride. Their record shows consistent resistance to the most extreme shame-oriented policies, but limited success in reversing the broader cultural drift toward critical and internationalist framings of British history.
-
----
+### Why this produces a Final Score of 68
+Broadly affirmative stance toward national symbols and continuity, without the authoritarian enforcement of pride or the erasure of critical content, places the Conservatives in the Admiration band.

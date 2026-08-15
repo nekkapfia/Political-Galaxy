@@ -1,8 +1,11 @@
-# Conservative Party
+# Cultural 1A: United Kingdom – Conservative Party
+## Foundation Analysis
+**Score: 22**
 
+### Overview
 The Conservative Party presents itself as the party of national recovery, secure borders, economic competence, and the defence of British institutions and culture. Its core aim is to restore public confidence in the state’s ability to control immigration, maintain order, and deliver competent government after a period of perceived failure and internal division.
 
-### Moral Justification
+### Expanded Analysis
 
 * Immigration and borders are justified by the right of the British people to decide who enters the country and the duty of government to prioritise the security, housing, and wages of existing citizens.
 * Economic policy is framed through competence, work, incentives, and the need to deliver measurable improvements in living standards for British families.
@@ -34,7 +37,7 @@ The Conservative Party is currently pulled between a stronger populist current t
 
 This current argues that the Conservative Party must prioritise the democratic will and concrete interests of existing British citizens above institutional caution, international opinion, or liberal constraints. Its core aim is a clearer focus on borders, national identity, and accountability to voters.
 
-### Moral Justification
+### Expanded Analysis
 
 * Border control and immigration reduction are justified as the fundamental right of the British people to determine the composition of their own political community.
 * National identity and cultural continuity are presented as goods that belong to the living population and must be actively defended.
@@ -52,7 +55,7 @@ The transcendent source is marginal. Moral authority is derived overwhelmingly f
 
 This current defends a tradition of responsible, pragmatic Conservatism that seeks to govern for the whole nation, maintain institutional stability, and avoid populist rupture. Its aim is competence, social cohesion, and the preservation of effective governing institutions.
 
-### Moral Justification
+### Expanded Analysis
 
 * Institutions and governing conventions are justified as empirically successful arrangements that deliver stability and competent administration.
 * National interest is framed more inclusively, with residual emphasis on social cohesion across classes and regions.
@@ -70,7 +73,7 @@ Mundane sources dominate, but the stronger residual weight given to institutiona
 
 This current continues the post-1979 emphasis on individual responsibility, free markets, work, and limited government. Its core aim is to maximise prosperity and personal agency through competitive markets and reduced state interference.
 
-### Moral Justification
+### Expanded Analysis
 
 * Economic policy is justified through incentives, personal responsibility, and the observable results of market competition versus state direction.
 * Limited government is presented as both a practical necessity and a protection of individual agency.
@@ -88,7 +91,7 @@ Mundane sources (individual agency, market outcomes, consent) are primary. Natur
 
 This current places greater emphasis on traditional moral norms, cultural continuity, and, in some cases, religiously informed understandings of family and social order. Its aim is to defend the moral and cultural preconditions of a stable society.
 
-### Moral Justification
+### Expanded Analysis
 
 * Social and cultural issues are frequently justified by reference to established moral norms and the conditions required for human flourishing and family stability.
 * Cultural and religious inheritance is treated as a substantive good that should shape public life.

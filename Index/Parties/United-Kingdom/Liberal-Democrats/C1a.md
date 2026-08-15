@@ -1,17 +1,20 @@
-# Liberal Democrats
+# Cultural 1A: United Kingdom – Liberal Democrats
+## Foundation Analysis
+**Score: 46**
 
-The Liberal Democrats present themselves as the party of individual liberty, fairness, evidence-based policy, and institutional reform. Their core aims are protecting civil liberties, improving the quality of governance, and pursuing progressive goals within a liberal framework.
+### Overview
+The Liberal Democrats present themselves as the party of individual liberty, fairness, evidence-based policy and international openness within a constitutional framework. Core aims are protecting civil liberties, reforming institutions for fairness and competence, and combining market openness with social protection. Organising sources are mixed: procedural rights and fairness claims sit alongside strongly mundane emphasis on evidence, consent and practical delivery.
 
-### Moral Justification
+### Moral Justification – Relevant Elements
+* Individual liberty and civil rights justified through constitutional principle, personal agency and protection from arbitrary state power—primarily procedural rather than higher-law natural rights as override.
+* Fairness and opportunity framed as practical and moral requirements of a decent society, often tied to evidence and outcomes rather than systemic justice as binding higher law.
+* International cooperation and openness presented as pragmatic and values-based, without elevating global justice duties above democratic consent.
+* Institutional reform justified by competence, accountability and democratic quality rather than sacred or revolutionary authority.
+* Evidence, expertise and reasoned deliberation treated as central mundane legitimating sources.
+* Residual social-liberal justice language present but typically subordinated to liberty, consent and delivery.
 
-* Individual liberty and personal autonomy are treated as fundamental.
-* Fair institutional rules and constitutional reform are justified as requirements of a decent political order.
-* Evidence and competence are central to policy justification.
-* Social fairness and inclusion appear regularly but are usually balanced against liberal and pragmatic considerations.
+### Expanded Analysis
+The Liberal Democrats organise justification through a blend of procedural liberalism and pragmatic fairness. Rights language is real but operates mainly as constitutional and personal-agency protection rather than as transcendent natural law that regularly overrides democratic majorities. Fairness and social protection are moralised yet remain embedded in evidence, electability and governing competence. Internationalism is values-tinged but not a demos-binding higher duty of the green or hard-left type. The centre of gravity is therefore mixed-to-mundane: transcendent sources exist as colour and residual principle, while popular consent, evidence and practical delivery organise the hard trade-offs. This places the party near the middle of the UK spectrum, above pure demos-populism and below justice- or ecology-first currents.
 
-The language of the Liberal Democrats is rights-based, procedural, and evidence-oriented. Individual liberty and fair institutional rules are treated as foundational, while policy is regularly justified through evidence and competence. Progressive fairness claims appear, but they are typically balanced against liberal principles and pragmatic constraints rather than being allowed to override them. The party presents itself as the rational, liberal alternative to both populist majoritarianism and heavy-handed statist or moralistic projects.
-
-### Why this produces a final score of 46
-Mundane sources (evidence, institutional fairness, rights operationalised through procedure and consent) are strong. Residual progressive fairness language prevents a strongly mundane score, resulting in a moderate mixed profile.
-
----
+### Why this produces a Final Score of 46
+Procedural rights and fairness claims provide modest transcendent colour, but evidence, consent and competence remain organising. The profile is mixed with a mundane lean. The score is 46.

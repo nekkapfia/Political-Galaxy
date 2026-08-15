@@ -1,16 +1,24 @@
-### CDU/CSU
+# Cultural 5B: Germany – CDU/CSU
+## Radicalism (Pace of Change) Analysis
+**Score: 35**
 
-**Brief Overview**  
-The Christian Democrats have been the primary party of government for most of the period since 2005 and have demonstrated a strong and consistent preference for incremental, consensus-based, and stability-preserving change.
+### Overview
 
-**Observable Patterns of Pace and Intensity of Change – Expanded Analysis**
-- Merkel-era governance established the benchmark for extended negotiation, grand coalition sequencing, and deliberate pacing across economic, energy, and social policy.
-- Even under crisis pressure (financial crisis, refugee intake, pandemic), the party prioritised negotiated, sequenced responses over compressed or norm-breaking acceleration.
-- Current positioning emphasises stability, reliability, and careful reform within existing institutional frameworks rather than rapid structural overhaul.
-- Education, media, and institutional communications reinforce consensus, evidence-based gradualism, and caution regarding disruptive speed as the legitimate mode.
-- Limited internal tolerance for high-intensity accelerationist factions has been a consistent feature since the mid-2000s.
+The CDU/CSU, particularly under the long Merkel chancellorship (2005–2021), established the benchmark for consensus-based, extended-negotiation, stability-preserving governance in contemporary Germany. Even under crisis pressure the party prioritised sequenced, cross-party responses over compressed or norm-breaking acceleration. The pattern is low radicalism.
 
-**Why This Produces a Final Score of 35**  
-The CDU/CSU’s long governing record and current platform demonstrate one of the clearest and most sustained commitments to gradualist, deliberative, and stability-preserving processes in contemporary German politics. This places it in the low-to-mid range, reflecting both historical practice and current positioning.
+### Observable Pace and Intensity
 
----
+* Merkel-era governance characterised by grand coalitions, extended internal and external negotiation, and deliberate pacing across economic, energy and social policy.
+* Crisis responses (financial crisis, refugee intake, pandemic) managed through negotiated, sequenced adjustments rather than sustained high-intensity acceleration.
+* Current positioning continues to emphasise stability, reliability and careful reform within existing institutional frameworks.
+* Education, media and institutional communications reinforce consensus, evidence-based gradualism and caution regarding disruptive speed.
+* Limited internal tolerance for high-intensity accelerationist factions has been a consistent feature since the mid-2000s.
+* Observable pattern is one of the clearest and most sustained commitments to gradualist processes among major European parties.
+
+### Expanded Analysis
+
+The CDU/CSU’s long governing record supplies strong empirical evidence of institutional preference for deliberative sequencing and stability. Temporary crisis measures did not become the normal operating mode. The score of 35 sits in the low band and matches the prior full Germany analysis calibration.
+
+### Why this produces a Final Score of 35
+
+Sustained preference for consensus, extended negotiation and stability-preserving gradualism across a long governing period places the CDU/CSU at 35.

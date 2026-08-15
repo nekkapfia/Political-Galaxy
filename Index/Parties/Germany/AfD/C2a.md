@@ -1,13 +1,19 @@
-## AfD – Final Score: 71
+# Cultural 2A: Germany – AfD
+## Individuality Analysis
+**Score: 74**
 
-The AfD takes the strongest position against group-based allocation mechanisms among major parties.
+### Overview
+The AfD treats the individual as the primary unit of allocation and has made explicit commitments to dismantle key category-based mechanisms, including the self-ID law and gender quotas.
 
-### Allocation Mechanisms – Expanded Analysis
+### Allocation Mechanisms
+* Formal demand to repeal the Selbstbestimmungsgesetz (self-ID law) that came into force in November 2024.
+* Long-standing rejection of gender quotas and equity commissioners in public and institutional settings.
+* Opposition to positive action and diversity targets as allocation rules.
+* Emphasis on biological sex as the relevant category for single-sex provision and legal status.
+* Preference for formal individual equality over group-preference approaches.
 
-- Rejects most forms of positive action, diversity targets, and group-based preferences.
-- Strongly opposes self-ID and emphasises biological sex as the relevant category.
-- Advocates for allocation based on individual merit and performance.
-- Views many existing equality and diversity policies as discriminatory against the majority population.
-- Supports formal individual equality rather than group-based equity approaches.
+### Expanded Analysis
+The party’s programme removes the principal contemporary category-allocation tools in German law and institutional practice. By treating self-ID and quota machinery as illegitimate and by restoring person- and biology-based criteria, it makes individual characteristics the default public evaluative unit. Residual formal equality rules remain, but the dominant direction is the elimination of group-preference allocation. The pattern is predominantly individualist with confined residual exceptions.
 
-The AfD consistently argues for allocation based on individual merit and rejects group membership as a legitimate basis for differential treatment in most contexts. This produces a solid low-to-mid 70s score.
+### Why this produces a Final Score of 74
+Explicit repeal commitments on the self-ID law and quotas, combined with restoration of person-unit criteria, place the AfD in the predominantly individualist band. Score 74.
