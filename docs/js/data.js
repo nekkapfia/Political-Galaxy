@@ -1,5 +1,5 @@
 // ============================================================
-// Political Galaxy – Data Layer (FIXED 2026-08-15)
+// Political Galaxy – Data Layer (FIXED 2026-08-15 (v3 – quiet timeline + getAvailableCountries + party folders))
 // Auto-discovers countries from Index + optional manifest.json
 // Loads party scores.json + per-slider timeline eras
 // Source links go to internal viewer.html (never GitHub)
@@ -93,6 +93,19 @@ async function tryFetch(url, label) {
     }
   } catch (e) {
     console.warn(`[Political Galaxy] ${label} failed:`, e.message);
+    return null;
+  }
+}
+
+
+/** Like tryFetch but completely silent on 404 / network errors (used for optional Timeline). */
+async function tryFetchSilent(url) {
+  try {
+    const res = await fetch(url, { cache: "no-cache" });
+    if (!res.ok) return null;
+    const text = await res.text();
+    try { return JSON.parse(text); } catch { return null; }
+  } catch {
     return null;
   }
 }
@@ -246,6 +259,71 @@ async function loadIndexData() {
   return DATA_LOAD_PROMISE;
 }
 
+
+/** Generate possible on-disk folder names for a party.
+ *  Covers the mixed conventions used in the Index:
+ *  - Title-Case-Hyphenated (Conservative-Party)
+ *  - Acronyms (AfD, FDP, CDU-CSU, KPRF)
+ *  - Spaces instead of hyphens (Democratic Party, United Russia, Rassemblement National)
+ *  - Original lowercase id
+ */
+function partyFolderCandidates(id, name) {
+  const cands = [];
+  const seen = new Set();
+  const add = (s) => {
+    if (s && !seen.has(s)) { seen.add(s); cands.push(s); }
+  };
+
+  // 1. Display name as-is (handles spaces)
+  add(name);
+
+  // 2. Display name with spaces → hyphens
+  if (name) add(name.replace(/\s+/g, "-"));
+
+  // 3. Title-Case each kebab segment of the id
+  add(id.split("-").map(w => w.charAt(0).toUpperCase() + w.slice(1)).join("-"));
+
+  // 4. All-caps version of short ids / acronyms
+  if (id.length <= 6 && !id.includes("-")) add(id.toUpperCase());
+  // multi-part acronyms like cdu-csu
+  if (id.includes("-")) {
+    add(id.split("-").map(w => w.toUpperCase()).join("-"));
+  }
+
+  // 5. Known special-cases that simple rules miss
+  const specials = {
+    "afd": "AfD",
+    "bsw": "BSW",
+    "fdp": "FDP",
+    "spd": "SPD",
+    "cdu-csu": "CDU-CSU",
+    "die-gruenen": "Die-Gruenen",
+    "die-linke": "Die-Linke",
+    "kprf": "KPRF",
+    "ldpr": "LDPR",
+    "cpc": "CPC",
+    "reform-uk": "Reform-UK",
+    "sinn-fein": "Sinn-Fein",
+    "plaid-cymru": "Plaid-Cymru",
+    "rassemblement-national": "Rassemblement National",
+    "democratic-party": "Democratic Party",
+    "republican-party": "Republican Party",
+    "united-russia": "United Russia",
+    "fet-y-de-las-jons": "Fet-Y-De-Las-Jons",
+    "garda-de-fier": "Garda-De-Fier",
+    "nyilaskeresztes-part": "Nyilaskeresztes-Part",
+    "partito-nazionale-fascista": "Partito-Nazionale-Fascista",
+    "vaterlandische-front": "Vaterlandische-Front",
+    "khmer-rouge": "Khmer-Rouge",
+  };
+  if (specials[id]) add(specials[id]);
+
+  // 6. Original id last (rarely works, but cheap)
+  add(id);
+
+  return cands;
+}
+
 async function loadCountry(countryId, countryName) {
   const enc = encodeURIComponent(countryId);
 
@@ -270,12 +348,35 @@ async function loadCountry(countryId, countryName) {
 
   for (const party of partyList) {
     window.PARTY_NAMES[countryId][party.id] = party.name;
-    const penc = encodeURIComponent(party.id);
-    const scores = await tryFetch(
-      `${REPO_RAW}/Parties/${enc}/${penc}/scores.json`,
-      `scores ${countryId}/${party.id}`
-    );
-    if (!scores) continue;
+    // Also store under display name for UI lookups
+    window.PARTY_NAMES[countryId][party.name] = party.name;
+
+    // The id in _index.json is usually lowercase kebab, but the real folder
+    // on GitHub is Title-Case, acronym, or even contains spaces.
+    // Try several realistic candidates until one succeeds.
+    const candidates = partyFolderCandidates(party.id, party.name);
+    let scores = null;
+    let usedFolder = null;
+    for (const cand of candidates) {
+      const penc = encodeURIComponent(cand);
+      scores = await tryFetch(
+        `${REPO_RAW}/Parties/${enc}/${penc}/scores.json`,
+        `scores ${countryId}/${cand}`
+      );
+      if (scores) {
+        usedFolder = cand;
+        break;
+      }
+    }
+    if (!scores) {
+      console.warn(`[Political Galaxy] No scores.json found for ${countryId}/${party.id} (tried: ${candidates.join(", ")})`);
+      continue;
+    }
+    // Remember the real folder so document links work
+    window.PARTY_FOLDERS = window.PARTY_FOLDERS || {};
+    window.PARTY_FOLDERS[countryId] = window.PARTY_FOLDERS[countryId] || {};
+    window.PARTY_FOLDERS[countryId][party.id] = usedFolder;
+    window.PARTY_FOLDERS[countryId][party.name] = usedFolder;
 
     const normalized = {};
     const raw = scores.scores || scores;
@@ -312,53 +413,53 @@ async function loadCountry(countryId, countryName) {
     PARTY_DATA[countryId][party.id] = normalized;
   }
 
-  // ---- TIMELINE ----
-  // Timeline/{Country}/_index.json → { axes: ["1a", ...] }
-  // Timeline/{Country}/{axis}/eras.json
+  // ---- TIMELINE (optional – only if present) ----
+  // Parties and eras are independent. Most countries currently have no
+  // Timeline data; we must not spam the console or block party scores.
   SCORE_DATA[countryId] = {};
 
-  const tlIndex = await tryFetch(
-    `${REPO_RAW}/Timeline/${enc}/_index.json`,
-    `Timeline/${countryId}/_index.json`
+  const tlIndex = await tryFetchSilent(
+    `${REPO_RAW}/Timeline/${enc}/_index.json`
   );
 
-  let axes = SLIDER_IDS.map(id => id); // default try all
   if (tlIndex) {
+    let axes = [];
     const listed = tlIndex.axes || tlIndex.sliders;
     if (Array.isArray(listed) && listed.length) {
       axes = listed.map(normalizeSliderKey).filter(Boolean);
+    } else {
+      axes = SLIDER_IDS.slice();
+    }
+
+    for (const sliderId of axes) {
+      const folder = String(sliderId).toLowerCase();
+      const erasRaw = await tryFetchSilent(
+        `${REPO_RAW}/Timeline/${enc}/${folder}/eras.json`
+      );
+      if (!erasRaw) continue;
+
+      const erasArr = Array.isArray(erasRaw) ? erasRaw
+        : (Array.isArray(erasRaw.eras) ? erasRaw.eras : null);
+      if (!erasArr) continue;
+
+      SCORE_DATA[countryId][sliderId] = erasArr.map(e => {
+        const id = e.id || null;
+        const docPath = id
+          ? `Timeline/${countryId}/${folder}/${id}.md`
+          : "";
+        return {
+          id,
+          start: e.start == null ? null : e.start,
+          end: (e.end == null || e.end === 9999) ? 9999 : e.end,
+          score: e.score,
+          source: docPath,
+          section: e.name || e.era || id || "",
+          era: e.name || e.era || id || ""
+        };
+      });
     }
   }
-
-  for (const sliderId of axes) {
-    // Folder uses lowercase axis ids: 1a, c4b
-    const folder = String(sliderId).toLowerCase();
-    const erasRaw = await tryFetch(
-      `${REPO_RAW}/Timeline/${enc}/${folder}/eras.json`,
-      `eras ${countryId}/${folder}`
-    );
-    if (!erasRaw) continue;
-
-    // Accept either a bare array or { eras: [...] }
-    const erasArr = Array.isArray(erasRaw) ? erasRaw : (Array.isArray(erasRaw.eras) ? erasRaw.eras : null);
-    if (!erasArr) continue;
-
-    SCORE_DATA[countryId][sliderId] = erasArr.map(e => {
-      const id = e.id || null;
-      const docPath = id
-        ? `Timeline/${countryId}/${folder}/${id}.md`
-        : "";
-      return {
-        id,
-        start: e.start == null ? null : e.start,
-        end: (e.end == null || e.end === 9999) ? 9999 : e.end,
-        score: e.score,
-        source: docPath,
-        section: e.name || e.era || id || "",
-        era: e.name || e.era || id || ""
-      };
-    });
-  }
+  // If no timeline index exists, SCORE_DATA[countryId] stays {} – that is fine.
 }
 
 // Kick off immediately
@@ -457,6 +558,16 @@ function resolveCountryId(label) {
   return label;
 }
 
+
+/** Display names of countries that have been loaded (for UI selects). */
+function getAvailableCountries() {
+  if (MANIFEST && Array.isArray(MANIFEST.countries) && MANIFEST.countries.length) {
+    return MANIFEST.countries.map(c => (typeof c === "string" ? c : (c.name || c.id)));
+  }
+  // Fallback from whatever is already in PARTY_DATA
+  return Object.keys(PARTY_DATA).map(id => (window.COUNTRY_NAMES && window.COUNTRY_NAMES[id]) || id);
+}
+
 function getYearRange(country) {
   const countryData = SCORE_DATA[resolveCountryId(country)] || SCORE_DATA[country];
   if (!countryData) return { min: 1945, max: 2026 };
@@ -485,14 +596,23 @@ function getPartyVector(country, partyName) {
 /** Viewer URL for a party-axis justification document */
 function getPartyDocUrl(country, partyName, sliderId) {
   const cid = resolveCountryId(country) || country;
-  const folder = String(sliderId).toLowerCase();
-  // partyName may be display name – try id from PARTY_NAMES reverse
-  let pid = partyName;
-  const names = (window.PARTY_NAMES && window.PARTY_NAMES[cid]) || {};
-  for (const [id, name] of Object.entries(names)) {
-    if (name === partyName || id === partyName) { pid = id; break; }
+  const axisFolder = String(sliderId).toLowerCase();
+  // Prefer the real on-disk folder we discovered while loading scores
+  let realFolder = null;
+  if (window.PARTY_FOLDERS && window.PARTY_FOLDERS[cid]) {
+    realFolder = window.PARTY_FOLDERS[cid][partyName];
   }
-  const path = `Parties/${cid}/${pid}/${folder}.md`;
+  if (!realFolder) {
+    // fall back to guessing from name / id
+    const names = (window.PARTY_NAMES && window.PARTY_NAMES[cid]) || {};
+    let pid = partyName;
+    for (const [id, name] of Object.entries(names)) {
+      if (name === partyName || id === partyName) { pid = id; break; }
+    }
+    const cands = partyFolderCandidates(pid, partyName);
+    realFolder = cands[0] || pid;
+  }
+  const path = `Parties/${cid}/${realFolder}/${axisFolder}.md`;
   return makeViewerUrl(path);
 }
 
@@ -533,5 +653,6 @@ window.getYearRange = getYearRange;
 window.getPartyScores = getPartyScores;
 window.getPartyVector = getPartyVector;
 window.getPartyDocUrl = getPartyDocUrl;
+window.getAvailableCountries = getAvailableCountries;
 window.makeViewerUrl = makeViewerUrl;
 window.DATA_READY = () => DATA_READY;

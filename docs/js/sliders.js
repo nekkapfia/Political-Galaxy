@@ -9,7 +9,7 @@ let selectedParty = null;
 let selectedYear = 2024;
 
 // Compare sides (A = left, B = right) – each can be era or party
-const sideA = { country: "United Kingdom", mode: "era", year: 2024, party: null };
+const sideA = { country: "United Kingdom", mode: "party", year: 2024, party: null };
 const sideB = { country: "United Kingdom", mode: "party", year: 2024, party: null };
 let scoresA = {};
 let scoresB = {};
@@ -266,13 +266,13 @@ function buildOrbit() {
 function sidePanelHTML(sideKey, side) {
   const isEra = side.mode === "era";
   return `
-    <label>Country</label>
-    <select id="${sideKey}-country"></select>
     <label>Mode</label>
     <select id="${sideKey}-mode">
-      <option value="era" ${isEra ? "selected" : ""}>Era (Timeline)</option>
       <option value="party" ${!isEra ? "selected" : ""}>Political Party</option>
+      <option value="era" ${isEra ? "selected" : ""}>Era (Timeline)</option>
     </select>
+    <label>Country</label>
+    <select id="${sideKey}-country"></select>
     <div id="${sideKey}-select-wrap"></div>
   `;
 }
