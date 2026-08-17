@@ -576,8 +576,22 @@ Scoring is based solely on empirical patterns of which sources appear (or do not
 
 The slider measures the degree to which **one source of moral legitimacy is absent from the moral conversation**. 
 
-Transcendent sources include divine command, sacred texts, revelation, heavenly authority, Gaia, mother nature, or equivalent non-worldly foundations.  
-Worldly/secular sources include evidence, science, history, tradition (as empirical or reasoned inheritance), secular thought, reason, and debate.
+### Transcendent sources
+- Divine command, sacred texts, and religious law treated as binding.
+- Cosmic or Natural law treated as incontrovertible truth independent of consent.
+- Deification of an Individual or Lineage (leader or bloodline treated as sacred or infallible higher source).
+- Elevation of a People, Group or Nation to a sacred Ideal.
+- Extreme sacrifice as the sole path to a Utopian Ideal.
+
+### Mundane sources
+- Popular sovereignty and the concrete will of the living demos.
+- Concrete interests of living citizens (housing, wages, safety, services).
+- Empirical outcomes, competence, performance, delivery.
+- Reciprocity and national self-preservation of a living political community.
+- Pragmatic stewardship of a specific inherited country framed as human responsibility, not higher law.
+- Rights operationalised through procedure, consent, and constitutional form rather than as higher-law overrides of voluntary order or majorities.
+- Defence of the nation/culture as a form of inheritance.
+- Arguments made for the security and continuity of humanity.
 
 Low scores reflect both sources being actively present and integrated in the moral conversation. High scores reflect increasing absence of one source. 
 
@@ -664,6 +678,32 @@ Both sources exist and are used in perfect harmony within the moral conversation
 - Always record which source is absent/reduced when the score is above 10.
 - Cross-reference the scored-policies corpus before new assignments.
 - Revise on new information or clarification.
+
+---
+
+# Final Score Conversion
+
+In order to integrate easily into the rest of the slider project, the original 0–50 score is translated into a 0–100 range using a simple formula.
+
+**Formula:**
+- T = (+1)
+- M = (−1)
+- **Final Score = 50 + (Original Score) × (T or M)**
+
+**Examples:**
+- 36T → 50 + 36 = **86**
+- 14M → 50 − 14 = **36**
+- 47M → 50 − 47 = **3**
+
+**Interpretation:**
+- Higher positive scores (closer to 100) = Stronger transcendent foundation (greater absence/reduction of mundane/secular sources).
+- Scores near 50 = Greater balance between transcendent and mundane sources.
+- Lower scores (closer to 0) = Stronger mundane/secular foundation (greater absence/reduction of transcendent sources).
+
+This conversion allows the Cultural 1A score to be plotted directly on a consistent directional scale across countries and time periods.
+
+---
+
 
 ---
 
