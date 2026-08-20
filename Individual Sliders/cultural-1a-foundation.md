@@ -25,7 +25,7 @@ The slider measures the degree to which **one source of moral legitimacy is abse
 - Cosmic or Natural law treated as incontrovertible truth independent of consent.
 - Deification of an Individual or Lineage (leader or bloodline treated as sacred or infallible higher source).
 - Elevation of a People, Group or Nation to a sacred Ideal.
-- Extreme sacrifice as the sole path to a Utopian Ideal.
+- Extreme self-sacrifice in pursuit of a Utopian Ideal.
 
 ### Mundane sources
 - Popular sovereignty and the concrete will of the living demos.
